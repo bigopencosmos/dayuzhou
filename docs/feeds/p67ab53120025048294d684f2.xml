@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>练习提问</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/67ab53120025048294d684f2</link>
+  <description><![CDATA[我相信通过给别人讲懂，是让自己学习得更好的方法。这个播客就是为了实践这个方法而来的。
+
+作为一个前私人银行从业者，我也会尝试把新知识新想法迁移到自己熟悉的领域，寻求有趣的碰撞。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:58:33 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p67ab53120025048294d684f2.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg</url>
+    <title>练习提问</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/67ab53120025048294d684f2</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>一个销售眼中的《控制论和科学方法论》 02 信息、思维和组织</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a81143117676351c5727ab5</link>
+    <guid isPermaLink="false">6a81143117676351c5727ab5</guid>
+    <pubDate>Sun, 16 Aug 2026 01:39:04 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><p><span>马鹿</span></p><p><span>节目介绍：</span></p><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><p><span>内容简介：</span></p><p><span>《控制论和科学方法论》，是金观涛和华国凡在1979年写的一本小册子，除了维纳的控制论以外，还包括信息论和系统论等。重点其实是书名的后半部分——科学方法论，介绍的是一种更抽象、更普适、更有实践意义的方法论。</span></p><p><span>我习惯用自己熟悉的领域来理解新的理论，虽然有牵强，但会创造出更多启发。这里我打算用销售来作为场景，重新解读。</span></p><p><span>时间轴：</span></p><p><span><a class="timestamp" data-timestamp="14">00:14</a> 什么是信息</span></p><p><span><a class="timestamp" data-timestamp="442">07:22</a> 信息的通道容量</span></p><p><span><a class="timestamp" data-timestamp="982">16:22</a> 干扰与抗干扰（滤波）</span></p><p><span><a class="timestamp" data-timestamp="1557">25:57</a> 信息的存储</span></p><p><span><a class="timestamp" data-timestamp="1731">28:51</a> 信息的加工、思维的方式、形象和抽象系统</span></p><p><span><a class="timestamp" data-timestamp="2108">35:08</a> 组织和信息的关系</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/li7DMHqzix-92H9ox_Eg5RZ1yLa8.m4a" length="38104994" type="audio/mp4"/>
+    <itunes:duration>00:39:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>一个销售眼中的《控制论和科学方法论》 01 控制和反馈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69edcd461d989496e7898b5a</link>
+    <guid isPermaLink="false">69edcd461d989496e7898b5a</guid>
+    <pubDate>Sun, 26 Apr 2026 08:46:08 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><p><span>马鹿</span></p><p></p><p><strong><span>节目介绍：</span></strong></p><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><p></p><p><strong><span>内容简介：</span></strong></p><p></p><p><span>《控制论和科学方法论》，是金观涛和华国凡在1979年写的一本小册子，除了维纳的控制论以外，还包括信息论和系统论等。重点其实是书名的后半部分——科学方法论，介绍的是一种更抽象、更普适、更有实践意义的方法论。</span></p><p></p><p><span>我习惯用自己熟悉的领域来理解新的理论，虽然有牵强，但会创造出更多启发。这里我打算用销售来作为场景，重新解读。</span></p><p></p><p><strong><span>时间轴：</span></strong></p><p></p><p><span><a class="timestamp" data-timestamp="233">03:53</a> 什么是控制</span></p><p><span><a class="timestamp" data-timestamp="1570">26:10</a> 从销售的角度重讲一遍什么是控制</span></p><p><span><a class="timestamp" data-timestamp="2209">36:49</a>如何改善控制效果？</span></p><p><span><a class="timestamp" data-timestamp="2832">47:12</a> 从销售的角度重讲一遍如何改善控制效果</span></p><p><span><a class="timestamp" data-timestamp="3248">54:08</a> 负反馈</span></p><p><span><a class="timestamp" data-timestamp="3476">57:56</a>从销售的角度重讲一遍负反馈</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lski6cDJuBnwNZJKhwOJdwGwnTrO.m4a" length="63202287" type="audio/mp4"/>
+    <itunes:duration>01:05:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补完我理解的《中国思想史十讲》完 新中国思想选择的必然</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ae88d25a52b14c29a58042</link>
+    <guid isPermaLink="false">69ae88d25a52b14c29a58042</guid>
+    <pubDate>Mon, 09 Mar 2026 08:59:18 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>《中国思想史十讲》，实际上是金观涛和刘青峰2011年12月到2012年12月在北京的一个兴趣学习班上的讲课内容，在2014年整理出版从先秦诸子到清代思想与中国近代传统的前六讲为上卷。遗憾的是，从晚清到当今中国思想大脉络后四讲的下卷，至今尚未出版。</span></p><span></span><p><span>我从序言中找到他们在2000年出版的《中国现代思想的起源》可以说是《中国思想史十讲》的雏形，里面有晚清到民国的内容，我打算把这些内容提取出来，变成对思想史系列的补完。</span></p><span></span><p><span>本期我们来看一下为什么新中国思想选择马克思主义是必然。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="71">01:11</a>逆反的目的是让中国转型为现代社会</span></p><span></span><p><span><a class="timestamp" data-timestamp="372">06:12</a>西方思想二元结构的由来</span></p><span></span><p><span><a class="timestamp" data-timestamp="1199">19:59</a>中国的二元论儒学尝试</span></p><span></span><p><span><a class="timestamp" data-timestamp="1861">31:01</a>西方以自主性为内涵的，非道德的正当性的新概念——“权利”的发明</span></p><span></span><p><span><a class="timestamp" data-timestamp="2960">49:20</a>中国是如何接受和理解权利概念的</span></p><span></span><p><span><a class="timestamp" data-timestamp="3242">54:02</a>一元结构的集大成者是辩证唯物主义，道德化程度最高的权利理解是共产主义，结合在一起就是马克思主义，其本地化是毛泽东思想，同时完美融合了科学宇宙观、大同理想社会观和革命烈士精神的人生观，因此成为新中国思想的必然选择。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lkVx6GXze8wor1LbAf4VZ4oXhRbX.m4a" length="62055892" type="audio/mp4"/>
+    <itunes:duration>01:03:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补完 我理解的《中国思想史十讲》03 新思潮背后的三条线索</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/697b183bb4be4c149b1dfbd3</link>
+    <guid isPermaLink="false">697b183bb4be4c149b1dfbd3</guid>
+    <pubDate>Thu, 29 Jan 2026 08:24:37 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>《中国思想史十讲》，实际上是金观涛和刘青峰2011年12月到2012年12月在北京的一个兴趣学习班上的讲课内容，在2014年整理出版从先秦诸子到清代思想与中国近代传统的前六讲为上卷。遗憾的是，从晚清到当今中国思想大脉络后四讲的下卷，至今尚未出版。</span></p><span></span><p><span>我从序言中找到他们在2000年出版的《中国现代思想的起源》可以说是《中国思想史十讲》的雏形，里面有晚清到民国的内容，我打算把这些内容提取出来，变成对思想史系列的补完。</span></p><span></span><p><span>本期我们来看一下新思潮背后的三条线索。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="473">07:53</a>革命人生观和烈士精神</span></p><span></span><p><span><a class="timestamp" data-timestamp="1508">25:08</a>中国式的进步观</span></p><span></span><p><span><a class="timestamp" data-timestamp="2169">36:09</a>大同思想</span></p><span></span><p><span><a class="timestamp" data-timestamp="2524">42:04</a>总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lus4NU4ie10tgzg-adVZ8XtbvKpZ.m4a" length="45533296" type="audio/mp4"/>
+    <itunes:duration>00:46:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5WVeMhSiNLDsIOxk12aysSMOt0.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补完我理解的《中国思想史十讲》02 经世致用的兴起与失败</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/694a4a200f2ae6a867b218cd</link>
+    <guid isPermaLink="false">694a4a200f2ae6a867b218cd</guid>
+    <pubDate>Tue, 23 Dec 2025 08:10:26 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>《中国思想史十讲》，实际上是金观涛和刘青峰2011年12月到2012年12月在北京的一个兴趣学习班上的讲课内容，在2014年整理出版从先秦诸子到清代思想与中国近代传统的前六讲为上卷。遗憾的是，从晚清到当今中国思想大脉络后四讲的下卷，至今尚未出版。</span></p><span></span><p><span>我从序言中找到他们在2000年出版的《中国现代思想的起源》可以说是《中国思想史十讲》的雏形，里面有晚清到民国的内容，我打算把这些内容提取出来，变成对思想史系列的补完。</span></p><span></span><p><span>本期我们来看一下经世致用的兴起与失败。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="24">00:24</a>要触发部分价值逆反，难在哪里？</span></p><span></span><p><span><a class="timestamp" data-timestamp="401">06:41</a>本期主要框架</span></p><span></span><p><span><a class="timestamp" data-timestamp="653">10:53</a>经世致用精神被再发掘</span></p><span></span><p><span><a class="timestamp" data-timestamp="1020">17:00</a>平定太平天国，让经世致用转化为大规模的社会实践</span></p><span></span><p><span><a class="timestamp" data-timestamp="1500">25:00</a>经世致用的失败</span></p><span></span><p><span><a class="timestamp" data-timestamp="2252">37:32</a>总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lgwOzDYR8gyz7PqYyeEDY895Z7ki.m4a" length="38277558" type="audio/mp4"/>
+    <itunes:duration>00:39:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuPxO6OKgVRMNIuWxNdqH6TaPNr4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补完 我理解的《中国思想史十讲》01 回顾深层结构</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69201d75cbba038b42a073e7</link>
+    <guid isPermaLink="false">69201d75cbba038b42a073e7</guid>
+    <pubDate>Fri, 21 Nov 2025 08:13:08 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>用讲给别人听的方式，来加强我自己的学习。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>《中国思想史十讲》，实际上是金观涛和刘青峰2011年12月到2012年12月在北京的一个兴趣学习班上的讲课内容，在2014年整理出版从先秦诸子到清代思想与中国近代传统的前六讲为上卷。遗憾的是，从晚清到当今中国思想大脉络后四讲的下卷，至今尚未出版。</span></p><span></span><p><span>我从序言中找到他们在2000年出版的《中国现代思想的起源》可以说是《中国思想史十讲》的雏形，里面有晚清到民国的内容，我打算把这些内容提取出来，变成对思想史系列的补完。</span></p><span></span><p><span>本期我们会从深层结构的角度复习一下从先秦到清代的思想脉络。如果你对前面六讲已经有点遗忘，这期会重新回顾从先秦到清代的思想；如果你还记得很清楚，这期会拉远一点，从框架角度进行回顾。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="237">03:57</a>作者的意图，找到中国思想的深层结构</span></p><span></span><p><span><a class="timestamp" data-timestamp="447">07:27</a>基础概念</span></p><span></span><p><span><a class="timestamp" data-timestamp="751">12:31</a>深层结构以超越突破为理论基础</span></p><span></span><p><span><a class="timestamp" data-timestamp="1340">22:20</a>深层结构以思想和社会的互动为动力机制</span></p><span></span><p><span><a class="timestamp" data-timestamp="2468">41:08</a>深层结构以价值逆反来消化外部冲击，第一种模式：道德价值全面逆反</span></p><span></span><p><span><a class="timestamp" data-timestamp="4589">1:16:29</a>第二种模式：道德价值部分逆反</span></p><span></span><p><span><a class="timestamp" data-timestamp="5053">1:24:13</a>中国思想深层结构总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lmT_D2qAy8iGBfmB1JKm2Gm9J8uj.m4a" length="85623585" type="audio/mp4"/>
+    <itunes:duration>01:28:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhO5yA2wIsdS4K3OrFHsn2-YFMno.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>翻讲南添公开课 01 如何理解商业思维</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68cf7235a56ca3e0c475b499</link>
+    <guid isPermaLink="false">68cf7235a56ca3e0c475b499</guid>
+    <pubDate>Sun, 21 Sep 2025 03:38:43 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>2025年6月18日，播客《面基》上线了《</span><a href="https://www.xiaoyuzhoufm.com/episode/6850d2ed4abe6e29cb814160" data-url="https://www.xiaoyuzhoufm.com/episode/6850d2ed4abe6e29cb814160"><span>这期节目献给每一位喜欢投资和求真的听友</span></a><span>》，内容是望岳投资的私募基金经理南添（老南）的公开课，讲什么是商业思维。</span></p><span></span><p><span>我认为这门课的内容很好，打算用自己的思路和语言讲一遍来学习。一切内容的版权都归属老南和原播客，在此建议所有感兴趣的朋友去收听原版。任何解读的错误，都是我的责任，如有任何侵权，也会及时下架。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="3">00:03</a>节目的缘起</span></p><span></span><p><span><a class="timestamp" data-timestamp="339">05:39</a>商业思维，就是以客户需求为主要矛盾思考所有问题，尽最大努力缩小目标客群</span></p><span></span><p><span><a class="timestamp" data-timestamp="920">15:20</a>刻画需求的三个角度：现象How、本质What、原因Why</span></p><span></span><p><span><a class="timestamp" data-timestamp="2167">36:07</a>需求的刻画就是客户画像</span></p><span></span><p><span><a class="timestamp" data-timestamp="2585">43:05</a>你不是销售产品，而是用产品筛选客户</span></p><span></span><p><span><a class="timestamp" data-timestamp="4017">1:06:57</a>从竞争格局把商业思维检查一遍</span></p><span></span><p><span><a class="timestamp" data-timestamp="4842">1:20:42</a>从安全边际再检查一遍</span></p><span></span><p><span><a class="timestamp" data-timestamp="4963">1:22:43</a>一个综合案例：有知有行</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/ll_BEpEE09q39_KgZLrzEih_-nNd.m4a" length="91371544" type="audio/mp4"/>
+    <itunes:duration>01:33:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqjy724Hz1pv7bUnwzfU-rZid0rS.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》完结 清代思想</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68787ab4a12f9ff06a94b511</link>
+    <guid isPermaLink="false">68787ab4a12f9ff06a94b511</guid>
+    <pubDate>Thu, 17 Jul 2025 04:25:22 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="305">05:05</a>清灭明带来的思想地震</span></p><span></span><p><span><a class="timestamp" data-timestamp="1009">16:49</a>以礼代理和考据之学</span></p><span></span><p><span><a class="timestamp" data-timestamp="1793">29:53</a>格致之学和西学东进，隐藏的科学主义</span></p><span></span><p><span><a class="timestamp" data-timestamp="2289">38:09</a>气论哲学的四系</span></p><span></span><p><span><a class="timestamp" data-timestamp="2460">41:00</a>王船山的唯物论和进步论，汉民族主义</span></p><span></span><p><span><a class="timestamp" data-timestamp="2826">47:06</a>刘宗周的气论心学，慎独和检讨错误来靠近善</span></p><span></span><p><span><a class="timestamp" data-timestamp="3069">51:09</a>黄宗羲的反家国同构，绅士公共空间</span></p><span></span><p><span><a class="timestamp" data-timestamp="3745">1:02:25</a>戴震的自由主义，醒得太早的人</span></p><span></span><p><span><a class="timestamp" data-timestamp="4123">1:08:43</a>总结</span></p><span></span><figure><img src="https://image.xyzcdn.net/FifOARjUd1UNsJmOOgF4jK9jS7rR.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lm3QsvwWERNXHaosan_Dg7lrfrhN.m4a" length="73166255" type="audio/mp4"/>
+    <itunes:duration>01:15:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhIn5kxVcOqjDqftBwhDODOjfwQj.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》陆王心学和理学四系</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6860b23cbef90978ec68f732</link>
+    <guid isPermaLink="false">6860b23cbef90978ec68f732</guid>
+    <pubDate>Sun, 29 Jun 2025 03:26:44 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong></p><span></span><p><span>马鹿</span></p><span></span><p><strong><span>节目介绍：</span></strong></p><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><p><strong><span>内容简介：</span></strong></p><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fkip4XqSRmEZKZr-Eyz1VGiy2AEO.png"></figure><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a>程朱理学的修身</span></p><span></span><p><span><a class="timestamp" data-timestamp="593">09:53</a>陆九渊心学</span></p><span></span><p><span><a class="timestamp" data-timestamp="966">16:06</a>从程颢看理学如何分为四系</span></p><span></span><p><span><a class="timestamp" data-timestamp="1560">26:00</a>王阳明的特殊之处和龙场悟道</span></p><span></span><p><span><a class="timestamp" data-timestamp="1875">31:15</a>王阳明晚年的转向和天泉证道</span></p><span></span><p><span><a class="timestamp" data-timestamp="2300">38:20</a>道德多元主义和傲慢</span></p><span></span><p><span><a class="timestamp" data-timestamp="2819">46:59</a>理学四系的意义和对现代思想的接引</span></p><span></span><p><span><a class="timestamp" data-timestamp="2997">49:57</a>家国同构的完全体</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/ltisDBXm8VVlAhEBNqlmU69NomLE.m4a" length="52488712" type="audio/mp4"/>
+    <itunes:duration>00:53:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fs4B1HGsHyknVRsIPUaYIyWn-a3J.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》程朱理学</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68414a6f79e285b9b85af7a4</link>
+    <guid isPermaLink="false">68414a6f79e285b9b85af7a4</guid>
+    <pubDate>Thu, 05 Jun 2025 07:44:56 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><h2><strong><span>时间轴：</span></strong></h2><span></span><p><span><a class="timestamp" data-timestamp="51">00:51</a>隋唐与秦汉的不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="868">14:28</a>周敦颐的太极图说和人人可以成圣</span></p><span></span><p><span><a class="timestamp" data-timestamp="1452">24:12</a>张载的气论</span></p><span></span><p><span><a class="timestamp" data-timestamp="1876">31:16</a>程颢和程颐</span></p><span></span><p><span><a class="timestamp" data-timestamp="2320">38:40</a>朱熹的集大成</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lq_Ii6oVfjK7A6GTxTesy2VXYRQ6.m4a" length="54562203" type="audio/mp4"/>
+    <itunes:duration>00:55:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqGIqxBAat2BRE48IMPDO8iwREmf.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》佛学和中国式佛学</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6823159224f855934660fe61</link>
+    <guid isPermaLink="false">6823159224f855934660fe61</guid>
+    <pubDate>Tue, 13 May 2025 09:52:39 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><p><strong><span>时间轴：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="483">08:03</a>印度佛学的起源</span></p><span></span><p><span><a class="timestamp" data-timestamp="578">09:38</a>因缘</span></p><span></span><p><span><a class="timestamp" data-timestamp="896">14:56</a>十二因缘</span></p><span></span><p><span><a class="timestamp" data-timestamp="1521">25:21</a>轮回</span></p><span></span><p><span><a class="timestamp" data-timestamp="1974">32:54</a>解脱</span></p><span></span><p><span><a class="timestamp" data-timestamp="2227">37:07</a>中观空论和唯识论</span></p><span></span><p><span><a class="timestamp" data-timestamp="2846">47:26</a>中国式佛学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fj36PmlsAMtEvfhpXm2RbnbSWogA.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fl2gIi5Zfden8Mgdtoddxjhj9I_g.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtaZLB6vGA3tViVgIZ2IsWseEXrQ.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvLbViWQ_BZTQsez-i4H8lgWa4h-.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fni9wQups1m5kw7-C-ghKs90hR6A.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fpkfn7DrEXDq7AA6Byp10H8r7iv2.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fn0B7G5z6fafIcVXYfwcemHe2JKD.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgzYfUaU5_Ge8N1UdgEwp3zgIhru.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lhZ5bV8EjvJM4IJIE-eANGVJ3JZz.m4a" length="64405095" type="audio/mp4"/>
+    <itunes:duration>01:06:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FifPUJatuaAObVSRXeXRlA4diT_P.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》魏晋玄学和常识理性的形成</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/681047918aed253fa322e481</link>
+    <guid isPermaLink="false">681047918aed253fa322e481</guid>
+    <pubDate>Tue, 29 Apr 2025 03:45:06 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><h2><strong><span>时间轴：</span></strong></h2><span></span><p><span><a class="timestamp" data-timestamp="83">01:23</a>宇宙论儒学的崩溃</span></p><span></span><figure><img src="https://image.xyzcdn.net/FmpyiwqTXZjzDRhpoJWLNYF1dm9i.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FlXuVdPXLihAr6_GPnJEp0wRRku3.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="453">07:33</a>门阀政治的兴起和儒学家学化</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnqgtqJkXkUv5BjPj3a8qJyAFD4E.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="799">13:19</a>玄学是在无法全面否定儒学的妥协下，产生的同时曲解儒学和道家的缝合</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fj5RsyMsJpu7q619SpubPpzwZIQE.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fsv7Gzx1lhYDELbzXXWHBPVJ0qUT.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="1412">23:32</a>玄学与佛学的碰撞，接触到形而上学和修身资源的挑战</span></p><span></span><figure><img src="https://image.xyzcdn.net/FjTjNaoYsvk4bOqPCDyoHmAJDdbE.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fui3XCY6Av49EaprtPdCW9QYdHgq.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fjb0l0p7SuCBQHbh66b2qDtSU5ct.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhnXOsg8AF_DeUR8L2WB-D76L9N7.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Ft7wmUFsvTZKHkcjne-PPfVpgT6X.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="2623">43:43</a>玄学的双层结构与最终常识理性的产生</span></p><span></span><figure><img src="https://image.xyzcdn.net/FiztRoO4-eh_oy1lzX8wMNkxqmt4.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtUp2XoZIBJaSFJZPwG3JtbUqHA1.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="3849">1:04:09</a>书法、山水画和人物画，玄学新的修身方式</span></p><span></span><p><span><a class="timestamp" data-timestamp="4288">1:11:28</a>总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lo-aRM54jKZLR8A3JKW_SQudYhx3.m4a" length="72631157" type="audio/mp4"/>
+    <itunes:duration>01:14:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjDNXeI1NNNK4mnWUdBOx5LB4TuD.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》汉代 中国主流政治文化和传统社会结构的形成</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ff61691f1db84a569e2b67</link>
+    <guid isPermaLink="false">67ff61691f1db84a569e2b67</guid>
+    <pubDate>Wed, 16 Apr 2025 08:08:38 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><h2><strong><span>时间轴：</span></strong></h2><span></span><p><span><a class="timestamp" data-timestamp="88">01:28</a>汉初过渡时期的特点</span></p><span></span><p><span><a class="timestamp" data-timestamp="296">04:56</a>为什么独尊儒术</span></p><span></span><p><span><a class="timestamp" data-timestamp="462">07:42</a>如何从家庭推出大一统帝国的正当性：家国同构</span></p><span></span><p><span><a class="timestamp" data-timestamp="1442">24:02</a>家法与王法，文官制的出现</span></p><span></span><p><span><a class="timestamp" data-timestamp="2288">38:08</a>儒家思想的经典化</span></p><span></span><p><span><a class="timestamp" data-timestamp="3724">1:02:04</a>传统社会的超稳定结构</span></p><span></span><p><span><a class="timestamp" data-timestamp="4477">1:14:37</a>其他三种超越突破文明的思想与社会互动</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lqurkCnqnVIppq56geqtujgGQTsN.m4a" length="78337682" type="audio/mp4"/>
+    <itunes:duration>01:20:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsSwiomOjOe867G-j3qVHM3biV3G.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我理解的《中国思想史十讲》先秦诸子和超越突破</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67f3875ef9578163d6824455</link>
+    <guid isPermaLink="false">67f3875ef9578163d6824455</guid>
+    <pubDate>Mon, 07 Apr 2025 08:10:31 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>这是一个系列节目，我希望通过尝试给大家讲解 金观涛和刘青峰 的《中国思想史十讲》，来强化自己对于这本书的学习。如果能让你对这本书感兴趣，又或者可以让你更简单的理解这本书的主要内容，甚至让你在寻找符合中国文化的家族治理方面找到灵感，那就是本系列节目最大的价值。</span></p><span></span><h2><strong><span>时间轴：</span></strong></h2><span></span><p><span><a class="timestamp" data-timestamp="46">00:46</a> 本系列希望带来的价值</span></p><span></span><p><span><a class="timestamp" data-timestamp="250">04:10</a> 听本书的两个提醒</span></p><span></span><p><span><a class="timestamp" data-timestamp="390">06:30</a> 本书的宏观框架</span></p><span></span><p><span><a class="timestamp" data-timestamp="1573">26:13</a> 儒家思想</span></p><span></span><p><span><a class="timestamp" data-timestamp="2718">45:18</a> 道家思想</span></p><span></span><p><span><a class="timestamp" data-timestamp="3221">53:41</a> 法家思想</span></p><span></span><p><span><a class="timestamp" data-timestamp="3312">55:12</a> 墨家思想</span></p><span></span><p><span><a class="timestamp" data-timestamp="3452">57:32</a> 总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lhnN9PWmRWcyJmXEGcsWjuDS0gET.m4a" length="57832302" type="audio/mp4"/>
+    <itunes:duration>00:59:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp1EIuP54jdhPGG58bpgqELGjwDU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>创新灵感从哪儿来？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ecad230decaeb09463ba6b</link>
+    <guid isPermaLink="false">67ecad230decaeb09463ba6b</guid>
+    <pubDate>Wed, 02 Apr 2025 03:28:50 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>主播：</span></strong></h2><span></span><p><span>马鹿</span></p><span></span><h2><strong><span>节目介绍：</span></strong></h2><span></span><p><span>记录我自己学习中的启发和思考，然后运用到财富管理和私人银行领域的经验和案例中。</span></p><span></span><h2><strong><span>内容简介：</span></strong></h2><span></span><p><span>在财富管理行业，我们经常可以看到金融产品的创新，但很少看到客户经营方法的创新，或者我们把层面说低一些，很少看到销售方法的创新。我们会看到大量的销售技巧的内容，但更多让人觉得是一些窍门或者“术”，而不是方法论或者“道”。</span></p><span></span><p><span>为什么行行都可以有工程师，财富管理行业却很少有人提工程师思维，提做财富管理的工程师呢？我认为这是一个巨大的空间，这里我想分享一下自己的经验和例子，希望能对你有所启发。</span></p><span></span><p><span>本期内容文字稿（非逐字稿）请搜索同名公众号“练习提问”即可获得。</span></p><span></span><h2><strong><span>时间轴：</span></strong></h2><span></span><p><span><a class="timestamp" data-timestamp="5">00:05</a> 财富管理工程师想法的由来</span></p><span></span><p><span><a class="timestamp" data-timestamp="183">03:03</a> 跨领域吸取灵感的第一个误区，过度专注细节而不是整体角度</span></p><span></span><p><span><a class="timestamp" data-timestamp="396">06:36</a> 第二个误区，缺乏历史脉络的角度</span></p><span></span><p><span><a class="timestamp" data-timestamp="581">09:41</a> 第三个误区，过度谨慎，不敢把理论在自己的专业领域进行联想和改动</span></p><span></span><p><span><a class="timestamp" data-timestamp="824">13:44</a> 我的案例</span></p><span></span><p><span><a class="timestamp" data-timestamp="1012">16:52</a> 系统论</span></p><span></span><p><span><a class="timestamp" data-timestamp="1356">22:36</a> 信息论</span></p><span></span><p><span><a class="timestamp" data-timestamp="2240">37:20</a> 总结</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67ab53120025048294d684f2/lgtsGiiX-PgLijHwL_EdvooZ3LK2.m4a" length="38104948" type="audio/mp4"/>
+    <itunes:duration>00:39:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg4vWxxOfMc-3L3JLB-AcbvF6Fkh.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
