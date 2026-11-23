@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>辽聊</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66309fe7382527af896c1908</link>
+  <description><![CDATA[有事没事来辽聊~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:39:05 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66309fe7382527af896c1908.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>辽聊</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fh53W-JcRFcA3fQmkp-fjc0NeiUy.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fh53W-JcRFcA3fQmkp-fjc0NeiUy.jpg</url>
+    <title>辽聊</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66309fe7382527af896c1908</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>好身材动起来or吃出来？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66f103f22adfe48b83c09966</link>
+    <guid isPermaLink="false">66f103f22adfe48b83c09966</guid>
+    <pubDate>Mon, 23 Sep 2024 06:00:17 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lg2xrcm4AL_NkrOsMpfLMTVg6kKt.m4a" length="34103556" type="audio/mp4"/>
+    <itunes:duration>00:35:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsvC2pM3EtzR9I2A95qr2wGalFz9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>说说生活中的智商税！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66e15a34bfd7110df4e21d42</link>
+    <guid isPermaLink="false">66e15a34bfd7110df4e21d42</guid>
+    <pubDate>Fri, 13 Sep 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/ltAnP9HkZH86bGR3hO1jjnJjWCBu.m4a" length="33557674" type="audio/mp4"/>
+    <itunes:duration>00:34:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuJijIjOe3lfFgxyk6N9bI3qDi5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>乱谈西游</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66d02cd3d06ec988f2b13007</link>
+    <guid isPermaLink="false">66d02cd3d06ec988f2b13007</guid>
+    <pubDate>Fri, 30 Aug 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lv9AiTpCD1WBGPaGVApQXTKHKHqs.m4a" length="34638271" type="audio/mp4"/>
+    <itunes:duration>00:35:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqkkY_hqMBfoK6UB91BsqbR_Yq3u.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你听不懂的东北话</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66c6f9e27ae3d6d8d25fa8bc</link>
+    <guid isPermaLink="false">66c6f9e27ae3d6d8d25fa8bc</guid>
+    <pubDate>Thu, 22 Aug 2024 08:42:09 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/ljxoz398dXKDECdpqN_XY2bchh3H.m4a" length="32537573" type="audio/mp4"/>
+    <itunes:duration>00:33:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FitwfJT2FvX6J2ZD-1hteYKHaYAO.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>巴黎奥运你怎么看？（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66bc4a3d33591c27befc2a5d</link>
+    <guid isPermaLink="false">66bc4a3d33591c27befc2a5d</guid>
+    <pubDate>Wed, 14 Aug 2024 06:10:04 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lunIDEIAETA2QKCBmTPY9oSMw-Go.m4a" length="17123492" type="audio/mp4"/>
+    <itunes:duration>00:34:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FslYCWFNMcPF6-iWk90BOOISuQLK.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>巴黎奥运你怎么看？（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66b326a14b8eba7e7e29c3a1</link>
+    <guid isPermaLink="false">66b326a14b8eba7e7e29c3a1</guid>
+    <pubDate>Wed, 07 Aug 2024 07:47:44 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lvkcnE1xAhnwo6chsOAV0midIaeQ.m4a" length="17164320" type="audio/mp4"/>
+    <itunes:duration>00:35:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FslYCWFNMcPF6-iWk90BOOISuQLK.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>那些年听过的周杰伦（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a9daa27349f7a557c61176</link>
+    <guid isPermaLink="false">66a9daa27349f7a557c61176</guid>
+    <pubDate>Wed, 31 Jul 2024 06:33:04 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lomu2GIrgLMTLsKZ-Xjqd_ZFYRx0.m4a" length="15824158" type="audio/mp4"/>
+    <itunes:duration>00:32:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmUA8Y-kPTWJeNbsd9hMSA1t8MXm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>那些年听过的周杰伦（中）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a0af7e7349f7a5572fbbd9</link>
+    <guid isPermaLink="false">66a0af7e7349f7a5572fbbd9</guid>
+    <pubDate>Wed, 24 Jul 2024 07:38:37 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lhHGjqV8zCkVVSymCvLSJWktFrp0.m4a" length="17188674" type="audio/mp4"/>
+    <itunes:duration>00:35:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg6yr6N1V5bfhc5neyJ4Nkc7y8r5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>那些年听过的歌之周杰伦（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6698b8408fcadceb902ee10a</link>
+    <guid isPermaLink="false">6698b8408fcadceb902ee10a</guid>
+    <pubDate>Fri, 19 Jul 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/luCaeNgi3MBcGEnLDqvXvNzuQpNY.m4a" length="15847623" type="audio/mp4"/>
+    <itunes:duration>00:32:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg6yr6N1V5bfhc5neyJ4Nkc7y8r5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我的足球记忆！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668f8af937236c546e6419d1</link>
+    <guid isPermaLink="false">668f8af937236c546e6419d1</guid>
+    <pubDate>Thu, 11 Jul 2024 07:34:16 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lnvItTFLTWPmv0kUxMaUpqclVg2Y.m4a" length="15847611" type="audio/mp4"/>
+    <itunes:duration>00:32:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fkola469XT8q1Bojb9bdwhzeDQcl.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你恐惧过“老”吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66863c61ae8e21859a71882e</link>
+    <guid isPermaLink="false">66863c61ae8e21859a71882e</guid>
+    <pubDate>Fri, 05 Jul 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/llvUbFERNaVTYbZy5u1o5DJt9tu3.m4a" length="15825200" type="audio/mp4"/>
+    <itunes:duration>00:32:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWuCxvGaNt4cwQ3yWv4qYaXEi6T.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>人生一考！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667bbf9cc37399840c37b024</link>
+    <guid isPermaLink="false">667bbf9cc37399840c37b024</guid>
+    <pubDate>Fri, 28 Jun 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lg7x6sKeQPKjbgROOwKndZcrpp65.m4a" length="22617114" type="audio/mp4"/>
+    <itunes:duration>00:46:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrYU5kUE_uHYTRnm2FadRgFWqY6N.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>假期是你的情绪发泄口吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6672a204c26e396a36e6230a</link>
+    <guid isPermaLink="false">6672a204c26e396a36e6230a</guid>
+    <pubDate>Fri, 21 Jun 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lqEcdx6FL6D13HLt4rXYEUpzkLbC.m4a" length="21192005" type="audio/mp4"/>
+    <itunes:duration>00:43:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuAc0kHdM4QdfL6LsP70qb7MBw74.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>南北饮食差异怎么这么大！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666aa491c26e396a367e5eea</link>
+    <guid isPermaLink="false">666aa491c26e396a367e5eea</guid>
+    <pubDate>Fri, 14 Jun 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/ltRQW1IdJcdz7saNxyk9rDNknXQZ.m4a" length="21190085" type="audio/mp4"/>
+    <itunes:duration>00:43:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhhByEYxvHpSg7Ji5AJ52-mPF4g5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>辽聊那些同性能做异性不能做的事儿</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666011f963c334a2fb83bd4a</link>
+    <guid isPermaLink="false">666011f963c334a2fb83bd4a</guid>
+    <pubDate>Fri, 07 Jun 2024 09:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lo17dSyxBb3hedn4iVDYVrSKggcW.m4a" length="15149091" type="audio/mp4"/>
+    <itunes:duration>00:30:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtpDqX0WFCiGgfiGI_qTdNR6EqnL.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
