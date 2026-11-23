@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>冬烘青年谈</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66a1145533ddcbb53cd676a5</link>
+  <description><![CDATA[这是一档由学生创建的一档围绕校园、文化、娱乐、社会热点、生活感悟等方面展开的综合类对谈播客。节目内容从学生视角表达，紧跟时代步伐，直抵观众内心，贴合生活实际，适合不同人群。这是播客小白的第一次尝试，聊天内容仅代表个人观点，欢迎大家指出不足，提供建议，参与讨论。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:44:31 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66a1145533ddcbb53cd676a5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>冬烘工作室</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fr7YRDCREp_qKy_8b_uQr69O_DLU.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fr7YRDCREp_qKy_8b_uQr69O_DLU.jpg</url>
+    <title>冬烘青年谈</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66a1145533ddcbb53cd676a5</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>蕉绿、内卷，对当代年轻人现状的浅浅思考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ab5bd033ddcbb53ca124b3</link>
+    <guid isPermaLink="false">66ab5bd033ddcbb53ca124b3</guid>
+    <pubDate>Thu, 01 Aug 2024 09:56:31 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lnlUgGnnRNjawoh0GtYYpHHKOuWq.m4a" length="33296170" type="audio/mp4"/>
+    <itunes:duration>00:35:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkBUIOUKBklLLNSR3oYqkBR0eB9d.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>磕学家的自我介绍and追星日记</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ab47f633ddcbb53c9b4211</link>
+    <guid isPermaLink="false">66ab47f633ddcbb53c9b4211</guid>
+    <pubDate>Thu, 01 Aug 2024 08:31:50 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lkRXP4GgEucjksk9hSCTRROdAUzv.m4a" length="26108411" type="audio/mp4"/>
+    <itunes:duration>00:26:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkUC0VPH_7_4BLvw-u9wpCcaFNhz.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>巴黎奥运会乱谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ab136933ddcbb53c8d8a79</link>
+    <guid isPermaLink="false">66ab136933ddcbb53c8d8a79</guid>
+    <pubDate>Thu, 01 Aug 2024 04:47:36 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lrpTKLjbMDdbLklkjqPqPamfTxYU.m4a" length="41047356" type="audio/mp4"/>
+    <itunes:duration>00:43:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fn3HdPEwi9PUM9HxgRmMu_Tcyjqz.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>来介绍一下我们的播客</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a360677349f7a557b5efd4</link>
+    <guid isPermaLink="false">66a360677349f7a557b5efd4</guid>
+    <pubDate>Fri, 26 Jul 2024 08:37:58 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lty41IB1bTuLcNtnzR6akXS8spW8.m4a" length="4210444" type="audio/mp4"/>
+    <itunes:duration>00:04:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fr1C8aLGkkYIZHNliXo9aWqqQZhM.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
