@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>闲言睡语</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64f98f9dfadc4d5e92dacbc1</link>
+  <description><![CDATA[希望能逃离生活的压力]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:51:30 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64f98f9dfadc4d5e92dacbc1.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>StoneYing</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fvog0juw9Qlb86nt5PFzSGllfuVZ.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fvog0juw9Qlb86nt5PFzSGllfuVZ.jpg</url>
+    <title>闲言睡语</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64f98f9dfadc4d5e92dacbc1</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>vol3.和好友在一起了，分手还能做回朋友？｜《what’s love》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/656af4c89f440f5443edb23c</link>
+    <guid isPermaLink="false">656af4c89f440f5443edb23c</guid>
+    <pubDate>Sat, 02 Dec 2023 09:11:35 +0000</pubDate>
+    <description><![CDATA[<p><span>拖更这么久，听我狡辩一下，是嘉宾档期太满，太难约！绝对不是因为我拖延。</span></p><span></span><p><span>这期还是精彩，节目效果比上期还够，我就打几个标签吧。</span></p><span></span><p><span>“青梅竹马”“其他女生就不会这样”“和姐姐睡一个房间”“手机聊sao被发现”......</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsQcgkHvIc9vktjW7GLqBuuzaolO.m4a" length="39663182" type="audio/mp4"/>
+    <itunes:duration>00:40:52</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZteUxabm1BS0ZBeW1iQjloY3J6Tzh1LUVqX1YucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol2.25岁母胎solo脱单？怎么谈这么甜的恋爱了！｜《What&apos;s love》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6505ace05c88d241260c20db</link>
+    <guid isPermaLink="false">6505ace05c88d241260c20db</guid>
+    <pubDate>Sat, 16 Sep 2023 13:25:51 +0000</pubDate>
+    <description><![CDATA[<p><span>第二期来咯，这次邀请了11和辣辣做客这期节目，不是我说，我真的基本全程姨母笑，没想到这两人是这样谈恋爱的啊！还听到了限制级话题“这是能说的吗？”反正我是听完了。</span></p><span></span><p><span>希望这期节目也能让听到的人露出甜甜的微笑～</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgGvWxvlDcY5hEX5O_Q8lvzPDZlR.m4a" length="24343495" type="audio/mp4"/>
+    <itunes:duration>00:25:05</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZteUxabm1BS0ZBeW1iQjloY3J6Tzh1LUVqX1YucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol1.还记得第一次喜欢的对象吗？｜《What&apos;s love》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/650423825c88d24126f78680</link>
+    <guid isPermaLink="false">650423825c88d24126f78680</guid>
+    <pubDate>Fri, 15 Sep 2023 09:27:27 +0000</pubDate>
+    <description><![CDATA[<p><span>尝试做播客啦，第一期有很多不足，不过只要迈出第一步，就会越来越好！（嗯，给自己打鸡血）</span></p><span></span><p><span>打算做一季关于“爱情”的播客节目，第一期邀请了我的两位好朋友小A和Vivian，来聊一聊我们的“第一次喜欢”，一起回忆青春年少时期的那些爱恋。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnpsmIvEIi_PcdZIQe9XD96CjYRq.m4a" length="13868032" type="audio/mp4"/>
+    <itunes:duration>00:14:17</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZteUxabm1BS0ZBeW1iQjloY3J6Tzh1LUVqX1YucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
