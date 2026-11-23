@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Andromedanebula</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/660129bbe8c310ed4be3592d</link>
+  <description><![CDATA[The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a D25 isophotal diameter of about 46.56 kiloparsecs and is approximately 765 kpc from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:45:09 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p660129bbe8c310ed4be3592d.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>AndromedaMi</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fj80GduJ_qxYYAf_WOON6QKy-ofT.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fj80GduJ_qxYYAf_WOON6QKy-ofT.jpg</url>
+    <title>Andromedanebula</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/660129bbe8c310ed4be3592d</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>
