@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>阿报的音乐</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/5ef578f8418a84a04651e2be</link>
+  <description><![CDATA[这是由音乐自媒体“小岛音乐速报”制作主持的Podcast，和你分享关于华语音乐的方方面面！更多资讯请关注@小岛音乐速报 。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:52:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p5ef578f8418a84a04651e2be.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>阿报的音乐电台</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1Q2dxNThGZTNaTmVCOGhQbktLSlMtVkpqWTM="/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1Q2dxNThGZTNaTmVCOGhQbktLSlMtVkpqWTM=</url>
+    <title>阿报的音乐</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/5ef578f8418a84a04651e2be</link>
+  </image>
+  <itunes:category text="Music"/>
+</channel>
+</rss>

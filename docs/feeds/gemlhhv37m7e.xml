@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>WEB3MintToBe</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62e23e9840cec8f6079d1de5</link>
+  <description><![CDATA[《WEB3 MINT TO BE》是由投资机构Mint Ventures推出的Web3商业主题栏目。在这里，我们将邀请来源广泛的Web3从业者作为嘉宾，以对谈的轻松形式，为大家厘清行业热点背后的事实，提供穿透事件本身的洞察，引入多元的思考角度。
+
+期待各位在收听后给我们积极反馈，这些都会成为栏目迭代生长的营养。
+
+To bring Web3 inclusion to everyone, we sit down with builders, professionals, communities, and entrepreneurs to share expertise and insight about everything Web3.
+We are here to help navigate your journey through these thought-provoking discussions. Let's push innovation forward together. ]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:38:14 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/gemlhhv37m7e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Axiaxiaa</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoBODjc1N18T0UhUwpSOBa2dt1rK.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoBODjc1N18T0UhUwpSOBa2dt1rK.jpg</url>
+    <title>WEB3MintToBe</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62e23e9840cec8f6079d1de5</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>EP55：AI 算力互联层浅析：为什么选择 Lumentum 和 Coherent</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7b318917676351c5706048</link>
+    <guid isPermaLink="false">6a7b318917676351c5706048</guid>
+    <pubDate>Tue, 11 Aug 2026 14:33:42 +0000</pubDate>
+    <description><![CDATA[<blockquote><p><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></p></blockquote><p><span>本期我们请研究员 Lawrence 来做一下关于 AI 算力互联层及相关重点标的的分享。他会讲到算力互联的架构、光模块的传递、CPO 渗透率预测等内容，还会重点拆解 Lumentum（音频中简称 LITE） 和 Coherent 两个公司的业务情况和风险点。希望能让你有所收获。</span></p><p><span>欢迎留言，写下你的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><blockquote><p><span>时间线:</span></p></blockquote><p><span><a class="timestamp" data-timestamp="150">00:02:30</a> 算力互联的四层架构</span></p><p><span><a class="timestamp" data-timestamp="295">00:04:55</a>关于「光进铜退」</span></p><p><span><a class="timestamp" data-timestamp="456">00:07:36</a> 光模块的传递拆解</span></p><p><span><a class="timestamp" data-timestamp="540">00:09:00</a> 激光器的难度分层</span></p><p><span><a class="timestamp" data-timestamp="742">00:12:22</a> 激光器的”租金池”方程</span></p><p><span><a class="timestamp" data-timestamp="801">00:13:21</a> 模块层面的四种变化</span></p><p><span><a class="timestamp" data-timestamp="929">00:15:29</a> CPO 渗透率预测</span></p><p><span><a class="timestamp" data-timestamp="1432">00:23:52</a> 两个标的的业务数据和风险拆解</span></p><p><span><a class="timestamp" data-timestamp="2029">00:33:49</a> 总结</span></p><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/08/11/web3-mint-to-be-ep43-a-brief-look-at-the-ai-compute-interconnect-layer-why-lumentum-and-coherent/" data-url="https://research.mintventures.fund/2026/08/11/web3-mint-to-be-ep43-a-brief-look-at-the-ai-compute-interconnect-layer-why-lumentum-and-coherent/"><span>《EP43：AI 算力互联层浅析：为什么选择 Lumentum 和 Coherent》</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ln7BmnQPdyP5Ir7maJnly-OCYPlu.m4a" length="34375654" type="audio/mp4"/>
+    <itunes:duration>00:35:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnxQ8peiBgfcUHEnB8REsDxtTpCc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP54：Hyperliquid：关于增长、稀释与监管窗口</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a379ef5608f69578bd77831</link>
+    <guid isPermaLink="false">6a379ef5608f69578bd77831</guid>
+    <pubDate>Sun, 21 Jun 2026 08:24:27 +0000</pubDate>
+    <description><![CDATA[<blockquote><p><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></p></blockquote><p><span>本期我们回到很久没聊的加密圈，聊聊在这个周期中，比较少见的、基本面还在持续改善的项目——Hyperliquid，试图用三个问题来拆解关于它的全部争议：1、它凭什么赚钱？2、钱会变多还是变少？3、现在的价格定价了什么？</span></p><p><span>欢迎留言，写下你的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><blockquote><p><span>时间线:</span></p></blockquote><p><span><a class="timestamp" data-timestamp="58">00:00:58</a> Hyperliquid 的基础信息</span></p><p><span><a class="timestamp" data-timestamp="282">00:04:42</a>Hyperliquid 近期增长的三个因素</span></p><p><span><a class="timestamp" data-timestamp="798">00:13:18</a> Hyperliquid 的代币经济学</span></p><p><span><a class="timestamp" data-timestamp="1005">00:16:45</a> Hyperliquid 的竞争优势</span></p><p><span><a class="timestamp" data-timestamp="1272">00:21:12</a> Hyperliquid 可能面临的风险</span></p><p><span><a class="timestamp" data-timestamp="1561">00:26:01</a> 空头视角下 Hyperliquid 面临的问题</span></p><p><span><a class="timestamp" data-timestamp="1899">00:31:39</a> Hyperliquid 未来的增长空间</span></p><p><span><a class="timestamp" data-timestamp="2142">00:35:42</a> 总结</span></p><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/06/21/web3-mint-to-be-ep42-hyperliquid-growth-dilution-and-the-regulatory-window/#%E6%80%BB%E7%BB%93" data-url="https://research.mintventures.fund/2026/06/21/web3-mint-to-be-ep42-hyperliquid-growth-dilution-and-the-regulatory-window/#%E6%80%BB%E7%BB%93"><span>《EP42：Hyperliquid：关于增长、稀释与监管窗口》</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lr_Ux7iaPi-NsZmDYppzNBWnIJKQ.m4a" length="35641344" type="audio/mp4"/>
+    <itunes:duration>00:36:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnxQ8peiBgfcUHEnB8REsDxtTpCc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP53：台积电——AI 产业最高确定性标的</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a088873e1eb34a939869699</link>
+    <guid isPermaLink="false">6a088873e1eb34a939869699</guid>
+    <pubDate>Sat, 16 May 2026 15:38:25 +0000</pubDate>
+    <description><![CDATA[<blockquote><p><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></p></blockquote><p><span>本期我们来聊聊AI 产业里拥有最高确定性的标的（或许没有之一）——台积电。我们会聊到台积电的生意本质、护城河、它的财务状况与估值、未来可能面临的几大风险点。欢迎留言，写下你的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><blockquote><p><span>时间线:</span></p></blockquote><p><span><a class="timestamp" data-timestamp="30">00:00:30</a> AI 产业链中的卖铲人</span></p><p><span><a class="timestamp" data-timestamp="290">00:04:50</a> 台积电的生意本质</span></p><p><span><a class="timestamp" data-timestamp="823">00:13:43</a> 护城河的五个维度</span></p><p><span><a class="timestamp" data-timestamp="1342">00:22:22</a> 财务状况回顾</span></p><p><span><a class="timestamp" data-timestamp="2025">00:33:45</a> 未来增长的驱动力</span></p><p><span><a class="timestamp" data-timestamp="2197">00:36:37</a> 风险因素</span></p><p><span><a class="timestamp" data-timestamp="2463">00:41:03</a> 估值推算</span></p><p><span><a class="timestamp" data-timestamp="3045">00:50:45</a> 值得长期跟踪的关键指标</span></p><p><span>注：<a class="timestamp" data-timestamp="1510">00:25:10</a>处的数字有口误，可在文本中查看修正后的数字。</span></p><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/05/16/web3-mint-to-be-ep41-tsmc-the-highest-conviction-investment-in-the-ai-industry/" data-url="https://research.mintventures.fund/2026/05/16/web3-mint-to-be-ep41-tsmc-the-highest-conviction-investment-in-the-ai-industry/"><span>《EP41：台积电——AI 产业最高确定性标的》</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/llhh0NiVY01g0h2IjGYGrljbXSat.m4a" length="54917350" type="audio/mp4"/>
+    <itunes:duration>00:56:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnxQ8peiBgfcUHEnB8REsDxtTpCc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP52：Circle ：稳定币红利、分配权博弈与估值边界</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69eddf6f1d989496e78ac4b2</link>
+    <guid isPermaLink="false">69eddf6f1d989496e78ac4b2</guid>
+    <pubDate>Sun, 26 Apr 2026 09:55:16 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期我们请研究员 Lawrence 来做一下关于Circle的分享。Circle 是他从去年就开始覆盖，也一直在持续跟踪的标的之一。他会重点分析这家公司目前值得关注的核心问题，特别是那些可能与市场主流叙事存在偏差的部分，同时也会探讨应该如何对这家公司进行估值。</span></p><span></span><p><span>欢迎留言，写下你的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="112">0:01:52</a> Circle 股东价值的五层乘法</span></p><span></span><p><span><a class="timestamp" data-timestamp="364">0:06:04</a> 稳定币市场的需求拆解</span></p><span></span><p><span><a class="timestamp" data-timestamp="786">0:13:06</a> USDC 在稳定币市场的份额变量</span></p><span></span><p><span><a class="timestamp" data-timestamp="1106">0:18:26</a> Circle 的收入构成与渠道分成机制</span></p><span></span><p><span><a class="timestamp" data-timestamp="1762">0:29:22</a> 利润留存率与估值对比</span></p><span></span><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/04/26/web3-mint-to-be-ep40-circle-stablecoin-dividend-power-struggles-over-distribution-rights-and-valuation-boundaries/" data-url="https://research.mintventures.fund/2026/04/26/web3-mint-to-be-ep40-circle-stablecoin-dividend-power-struggles-over-distribution-rights-and-valuation-boundaries/"><span>《EP40：Circle ：稳定币红利、分配权博弈与估值边界》</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lsfc1Eq2vf04ylcEbE_EaRxmY861.m4a" length="33800087" type="audio/mp4"/>
+    <itunes:duration>00:34:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fni1WnUrUSjFWxEZO0scSZeR8U33.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP51：深聊拼多多：现在到击球区了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69d75835b977fb2c477db64b</link>
+    <guid isPermaLink="false">69d75835b977fb2c477db64b</guid>
+    <pubDate>Thu, 09 Apr 2026 07:52:30 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>作为一直专注于 Web3 投资话题的播客，在已经更新的多期节目里，我们主要聊的是加密相关的话题。但是之后，我们会拓宽话题范围，聊一聊加密行业之外我们认为有投资价值的公司和项目。</span></p><span></span><p><span>上两期我们聊了泡泡玛特，这一期我们来聊聊拼多多。拼多多在中国互联网，乃至全球零售史上都具有传奇色彩，当然也在过去几年里备受争议。我们尝试探讨拼多多的商业模式、企业文化、护城河的几个维度，以及其自营新品牌新拼姆的挑战与潜力，试着给出对其估值的判断，同时分析市场上对其看多/看空的逻辑。</span></p><span></span><p><span>欢迎留言，写下你对拼多多的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="156">0:02:36</a> 商业模式和企业文化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1030">0:17:10</a> 护城河的四个维度</span></p><span></span><p><span><a class="timestamp" data-timestamp="1450">0:24:10</a> 一路股价走势及其驱动力</span></p><span></span><p><span><a class="timestamp" data-timestamp="2225">0:37:05</a> 未来业务展望</span></p><span></span><p><span><a class="timestamp" data-timestamp="2697">0:44:57</a> 估值判断、看多/看空逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="3220">0:53:40</a> 自营品牌新拼姆的挑战与潜力</span></p><span></span><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/04/09/web3-mint-to-be-ep39-deep-dive-into-pinduoduo-has-it-reached-the-buy-zone-yet/#%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%92%8C%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96" data-url="https://research.mintventures.fund/2026/04/09/web3-mint-to-be-ep39-deep-dive-into-pinduoduo-has-it-reached-the-buy-zone-yet/#%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%92%8C%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96"><span>《EP39：深聊拼多多：现在到击球区了吗？》</span></a></p><span></span><p><span>播客中提及的拼多多八年股价走势复盘图：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnamCN3G0nbOr1fzwWzc7Sp3Jpzi.png"></figure><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lpNUmo_mwCDIqZwOCeoptcs58V6i.m4a" length="59350059" type="audio/mp4"/>
+    <itunes:duration>01:01:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fgjvc8Qoi310NCLAxH8vfl4bfraZ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP50：深聊泡泡玛特：IP 超新星的业务、护城河、估值和挑战（第二集）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69bd3e2b3c625cc5ae54b619</link>
+    <guid isPermaLink="false">69bd3e2b3c625cc5ae54b619</guid>
+    <pubDate>Fri, 20 Mar 2026 12:36:45 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>作为一直专注于 Web3 投资话题的播客，在已经更新的多期节目里，我们主要聊的是加密相关的话题。但是之后，我们会拓宽话题范围，聊一聊加密行业之外我们认为有投资价值的公司和项目。</span></p><span></span><p><span>本期是关于泡泡玛特的第二集内容。上一期里，我们聊到泡泡玛特满足的核心需求、它的主要对标对象、IP运营机制、未来增长的动力来源及具体财务数据等。这一期，我们将会聊到泡泡玛特的核心护城河、估值水平和未来发展中可能的风险点。</span></p><span></span><p><span>欢迎留言，写下你对泡泡玛特的观点，也可写下其他你希望我们关注、讨论的投资标的。</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="37">0:00:37</a> 泡泡玛特的核心护城河</span></p><span></span><p><span><a class="timestamp" data-timestamp="1490">0:24:50</a> 如何看待看空泡泡玛特的观点</span></p><span></span><p><span><a class="timestamp" data-timestamp="2172">0:36:12</a> 泡泡玛特的估值</span></p><span></span><p><span><a class="timestamp" data-timestamp="3156">0:52:36</a>泡泡玛特的风险点</span></p><span></span><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/03/20/web3-mint-to-be-ep38-a-deep-dive-into-pop-mart-the-business-moat-valuation-and-challenges-of-an-ip-supernova-part2/" data-url="https://research.mintventures.fund/2026/03/20/web3-mint-to-be-ep38-a-deep-dive-into-pop-mart-the-business-moat-valuation-and-challenges-of-an-ip-supernova-part2/"><span>《EP38：深聊泡泡玛特：IP 超新星的业务、护城河、估值和挑战（第二集）》</span></a></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lnOsNJN4fYbpPEqwdpXUtnezl9jf.m4a" length="59857929" type="audio/mp4"/>
+    <itunes:duration>01:01:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8XEYrnNgcGBlk9rpt47BOQTojr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP49：深聊泡泡玛特：IP 超新星的业务、护城河、估值和挑战（第一集）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69b50f2af8b8079bfa4404a3</link>
+    <guid isPermaLink="false">69b50f2af8b8079bfa4404a3</guid>
+    <pubDate>Sat, 14 Mar 2026 07:49:36 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>作为一直专注于 Web3 投资话题的播客，在已经更新的多期节目里，我们主要聊的是加密相关的话题。从这期开始，我们会拓宽话题范围，聊一聊加密行业之外我们认为有投资价值的公司和项目。</span></p><span></span><p><span>今天邀请到的嘉宾是我们 Mint Ventures 的研究员 Lawrence，聊的公司是他长期跟踪的泡泡玛特。因为内容较多，分两集发布。在本集，我们会聊到泡泡玛特满足的核心需求、它的主要对标对象、IP运营机制、未来增长的动力来源及具体财务数据等。在下一集，我们将会聊到泡泡玛特的护城河、估值水平、市场共识和我们认为未被价格完全体现的非共识部分。</span></p><span></span><p><span>这是我们第一次聊股票类的标的，是一个全新的尝试。欢迎各位在评论区留言。</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="90">0:01:30</a> 研究泡泡玛特的契机</span></p><span></span><p><span><a class="timestamp" data-timestamp="256">0:04:16</a> 泡泡玛特的产品及其满足的需求</span></p><span></span><p><span><a class="timestamp" data-timestamp="1093">0:18:13</a> 泡泡玛特的对标对象</span></p><span></span><p><span><a class="timestamp" data-timestamp="1729">0:28:49</a> 泡泡玛特成功破圈的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="2484">0:41:24</a> 泡泡玛特的IP运营机制</span></p><span></span><p><span><a class="timestamp" data-timestamp="3737">1:02:17</a> 泡泡玛特的增长来源和财务数据</span></p><span></span><p><span><a class="timestamp" data-timestamp="4434">1:13:54</a>泡泡玛特的团队构成及特质</span></p><span></span><p><span><a class="timestamp" data-timestamp="5232">1:27:12</a>泡泡玛特的股权分布</span></p><span></span><p><span>文字版：</span><a href="https://research.mintventures.fund/2026/03/14/web3-mint-to-be-ep37-a-deep-dive-into-pop-mart-the-business-moat-valuation-and-challenges-of-an-ip-supernova-part1/" data-url="https://research.mintventures.fund/2026/03/14/web3-mint-to-be-ep37-a-deep-dive-into-pop-mart-the-business-moat-valuation-and-challenges-of-an-ip-supernova-part1/"><span>《EP37：深聊泡泡玛特：IP 超新星的业务、护城河、估值和挑战（第一集）》</span></a></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ll6hASz82_toQlSjRu2DdRafY9bx.m4a" length="88358152" type="audio/mp4"/>
+    <itunes:duration>01:31:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8XEYrnNgcGBlk9rpt47BOQTojr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP48：如何理解预测市场：商业价值和交互实战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/696bae3b109824f9e108793c</link>
+    <guid isPermaLink="false">696bae3b109824f9e108793c</guid>
+    <pubDate>Sat, 17 Jan 2026 15:55:24 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目我们邀请到了老朋友——专业个人投资者、链上工作室主理人 Stakeholder，一起聚焦预测市场，聊聊它的定位和价值主张，它在解决什么样的问题，后续发展中可能遇到的风险与挑战，还有目前普通用户参与预测市场的比较务实的一些方式，希望能对你有所帮助。</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="90">0:01:30</a> 预测市场的定义和价值主张</span></p><span></span><p><span><a class="timestamp" data-timestamp="687">0:11:27</a> 预测市场出现早爆发晚的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="1139">0:18:59</a> 预测市场的头部产品及分类</span></p><span></span><p><span><a class="timestamp" data-timestamp="1448">0:24:08</a> 预测市场的挑战和风险</span></p><span></span><p><span><a class="timestamp" data-timestamp="2188">0:36:28</a> 预测市场的衍生功能</span></p><span></span><p><span><a class="timestamp" data-timestamp="2378">0:39:38</a> 普通用户如何参与预测市场？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2694">0:44:54</a> 在预测市场的有趣经验</span></p><span></span><p><span>文字版链接：</span><a href="https://research.mintventures.fund/2026/01/17/web3-mint-to-be-ep35-understanding-prediction-markets-business-value-and-practical-applications/#%E5%9C%A8%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%9A%84%E6%9C%89%E8%B6%A3%E7%BB%8F%E9%AA%8C" data-url="https://research.mintventures.fund/2026/01/17/web3-mint-to-be-ep35-understanding-prediction-markets-business-value-and-practical-applications/#%E5%9C%A8%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%9A%84%E6%9C%89%E8%B6%A3%E7%BB%8F%E9%AA%8C"><span>《EP36：如何理解预测市场：商业价值和交互实战》</span></a></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ljhHKJAwTmaGzH0Hs9XWUIm4zWa9.m4a" length="49563743" type="audio/mp4"/>
+    <itunes:duration>00:51:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8XEYrnNgcGBlk9rpt47BOQTojr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP47：关于“币圈价值投资”的一场对谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/693046d94ef12f9fe9beeeef</link>
+    <guid isPermaLink="false">693046d94ef12f9fe9beeeef</guid>
+    <pubDate>Wed, 03 Dec 2025 14:26:17 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目是 Mint Ventures 投研合伙人 Alex 应 YouTube 频道 “Max 的区块链空间” 主理人 Max 的邀请，围绕“币圈价值投资”展开的一次对谈。Alex 谈及对本轮山寨市场、DeFi 赛道及 Crypto AI 板块的看法，并分享了在加密投资中实践价值投资的方法。</span></p><span></span><p><span>对谈中提及的文章：《</span><a href="https://research.mintventures.fund/2024/03/10/zh-preparing-for-primary-wave-my-periodic-strategy-on-this-bull-market-cycle/" data-url="https://research.mintventures.fund/2024/03/10/zh-preparing-for-primary-wave-my-periodic-strategy-on-this-bull-market-cycle/"><span>备战牛市主升浪，我对本轮周期的阶段性思考</span></a><span>》</span></p><span></span><p><span>Alex 的 Twitter：@xuxiaopengmint</span></p><span></span><p><span>Max 的 Twitter：@MaxCryptoSpace</span></p><span></span><blockquote><span>时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="60">0:01:00</a> Web3 VC 的日常工作流</span></p><span></span><p><span><a class="timestamp" data-timestamp="237">0:03:57</a> 对本轮山寨市场的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="602">0:10:02</a> 穿越牛熊的长线投资标的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1186">0:19:46</a> 本轮牛市的大体仓位配置</span></p><span></span><p><span><a class="timestamp" data-timestamp="1720">0:28:40</a> 对目前 Defi 赛道的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="2089">0:34:49</a> 对目前 L1 市场的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="2276">0:37:56</a> 对 Crypto AI 板块的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="2531">0:42:11</a> 快问快答</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ljxhn_pEaSMf_j44drFp1Ad9tet2.m4a" length="44318543" type="audio/mp4"/>
+    <itunes:duration>00:45:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8XEYrnNgcGBlk9rpt47BOQTojr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP46：叙事、情绪和赔率：我的Meme投机观</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6902da58a2ea435e8a4ea33e</link>
+    <guid isPermaLink="false">6902da58a2ea435e8a4ea33e</guid>
+    <pubDate>Thu, 30 Oct 2025 03:38:28 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目我们邀请到的嘉宾是老朋友——知名华语加密KOL</span><a href="https://x.com/BTCdayu" data-url="https://x.com/BTCdayu"><span>大宇</span></a><span>。大宇真诚分享了自己开启 meme 投资的时间与具体标的、一路以来在 meme 投资上的具体实践和抽象出来的投资方法论，并对 meme 投资新人给出自己的建议。相信你听完一定会有所收获~</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/10/30/web3-mint-to-be-ep35-narrative-emotion-and-odds-my-view-on-meme-speculation/" data-url="https://research.mintventures.fund/2025/10/30/web3-mint-to-be-ep35-narrative-emotion-and-odds-my-view-on-meme-speculation/"><span>EP35：叙事、情绪和赔率：我的Meme投机观</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="17">0:00:17</a> 开启 meme 投资的时间与具体标的</span></p><span></span><p><span><a class="timestamp" data-timestamp="478">0:07:58</a> 对 meme 看法的转变及背后的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="1169">0:19:29</a> meme 在投资体系中的位置与作用</span></p><span></span><p><span><a class="timestamp" data-timestamp="1710">0:28:30</a> meme 的筛选标准与参考依据</span></p><span></span><p><span><a class="timestamp" data-timestamp="2138">0:35:38</a> meme 投资的正反案例</span></p><span></span><p><span><a class="timestamp" data-timestamp="2790">0:46:30</a> 优秀的 meme 投资者必备的素质</span></p><span></span><p><span><a class="timestamp" data-timestamp="3456">0:57:36</a> meme 与其他资产类别的平衡</span></p><span></span><p><span><a class="timestamp" data-timestamp="3760">1:02:40</a> 给 meme 投资新人的建议</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lsezm_tESycLT2q193OttK1PDGeb.m4a" length="97842334" type="audio/mp4"/>
+    <itunes:duration>01:07:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fgjvc8Qoi310NCLAxH8vfl4bfraZ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP45：新高之后的以太坊，还有哪些值得期待的叙事？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68c3d18da56ca3e0c40db057</link>
+    <guid isPermaLink="false">68c3d18da56ca3e0c40db057</guid>
+    <pubDate>Fri, 12 Sep 2025 08:12:19 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目我们邀请到的嘉宾 Leo 不仅是 SNZ 的 community partner，同时也是 ETHTAO contributor。Leo 一直保持着与以太坊基金会的近距离频繁交流，他分享了以太坊基金会的具体变革内容及产生的相应影响、对币股及 TOM LEE 言论的看法，以及影响以太坊估值变化的驱动因素和制约条件。</span></p><span></span><p><span>节目中 Leo 提到的文章和推特内容已链接在文字版，可点击下方文字版链接，在相应位置点击查看。</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/09/12/web3-mint-to-be-ep34-after-reaching-a-new-high-what-narratives-are-worth-looking-forward-to-for-ethereum/" data-url="https://research.mintventures.fund/2025/09/12/web3-mint-to-be-ep34-after-reaching-a-new-high-what-narratives-are-worth-looking-forward-to-for-ethereum/"><span>EP34：新高之后的以太坊，还有哪些值得期待的叙事？</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="17">0:00:17</a> ETHTAO 的成立目的与日常工作</span></p><span></span><p><span><a class="timestamp" data-timestamp="423">0:07:03</a> 影响市场对 ETH 信心的内外部因素</span></p><span></span><p><span><a class="timestamp" data-timestamp="747">0:12:27</a> 关于币股及 TOM LEE 言论对 ETH 的影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="1347">0:22:27</a> 企业级金融服务上链的案例</span></p><span></span><p><span><a class="timestamp" data-timestamp="1584">0:26:24</a> 以太坊基金会的具体变革内容</span></p><span></span><p><span><a class="timestamp" data-timestamp="2458">0:40:58</a> 变革带来的具体影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="2912">0:48:32</a> 以太坊估值变化的驱动因素和制约条件</span></p><span></span><p><span><a class="timestamp" data-timestamp="3326">0:55:26</a> 值得关注的技术节点</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ltQqlR3_PcB1qLCLcUaxWDoCxd1d.m4a" length="87606704" type="audio/mp4"/>
+    <itunes:duration>01:00:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8XEYrnNgcGBlk9rpt47BOQTojr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP44：这一轮周期，我的经验和教训（第二集）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68804d4fa12f9ff06a8f2f62</link>
+    <guid isPermaLink="false">68804d4fa12f9ff06a8f2f62</guid>
+    <pubDate>Wed, 23 Jul 2025 02:49:47 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目长达近90分钟，我们邀请到投资风格不同的两位嘉宾——链上数据研究者 </span><a href="https://x.com/market_beggar" data-url="https://x.com/market_beggar"><span>Colin</span></a><span> 和专业链上投资者 </span><a href="https://x.com/lly691954876" data-url="https://x.com/lly691954876"><span>链上游民</span></a><span>，一起来聊聊他们在这一轮周期里的代表性操作，复盘哪些策略奏效、哪些踩了坑，希望为大家今后的投资提供一些可借鉴的思路。同时，我们还聊到了对山寨季和以太坊的判断。</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/07/23/web3-mint-to-be-ep32-my-experiences-and-lessons-learned-from-this-cycle-ii/" data-url="https://research.mintventures.fund/2025/07/23/web3-mint-to-be-ep32-my-experiences-and-lessons-learned-from-this-cycle-ii/"><span>EP33：这一轮周期，我的经验和教训（第二集）</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="104">0:01:44</a> 对当前阶段的判断及应对策略</span></p><span></span><p><span><a class="timestamp" data-timestamp="705">0:11:45</a> 这一轮周期的投资难度变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1340">0:22:20</a> 本轮周期的最正确操作</span></p><span></span><p><span><a class="timestamp" data-timestamp="2007">0:33:27</a> 本轮周期的错误操作及经验</span></p><span></span><p><span><a class="timestamp" data-timestamp="3102">0:51:42</a> 对山寨季的判断</span></p><span></span><p><span><a class="timestamp" data-timestamp="3914">1:05:14</a> 关于跨圈投资的准备</span></p><span></span><p><span><a class="timestamp" data-timestamp="4357">1:12:37</a> 还看多以太坊吗？</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lsL2JB6Ndhk5TwXDVzfe6crIkvAF.m4a" length="130376898" type="audio/mp4"/>
+    <itunes:duration>01:29:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjsqWIQAKYAsPfG8Qruzw9goltPd.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP43：这一轮周期，我的经验和教训</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/686deaa593fd2d72b8447e61</link>
+    <guid isPermaLink="false">686deaa593fd2d72b8447e61</guid>
+    <pubDate>Wed, 09 Jul 2025 04:08:13 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目，我们邀请到加密投资人</span><a href="https://x.com/xingpt" data-url="https://x.com/xingpt"><span>XinGPT</span></a><span>和加密KOL</span><a href="https://x.com/0xSleepinRain" data-url="https://x.com/0xSleepinRain"><span>雨中狂睡</span></a><span>，一起来聊聊各自在这一轮周期内的代表性操作，分享成功的逻辑和失败的教训，以期为未来的投资提供可复用的经验。同时，我们还聊到了对山寨季的判断，以及从加密投资跨圈美股投资的优劣势。</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/07/09/web3-mint-to-be-ep32-my-experiences-and-lessons-learned-from-this-cycle/" data-url="https://research.mintventures.fund/2025/07/09/web3-mint-to-be-ep32-my-experiences-and-lessons-learned-from-this-cycle/"><span>EP32：这一轮周期，我的经验和教训</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="130">0:02:10</a> 对当前阶段的判断和理由</span></p><span></span><p><span><a class="timestamp" data-timestamp="421">0:07:01</a> 这一轮周期的投资难度变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="975">0:16:15</a> 本轮周期的最正确操作</span></p><span></span><p><span><a class="timestamp" data-timestamp="1474">0:24:34</a> 本轮周期的错误操作及经验</span></p><span></span><p><span><a class="timestamp" data-timestamp="2104">0:35:04</a> 对山寨季的判断</span></p><span></span><p><span><a class="timestamp" data-timestamp="2536">0:42:16</a> 跨圈投资的优劣势与经验</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/ltjLA9DEUkV-7tjfo1A6j0gO5CuV.m4a" length="52133339" type="audio/mp4"/>
+    <itunes:duration>00:53:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjsqWIQAKYAsPfG8Qruzw9goltPd.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP42：重新审视以太坊：现在的ETH有哪些看多理由？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6847018979e285b9b8138acf</link>
+    <guid isPermaLink="false">6847018979e285b9b8138acf</guid>
+    <pubDate>Mon, 09 Jun 2025 15:46:21 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目，我们邀请到 EthStorage 的创始人 Zhou Qi 老师和 Mint Ventures 的研究员 Lawrence 一起围绕以太坊，聊聊它在本轮跑输 BTC 和 SOL 的原因、那些关于以太坊问题的共识和非共识、以太坊改革事件的时间表，以及两位老师在什么情况下会选择买入或增持以太坊。</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/06/09/web3-mint-to-be-ep30-re-evaluating-ethereum-what-are-the-bullish-reasons-for-eth-now/" data-url="https://research.mintventures.fund/2025/06/09/web3-mint-to-be-ep30-re-evaluating-ethereum-what-are-the-bullish-reasons-for-eth-now/"><span>EP31：重新审视以太坊：现在的ETH有哪些看多理由？</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="135">0:02:15</a> 本轮以太坊跑输 BTC 和 SOL 的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="864">0:14:24</a> 关于以太坊问题的共识和非共识</span></p><span></span><p><span><a class="timestamp" data-timestamp="1830">0:30:30</a> 以太坊改革事件的时间表</span></p><span></span><p><span><a class="timestamp" data-timestamp="2493">0:41:33</a> 以太坊是否依然值得看好</span></p><span></span><p><span><a class="timestamp" data-timestamp="3008">0:50:08</a> 什么情况下会增持以太坊</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lkrMPHlQVp1GtPOlwoTAzhFc21yP.m4a" length="59156029" type="audio/mp4"/>
+    <itunes:duration>01:00:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoBODjc1N18T0UhUwpSOBa2dt1rK.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP41：深谈稳定币，Stablecoin现在还是蓝海吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68355caf38dcc57c642cfb69</link>
+    <guid isPermaLink="false">68355caf38dcc57c642cfb69</guid>
+    <pubDate>Tue, 27 May 2025 06:35:24 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>欢迎大家收听由Mint Ventures发起的播客【 WEB3 Mint To Be 】</span></blockquote><span></span><p><span>本期节目，我们再次邀请到老朋友——在传统金融和 Defi 领域都有丰富从业经历的民道老师。我们聚焦稳定币，结合正备受关注的 GENIUS 法案，聊聊稳定币在本轮周期的不同之处、各国在稳定币上的可能性举措，以及 AI、Defi 和稳定币的化学反应。</span></p><span></span><ul><span>  </span><li><span>播客文字版链接：</span><a href="https://research.mintventures.fund/2025/05/27/web3-mint-to-be-ep30-is-the-stablecoin-market-still-a-blue-ocean/" data-url="https://research.mintventures.fund/2025/05/27/web3-mint-to-be-ep30-is-the-stablecoin-market-still-a-blue-ocean/"><span>EP30：深谈稳定币，Stablecoin现在还是蓝海吗？</span></a></li><span></span></ul><span></span><blockquote><span>本期时间线:</span></blockquote><span></span><p><span><a class="timestamp" data-timestamp="51">0:00:51</a> 稳定币在本轮周期的不同之处</span></p><span></span><p><span><a class="timestamp" data-timestamp="317">0:05:17</a> 影响最大的监管政策</span></p><span></span><p><span><a class="timestamp" data-timestamp="545">0:09:05</a> USDT Vs. USDC</span></p><span></span><p><span><a class="timestamp" data-timestamp="939">0:15:39</a> 传统金融机构进入稳定币领域的可能性</span></p><span></span><p><span><a class="timestamp" data-timestamp="1431">0:23:51</a> 各国在稳定币上的可能性举措</span></p><span></span><p><span><a class="timestamp" data-timestamp="1857">0:30:57</a> 中心化稳定币 Vs. 去中心化稳定币</span></p><span></span><p><span><a class="timestamp" data-timestamp="2256">0:37:36</a> 稳定币法案对头部 Defi 业务的影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="2605">0:43:25</a> Defi、AI 以及稳定币的化学反应</span></p><span></span><p><span>重要声明：主持人或者嘉宾在播客中的观点仅代表他们的个人看法。此播客仅用于提供信息，不作为投资参考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62e23e9840cec8f6079d1de5/lqNt0sUleS4xxQ0OkUxeYN_VNhzj.m4a" length="59815485" type="audio/mp4"/>
+    <itunes:duration>01:01:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fly3sHkzzTDb7-UlYMt1jFyuMxM6.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

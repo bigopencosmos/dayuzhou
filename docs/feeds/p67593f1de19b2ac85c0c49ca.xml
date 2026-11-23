@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>声入迷雾</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/67593f1de19b2ac85c0c49ca</link>
+  <description><![CDATA[聚焦社会热点，情景剧演绎，深度思考，青年群体首选的音频盛宴！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:46:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p67593f1de19b2ac85c0c49ca.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>小狗不靠谱</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FiT47bO2ILvncnYUJBVbPnAPixxc.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FiT47bO2ILvncnYUJBVbPnAPixxc.jpg</url>
+    <title>声入迷雾</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/67593f1de19b2ac85c0c49ca</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>05.后日谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6766ac4715a5fd520e6da358</link>
+    <guid isPermaLink="false">6766ac4715a5fd520e6da358</guid>
+    <pubDate>Sat, 21 Dec 2024 12:29:52 +0000</pubDate>
+    <description><![CDATA[<p><span>《宿命回响》那些让你疑惑的解读来啦，快来听听和你想的一不一样吧！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkQxooL1CSZna_KolDUHxm4xdkqr.m4a" length="10279056" type="audio/mp4"/>
+    <itunes:duration>00:07:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkaX4lzAOv1AwZ3JCBi7ENvnr3KY.png"/>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>04.宿命回响2</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67642d5c1e823e72d333b439</link>
+    <guid isPermaLink="false">67642d5c1e823e72d333b439</guid>
+    <pubDate>Fri, 20 Dec 2024 11:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>霸凌阴影下，懦弱与暴躁共生。人格分裂的她，在舞台剧中意外行凶。是意外？还是宿命？霸凌之伤，揭开双重人格的致命纠葛……</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqgJm2xyoOvTxKAwNmQ0uu7FRzxF.m4a" length="19808863" type="audio/mp4"/>
+    <itunes:duration>00:20:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkaX4lzAOv1AwZ3JCBi7ENvnr3KY.png"/>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>03.宿命回响1</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6764132315a5fd520efc2545</link>
+    <guid isPermaLink="false">6764132315a5fd520efc2545</guid>
+    <pubDate>Thu, 19 Dec 2024 12:41:00 +0000</pubDate>
+    <description><![CDATA[<p><span>霸凌阴影下，懦弱与暴躁共生。人格分裂的她，在舞台剧中意外行凶。是意外？还是宿命？霸凌之伤，揭开双重人格的致命纠葛……</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljTOMfFrOLy_oKGPdFNCpv35kiAa.m4a" length="17261356" type="audio/mp4"/>
+    <itunes:duration>00:17:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0M91u-J_gx3uEqTZ4Li_MUmTCJ.png"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>02.后日谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/675e84077d8426f692331e11</link>
+    <guid isPermaLink="false">675e84077d8426f692331e11</guid>
+    <pubDate>Sun, 15 Dec 2024 07:32:06 +0000</pubDate>
+    <description><![CDATA[<p><span>《杀你，我不后悔》那些小细节你发现了嘛？快来小剧场和主创一起答疑解惑吧！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsQUPpfSHwpbE1nRxJ8fQRs96GK_.m4a" length="6884520" type="audio/mp4"/>
+    <itunes:duration>00:07:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft3_G-u1wLCqhp8XapYMEz8GgVuz.png"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>01.杀你，我不后悔</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67594b1c17cd5416ad3a16ca</link>
+    <guid isPermaLink="false">67594b1c17cd5416ad3a16ca</guid>
+    <pubDate>Wed, 11 Dec 2024 12:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在繁华都市的一隅，隐藏着一股学历歧视的暗流……</span></p><span></span><p><span>昔日初中同窗，如今命运迥异。985精英、双一流高材生、二本学子、专科生，四人本应情谊深厚，却因学历差异，心中种下芥蒂。一场突如其来的凶杀案，将这段复杂关系推向了极致的悬疑。谁是凶手？为何痛下杀手？学历的偏见背后，隐藏着怎样扭曲的人性？一切谜团，亟待揭开。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltI1gxbS0LDpUHFdbzDBVtJYpjA0.m4a" length="17275267" type="audio/mp4"/>
+    <itunes:duration>00:17:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft3_G-u1wLCqhp8XapYMEz8GgVuz.png"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

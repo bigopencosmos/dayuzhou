@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>注册捡球师的碎碎念</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63dbb4fad112515ac3ed3728</link>
+  <description><![CDATA[]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:03:24 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63dbb4fad112515ac3ed3728.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Jssen</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg</url>
+    <title>注册捡球师的碎碎念</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63dbb4fad112515ac3ed3728</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>二传篇</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63e4bd41e99bdef7d35548a8</link>
+    <guid isPermaLink="false">63e4bd41e99bdef7d35548a8</guid>
+    <pubDate>Thu, 09 Feb 2023 09:30:41 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liQQBAD3K3hdApFMTuTM7rcadRkh.m4a" length="18638529" type="audio/mp4"/>
+    <itunes:duration>00:10:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>接应篇</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63e30ae80d7e8eaa72260787</link>
+    <guid isPermaLink="false">63e30ae80d7e8eaa72260787</guid>
+    <pubDate>Wed, 08 Feb 2023 02:37:28 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvU1Qmx6qSGd5G-2eWR9woBQ1A1I.m4a" length="23221485" type="audio/mp4"/>
+    <itunes:duration>00:13:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>新周期主攻</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63dc88a951a4e4150aad3afa</link>
+    <guid isPermaLink="false">63dc88a951a4e4150aad3afa</guid>
+    <pubDate>Fri, 03 Feb 2023 04:08:09 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luYiF61WcZm8e9wb_jXeGywKy5-v.m4a" length="28828749" type="audio/mp4"/>
+    <itunes:duration>00:16:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>碎碎念·序</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63dbbadbe99bdef7d3e518fd</link>
+    <guid isPermaLink="false">63dbbadbe99bdef7d3e518fd</guid>
+    <pubDate>Thu, 02 Feb 2023 13:30:03 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln6vf8qC32-QFQlc1oOb_KGu89UI.m4a" length="20626583" type="audio/mp4"/>
+    <itunes:duration>00:12:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ljrJas7HGWc8hNKCyb-urbRycb4t.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

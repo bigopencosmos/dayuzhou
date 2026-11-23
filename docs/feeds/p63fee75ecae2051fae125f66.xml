@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>手掌心得</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63fee75ecae2051fae125f66</link>
+  <description><![CDATA[「棕榈资本」出品，我们将和新锐冒险家们共同讲述创业故事，携手探讨时代机遇，一起迭代自我，一起改变世界！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:21:11 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63fee75ecae2051fae125f66.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>手掌心得</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FuTxapOYHy54YgCleVb1oewqpVP1.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FuTxapOYHy54YgCleVb1oewqpVP1.jpg</url>
+    <title>手掌心得</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63fee75ecae2051fae125f66</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>分享E50|AI拍短剧，为何还要人？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aec256ae93f6662833c38cb</link>
+    <guid isPermaLink="false">6aec256ae93f6662833c38cb</guid>
+    <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span>人类历史上第一个被AI系统性干掉的行业，可能就是真人短剧。但最反常识的是，中国却因此搞出了上万人的“AI工厂”？本期《手掌心得》，对话出海同学会发起人、天使投资人Richer ，聊出几个特别反直觉的真相。</span></p></li></ul><p><strong><span>【</span></strong><span>你将听到】</span></p><p><span>01｜AI 短剧的本质：AI to B，而非 AI to C</span><br><span>短剧行业对 AI 的使用主要发生在制作流程中，用户并非直接与 AI 交互。因此，短剧更接近“AI 工厂”驱动的内容工业化生产，而非 AI to C 的第一个应用。</span></p><p><span>02｜中国式“AI 工厂”模式与内容工业化</span><br><span>大模型、流水线协作与低门槛人力结合，形成类似制造业工厂的内容生产体系。头部短剧企业员工规模可达数千至万人，按流程执行生成任务（行业俗称“抽卡”式操作）。AI 并未简单替代人力，而是催生新的分工形态。单部短剧成本从十万至百万美金级压缩至 3 万元人民币级，头部团队月产数百至上千部，内容供给进入“大水漫灌”阶段，注意力成为核心稀缺资源。</span></p><p><span>03｜内容生产范式：NewPGC 与 MGC</span><br><span>NewPGC 指外卖员、快递员等非传统创作者借助 AI 工具生产专业级内容；MGC（Myself Generated Content） 指用户基于自身需求生成个性化内容，如“猪八戒与王母娘娘谈恋爱”“班主任与校长打架”。内容消费从“观看他人生产”部分转向“自我生成与自我满足”。</span></p><p><span>04｜Personal Agent：从工具到组织成员，从账号入口到 Context 入口</span><br><span>Agent 的使用逻辑出现分化：中国较常见“一个工程师带多个 Agent”的工具化模式；美国创业者更多尝试“5 个工程师 + 5 个 Agent”的新型组织形态。入口争夺从 sign in with ChatGPT，到 sign in with token，再到 sign in with context——谁掌握用户完整记忆与数字身份，谁就掌握下一代入口。同时，单一入口也可能被 Agent 生态削弱，例如多个 Agent 接管邮件处理后，用户不再直接访问邮箱。情感陪伴型 Agent 与实体机器人也被讨论：实体机器人进入家庭，更现实的切入点可能是情感陪伴，而非家务替代。</span></p><p><span>本期还涉及中美短剧市场差异、AI 硬件两条路线（AI Native 原生硬件与 AI+智能硬件）、OPC/AI Native Service 逻辑，以及社会对新兴娱乐形态的接受度变迁。</span><br><br><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/ltqP_27kJBtNJnWWw8GvplE8krWz.m4a" length="43275337" type="audio/mp4"/>
+    <itunes:duration>00:44:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlDlOB_vQ2jwfEtySw9KuHCnKlBo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E49|博通:从惠普边缘部门到AI基础设施巨头</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae81ade97726cd4675b5a3c</link>
+    <guid isPermaLink="false">6ae81ade97726cd4675b5a3c</guid>
+    <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span>科技巨头往往都从一款伟大产品开始：苹果有 iPhone，英伟达有 GPU，微软有 Windows。Broadcom 却很难找到这样一件“镇山之宝”。它今天卖的东西横跨定制 AI 芯片、交换芯片、手机射频、宽带芯片、存储连接，以及 VMware 企业软件。</span></p></li><li><p><span>理解 Broadcom，还要抓住三个关键词。控制点：它喜欢处在数据、计算或企业系统的必经之路，而不是提供可有可无的功能；高切换成本：产品一旦被客户采用，更换通常需要重新设计、认证、迁移和承担停机风险；并购整合：它很少只靠内部孵化扩张，而是不断购买已经被市场验证的技术和客户关系，再集中资源、收缩边缘业务并提高现金流。&nbsp;</span></p></li><li><p><span>问题也因此变得更重要：Broadcom 真正的核心能力，究竟是技术创新，还是资本配置？它过去靠并购买来的定制芯片、网络和软件资产，为什么恰好在 AI 时代同时升值？这套模式是在创造长期价值，还是在利用客户难以迁移来提前兑现利润？</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="94">01:34</a> Broadcom的基本概览</span></p><p><span><a class="timestamp" data-timestamp="317">05:17</a> 产品、控制点与边界：Broadcom 在 AI 系统里做什么？</span></p><p><span><a class="timestamp" data-timestamp="473">07:53</a> 关于“惠普边缘部门”的起点，此博通非彼博通</span></p><p><span><a class="timestamp" data-timestamp="725">12:05</a>完成系列并购操作后，迎着 AI 大势，正式起飞</span></p><p><span><a class="timestamp" data-timestamp="1047">17:27</a>科技并购与消费品牌并购，买的到底有什么不同？</span></p><p><span><a class="timestamp" data-timestamp="1375">22:55</a> 真正要判断的，不是增长有多快，而是增长来自哪里</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lqrghT0EF9ZRuNCJy_kSrxCqZZcH.m4a" length="24777393" type="audio/mp4"/>
+    <itunes:duration>00:25:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlDlOB_vQ2jwfEtySw9KuHCnKlBo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E48|ZURU:从玩具起步的无限上新机器</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab3475b93d5eb3bdc799896</link>
+    <guid isPermaLink="false">6ab3475b93d5eb3bdc799896</guid>
+    <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span>ZURU是一家从新西兰农场起步、在中国建立制造能力、把产品卖进全球120多个市场的综合消费品公司。 它从玩具出发，如今已经进入母婴、洗护和建筑科技等领域。2019年公司销售额超过4亿美元；到2021年，收入已经达到11亿美元，2024年达30亿新西兰元（约18亿美元），2025年近40亿新西兰元（近24亿美元），2026年集团收入预计超过30亿美元。</span></p></li><li><p><span>ZURU从玩具起步，擅长给老品类换新玩法。公司没有乐高那样延续几十年的产品系统，也没有美泰、孩之宝手里那一排能拍电影的经典角色。 它的打法极其快消：品类横跨水气球、软弹枪、毛绒、盲盒和微缩收藏，用戶未必必然忠于ZURU这个母品牌，但会不断被一个个“ 看一眼就想试 ”的单品吸引注意力。别人把品牌当城堡，ZURU经营的是一台持续寻找品类空档、迅速上新并放大赢家的产品机器。</span></p></li><li><p><span>ZURU爆款背后是一套高度工业化的上新系统：前端寻找三秒钟就能讲明白的消费痛点，中间用快速开发和数字内容反复试错 ，后端用自有自动化供应链把成本压下来，再凭全球零售关系把货铺出去。很多成熟行业仍有大量“ 消费者早已习惯、头部公司懒得重做” 的产品。Zuru在玩具基础上成功的把这套系统复制到了快消日化，甚至向建筑业进发。</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="168">02:48</a>ZURU的历史背景，1997至2003年，从新西兰农场一路住进中国工厂</span></p><p><span><a class="timestamp" data-timestamp="417">06:57</a>2005年至2013年，被沃尔玛上了一堂昂贵的零售课</span></p><p><span><a class="timestamp" data-timestamp="815">13:35</a>2014年至2018年，Bunch O Balloons的成功定义Zuru核心价值</span></p><p><span><a class="timestamp" data-timestamp="977">16:17</a>2019年至今，Mini Brands把货架本身做成了玩具</span></p><p><span><a class="timestamp" data-timestamp="1293">21:33</a>ZURU的核心竞争力</span></p><p><span><a class="timestamp" data-timestamp="1702">28:22</a>从玩具走向消费品，ZURU Edge把上新机器搬进⽇常消费品</span></p><p><span><a class="timestamp" data-timestamp="2030">33:50</a>用玩具供应链逻辑改造建筑业，ZURU Tech想实现批量单件定制</span></p><p><span><a class="timestamp" data-timestamp="2321">38:41</a>组织文化：⾼密度⼈才与高压之间只有⼀条细线</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/llaMEmcMYjGM07efFWzrJa2bvFG6.m4a" length="36748870" type="audio/mp4"/>
+    <itunes:duration>00:37:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlDlOB_vQ2jwfEtySw9KuHCnKlBo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E47|长鑫科技:三万亿只用了一天，全球第四用了十年</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9a42e7f03e74ee6b04e365</link>
+    <guid isPermaLink="false">6a9a42e7f03e74ee6b04e365</guid>
+    <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span>DRAM 是一场没有终点的追赶：建厂、出样、拿到订单，只是一个起点；工艺要持续升级，DDR 和 LPDDR 要不断换代，产品还得一代代通过客户验证。长鑫走到今天，靠的是把这些环节连续做了十年。</span></p></li><li><p><span>资金买到的是穿越低谷的时间：内存价格下行时，研发、折旧和库存压力不会暂停。地方国资、产业基金和市场化资本给了长鑫继续投入的空间；这段时间能否换成产品、良率和客户，才是公司的真本事。</span></p></li><li><p><span>AI 给行业带来了新一轮机会，也把门槛抬得更高：HBM 挤占产能、传统 DRAM 需求回升，推高了内存价格；长鑫未来能走多远，仍要看第五代工艺、LPDDR6 和 HBM3 能否沿着量产和客户导入的路径继续往前。</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="98">01:38</a> 内存从来不是一门安稳生意</span></p><p><span><a class="timestamp" data-timestamp="306">05:06</a> 厂房建好，离第一笔订单还有快两年</span></p><p><span><a class="timestamp" data-timestamp="493">08:13</a> 内存换代，从来不等旧产品卖完</span></p><p><span><a class="timestamp" data-timestamp="774">12:54</a> 价格跌了，研发还在继续</span></p><p><span><a class="timestamp" data-timestamp="881">14:41</a>造厂的钱，要等得起行业低谷</span></p><p><span><a class="timestamp" data-timestamp="980">16:20</a>价格涨了，销量涨得更快</span></p><p><span><a class="timestamp" data-timestamp="1198">19:58</a>上桌之后…</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lnBpBDd8ioIj-0ZSeubTRAKxRSqc.m4a" length="20333949" type="audio/mp4"/>
+    <itunes:duration>00:20:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlDlOB_vQ2jwfEtySw9KuHCnKlBo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E46|安克创新:从easy模式打到hard模式</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a572f2cca0de6c44ae7698b</link>
+    <guid isPermaLink="false">6a572f2cca0de6c44ae7698b</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span> 公司是最难的产品：当品类多到超出创始人的管理半径，创始人真正要做的产品就从具体产品变成公司本身，战略、组织、人才、分钱，都是产品设计</span></p></li><li><p><span>消费电子的技术护城河止于人类感知上限，品牌护城河止于品类寿命：两个半衰期都短。唯一能跨越品类生死结转的资产，是能重复做出极致产品的一群人</span></p></li><li><p><span>AI 是这个行业第三次掀翻牌桌，但 IoT 的教训还热着：赢的是有场景根基的公司，不是有技术执念的公司——"客户不关心 AI，客户关心体验怎么变好"</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="109">01:49</a> 基础概况</span></p><p><span><a class="timestamp" data-timestamp="255">04:15</a> 发家史：easy 模式为什么成立，以及它留下的基因</span></p><p><span><a class="timestamp" data-timestamp="475">07:55</a> 产品方法论：三个分层框架</span></p><p><span><a class="timestamp" data-timestamp="836">13:56</a>三个关键决策：还原历史现场</span></p><p><span><a class="timestamp" data-timestamp="917">15:17</a>组织思考：消费电子公司的组织难题与安克的解法</span></p><p><span><a class="timestamp" data-timestamp="1142">19:02</a>AI 思考：一张 AI 硬件行业的判断地图</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span href=""><span>联系我们：info@palmcapital.cn</span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/liNVGsdi4mPTCzP2Ipcf07TlR8c5.m4a" length="22799661" type="audio/mp4"/>
+    <itunes:duration>00:23:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlZiS5bpYRK_pFGOwwcW7EiljLvv.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E45|洁丽雅:从一条毛巾到“毛巾帝国”，四十年的中国式品牌进化</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a38d1b6608f69578bd7f8d9</link>
+    <guid isPermaLink="false">6a38d1b6608f69578bd7f8d9</guid>
+    <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span> 抓住结构性红利窗口，不可复制的扩张之路。洁丽雅的创立和扩张抓住了内销市场的品牌真空、制造业低成本窗口、央视年代的确定性高投入和高回报，这些条件放在如今都已不复存在。</span></p></li><li><p><span>重塑品类“弱点”，将其构成品牌策略的优势。毛巾的低参与度、功能同质化是其作为消费品的品类弱点，而洁丽雅将其作为品牌策略的支点，在消费者不会认真选品牌的品类里、趁着没人做品牌的窗口期，用最高效的媒介工具把品牌名刻进消费者脑子里。</span></p></li><li><p><span>三代人的接力，每一代都接住了属于自己的时代命题。4个关键家族人物中，石昌佳做了品牌定位，石磊完成全国化，石晶推动了产品和渠道的数字化升级，石展承用内容创作完成了品牌的年轻化重建。这个传承节奏在家族企业里罕见地有效。</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="136">02:16</a>毛巾：极难做品牌、品牌溢价难以存活的品类</span></p><p><span><a class="timestamp" data-timestamp="287">04:47</a>棉纺大省叠加国企改革下海潮的时代机遇，彼时市场格局倒逼选择内销</span></p><p><span><a class="timestamp" data-timestamp="605">10:05</a>7年做到10亿产值规模，迈向集团化发展，质量、渠道、产品升级缺一不可</span></p><p><span><a class="timestamp" data-timestamp="850">14:10</a>豪赌央视广告，从浙江区域性品牌走向全国</span></p><p><span><a class="timestamp" data-timestamp="1028">17:08</a>从新疆棉到全产业链壁垒，持续产品迭代创新</span></p><p><span><a class="timestamp" data-timestamp="1329">22:09</a>渠道顺应时代持续演化，从商超霸主到全渠道矩阵</span></p><p><span><a class="timestamp" data-timestamp="1515">25:15</a>家族股权架构凸显内部权力制衡，家族IP机遇与风险并存</span></p><p><span><a class="timestamp" data-timestamp="2224">37:04</a>毛巾赛道品牌集中度极低，主要竞争对手打法各不相同</span></p><p><span><a class="timestamp" data-timestamp="2606">43:26</a>品类危机、财务健康等问题依然存在极大挑战</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span href=""><span>联系我们：info@palmcapital.cn</span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lpWNswnb71dcdnhllmFlO7s8sK0L.m4a" length="45334724" type="audio/mp4"/>
+    <itunes:duration>00:46:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fpjt5Uscur6gkCSsoyLMYjt5h4p_.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E44|闪迪:发明者第一次有机会为自己定价</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a13f8998b5c94538eabe48f</link>
+    <guid isPermaLink="false">6a13f8998b5c94538eabe48f</guid>
+    <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><ul><li><p><span> 2025 年 2 月 24 日, 闪迪从西部数据拆分出来,重新以独立公司的身份登陆纳斯达克,代码 SNDK。那时市场并没有给它太高期待——不久后，公司确认约 18 亿美元商誉减值，亲口承认当年西部数据 190 亿美元收购价里的泡沫，台下机构投资者神情平淡。但接下来四个季度，发生了一件不能忽略的事。</span></p></li><li><p><span>EPS 从亏 0.30 美元拉到赚 6.20 美元,营收从 17 亿涨到 30 亿,数据中心收入从不到 3 亿翻到 4.4 亿, 股价跟着一路上行。市场叙事从"西部数据甩出的周期包袱"换成"AI 受益方"。中间什么都没变：同一家公司,同一个 CEO,同一批工厂，变的只是市场愿意付的价格。</span></p></li><li><p><span>市场现在愿意给它高价，是因为终于看懂了它，还是因为又一次被周期推着走？这个答案，要从三十七年前的创业起点，以及后来那场和东芝的合作讲起。</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="83">01:23</a> 闪迪的基本概况</span></p><p><span><a class="timestamp" data-timestamp="165">02:45</a> 发展历史（1988-至今）</span></p><p><span><a class="timestamp" data-timestamp="974">16:14</a> 被误读的真实体量</span></p><p><span><a class="timestamp" data-timestamp="1092">18:12</a> AI带来的转型窗口</span></p><p><span><a class="timestamp" data-timestamp="1276">21:16</a> 几个判断的关键因素</span></p><p></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span href=""><span>联系我们：info@palmcapital.cn</span></span></p><p></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lvLIuhsHOrn_K0TocEMghe1ExUFO.m4a" length="23624234" type="audio/mp4"/>
+    <itunes:duration>00:24:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fjjo4RxjET2U-R09UbFlgyfLa8IX.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E43|Benchmark Capital:做减法的艺术</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69eea28e1d989496e793ec8f</link>
+    <guid isPermaLink="false">69eea28e1d989496e793ec8f</guid>
+    <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】 </span></p><ul><li><p><span>异类的存在：在 OpenAI 单轮融资 1220 亿美元的 AI 时代，在硅谷的Benchmark Capital依然只管理 4.25 亿美元、五六个合伙人，规模仅为 OpenAI 单轮融资的两千分之一。</span></p></li><li><p><span>惊人的战绩：首支 8500 万美元基金做出 92 倍回报；前八支基金净回报超过 7.5 倍；投出了 eBay、Uber、Snap、Twitter——而且 2020 年基金在 AI 浪潮里已升值超过 10 倍。</span></p></li><li><p><span>制度胜过个人：第一代合伙人投出 eBay，第二代投出 Uber，第三代押中 Cerebras——三代不同的人，跨代复制顶级回报。秘诀是一套激进的平等合伙制：所有合伙人完全平分收益，管理公司所有权代际之间无偿转让。</span></p></li><li><p><span>AI 时代的考验：三个深层张力正在动摇 Benchmark 的根基——OpenAI+Anthropic 占了全球风投 57%（集中度悖论）、Mercor 两年涨 40 倍（时间尺度悖论）、明星投资人 Victor Lazarte 出走自立门户（激励悖论）。团队从六人缩到三人。</span></p></li><li><p><span>三条路径的实验：红杉押注资本灵活性、a16z 押注平台杠杆效应、Benchmark 押注判断稀缺性——三家顶级机构对"风投核心价值"给出了三种完全不同的答案，verdict 要到 2030 年代中期才能揭晓。</span></p></li></ul><p><span>【你将听到】</span></p><p><span><a class="timestamp" data-timestamp="5">00:05</a>一个反直觉的存在，与它的起点</span></p><p><span><a class="timestamp" data-timestamp="263">04:23</a>eBay：670万美元如何变成50亿（1997年）</span></p><p><span><a class="timestamp" data-timestamp="464">07:44</a>迷失与回归：扩张失误教会Benchmark的一课（1999-2004年）</span></p><p><span><a class="timestamp" data-timestamp="568">09:28</a>三条"反常识"原则</span></p><p><span><a class="timestamp" data-timestamp="768">12:48</a>Uber：1200万美元的传奇与世代传承的奇绩（2011年）</span></p><p><span><a class="timestamp" data-timestamp="963">16:03</a>暗面：Uber诉讼与克制的代价</span></p><p><span><a class="timestamp" data-timestamp="1218">20:18</a>AI时代：克制的终极考验</span></p><p><span><a class="timestamp" data-timestamp="1625">27:05</a>更深的追问："做减法"是永恒的智慧，还是时代的产物？</span></p><p><span><a class="timestamp" data-timestamp="1993">33:13</a>结语：不设国王的王国</span></p><p><span>【关于我们】</span></p><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><p><span>微信公众号：棕榈资本</span></p><p><span href=""><span>联系我们：info@palmcapital.cn</span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lnLnSf9pGBNaCJfLTu09JRE6Nhgu.m4a" length="33388195" type="audio/mp4"/>
+    <itunes:duration>00:34:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjPUKbPO8khNwh-fH72CYrIX2jrS.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E42|Reddit:连亏19年,靠AI捡了张终身饭票？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69df13a3b977fb2c47fa3010</link>
+    <guid isPermaLink="false">69df13a3b977fb2c47fa3010</guid>
+    <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>意外的AI赢家：Reddit用20年积累了约160亿条真实用户对话。随着大模型训练对高质量语料的需求增加，这些内容成为Google、OpenAI等公司付费授权使用的对象。与此同时，AI也重新抬升了Reddit的资产估值，间接带动广告业务增长。2025年，Reddit首次实现全年盈利，金额为5.3亿美元。</span></li><span>  </span><li><span>广告才是主体：Reddit的盈利主要依赖广告业务。2025年广告收入为21亿美元，占公司总营收的95%。AI数据授权收入为1.4亿美元，占比5%。公司近年业绩提升，更多来自广告业务在AI背景下的加速增长，而非数据授权本身。</span></li><span>  </span><li><span>时间堆出来的护城河：经过二十年发展，Reddit形成了相对成熟的垂类社区生态、稳定的搜索流量循环，以及大量真实用户生成内容。这些要素在当前的AI时代构成其差异化优势，且难以被短期内复制。</span></li><span>  </span><li><span>模式核心软肋：平台内容生态与治理体系，高度依赖约6万名无薪酬的志愿版主与1%的核心内容创作者。2023年API收费调整引发大规模抗议，超过8800个社区暂时关闭，反映出这一模式的潜在风险。</span></li><span>  </span><li><span>AI是双刃剑：AI发展为Reddit带来了数据授权收入和估值提升，但也对其搜索流量构成压力。此外，AI生成内容正在渗入平台，可能影响其最核心的真实用户对话生态。</span></li><span>  </span><li><span>上市后的根本矛盾：Reddit最值钱的东西，恰恰来自用户最抗拒被商业化的那种文化。商业化走得越深，就越可能磨损掉这份资产。</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="3">00:03</a> 没死就是赢：一个论坛的二十年漂流</span></p><span></span><p><span><a class="timestamp" data-timestamp="245">04:05</a> 连亏19年无人问津，AI时代一朝手握金矿</span></p><span></span><p><span><a class="timestamp" data-timestamp="558">09:18</a> 为什么没人能复制Reddit</span></p><span></span><p><span><a class="timestamp" data-timestamp="823">13:43</a> 光鲜背后：情怀带来了最深的护城河和最脆弱的软肋</span></p><span></span><p><span><a class="timestamp" data-timestamp="939">15:39</a> 成也AI，败也AI</span></p><span></span><p><span><a class="timestamp" data-timestamp="1080">18:00</a> 终身饭票，还是限时入场券</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/luFbwUs5NVfzclNBB8hzO1uI4n2v.m4a" length="18682367" type="audio/mp4"/>
+    <itunes:duration>00:19:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E41|安踏:从晋江制鞋厂到全球第三</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c383e84ca458dd44433fea</link>
+    <guid isPermaLink="false">69c383e84ca458dd44433fea</guid>
+    <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>从"beta"到"alpha": 撕掉“晋江平价鞋厂”标签，2024年全体系营收超910亿元，通过多品牌战略与单一主市场解绑，走出全球化驱动的独立增长行情。</span></li><span>  </span><li><span>代际消费的终极容器: 这是一张“消费升级时间期权”，垄断了从县域到一二线的全层级运动消费增量。</span></li><span>  </span><li><span>“三不重叠”的消费闭环: 正在构建全赛道品牌生态，致力于把每一笔运动消费都留在平台矩阵内流转。</span></li><span>  </span><li><span>&nbsp;隐形护城河（经营杠杆): 极致的供应链成本纪律，不同于同行粗放扩张，行业红利可高效转化为净利润。</span></li><span>  </span><li><span>极致运营效率: 2023年现金转换周期93天，稳居全球运动集团头部水平，优于阿迪达斯、彪马。</span></li><span>  </span><li><span>潜在风险与博弈: 需警惕主品牌增长失速、高端调性稀释，以及全球化布局的地缘与监管长期压力。</span></li><span>  </span><li><span>多重挑战: 直面行业内卷、国际巨头挤压与全球化布局的复杂外部博弈 。</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="16">00:16</a> 从0到1: 渠道筑基与品牌觉醒（1987—1999）</span></p><span></span><p><span><a class="timestamp" data-timestamp="225">03:45</a> 从1到10: 规模化扩张与上市筑基（2001—2007）</span></p><span></span><p><span><a class="timestamp" data-timestamp="312">05:12</a> 穿越周期: 行业危机与零售转型（2008—2015）</span></p><span></span><p><span><a class="timestamp" data-timestamp="438">07:18</a> 破界增长: 多品牌矩阵成型（2009—2018）</span></p><span></span><p><span><a class="timestamp" data-timestamp="595">09:55</a> 全球跨越: 从中国第一到全球第三（2019—2026）</span></p><span></span><p><span><a class="timestamp" data-timestamp="736">12:16</a> 全价格带品牌矩阵: 无死角的赛道覆盖</span></p><span></span><p><span><a class="timestamp" data-timestamp="839">13:59</a> 全链路供应链管控: 93天现金转换周期的底层逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="1089">18:09</a> 本土化运营赋能: 收购品牌的重生方法论</span></p><span></span><p><span><a class="timestamp" data-timestamp="1222">20:22</a> 长期主义根基: 上下游与员工管理的共赢逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="1275">21:15</a> 增长分化: 基本盘增长乏力，增量高度依赖高景气品牌</span></p><span></span><p><span><a class="timestamp" data-timestamp="1351">22:31</a> 多品牌与全球化的核心隐忧</span></p><span></span><p><span><a class="timestamp" data-timestamp="1534">25:34</a> 北美市场的豪赌: 机遇与挑战并存</span></p><span></span><p><span><a class="timestamp" data-timestamp="1710">28:30</a> 总结</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lrc8xaXboWlbz4Z3vrIUsa2li1T2.m4a" length="27947671" type="audio/mp4"/>
+    <itunes:duration>00:28:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E40|Roblox:不做游戏的游戏公司</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ba58e27db61f79fc582c22</link>
+    <guid isPermaLink="false">69ba58e27db61f79fc582c22</guid>
+    <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>底层逻辑：不做内容、只印钞票、收过路费、铺水电煤，一套让自己永远旱涝保收的平台经济学。</span></li><span>  </span><li><span>财务"悖论"：报表年亏10亿美元，口袋里却躺着十三亿现金流。先收钱、分 27 个月确认收入的递延模型，沉淀出约 19 亿美元的无息资金池。</span></li><span>  </span><li><span>用户迭代：近半用户已成年，最大单一年龄群是 17–24 岁。与其说平台在"破圈"，不如说第一代玩家长大了，但没有离场。</span></li><span>  </span><li><span>新叙事：AI 让开发者把精力从重复劳动转向核心创意，Shopify 让虚拟橱窗能发实体快递，两条线共同将天花板从"虚拟货币充值"推向万亿级电商。</span></li><span>  </span><li><span>悬顶之剑：七州起诉、儿童安全报告六年暴增 36 倍。合规重塑是品牌广告推进的前提，但法律风暴的终局尚未落定。</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="67">01:07</a>Roblox 发展历程：从物理教具到虚拟世界的拓荒</span></p><span></span><p><span><a class="timestamp" data-timestamp="406">06:46</a>商业模式与财务模型：一台高杠杆的"现金流机器"</span></p><span></span><p><span><a class="timestamp" data-timestamp="841">14:01</a>短暂的高峰与漫长的低谷：上市狂欢与股价腰斩（2021.11–2025 年中）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1176">19:36</a>复苏信号与人工智能叙事：跨越周期的绝对护城河</span></p><span></span><p><span><a class="timestamp" data-timestamp="1643">27:23</a>陷入技术与安全风波：巨头成长的达摩克利斯之剑</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lgfYfQ5rwINAtF0V0K5ML9A7jkKm.m4a" length="32212761" type="audio/mp4"/>
+    <itunes:duration>00:33:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E39|Service Now:是否能成为 AI 时代的企业神经中枢</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69aa75575b2d0ed06993b6fd</link>
+    <guid isPermaLink="false">69aa75575b2d0ed06993b6fd</guid>
+    <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>ServiceNow 的核心壁垒是 Now Platform 沉淀的企业级数据图谱与跨系统执行能力——组织结构、权限体系、变更历史，是 AI Agent 落地治理的天然底座。最大风险是交互入口被巨头卡位，若退化为后台执行层则丧失定价权。</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="36">00:36</a> 基本概览情况</span></p><span></span><p><span><a class="timestamp" data-timestamp="176">02:56</a> 创立背景</span></p><span></span><p><span><a class="timestamp" data-timestamp="235">03:55</a> 几大核心产品线的介绍，技术、员工、客户以及创造者工作流</span></p><span></span><p><span><a class="timestamp" data-timestamp="416">06:56</a> 在过去的四大关键决策</span></p><span></span><p><span><a class="timestamp" data-timestamp="698">11:38</a> 在AI上做的怎么样</span></p><span></span><p><span><a class="timestamp" data-timestamp="1100">18:20</a> AI 时代下，NOW 还是结构性公司吗，质疑&amp;判断？</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lgqTvv5bmeIAaVhEx93LtbM3Aeyj.m4a" length="26946030" type="audio/mp4"/>
+    <itunes:duration>00:27:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E38|Polymarket &amp; Kalshi:可量化的数据真理引擎</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/698c210b66e2c30377f95859</link>
+    <guid isPermaLink="false">698c210b66e2c30377f95859</guid>
+    <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>预测市场的核心创新在于"价格即概率": 通过真金白银的市场博弈,将全球分散的判断聚合成单一的、实时的量化概率。</span></li><span>  </span><li><span>这是一个由多个庞大市场叠加而成的颠覆性机会：从3000亿美元的全球博彩市场切入,延展至1400亿美元的信息服务,终极愿景是数万亿美元的金融对冲市场——为传统工具无法覆盖的"长尾"风险提供定制化解决方案。</span></li><span>  </span><li><span>Polymarket vs. Kalshi 代表两条截然不同的路径: 前者是区块链驱动的全球化"野蛮创新者",后者是拥有CFTC全牌照的"合规好学生"。两者分别获得加密世界和华尔街顶级资本支持,估值均已在百亿美元级别。</span></li><span>  </span><li><span>2025年竞争格局发生戏剧性逆转: Kalshi 通过"嵌入式金融"战略(整合Robinhood等券商)和机构准入优势,将市场份额从个位数提升至与Polymarket平分秋色;同期Polymarket通过收购和监管突破向合规迈进。</span></li><span>  </span><li><span>预测市场的故事才刚刚开始: Polymarket vs. Kalshi 之间是"野蛮创新"与"合规科技"的范式之争。Polymarket需证明其能"大到不能被忽视",Kalshi需证明其在渠道之外的创新力。真正的赢家是这个将集体智慧转化为可量化真理的赛道本身。</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="116">01:56</a> 核心机制：价格即概率的零和博弈</span></p><span></span><p><span><a class="timestamp" data-timestamp="406">06:46</a> 想象空间：万亿美金的颠覆性机会</span></p><span></span><p><span><a class="timestamp" data-timestamp="619">10:19</a> 冰与火之歌：Polymarket vs Kalshi</span></p><span></span><p><span><a class="timestamp" data-timestamp="1282">21:22</a>格局逆转：一场"特洛伊木马"式的奇袭</span></p><span></span><p><span><a class="timestamp" data-timestamp="1618">26:58</a>谁主沉浮：预测市场的故事，才写到第一章</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/lvp8TSjJTq33OkjDBYvfRdaYqyJF.m4a" length="23597385" type="audio/mp4"/>
+    <itunes:duration>00:24:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E37|Robinhood:从散户「赌场」到年轻人的嘉信理财</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69732473ef1cf272a70758e1</link>
+    <guid isPermaLink="false">69732473ef1cf272a70758e1</guid>
+    <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><ul><span>  </span><li><span>多重挑战：直面密度、供应链与消费习惯变化的复杂的外部博弈</span></li><span>  </span><li><span>从“beta”到“alpha”: 撕掉“散户赌场”标签，2025 年净利润达 17 亿美元。通过业务多元化与单一资产（BTC/大盘）解绑，走出由执行力驱动的独立行情</span></li><span>  </span><li><span>代际财富的终极容器: 这是一张“时间期权”。相比嘉信理财（58岁），Robinhood 垄断了 1100 万年轻增量（34岁），押注这群人将取代父辈成为财富新主</span></li><span>  </span><li><span>“六线作战”的资金闭环: 正在构建一个严密的资金生态，致力于把每一分钱都留在平台内部流转</span></li><span>  </span><li><span>隐形护城河（经营杠杆): 展现极致的成本纪律。不同于对手的扩张，其运营支出保持平稳，牛市红利将高效转化为实打实的净利润</span></li><span>  </span><li><span>潜在风险与博弈: 需警惕“代际迁移失败”（用户变富后流失）、补贴策略不可持续，以及 PFOF 模式的长期监管压力</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="52">00:52</a> Robinhood本质上基因的突变：从多巴胺赌场到高长印钞机</span></p><span></span><p><span><a class="timestamp" data-timestamp="99">01:39</a> 30亿美元的成人礼：T+2 结算机制的崩溃</span></p><span></span><p><span><a class="timestamp" data-timestamp="492">08:12</a> 贝塔的幻觉与阿尔法的真相</span></p><span></span><p><span><a class="timestamp" data-timestamp="598">09:58</a> 商业飞轮：金融超级 App 的六大核心战场</span></p><span></span><p><span><a class="timestamp" data-timestamp="1318">21:58</a> 组织与人：硅谷“挑战者”的单总经理制</span></p><span></span><p><span><a class="timestamp" data-timestamp="1418">23:38</a> 结构性风险与投资博弈</span></p><span></span><p><span><a class="timestamp" data-timestamp="1451">24:11</a>对Robin hood的核心判断：基于关键假设的长期期权</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/li0S2lJvyMV3Uo_bcohZ1kYP_xJC.m4a" length="24211781" type="audio/mp4"/>
+    <itunes:duration>00:24:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>分享E36|维益食品(Rich Products):永不上市的食品巨头</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6969e108109824f9e1cc38c0</link>
+    <guid isPermaLink="false">6969e108109824f9e1cc38c0</guid>
+    <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>【本期内容】</span></p><span></span><p><span>多个第一</span></p><span></span><ul><span>  </span><li><span>用植物油代替乳脂的打发奶油发明者</span></li><span>  </span><li><span>首个购买NFL球队体育场冠名权的公司：1973年，公司以150万美元买下布法罗比尔队体育场的25年的冠名权，这是NFL历史上首个出售体育场冠名权的案例，当时也仅有他一家参与竞标</span></li><span>  </span><li><span>中国第一家规模化生产冷冻蛋糕的公司</span></li><span></span></ul><span></span><p><span>隐形巨头</span></p><span></span><ul><span>  </span><li><span>维益食品集团是纽约州布法罗市一家年销售额超60亿美元的食品巨头，《福布斯》对这家大型食品集团估值超70亿美元</span></li><span>  </span><li><span>里奇家族的核心原则是保持家族对公司100%的控制权，创始人坚信“这样才能自由、快速地做出决策，也能更快地推进业务。”</span></li><span></span></ul><span></span><p><span>【你将听到】</span></p><span></span><p><span><a class="timestamp" data-timestamp="92">01:32</a> 首款非乳制打发奶油顶料，即植物奶油诞生</span></p><span></span><p><span><a class="timestamp" data-timestamp="382">06:22</a> 二代接班</span></p><span></span><p><span><a class="timestamp" data-timestamp="560">09:20</a> 公司的并购和扩张</span></p><span></span><p><span><a class="timestamp" data-timestamp="806">13:26</a> 维益食品的产品矩阵</span></p><span></span><p><span><a class="timestamp" data-timestamp="1089">18:09</a> 营销与渠道打法</span></p><span></span><p><span><a class="timestamp" data-timestamp="1239">20:39</a> 中国业务发展</span></p><span></span><p><span><a class="timestamp" data-timestamp="1527">25:27</a> 高增背后的动因</span></p><span></span><p><span>【关于我们】</span></p><span></span><p><span>棕榈资本，成立于2017年，累计陪伴数十个头部项目完成多轮融资，实现了天使轮到独角兽的飞跃。我们致力于陪伴改变世界的新锐冒险家们一起成长，做他们融资和发展路上的最佳战友！</span></p><span></span><p><span>微信公众号：棕榈资本</span></p><span></span><p><span>联系我们：info@palmcapital.cn</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63fee75ecae2051fae125f66/li2UNAhrMQCSiSTnWmJf2T21zgjT.m4a" length="35210764" type="audio/mp4"/>
+    <itunes:duration>00:36:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvrAZixr-D1m11SKGU18BXGrgbSq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

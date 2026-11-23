@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AI前沿</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/677003ed1e823e72d379a102</link>
+  <description><![CDATA[初入 AI 领域，是不是感觉前路迷茫？别怕，AI 前沿闪亮登场！它仿若夜空中最耀眼的指引星辰，专为初级入门者与进阶求知者点亮 AI 知识的浩瀚夜空。精准聚焦 AI 最新动态，以简洁明快的方式呈现前沿进展，还贴心地配备音频收听功能，让你在忙碌生活中，只需戴上耳机，就能与 AI 前沿智慧“亲密接触”。所有内容来自网络，如有侵权，请联系删除
+
+━━━━━━━━━━━━━━━
+📢 更新节奏调整：本频道已改为每周一期，每周精选一集。
+🔥 想看每日更新？请移步日更频道「前沿AI讲」，每天一期不断更，AI 大事天天见，点下方链接直达关注：
+https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:36:43 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p677003ed1e823e72d379a102.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>AI前沿</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png</url>
+    <title>AI前沿</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/677003ed1e823e72d379a102</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>智谱蒸发万亿市值 | GLM | 大模型 | AI估值 | Kimi K3 | 月之暗面</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aeb4a2dc96c8942ec176a8a</link>
+    <guid isPermaLink="false">6aeb4a2dc96c8942ec176a8a</guid>
+    <pubDate>Mon, 16 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>智谱港股上市不到半年市值冲上1.33万亿港元，随后4个月跌去1.1万亿。模型能力没退步、收入增长4倍，市值为何缩水8成？本期拆解这场AI时代首次由公开市场完成的估值纠正：不到3%流通盘撑起的稀缺性溢价如何崩塌，Kimi K3发布后技术领先的保质期为何只有几个月，API业务在算力成本与价格战双向挤压下的单位经济模型困境，ZCode数据风波对开发者信任的冲击。文章总结5条投资启示：稀缺不是护城河、技术领先不等于持续领先能力、收入增长不等于价值增长、一二三级市场定价分裂是信号、跌幅不重要关键看生意能否继续长。</span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/-kgQ7_O84Jc" href="https://youtu.be/-kgQ7_O84Jc">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lqw7lDFL3esTEfpgWwG5CTPM43I4.m4a" length="15005014" type="audio/mp4"/>
+    <itunes:duration>00:15:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>如果AGI三年内到来，读博和终身教职还有意义吗 | AGI | Anthropic | 人工智能</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebfc1dc33509d8297668bd</link>
+    <guid isPermaLink="false">6aebfc1dc33509d8297668bd</guid>
+    <pubDate>Wed, 11 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Anthropic科学家、扩散模型早期研究者雅沙·索尔-迪克斯坦在斯坦福大学物理学与AI会议上的演讲近期引发热议。过去十年，最大模型的训练算力增长了约1000万倍，接近人脑一生的计算规模；AI能独立完成的软件任务时间跨度不到一年增长约10倍；过去约7个月，AI开始解决埃尔德什遗留的数学难题。如果AGI几年内到来，读博、博后、终身教职的传统规划还成立吗？他给出了自己的答案：把AI变成日常研究工具，但写作即思考，第一稿不能外包；选择能随算力增长持续增值的方向；在指数增长的早期，个人的小决策可能产生巨大的长期影响。</span></p><p></p><p><span><a data-url="https://youtu.be/3LZN2UUxDos?si=72K_OejJdPCyT5lI" href="https://youtu.be/3LZN2UUxDos?si=72K_OejJdPCyT5lI">youtu.be</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/kE8x3IUywNo" href="https://youtu.be/kE8x3IUywNo">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/loE8s-cxpjpZ616EYW2nF7NkesSF.m4a" length="15600369" type="audio/mp4"/>
+    <itunes:duration>00:16:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ChatGPT 负责人揭秘 Dots 与 Agent 时代​ | OpenAI</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebfa8cc33509d8297667b8</link>
+    <guid isPermaLink="false">6aebfa8cc33509d8297667b8</guid>
+    <pubDate>Tue, 10 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>OpenAI ChatGPT 与 Codex 负责人 Tibo Sottiaux 在 DevDay 2026 现场接受 Lenny's Podcast 专访，深度揭秘 Dots 个人 Agent 平台的孵化历程、Agent 主导互联网行为的未来趋势、开放生态插件经济机制，以及 OpenAI 在 Pacing the Frontier 安全策略上的具体实践。他分享了自己作为前 Google 工程师的日常变化（代码由 Codex 代写）、对 Loops/Graphs 配置化过渡态的批判、"好品味"取代"打字快"的招聘趋势，以及被 Dot 在直播前 5 分钟预警生产故障的亲身经历。核心观点：互联网多数行为将由 Agent 完成、模型成本与速度将迎来量级变化、多模态集成正在重塑交互范式。</span></p><p></p><p><span><a data-url="https://youtu.be/MM-C3JqCXBk?si=1-Odv4u5boiX5rTZ" href="https://youtu.be/MM-C3JqCXBk?si=1-Odv4u5boiX5rTZ">youtu.be</a>（</span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/Zn2E7JORjSM" href="https://youtu.be/Zn2E7JORjSM">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lgCNN3RZVg1W7IYgeSk_W4-qpDbK.m4a" length="16590773" type="audio/mp4"/>
+    <itunes:duration>00:17:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Super-agent：DeepSeek开源超级Agent底座​ | Agent架构</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebf8eac33509d8297666a3</link>
+    <guid isPermaLink="false">6aebf8eac33509d8297666a3</guid>
+    <pubDate>Mon, 09 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>2026 年 10 月 31 日，DeepSeek Harness 团队开源 Super-agent 架构原型 dsh-superagent-prototype。这套架构将计算机系统经典设计（双层调度、事件驱动过滤、存算分离、投机执行、Watchdog 自愈）系统化地应用到 Agent 架构中，试图解决当前 AI Agent 多任务上限受制于人类注意力的核心瓶颈。实验数据显示，在模拟多任务环境中，Super-agent 任务完成时间中位数 12.4 分钟，相比传统单会话方案的 29.5 分钟提升明显。目前原型支持接入 GitHub 和飞书，采用 MIT 协议开源，仍存在安全边界、长程记忆、跨 Agent 协作等待解决问题。​</span></p><p></p><p><span><a data-url="https://mp.weixin.qq.com/s/zoS7GlReWPhfCjENGxXCdg" href="https://mp.weixin.qq.com/s/zoS7GlReWPhfCjENGxXCdg">mp.weixin.qq.com</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/rPGyBXKlKdM" href="https://youtu.be/rPGyBXKlKdM">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lpNLWdlj43_IHKZoXfojoDWRsXjX.m4a" length="13495642" type="audio/mp4"/>
+    <itunes:duration>00:13:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>世界模型真的懂物理吗？ | Sonia Joseph | 可解释性 | 物理AI | JEPA |</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebf77c5ff72285878ee99a</link>
+    <guid isPermaLink="false">6aebf77c5ff72285878ee99a</guid>
+    <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期对话前 Meta 研究员、World Mechanics CEO Sonia Joseph，探讨世界模型与可解释性的深层关联。她提出没有可解释性就没有可靠的世界模型，物理世界与语言有本质差异，LLM 无法单独解决物理 AI 问题。节目详解 JEPA 架构在潜在空间预测的思路，以及其实验发现：物理变量以 60 维超球面形式纠缠表示，传统语言模型可解释性技术在模型上失效。</span></p><p></p><p><span><a data-url="https://www.youtube.com/live/-Vx6VKM0MoI?si=bHs_wl-TEXJUR6Sf" href="https://www.youtube.com/live/-Vx6VKM0MoI?si=bHs_wl-TEXJUR6Sf">www.youtube.com</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/TXcnAHNA0RU" href="https://youtu.be/TXcnAHNA0RU">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lloS6kb_G9WbwllObXuenA5fV_7e.m4a" length="11963985" type="audio/mp4"/>
+    <itunes:duration>00:12:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI无法改变债务必须偿还的铁律​ | 瑞·达利欧 | AI泡沫 | 桥水基金 | 美国国债</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebf62d5ff72285878ee89a</link>
+    <guid isPermaLink="false">6aebf62d5ff72285878ee89a</guid>
+    <pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>桥水基金创始人瑞·达利欧在《大西洋月刊》CEO尼古拉斯·汤普森的播客中，系统讲了他为什么认为AI是泡沫。他先给出驱动历史的五种力量框架，回顾自己用规则化系统管理桥水的经历，再论证泡沫的机制：财富不等于货币，账面财富的膨胀必然需要现金来兑现，而财富税、大型IPO、高杠杆头寸都可能成为刺破泡沫的那根针。他同时给出美国财政的硬数据——年支出7万亿美元、收入5万亿美元、债务已达收入的6倍、利息占赤字一半，并回应"生产力飞跃能化解债务"的乐观论：生产力奇迹不会自动变成财政收入。谈到中美差异，他认为中国把AI当作电力自来水式的基础设施，而美国是利润驱动。他给出的政策主张是把赤字压到GDP的3%以下，给个人的建议则是别把全部身家押在单一标的上。</span></p><p></p><p><span><a data-url="https://www.youtube.com/watch?v=OAN7gQlescA" href="https://www.youtube.com/watch?v=OAN7gQlescA">www.youtube.com</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/OV6pGyQlLQg" href="https://youtu.be/OV6pGyQlLQg">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lnVMWbWNlxr0_IbRRdBQtmSpV85N.m4a" length="20441677" type="audio/mp4"/>
+    <itunes:duration>00:21:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ETH错了，OpenAI 推翻计算机理论25年地基 | 指数时间假说 | 3-SAT</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebf436c33509d82976637b</link>
+    <guid isPermaLink="false">6aebf436c33509d82976637b</guid>
+    <pubDate>Fri, 06 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>OpenAI 与 Anthropic 同日发布论文与机器验证代码，宣布支撑理论计算机科学 25 年的指数时间假说（ETH）被推翻。新算法用多项式替换、交换矩阵与埃尔米特插值，把 k-SAT 精确计数的时间压到指数位低于线性的亚指数区间，连带推翻 SETH、Gap-ETH、NSETH 与 #ETH。但按最乐观常数估算，新算法要到变量规模超过 10 的 79 次方才跑赢旧算法，现实场景中门锁仍然安全。真正被撼动的是几百篇建在 ETH 上的论文地基，以及数学界对"人类读懂 AI 证明"这套评价机制的重新讨论。</span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/G88KlqS7Du4" href="https://youtu.be/G88KlqS7Du4">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lkLheh55bpR77p4QZIqMrIqQrwmF.m4a" length="14548146" type="audio/mp4"/>
+    <itunes:duration>00:14:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>OpenAI差点放弃Token计价 | Sam Altman | Token计价</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebf2adc33509d82976624f</link>
+    <guid isPermaLink="false">6aebf2adc33509d82976624f</guid>
+    <pubDate>Thu, 05 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Sam Altman做客John Collison的播客，进行了一场信息量极大的对谈。他解释了PHP漏洞为何集中爆发，坦言行业没向公众讲清AI的价值；聊到沙箱的边界与Agent团队的对齐价值，直言宁愿让1万亿个略超人类的AI融入社会，也不愿面对1个万亿智商的超级AI。他还披露了纳维-斯托克斯证明耗资约1000万美元、一年后重跑只需1%成本，内存厂商年赚约1000亿美元自由现金流却不敢扩产，Stripe的Token支出仅占运营支出1%。最后他承认，OpenAI差点决定新模型不再按Token计价，被客户激烈反对才作罢。本期完整梳理这场对话。</span></p><p></p><p><span><a data-url="https://youtu.be/iMsUcCYNKqY?si=rRsT0qunHtlh7Gw7" href="https://youtu.be/iMsUcCYNKqY?si=rRsT0qunHtlh7Gw7">youtu.be</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/nLNy0VBvAUI" href="https://youtu.be/nLNy0VBvAUI">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/llNSpP6uXHLzQKk5oFrgwZyggh9w.m4a" length="20355010" type="audio/mp4"/>
+    <itunes:duration>00:20:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Amodei兄妹：超级智能AI的崛起与人类命运 | Anthropic | Claude</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aebea4dc33509d829765c09</link>
+    <guid isPermaLink="false">6aebea4dc33509d829765c09</guid>
+    <pubDate>Thu, 05 Nov 2026 02:33:39 +0000</pubDate>
+    <description><![CDATA[<p><span>艾萨克森新访谈节目 The Builders 对话 Anthropic 创始人 Amodei 兄妹。从乔布斯"科学与人文"的交叉路口谈起，兄妹俩讲述了7位联合创始人全员留下的信任文化、Claude 宪法背后"原则优于规则"的训练哲学，以及 GPT-2 时刻为何让达里奥当场恐惧。访谈还涉及离开 OpenAI 的信任破裂、AI 的迎合与欺骗倾向、自主武器红线、脑机接口与后 AGI 时代人类意义的来源。​</span></p><p></p><p><span><a data-url="https://www.youtube.com/watch?v=1OdoSzfUkec" href="https://www.youtube.com/watch?v=1OdoSzfUkec">www.youtube.com</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/h0USFfDArK4" href="https://youtu.be/h0USFfDArK4">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/ltH__h0LHlDYc74BbEOwgE2wMsx_.m4a" length="19248534" type="audio/mp4"/>
+    <itunes:duration>00:19:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>黄仁勋算账：AI收入撑得起几万亿美元的资本开支吗​ | 黄仁勋 | 英伟达 | AI泡沫</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6adc893697726cd46756fe17</link>
+    <guid isPermaLink="false">6adc893697726cd46756fe17</guid>
+    <pubDate>Wed, 04 Nov 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>黄仁勋第三次做客BG2 Pod，正面回应市场最焦虑的问题：AI收入撑不撑得起几万亿美元的资本开支？他认为市场盯错了地方，不该把回本压力全压在OpenAI和Anthropic身上。本期梳理他的核心判断：推理让算力需求走向十亿倍增长，外骨骼让AI长出记忆和工具；物理AI半年做了100亿美元，千亿美元的说法是他说少了；明年的瓶颈不在芯片，而在土地、电力和厂房；英伟达的生意其实三分天下，传统计算、AI实验室、几千家创业公司各占一块；到这个十年末，全球每年基础设施投入将接近4万亿美元。最后他说，对未来五年有99.99%的把握。</span></p><p></p><p><span><a data-url="https://youtu.be/eS7qQ3WJSrw?si=oP6Vtw28vK_FnSDS" href="https://youtu.be/eS7qQ3WJSrw?si=oP6Vtw28vK_FnSDS">youtu.be</a></span></p><p></p><p><span>原视频来自：<a data-url="https://youtu.be/8IOqkjte3no" href="https://youtu.be/8IOqkjte3no">youtu.be</a></span></p><p></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注。</span></p><p></p><p><span>📢 本频道每周一期，每周精选一集；想每天听？日更新频道「前沿AI讲」：<a data-url="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046" href="https://www.xiaoyuzhoufm.com/podcast/69e2ec3461d15cec6704e046">www.xiaoyuzhoufm.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/luUGXhsYMDmF3BQZAvNZRYAG7xKx.m4a" length="20002259" type="audio/mp4"/>
+    <itunes:duration>00:20:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>OpenAI DevDay 2026：Dots登场，AI从工具变同事 | GPT-6.1 Sol</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad394760e4e410a05be6288</link>
+    <guid isPermaLink="false">6ad394760e4e410a05be6288</guid>
+    <pubDate>Fri, 30 Oct 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>OpenAI DevDay 2026发布二十余项重磅更新。核心产品Dots是全天候在线智能体，由GPT-6 Astra驱动，拥有独立云端电脑与浏览器，可7×24小时自主推进任务，遇关键决策再请示用户，首批面向Pro与企业版用户开放。新模型GPT-6.1 Sol以旗舰Astra五分之一的价格提供接近旗舰的能力，Ultrafast模式将推理速度提升8倍至每秒300Token。协作空间ChatGPT Space让人机在同一页面协同工作。订阅体系重构，新增500美元Pro 500档位，Pro 200权益下调。此外还有Codex云端化、Agents API、Private Intelligence等开发者工具更新，以及Sign in with ChatGPT、应用市场等平台化布局，标志着AI正从问答工具向数字同事深度转变。</span></p><p><span>11. <a data-url="https://www.youtube.com/live/Fls_onRviPM?si=CPnvUl7vwpXhwIvp" href="https://www.youtube.com/live/Fls_onRviPM?si=CPnvUl7vwpXhwIvp">www.youtube.com</a></span></p><p><span>原视频来自：<a data-url="https://youtu.be/nmU272u2hVQ" href="https://youtu.be/nmU272u2hVQ">youtu.be</a></span></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注，来自播客AI前沿</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/ljBcfpCbsemkQjuXMeUCrqPJJc60.m4a" length="19836243" type="audio/mp4"/>
+    <itunes:duration>00:20:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>中国AI基础设施热潮 | 数据中心 | 东数西算 | 字节跳动 | 阿里云 | 腾讯云 | 人工智能</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad39354641ef406308d2afb</link>
+    <guid isPermaLink="false">6ad39354641ef406308d2afb</guid>
+    <pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>深度解析中国AI基础设施热潮的真实面貌。基于SemiAnalysis最新发布的中国数据中心模型，从24GW的市场规模、四阶段产业发展史、东数西算政策的传导机制、12个月交付百兆瓦级设施的建设速度与成本优势，到字节跳动、阿里、腾讯、百度、华为五大超大规模厂商的差异化战略与数据中心布局，以及2029年海外4GW的扩张路径，逐一拆解高空置率与AI算力短缺并存的市场真相，展望2030年21GW的总量前景。</span></p><p><span>原视频来自：<a data-url="https://youtu.be/K2lkhD-Oitc" href="https://youtu.be/K2lkhD-Oitc">youtu.be</a></span></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注，来自播客AI前沿</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lkRZ2YU5YoU3TS0f7QY1DiehB4iC.m4a" length="33248789" type="audio/mp4"/>
+    <itunes:duration>00:34:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>82亿美元的质疑：AMD买World Labs到底值不值 | 苏姿丰 | 李飞飞 | 物理AI</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad390c10e4e410a05be612f</link>
+    <guid isPermaLink="false">6ad390c10e4e410a05be612f</guid>
+    <pubDate>Wed, 28 Oct 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期从质疑视角解读AMD 82亿美元收购World Labs交易。从市场第一反应（AMD股价下跌3.61%）和估值溢价（7个月从50亿跳到82亿）切入，逐一拆解四大核心疑问：World Labs的技术成熟度、AMD垂直整合逻辑能否跑通、定价是否合理、李飞飞在芯片公司内的实际影响力。同时呈现乐观面：李飞飞从ImageNet到World Labs的研究脉络、Atlas模型的技术路线、"物理认知绝壁"和"真实数据荒漠"的行业痛点。结合彭博社采访，呈现苏姿丰与李飞飞关于商业模式、开源路线、AI安全和第三方评估的首次联合回应。给出两个后续观察指标，让时间来验证这笔交易到底是战略远见还是恐慌性出价。</span></p><p><span><a data-url="https://youtu.be/-BKzNOIF6-4" href="https://youtu.be/-BKzNOIF6-4">youtu.be</a></span></p><p><span>原视频来自：<a data-url="https://youtu.be/FAiG6bf_e4E" href="https://youtu.be/FAiG6bf_e4E">youtu.be</a></span></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注，来自播客AI前沿</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lnJiif4L_YAvVSdWmOA70LX_gXmb.m4a" length="15306338" type="audio/mp4"/>
+    <itunes:duration>00:15:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI如何改写经济未来​ | AI经济影响 | Anthropic经济模型 | 变革性AI</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad38f28641ef406308d292d</link>
+    <guid isPermaLink="false">6ad38f28641ef406308d292d</guid>
+    <pubDate>Tue, 27 Oct 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Anthropic研究所发布《变革性AI的经济情景》报告，由经济学家安东·科里涅克和查尔斯·琼斯等人构建统一框架，将AI对经济的影响拆解为任务层面的自动化、增强和新任务创造，推演出2030年美国经济的三种可能：温和情景下GDP微增1.6%几乎无感；显著情景下GDP增8.3%但脑力劳动者工资停滞；极端情景下GDP年增速达15%但近五分之一脑力劳动者失业，劳动收入份额从60%暴跌至45%。对一万多名美国成年人的调查显示，公众中位数预期落在显著变革情景附近。报告指出挑战不在于做大蛋糕，而在于如何让增长红利惠及承担代价的劳动者。</span></p><p><span>原视频来自：<a data-url="https://youtu.be/L1PVSUtXqew" href="https://youtu.be/L1PVSUtXqew">youtu.be</a></span></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注，来自播客AI前沿</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/lnBtywoy9ehfh6MqbhWVyrdryOZP.m4a" length="14301808" type="audio/mp4"/>
+    <itunes:duration>00:14:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>就业不会被AI摧毁​ | 白宫顾问David Friedberg | 美国经济 | 社会主义</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad38e1c641ef406308d2831</link>
+    <guid isPermaLink="false">6ad38e1c641ef406308d2831</guid>
+    <pubDate>Mon, 26 Oct 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期解读白宫科技顾问大卫·弗里德伯格深度访谈。他指出63%美国人月光族，政府干预反而推高教育、医疗、住房成本，社会主义在美国几乎不可避免。他提出核心指标应是每年多少人从劳动力转变为资本拥有者，批评财富税是资产没收，主张资本利得与劳动所得税率持平。AI方面他不信就业会被摧毁，以历次技术革命证明蛋糕总在变大，批评AI公司CEO前后矛盾，坚定支持开源AI打破垄断。生命科学领域详解表观遗传重编程抗衰老机制，AI将新疗法成功率从1%提升至75%。预测2028年AOC当选，但坚信人类正进入AI驱动的黄金时代。</span></p><p><span><a data-url="https://www.youtube.com/watch?v=OYg6BTjb90E" href="https://www.youtube.com/watch?v=OYg6BTjb90E">www.youtube.com</a></span></p><p><span>原视频来自：<a data-url="https://youtu.be/R6674TpUr_g" href="https://youtu.be/R6674TpUr_g">youtu.be</a></span></p><p><span>聊天讨论群，可加微信gxjdian入群，需备注，来自播客AI前沿</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/677003ed1e823e72d379a102/ln-N2veM83CJe8u74zLaQ1ltaKWJ.m4a" length="18903861" type="audio/mp4"/>
+    <itunes:duration>00:19:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoIfNX9RQacfiF8FdfV614QkGhDN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

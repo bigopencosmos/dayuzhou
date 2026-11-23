@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>东张张西望望</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/622c5d64d9985ffdf1ac00fe</link>
+  <description><![CDATA[一对不常见面的表姐妹，用「东张张西望望」，提醒自己对身边正在发生的商业事件保持清醒，也希望能够帮助你，浅浅了解商业投资的前因后果。
+
+主播表姐Cherry，毕业于北京大学，法学、金融学本硕连读。在风险投资圈驰骋十余年，作为投资人在新消费、互联网金融、企业大数据等B2B领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多初创企业完成多轮融资。
+
+表妹Stephy，ex-Blue Bottle(Brand OG), 十五年品牌传播/公关/营销，横跨消费、科技与投资行业，创过业打过工，对层出不穷的商业现象持续好奇。
+
+两人在“甩头”张望之余，坐下来分享各自的迷思和想法。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:03:58 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p622c5d64d9985ffdf1ac00fe.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Stephyliu</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg</url>
+    <title>东张张西望望</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/622c5d64d9985ffdf1ac00fe</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>012. 具身智能降温？先别后空翻了，资本在等机器人真正“干活”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af9c06dfe62f8f52c4b96da</link>
+    <guid isPermaLink="false">6af9c06dfe62f8f52c4b96da</guid>
+    <pubDate>Sun, 15 Nov 2026 14:30:17 +0000</pubDate>
+    <description><![CDATA[<p><span>前阵炙手可热的具身智能，最近资本突然说：“对不起，我们不投了。”</span></p><p><span>机器人真的不香了吗？还是资本终于从 FOMO 回到了算账阶段？</span></p><p><span>我们从一级市场对具身智能的投资降温聊起：</span><strong><span>为什么大模型曾经让投资人重新相信机器人？引发这轮降温的是“哪根稻草”？当估值开始回调，资本在看什么？智元机器人这样的头部玩家，又为什么依然值得关注？</span></strong></p><p><span>当然，消费者关心的问题是“机器人到底能做啥？为什么我要花几万甚至十几万买一个？什么时候它才能不只会后空翻，而是真的开始干活？”</span></p><p><span>聊到最近很热的 以</span><strong><span>Today AI</span></strong><span>为例的 Personal Agent，当 AI 开始了解你、记住你，甚至替你执行任务，我们到底愿意交出多少权限？如果是 </span><strong><span>Muse </span></strong><span>(by Meta)这样的成熟平台来做 Agent，我们会不会天然更容易相信它？</span></p><p><span>从具身智能到 Personal Agent，从一级市场的投资逻辑，到消费者最实在的问题——“这到底是不是一个真实需求”，这集我们继续一起东张张西望望。</span></p><p><strong><span>+本集剧透时间线+</span></strong></p><p><span><a class="timestamp" data-timestamp="21">00:21</a> “对不起，我们不投具身智能了”：一级市场怎么突然变脸？</span></p><p><span><a class="timestamp" data-timestamp="107">01:47</a> 大模型出现之后，机器人到底发生了什么变化？</span></p><p><span><a class="timestamp" data-timestamp="351">05:51</a> 行业是真的凉了，还是估值跑得比技术快太多？</span></p><p><span><a class="timestamp" data-timestamp="464">07:44</a> 先别后空翻了，资本开始等机器人真正“干活”</span></p><p><span><a class="timestamp" data-timestamp="539">08:59</a> 智元机器人表现依然亮眼，为什么整个行业还是在降温？</span></p><p><span><a class="timestamp" data-timestamp="706">11:46</a>&nbsp; 资本还在看什么？灵巧手、传感器与上游供应链</span></p><p><span><a class="timestamp" data-timestamp="889">14:49</a> 消费者灵魂拷问——我到底为什么需要一台机器人？</span></p><p><span><a class="timestamp" data-timestamp="975">16:15</a> 机器人 + Agent，未来一顿辣椒炒肉是怎么做出来的？</span></p><p><span><a class="timestamp" data-timestamp="1063">17:43</a> 十几万的机器人，什么时候才能降到“一台手机的钱”？</span></p><p><span><a class="timestamp" data-timestamp="1160">19:20</a> Demo 很灵巧，真正干活可能几天就坏：消费级产品到底还差多远？</span></p><p><span><a class="timestamp" data-timestamp="1413">23:33</a> 从机器人到 Personal Agent，我为什么相信你？</span></p><p><span><a class="timestamp" data-timestamp="1579">26:19</a> “信任”本身就是品牌资产</span></p><p><span><a class="timestamp" data-timestamp="1625">27:05</a> 当 Agent 开始替你做决定，想象中的失控可能会发生在哪里？</span></p><p><span><a class="timestamp" data-timestamp="1685">28:05</a> 亲测 Today AI，想让它更懂我，需要先交出多少隐私和权限？</span></p><p><span><a class="timestamp" data-timestamp="1729">28:49</a>&nbsp; 从Muse聊我们为什么会天然觉得“大厂更靠谱”？</span></p><p><strong><span>+主播+</span></strong></p><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><p><span>Stephy刘琼蔚，好奇心长期在线、想把品牌和生意一起想明白的品牌营销从业者。Ex-Blue Bottle, 曾务工于国际顶尖公关公司/VC投资机构，为科技、消费等海外品牌进入和拓展中国市场、中国企业到海外去添砖加瓦。</span></p><p><strong><span>+互动方式+</span></strong></p><p><span>欢迎在评论区留言：）</span></p><p><span>或者去即刻抓</span><em><span>@StephyLiu</span></em></p><p><strong><span>+特别感谢+</span></strong></p><p><span>李一楠</span></p><p><strong><span>+音乐+</span></strong></p><p><span>September-Earth,Wind&amp;Fire</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/622c5d64d9985ffdf1ac00fe/lthRV7ctPwwOoqdUIaZWu7GQOyTn.m4a" length="31749134" type="audio/mp4"/>
+    <itunes:duration>00:32:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>12</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>011.你不知道的秘密：PLAUD AI背后，AI赋能消费硬件的真核心！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68c82bae2c82c9dcca853b07</link>
+    <guid isPermaLink="false">68c82bae2c82c9dcca853b07</guid>
+    <pubDate>Mon, 15 Sep 2025 15:13:30 +0000</pubDate>
+    <description><![CDATA[<p><span>🎉 Cherry姐重磅回归！这期我们彻底揭开AI消费硬件的“超能力”面纱 ！</span></p><span></span><p><span>过去人类发明轮子解放双脚，如今AI为每个设备注入灵魂。</span></p><span></span><p><span>本集节目，独家解密AI赋予消费硬件最核心的价值有哪些？我们从会思考的智能AI note——PLAUD AI的颠覆性创新，透视AI消费硬件的独特基因与原生形态。</span></p><span></span><p><span>1️⃣ AI消费硬件VS传统消费电子：为什么说它不是“加个芯片那么简单”？拆解大语言模型如何像炼丹炉般淬炼出对人类语言的理解力，让硬件从工具进化为“智能伙伴”。</span></p><span></span><p><span>2️⃣ 什么是真正的“原生AI硬件”？：不止于嫁接现有算法！我们探讨那些出生即自带大模型DNA的产品。</span></p><span></span><p><span>3️⃣ 脑洞大开的未来图景：当套被子机器人成为刚需、种花养草都被算法优化时，人类还剩哪些不可替代的价值？一边啃着科技瓜（比如LLM如何“炖”出语言魔力），一边畅想AI对生产力的极致解放。</span></p><span></span><p><span>💡 最后别急着溜，记得评论区安利你私藏的黑科技或者”梦中情机”，说不定下期就翻牌它！</span></p><span></span><p><strong><span>+本集剧透时间线+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="90">1:30</a> PLAUD AI产品的破局之道</span></p><span></span><p><span><a class="timestamp" data-timestamp="310">5:10</a> 录音笔竟然是多年来销量一直很稳定的产品</span></p><span></span><p><span><a class="timestamp" data-timestamp="420">7:00</a> 大语言模型LLM究竟是啥？相对于传统算法它的厉害之处有哪些？</span></p><span></span><p><span><a class="timestamp" data-timestamp="760">12:40</a> 投资视角下的AI硬件之争：先发优势VS技术壁垒</span></p><span></span><p><span><a class="timestamp" data-timestamp="1300">21:40</a> 不少消费硬件都习惯性先去Kickstarter首发的原因？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1390">23:10</a> 中国为什么没有”kickstarter”?</span></p><span></span><p><span><a class="timestamp" data-timestamp="1820">30:20</a> 期待消费硬件抓取捕捉生活中尚未被捕捉和数字化过的信息</span></p><span></span><p><span><a class="timestamp" data-timestamp="2000">33:20</a> 未来“有没有工作”和”是否还需要工作“ 会同时到来？</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播&amp;市场营销从业者。Ex-Blue Bottle, 还曾务工于国际顶尖公关公司/VC投资机构，为科技、消费等海外品牌进入和拓展中国市场、中国新创企业到海外去添砖加瓦。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><span>或者在即刻随时抓</span><em><span>@StephyLiu</span></em></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/622c5d64d9985ffdf1ac00fe/lt7c0AHQ5dUuW_fPHujh0QFtsPNy.m4a" length="50741249" type="audio/mp4"/>
+    <itunes:duration>00:34:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>010. 【复更回归】品牌力到底是不是伪命题？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/688f6c8dedf3fa32d5e6aafa</link>
+    <guid isPermaLink="false">688f6c8dedf3fa32d5e6aafa</guid>
+    <pubDate>Sun, 03 Aug 2025 14:07:27 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>+本集剧透+</span></strong></p><span></span><p><span>《东张张西望望》久违更新啦！由Stephy单口聊聊最近的观察🎧</span></p><span></span><p><span>🌱 回应朋友们总爱问的老问题：品牌怎么做？“品牌力”到底值不值钱？</span></p><span></span><p><span>📈 品牌力能估值吗？砸钱就有用吗？品牌的本质究竟是不是在做“用户长期关系”？</span></p><span></span><p><span>🐔 聊聊 Amazon 上卖宠物用品 vs 卖“鸡圈门”的两个朋友，为什么没品牌的商品反而跑得更快？</span></p><span></span><p><span>🏫 街头观察：动漫盲盒卡片成为学校门口小卖部经久不衰的“爆品”，渠道比品牌更重要吗？</span></p><span></span><p><span>🎯 反思：你得知道自己玩的是哪种游戏 —— 用品牌力换溢价，还是用动销能力换规模？</span></p><span></span><p><span>如果你对那些小众且特别有品牌力的“酷品牌”如何构建认知护城河、“消费品创业”的品牌打法、“To C营销”的现实挑战有兴趣，欢迎在评论区留言，下次 Cherry 姐还约不上的话，就继续单口聊嘿嘿😋</span></p><span></span><p><strong><span>+本集主播+</span></strong></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播营销人。曾服务于VC投资机构、消费品品牌和国际顶尖公关公司，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/622c5d64d9985ffdf1ac00fe/lkUDKvQd39XdV3VcdJ7UVk6S9HFR.m4a" length="13524293" type="audio/mp4"/>
+    <itunes:duration>00:09:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>10</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>009. 那些过万店的餐饮品牌们有啥了不起？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64f56faee490c5dee548f952</link>
+    <guid isPermaLink="false">64f56faee490c5dee548f952</guid>
+    <pubDate>Mon, 04 Sep 2023 05:48:28 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="228">03:48</a> 资本市场近期对消费行业的关注度为何下降了？</span></p><span></span><p><span><a class="timestamp" data-timestamp="360">06:00</a> 细数餐饮零售行业过万店的品牌们</span></p><span></span><p><span><a class="timestamp" data-timestamp="520">08:40</a> 拓店过万的中国品牌发展背后的助推力有哪些？</span></p><span></span><p><span><a class="timestamp" data-timestamp="810">13:30</a> 在保持口味的一致性的同时兼顾性价比，是对供应链的极高要求</span></p><span></span><p><span><a class="timestamp" data-timestamp="910">15:10</a> 茶饮占据中国万店品牌的半壁江山</span></p><span></span><p><span><a class="timestamp" data-timestamp="1290">21:30</a> 中国市场的连锁特许经营1.0和2.0</span></p><span></span><p><span><a class="timestamp" data-timestamp="1555">25:55</a> 小店模式反而不合适品牌直营？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1645">27:25</a> 连锁经营中的痛点们</span></p><span></span><p><span><a class="timestamp" data-timestamp="2010">33:30</a> 以跳海酒馆为例，“有温度”对于连锁品牌而言有多难？</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/nhxn5BG2Ku8JN7aCWzjd2VfdTxzV.mp3" length="53223871" type="audio/mpeg"/>
+    <itunes:duration>00:36:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>9</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>008. 下沉市场也开始“微醺”了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63e27a7de99bdef7d3372d5a</link>
+    <guid isPermaLink="false">63e27a7de99bdef7d3372d5a</guid>
+    <pubDate>Tue, 07 Feb 2023 16:21:17 +0000</pubDate>
+    <description><![CDATA[<p><span>近年来，低度酒增速显著并且渗透至下沉市场，线下便利店在三线及低线城市的拓展也起着推波助澜的作用。商超便利店的酒饮冷藏柜被低度酒占据半壁江山——三得利、RIO、空卡等等这些新老品牌不断推陈出新，果汁添加、0糖0脂肪…...口味和配料表货真价实在迭代中的低度酒们，市场拓展中需要克服的问题有哪些？他们究竟做的是谁的生意？在投资人眼中，低度酒产业的发展还有多大潜力？</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="150">02:30</a> 聊聊低度酒的市场拓展</span></p><span></span><p><span><a class="timestamp" data-timestamp="345">05:45</a> 国产品牌用价格打差异化的时机如何？</span></p><span></span><p><span><a class="timestamp" data-timestamp="520">08:40</a> “难喝”的问题被逐渐克服解决</span></p><span></span><p><span><a class="timestamp" data-timestamp="650">10:50</a> RIO怎样在低度酒场景当中进行细分？</span></p><span></span><p><span><a class="timestamp" data-timestamp="910">15:10</a> 酒的消费量跟生育率成反比？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1080">18:00</a> 对于低度酒而言，线上渠道只是线下的补充，便利店是最核心的渠道</span></p><span></span><p><span><a class="timestamp" data-timestamp="1284">21:24</a> 在线上购买低度酒的消费者越来越多意味着？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1345">22:25</a> （手动马赛克）</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpt4qlnRujfBzqQNbWO8XgTZipyQ.m4a" length="34080961" type="audio/mp4"/>
+    <itunes:duration>00:23:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>8</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>007. 前仆后继的椰子水是一门好生意吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6379fa5f882ce82fb6458a48</link>
+    <guid isPermaLink="false">6379fa5f882ce82fb6458a48</guid>
+    <pubDate>Sun, 20 Nov 2022 09:58:54 +0000</pubDate>
+    <description><![CDATA[<p><span>随着现制椰子水门店的涌现，椰子水是否会成为下一个投资风口？中研研究院《2020-2025年中国椰汁行业深度调研及投资前景预测研究报告》显示，中国市场对椰果的需求量每年高达26亿只，但海南省每年仅产椰子果2.5亿只，需要大量从东南亚进口；如何理解依赖大量进口的农产品其背后的行业壁垒？现制椰子水为何卖得比包装椰子水贵？本集节目我们浅浅聊了聊有关椰子水不同面向的思考。</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="80">01:20</a> 现制椰子水和包装椰子水口味上有差异吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="280">04:40</a> 从加糖的“健康饮料”椰树椰汁、六个核桃、王老吉到无糖饮料的发展</span></p><span></span><p><span><a class="timestamp" data-timestamp="580">09:40</a> 相较于现场“劈椰子”，在工厂完成处理即供应链标准化后，有利于产品的标准化</span></p><span></span><p><span><a class="timestamp" data-timestamp="700">11:40</a> 椰子作为需要依赖大量进口的农产品，它的行业壁垒在哪里？</span></p><span></span><p><span><a class="timestamp" data-timestamp="890">14:50</a> 现制椰子水和包装椰子水的定价逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="1020">17:00</a> 包装饮品不同价格区间的分析</span></p><span></span><p><span><a class="timestamp" data-timestamp="1120">18:40</a> 口味更多、成本上更容易控制进行规模化拓展，是椰子水赛道的核心点</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmQnvwpDU1k6EPp-RrbvKKfIEVeG.m4a" length="33575181" type="audio/mp4"/>
+    <itunes:duration>00:23:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>7</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>006. 增速极快的宠物行业，为何上市公司却寥寥无几？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6315f01be50e37575adb1d6f</link>
+    <guid isPermaLink="false">6315f01be50e37575adb1d6f</guid>
+    <pubDate>Mon, 05 Sep 2022 12:48:27 +0000</pubDate>
+    <description><![CDATA[<p><span>涵盖宠物粮、保健品、宠物美容、服装，宠物医疗、宠物寄养等等细分门类的宠物经济，每年行业增速极大，已经超过10%。根据中商产业研究院预测，2022年我国宠物数量达2.2亿只；随着国内人口结构和住房习惯的变化，未来宠物行业的体量或会越来越大——据艾瑞咨询《2021年中国宠物消费趋势白皮书》显示，2020年我国宠物行业市场规模接近3000亿元，未来三年中国宠物市场规模复合增速将保持在14.2%，到2023年规模将达到4456亿元，资本当然对其也是相当看好。然而，被视为朝阳产业的宠物行业，近十年一直没有出现上市公司的原因是什么？宠物行业发展的壁垒有哪些？伴随着发展潜力的拐点几时到来？</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="190">03:10</a> 今年我国的宠物数量已经超过不少国家的人口数</span></p><span></span><p><span><a class="timestamp" data-timestamp="280">04:40</a> 宠物行业被看好了很多年但一直没有出现上市公司的原因？</span></p><span></span><p><span><a class="timestamp" data-timestamp="640">10:40</a> 由于缺失“反应闭环”，宠物粮品牌更需要安全性上的自律（及监管）</span></p><span></span><p><span><a class="timestamp" data-timestamp="830">13:50</a> 行业创新——细分类目的迭代升级以及安全门槛的问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="1100">18:20</a> 资本市场如何看待宠物细分赛道不同的产品潜力？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1320">22:00</a> 冻干等新技术在宠物粮中的应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="1480">24:40</a> 直播缩短了宠物食品消费决策的路径</span></p><span></span><p><span><a class="timestamp" data-timestamp="1620">27:00</a> 对于宠物服务行业而言也是需要多年为一个周期形成行业壁垒</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lh9h3DOob0Yw-uHz90TyxrSgVhvW.m4a" length="39993357" type="audio/mp4"/>
+    <itunes:duration>00:27:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>6</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>005. 用科技材料主攻细分场景的“套路”，能让鞋品牌在红海中卷出来么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62dd3c8092f0689a31f50611</link>
+    <guid isPermaLink="false">62dd3c8092f0689a31f50611</guid>
+    <pubDate>Sun, 24 Jul 2022 12:35:11 +0000</pubDate>
+    <description><![CDATA[<p><span>主打舒适的可持续品牌Allbirds在2021年年底成功上市，这家仅成立七年的品牌可谓是为铆足了劲为“可持续”市场继续推波助澜。比它成立更早的一个中国休闲鞋品牌，创始人与Allbirds一样都是运动员出身，产品同样用创新可持续材料和穿着舒适来打动消费者，然而，这家中国公司在产品力已经获得投资人认可的同时，品牌力尚未发力... ... 这类认真做产品且在做好产品上面有供应链及壁垒积累的鞋品牌，究竟还能卷出多大的发展潜力？你更看好谁？</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="150">02:30</a> 新兴运动品牌在投资人的眼中究竟好在哪里？</span></p><span></span><p><span><a class="timestamp" data-timestamp="300">05:00</a> 打专业场景的有新意的产品更受大家欢迎</span></p><span></span><p><span><a class="timestamp" data-timestamp="520">08:40</a> 核心客群vs.营收表现</span></p><span></span><p><span><a class="timestamp" data-timestamp="930">15:30</a> 认真做产品且在做好产品上面有供应链及壁垒积累的消费品才有发展</span></p><span></span><p><span><a class="timestamp" data-timestamp="1065">17:45</a> 多走路有可能以后比Allbirds发展得更大？！</span></p><span></span><p><span><a class="timestamp" data-timestamp="1320">22:00</a> 在什么样的场景下消费品需要提升定价？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1510">25:10</a> 有关选址</span></p><span></span><p><span><a class="timestamp" data-timestamp="1740">29:00</a> DTC的优势在于可以大大缩短传统卖货的周期</span></p><span></span><p><span>*更新：多走路的网站已经可以打开了！</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsCqQK01Ps4l1wbncDsp9eGPWTiH.m4a" length="56999253" type="audio/mp4"/>
+    <itunes:duration>00:39:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>004. 万店齐开的卤味为何“主攻”鸭而不是鸡？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62a08cc3d02ea2b34ca88826</link>
+    <guid isPermaLink="false">62a08cc3d02ea2b34ca88826</guid>
+    <pubDate>Wed, 08 Jun 2022 11:49:23 +0000</pubDate>
+    <description><![CDATA[<p><span>++这集是在2022年5月的某个晚上录的，主播之一坐标上海，可想而知是淌着口水聊完这集的，剪辑的时候也是听到而吃不到的双重折磨，但值得记录下来提醒自己不能忘++</span></p><span></span><p><span>鸭脖、鸭架、鸭胗、鸭翅膀… …香气扑鼻沁人心脾的卤味店遍布大街小巷，仅绝味鸭脖在全国门店已经上万，而卤味赛道除了绝味还有并称“上市三巨头”的周黑鸭和煌上煌，规模都不容小觑。 据CBNData报道，2021年卤味相关融资事件数占小吃赛道融资事件总数的45%，那么近两年为什么资本看好卤味？带着这个问题，我们从消费场景、产品属性、供应链的流程管理、选址和消费客群等不同维度展开了讨论。希望你在听这集时，有卤味傍身。Bon appetit!</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="170">02:50</a> 周黑鸭和绝味的发展路线有什么不一样？</span></p><span></span><p><span><a class="timestamp" data-timestamp="290">04:50</a> 资本看好卤味赛道其背后的思考逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="340">05:40</a> 消费品想在规模上做大做强的核心点不是需求方而是…?</span></p><span></span><p><span><a class="timestamp" data-timestamp="550">09:10</a> 为何卤味“主攻”鸭而不是鸡？</span></p><span></span><p><span><a class="timestamp" data-timestamp="600">10:00</a> 预包装、保鲜装、散装、热卤四种产品形态的消费场景不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="900">15:00</a> 卤味品牌如何平衡华东、华南、华北、东北等等不同区域的口味差异？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1155">19:15</a> 热卤在拿捏“最佳风味”的时机和火候上要更下功夫</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lon8_NjZAzl7AMTnCxazowxTQOEO.m4a" length="32423139" type="audio/mp4"/>
+    <itunes:duration>00:22:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>003. 公路商店到底卖的是什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62530390d01d114df44b17fb</link>
+    <guid isPermaLink="false">62530390d01d114df44b17fb</guid>
+    <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><em><span>在上海lockdown的第11天，我们发布了这集节目，期待疫情后与大家和这座我们爱着的城市再次相聚。</span></em></p><span></span><p><em><span>===</span></em></p><span></span><p><span>梧桐树下的上海“巨富长”街区，众多年轻人聚集在「公路商店」门外的马路牙上喝酒聊天儿，官方称这样的现象为“夜间聚集型消费景观”，当然这样的现象并不只出现在某一天；当你好奇大家究竟在做啥的时候，每个人给到的答案或许不同。</span></p><span></span><p><span>公路商店是什么？亚文化社交平台、先锋社区共创、酒便利… … 我们无法用寥寥几个词去限定和定义，于是带着好奇心邀请到公路商店的联合创始人杨博渊来一起聊聊有关年轻人的消费符号和消费方式以及有关亚文化/先锋文化/青年文化的逻辑和商业化背后的思考。“时刻流动的面向年轻人个性化体现精神的小众的有野生生长力量的文化现象”这是博渊对于亚文化的理解和想象，本期半小时的对话，也希望能对你有启发。</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="100">01:40</a> 公路商店的由来</span></p><span></span><p><span><a class="timestamp" data-timestamp="200">03:20</a> 如何受到消费符号和青年文化的映射关系的启发？</span></p><span></span><p><span><a class="timestamp" data-timestamp="340">05:40</a> 先锋文化的商业化？</span></p><span></span><p><span><a class="timestamp" data-timestamp="525">08:45</a> 大众对先锋文化的疑惑是公路商店早期融资的难题，如何解决？</span></p><span></span><p><span><a class="timestamp" data-timestamp="720">12:00</a> 科技狂热其实也是“亚文化”</span></p><span></span><p><span><a class="timestamp" data-timestamp="840">14:00</a> 做App的目的不是为了社交，标签的创造者者就是用户自己</span></p><span></span><p><span><a class="timestamp" data-timestamp="1125">18:45</a> 迭代中的主流亚文化标签究竟有哪些？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1410">23:30</a> 线下卖酒的公路商店是如何打磨的？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1830">30:30</a> 先锋的本质不是做象牙塔而是带着大家往前走以及有人愿意跟着走</span></p><span></span><p><span><a class="timestamp" data-timestamp="2000">33:20</a> App的同款图标并没有在线下门店展示的背后思考</span></p><span></span><p><strong><span>+嘉宾+</span></strong></p><span></span><p><span>杨博渊：公路商店联合创始人</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p><span></span><p><strong><span>+音乐+</span></strong></p><span></span><p><span>Max Hixon —— Blueburst</span></p><span></span><p><span>Morphlexis —— Birthday Suite</span></p><span></span><p><span>邓丽君《甜蜜蜜》</span></p><span></span><p><span>窦唯</span><strong><span>《</span></strong><span>明天更漫长》</span></p><span></span><p><span>崔建</span><strong><span>《</span></strong><span>新长征路上的摇滚》</span></p><span></span><p><span>左小诅咒</span><strong><span> 《</span></strong><span>爱情的枪》</span></p><span></span><p><span>Evert·Z —— Punch It</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls1FOjfkAbS_TknpxHWBTo30kDLg.mp3" length="51489992" type="audio/mpeg"/>
+    <itunes:duration>00:35:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>002. 临期食品的商业潜力究竟有多大？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62375a20637f85054eb841e6</link>
+    <guid isPermaLink="false">62375a20637f85054eb841e6</guid>
+    <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>虽然长期以低价销售货品对品牌的伤害不小，但由于供给需求很难平衡，长期来看市场上还是有很多存货剩余，因此（进口）临期食品商店依旧遍地开花，社区型的街边店、商场店、办公楼店型等等屡见不鲜，好特卖、嗨特购等临期食品赛道“玩家”还多次获得资本的青睐。本期节目，我们来聊聊临期食品的商业潜力究竟有多大？</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="240">04:00</a> 临期食品的生命力很强但销售很难无限扩张，类比当年入驻唯品会的某些品牌</span></p><span></span><p><span><a class="timestamp" data-timestamp="385">06:25</a> 街边临期食品商店的货品与好特卖、嗨特购的不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="532">08:52</a> 水果、牛羊肉等刚需产品很适合，但很难支撑多店运营</span></p><span></span><p><span><a class="timestamp" data-timestamp="570">09:30</a> 社区店型、商场店型、办公楼店型以及综合类的店型，对于供应非刚需产品的临期食品商店，最好的店型是哪类？</span></p><span></span><p><span><a class="timestamp" data-timestamp="865">14:25</a> 进口临期零食只占30%-40%的原因是什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1032">17:12</a> 为何传统的超商、便利店没有开拓特别的区域来售卖临期商品？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1092">18:12</a> 经销商“串货”是线下销售渠道中品牌方最不愿意看到的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1205">20:05</a> 如何界定临期食品？</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj_qiwnWAD1TzVdR4BbyKbWzkM9s.m4a" length="33328995" type="audio/mp4"/>
+    <itunes:duration>00:22:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>001. 如果Wagas也可以卖麻辣烫，轻食会是一门好生意吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/622e2b3eadf8ccf5e94523a7</link>
+    <guid isPermaLink="false">622e2b3eadf8ccf5e94523a7</guid>
+    <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>时间拉回到2021年年底，轻食“鼻祖”新元素突然宣布破产，唏嘘和惋惜之余，轻食赛道里的另外一位玩家Wagas在疫情期间依然保持盈利，即便如此也正在资本市场寻求出售中。财务表现迥异的轻食品牌们，从投资人角度来看现象背后有哪些值得反思的问题？早年被各大资本看好的沙拉赛道如今预冷背后的原因是什么？在健康饮食当道的如今，餐饮行业的核心竞争力依旧是好吃吗？</span></p><span></span><p><span>注：本集录制于2月初，上新时间略有滞后敬请谅解哦。</span></p><span></span><p><strong><span>+本集剧透+</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="110">01:50</a>新元素的陨落是意料之外的情理之中？</span></p><span></span><p><span><a class="timestamp" data-timestamp="250">04:10</a>正在寻求出售的Wagas集团在疫情期间依然保持盈利</span></p><span></span><p><span><a class="timestamp" data-timestamp="315">05:15</a>Wagas vs.新元素，这两个品牌为何在疫情期间财务表现差别很大？</span></p><span></span><p><span><a class="timestamp" data-timestamp="402">06:42</a>产品结构和价位区隔和满足不同受众的需求</span></p><span></span><p><span><a class="timestamp" data-timestamp="560">09:20</a>门店的供应链和管理营造不同的场景</span></p><span></span><p><span><a class="timestamp" data-timestamp="620">10:20</a>Wagas的管理和出餐模式可以对标中式餐饮的快餐连锁，而新元素更像正餐的模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="840">14:00</a>出新和迭代有助于餐厅增加复购率</span></p><span></span><p><span><a class="timestamp" data-timestamp="980">16:20</a>Wagas的本质是快餐但弱化了快餐的标签从而获得溢价</span></p><span></span><p><span><a class="timestamp" data-timestamp="1140">19:00</a>聊聊Wagas及旗下子品牌们的品牌力</span></p><span></span><p><span><a class="timestamp" data-timestamp="1230">20:30</a>早年资本看好的沙拉赛道预冷背后的原因是什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1370">22:50</a>健康饮食的前提下，口味也是不可妥协的因素，否则只是阶段性的产物</span></p><span></span><p><span><a class="timestamp" data-timestamp="1650">27:30</a>轻食餐厅也适合出品麻辣烫吗？</span></p><span></span><p><strong><span>+主播+</span></strong></p><span></span><p><span>Cherry刘琼岭，作为投资人在新消费、硬科技、AI以及企业服务领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多成功创业企业完成多轮融资。</span></p><span></span><p><span>Stephy刘琼蔚，持有基金从业者资格的品牌传播打工人。曾服务于国际顶尖公关公司和VC投资机构，为科技、消费等海外品牌进入中国市场、以及中国新创企业到海外去搭建落实传播策略。</span></p><span></span><p><strong><span>+互动方式+</span></strong></p><span></span><p><span>欢迎在评论区留言：）</span></p><span></span><p><strong><span>+特别感谢+</span></strong></p><span></span><p><span>李一楠</span></p><span></span><p><strong><span>+节目制作+</span></strong></p><span></span><p><span>隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrwxGyqgwsQMY8Y5XPurEKyHHnDU.m4a" length="42113619" type="audio/mp4"/>
+    <itunes:duration>00:28:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>预告 | 对商业投资好奇，一起“东张西望”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/622dfd9ed9985ffdf1ac0168</link>
+    <guid isPermaLink="false">622dfd9ed9985ffdf1ac0168</guid>
+    <pubDate>Sun, 13 Mar 2022 14:20:14 +0000</pubDate>
+    <description><![CDATA[<p><span>友友们好！这是一档即将上线的聚焦商业投资的非正式聊天节目。</span></p><span></span><p><span>分别居住在北京和上海的一对表姐妹，每逢见面都会眉飞色舞探讨投资内幕到口干舌燥，于是就有了这档播客。希望通过「东张西望电台」，提醒主播自己对身边正在发生的商业事件保持清醒的认知，也希望能够帮助你，浅浅了解商业投资的前因后果。</span></p><span></span><p><span>主播大表姐Cherry毕业于北京大学，法学、金融学本硕连读。在风险投资圈驰骋十余年，作为投资人在新消费、互联网金融、企业大数据等B2B领域有众多明星企业的投资纪录，同时作为FA财务顾问帮助众多初创企业完成多轮融资。</span></p><span></span><p><span>主播表妹Stephy品牌传播打工人，虽然持有基金从业者资格，但远离投资一线，对层出不穷的商业现象充满好奇。</span></p><span></span><p><span>两人在“甩头”东张西望之余，坐下来分享各自的迷思和想法。期待你的收听和关注！</span></p><span></span><p><span>特别感谢：李一楠</span></p><span></span><p><span>节目制作：隔壁工作室</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmFpwME5Ub3cYs9oEEtxuSyQivPV.m4a" length="5448193" type="audio/mp4"/>
+    <itunes:duration>00:03:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhVSgVsOy5RGuHlFYWjvqOQ66Od3.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

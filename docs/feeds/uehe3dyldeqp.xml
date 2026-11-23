@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>EChoWave</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62e7a67b8f7a8c2223f33d2f</link>
+  <description><![CDATA[EChoWave是一档由两个Web3行业参与者发起的播客节目, 陪伴所有在Web3中探索和寻求真理的朋友。
+
+在这里我们一起探索前沿Web3资讯，与行业创始人，投资人，从业者一起畅聊Web3。
+
+一起学习，一起经历，一起成长吧！Store our Voice and Mark our Insights towards the Future. 
+
+主播Twitter： 
+阿莲： 0x_Ella
+Cavin: 0xCavin]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:34:51 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/uehe3dyldeqp.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Elaaaliu</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmMysTBNLH6t4fPjsz1-BuEormzZ.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmMysTBNLH6t4fPjsz1-BuEormzZ.jpg</url>
+    <title>EChoWave</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62e7a67b8f7a8c2223f33d2f</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>EP.8 Metopia: 一个勋章式的社区治理和激励协议</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63fdb7013d8df2f7e9e0bc00</link>
+    <guid isPermaLink="false">63fdb7013d8df2f7e9e0bc00</guid>
+    <pubDate>Tue, 28 Feb 2023 08:10:40 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。在这里我们不光一起探索前沿Web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！Store our Voice and Share our insights!</span></p><span></span><blockquote><span>这一期是2022年末跟Metopia创始人Moon的1V1对话。Moon过去是一个VC投资人，但是在2022年转型下场做社区治理和激励协议——Metopia。她很早进入了Crypto，拥有丰富的行业经验，也是最早一批躬身入局做DAO Tool的华人创始人。这一期会介绍Metopia这样一个治理协议如何帮助项目方治理和激励社区，也包含了Moon创业的一些心路历程。</span><br><span>Enjoy!</span></blockquote><span></span><p><strong><span>Shownote:</span></strong></p><span></span><p><span>- 从VC投资人到Project Founder</span></p><span></span><p><span>- 决定做DAO Tool的原因</span></p><span></span><p><span>- 社区治理权的分配而产生的的治理痛点</span></p><span></span><p><span>- Metopia的SBT协议运作原理</span></p><span></span><p><span>- 项目方onboard Metopia的流程</span></p><span></span><p><span>- Metopia的治理和激励层运转逻辑</span></p><span></span><p><span>- 如何看待Metopia的竞品？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmK-QRcr0PJyfEzmw6XgRmxu7BSQ.m4a" length="55234126" type="audio/mp4"/>
+    <itunes:duration>01:08:48</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg5UzhoRzZ6MmZ3T3pRQ2NTUHRGMW90SXAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.7 对话唐晗: 专访SeeDAO的演进之路</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63d4e82e6bcfd94102bf16b0</link>
+    <guid isPermaLink="false">63d4e82e6bcfd94102bf16b0</guid>
+    <pubDate>Sat, 28 Jan 2023 13:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。在这里我们不光一起探索前沿Web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！Store our Voice and Share our insights!</span></p><span></span><blockquote><span>这一期是我们在推特space上采访SeeDAO创始人唐晗老师的录音。</span><br><span>2022年SeeDAO经历了多次组织架构，治理体系，社区愿景的变化。从由CryptoC这家公司的推动，到公司被创始人解散，社区进入完全自治的阶段。SeeDAO一路不断探索，走在了中文华语圈DAO的前列。目前已经是一个1万人组成的自治社区。拥有一套自成体系的“节点共识大会-市政厅”的治理模式，社区贡献者实行PoW（按劳分配）的薪酬体制，自发的在扩建着这个DAO。2023年，SeeDAO有着依然宏大的愿景以及踏实可落地的计划。</span><br><span>让我们一起跟着这次的采访录音，走进SeeDAO的探索旅程吧！</span><br><span>Enjoy :)</span></blockquote><span></span><p><strong><span>Timeline</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="90">00:01:30</a> 唐晗的入圈经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="166">00:02:46</a> 发起SeeDAO的原因</span></p><span></span><p><span>- 2022年SeeDAO的演进 -</span></p><span></span><p><span><a class="timestamp" data-timestamp="208">00:03:28</a> 社区意识初抬头</span></p><span></span><p><span><a class="timestamp" data-timestamp="240">00:04:00</a> Web3大学的出现</span></p><span></span><p><span><a class="timestamp" data-timestamp="280">00:04:40</a> 融资宣布，大量新人涌入</span></p><span></span><p><span><a class="timestamp" data-timestamp="306">00:05:06</a> 公司和DAO的对立出现</span></p><span></span><p><span><a class="timestamp" data-timestamp="321">00:05:21</a> 解散公司</span></p><span></span><p><span><a class="timestamp" data-timestamp="350">00:05:50</a> 社区停摆</span></p><span></span><p><span><a class="timestamp" data-timestamp="404">00:06:44</a> 九人小组成立</span></p><span></span><p><span><a class="timestamp" data-timestamp="421">00:07:01</a> 元规则的出现</span></p><span></span><p><span><a class="timestamp" data-timestamp="451">00:07:31</a> 第一次节点共识大会</span></p><span></span><p><span><a class="timestamp" data-timestamp="469">00:07:49</a> 什么是节点 &amp; 贡献者</span></p><span></span><p><span><a class="timestamp" data-timestamp="560">00:09:20</a> 市政厅的选举</span></p><span></span><p><span><a class="timestamp" data-timestamp="663">00:11:03</a> 2023规划(游戏化，IRL，国际化)</span></p><span></span><p><span>- DAO赛道的探索 -</span></p><span></span><p><span><a class="timestamp" data-timestamp="818">00:13:38</a> 公司制的DAO是否更好？</span></p><span></span><p><span><a class="timestamp" data-timestamp="935">00:15:35</a> 是否后悔解散CryptoC？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1130">00:18:50</a> MirrorDAO的不同选择</span></p><span></span><p><span><a class="timestamp" data-timestamp="1200">00:20:00</a> SeeDAO的vision变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1479">00:24:39</a> 如何处理onboarding的成本问题？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1640">00:27:20</a> DAO的游戏化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1712">00:28:32</a> DAO的架构标准</span></p><span></span><p><span><a class="timestamp" data-timestamp="1887">00:31:27</a> 如何处理高额的运营成本？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1960">00:32:40</a> SeeDAO对年轻人的帮助</span></p><span></span><p><span><a class="timestamp" data-timestamp="2180">00:36:20</a> 数字游民的趋势（土耳其见闻）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2334">00:38:54</a> 如何实现万人数字城邦？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2501">00:41:41</a> SeeDAO孵化器 &amp; 全球联络人计划</span><br><span> </span><br><span> </span><strong><span>片头曲 by</span></strong><span>：Ziyu Gao</span></p><span></span><p><strong><span>主播Twitter</span></strong><span>：0x_Ella &amp; 0xCavin</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnaWgT6XQ9Zd6UQe0nloNwqoOWuS.m4a" length="37918571" type="audio/mp4"/>
+    <itunes:duration>00:45:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmMysTBNLH6t4fPjsz1-BuEormzZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.6（串台CSS）在Web3中找到自己的热爱 -  0xCavin</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63c50f9afabece0ce80c4de5</link>
+    <guid isPermaLink="false">63c50f9afabece0ce80c4de5</guid>
+    <pubDate>Mon, 16 Jan 2023 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。在这里我们不光一起探索前沿Web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！Store our Voice and Share our insights!</span></p><span></span><blockquote><span>本期是Cavin串台到了CSS做嘉宾一起录制的一期播客，Cavin分享了他在Web3的经历，与成为Web3 视频Kol的方法论，和一些优质Web3项目。</span></blockquote><span></span><p><span>本集要点</span></p><span></span><p><span>1.Cavin 走向Web3的经历</span></p><span></span><p><span>a.初选职业：计算机编程/人寿保险销售</span></p><span></span><p><span>b.因收入问题/机缘巧合遇见Web3</span></p><span></span><p><span>c.出任区块链讲师，快速积累理论知识</span></p><span></span><p><span>d.参与海外兄弟公司业务积累实战经验</span></p><span></span><p><span>2.Cavin 的自媒体方法论</span></p><span></span><p><span>a.不能让自己累</span></p><span></span><p><span>b.结合项目内容与行业认知</span></p><span></span><p><span>c.选择不卷的话题</span></p><span></span><p><span>d.内容应有复利效应</span></p><span></span><p><span>3.简单复盘一些优质NFT项目</span></p><span></span><p><span>a.Project Galaxy (现更名为 Galxe)</span></p><span></span><p><span>b.BAYC</span></p><span></span><p><span>c.Azuki</span></p><span></span><p><span>d.Goblintown</span></p><span></span><p><span>4.给到听友/当初自己进入 Web3 的建议</span></p><span></span><p><span>a.不同角色：VC/创作者/Kol..</span></p><span></span><p><span>b.注重观察，然后思考；一线工作，积累经验</span></p><span></span><p><span>c.热爱很重要；每天进步一些</span><br><span></span><br><span></span><strong><span>片头曲 by：</span></strong><span>Ziyu Gao</span></p><span></span><p><strong><span>主播Twitter：</span></strong><span>0x_Ella &amp; 0xCavin</span></p><span></span><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvLciCqLlYn4wS0OLZ-nV4AoZ2ty.m4a" length="51716647" type="audio/mp4"/>
+    <itunes:duration>01:05:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmMysTBNLH6t4fPjsz1-BuEormzZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.5 和NFT投研者Watell聊NFT未来实用性，IP化，社区文化，交易心得，新手指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63ac2c8be7ab859986035937</link>
+    <guid isPermaLink="false">63ac2c8be7ab859986035937</guid>
+    <pubDate>Wed, 28 Dec 2022 11:46:13 +0000</pubDate>
+    <description><![CDATA[<p><span>随着不断的创新，NFT 不再局限于艺术，PFP，随着新趋势、应用性和市场的出现，这一领域正在迅速转变。NFT不只是大家来交易赚钱的方式，NFT本身也有社交价值并且作为支撑元宇宙新型社会形态经济体系的核心要素，NFT的发展将更趋于理性和实用性。一起期待未来的Web3.0</span></p><span></span><blockquote><span>本期是我们做的第五期播客，这次我们邀请到的嘉宾是Twitter上的NFT投研KOL，Watell也是凉茶品牌王老吉的Web3形象大使。</span></blockquote><span></span><p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。在这里我们不光一起探索前沿web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！Store our Voice and Share our insights!</span></p><span></span><p><strong><span>Timeline:</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="50">00:50</a> Watell自我介绍: 什么契机了解到Web3, 什么契机接触NFT？</span></p><span></span><p><span><a class="timestamp" data-timestamp="355">05:55</a> 由于NFT的流动性不如加密货币，NFT的价格变化比加密市场慢了一步，在熊市中更抗跌。你是否同意这种说法呢？</span></p><span></span><p><span><a class="timestamp" data-timestamp="660">11:00</a> 现在NFT也是广为人知，越来越popular，那您觉得对 Web2 品牌和 IP 的吸引力还存在吗？如何真正的虚拟走到现实？</span></p><span></span><p><span><a class="timestamp" data-timestamp="852">14:12</a> NFT项目 IP化是否可持续</span></p><span></span><p><span><a class="timestamp" data-timestamp="1230">20:30</a> NFT未来实用性与模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="1555">25:55</a> 最近半年最受欢迎的NFT，以及他们背后成功的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="1800">30:00</a> 如何发现早期项目</span></p><span></span><p><span><a class="timestamp" data-timestamp="1909">31:49</a> 如何在早期判断项目潜力</span></p><span></span><p><span><a class="timestamp" data-timestamp="2093">34:53</a> 对NFT项目来说什么最重要</span></p><span></span><p><span><a class="timestamp" data-timestamp="2202">36:42</a> 我们在交易NFT的时候工具与平台可以利用</span></p><span></span><p><span><a class="timestamp" data-timestamp="2305">38:25</a> Watell最喜欢的前三NFT</span></p><span></span><p><span><a class="timestamp" data-timestamp="2415">40:15</a> 在熊市下，NFT新手应该做些什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="2563">42:43</a> NFT的未来展望</span></p><span></span><p><span>片头曲 by：Ziyu Gao</span></p><span></span><p><span>主播Twitter：</span><br><span>阿莲：0x_Ella</span><br><span>Cavin：0xCavin</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgQmbQkqfquNwim3PhqAKNAnFoDI.m4a" length="36681108" type="audio/mp4"/>
+    <itunes:duration>00:45:39</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg5UzhoRzZ6MmZ3T3pRQ2NTUHRGMW90SXAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.4 BAYC如何实现从0到1的成功？| 项目原始增长及运营技法 | 无聊猿 | YugaLabs</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63843efa7105b234344c11ea</link>
+    <guid isPermaLink="false">63843efa7105b234344c11ea</guid>
+    <pubDate>Mon, 28 Nov 2022 04:54:16 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。</span></p><span></span><p><span>在这里我们不光一起探索前沿Web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！</span></p><span></span><blockquote><span>本期是第四期播客，由Cavin来和大家聊聊无聊猿是如何实现0到1的。项目本身的运营手法与技巧。欢迎大家在楼下补充与讨论。</span></blockquote><span></span><p><span>内容shots：</span></p><span></span><ul><span>  </span><li><span>BAYC原始启动</span></li><span>  </span><li><span>BAKC</span></li><span>  </span><li><span>MAYC</span></li><span>  </span><li><span>APE Mobile Game</span></li><span>  </span><li><span>Otherside</span></li><span>  </span><li><span>总结</span></li><span></span></ul><span></span><p><span>片头曲 by：Ziyu Gao</span></p><span></span><p><span>主播Twitter：</span></p><span></span><ul><span>  </span><li><span>Ela：0x_Ella</span></li><span>  </span><li><span>Cavin：0xCavin</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkr4dB4Fei8B7kieHIjQxKT_VLaF.m4a" length="26040994" type="audio/mp4"/>
+    <itunes:duration>00:31:13</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg5UzhoRzZ6MmZ3T3pRQ2NTUHRGMW90SXAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.3 复盘Azuki从0到1的原始增长 | 故事化的运营技法 | 连发3个Collecion的成功背后</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63527430e67030aadb38fb96</link>
+    <guid isPermaLink="false">63527430e67030aadb38fb96</guid>
+    <pubDate>Fri, 21 Oct 2022 10:27:58 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。</span></p><span></span><p><span>在这里我们不光一起探索前沿web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！</span></p><span></span><p><span>这一期的博客内容如下：</span></p><span></span><ul><span>  </span><li><span>推特启动与推特运营</span></li><span>  </span><li><span>Azuki 正式mint前后的事情</span></li><span>  </span><li><span>ERC721A</span></li><span>  </span><li><span>ERC1155，BoBu的碎片化治理</span></li><span>  </span><li><span>Beanz “Check Your Wallet!”</span></li><span>  </span><li><span>Azuki从发售到5月公关前的价格一览分析</span></li><span>  </span><li><span>NFT运营总结</span></li><span></span></ul><span></span><p><span>片头曲 by：Ziyu Gao</span></p><span></span><p><span>主播Twitter：</span></p><span></span><ul><span>  </span><li><span>阿莲：0x_Ella</span></li><span>  </span><li><span>Cavin：0xCavin</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls7wc69EQKCftQaUj6PO0Gr11NeD.m4a" length="31050072" type="audio/mp4"/>
+    <itunes:duration>00:31:59</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpeGZCbHlTTWpOLXRoSS1qcDBUVDVNdDRILWUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.2 Aptos链的第一个dNFT项目 - NFMS | 杰伦熊背后的技术公司 | Infamous项目介绍</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63396a779186d4e4c46a090d</link>
+    <guid isPermaLink="false">63396a779186d4e4c46a090d</guid>
+    <pubDate>Sun, 02 Oct 2022 10:39:49 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。</span></p><span></span><p><span>在这里我们不光一起探索前沿web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！</span></p><span></span><p><span>这一期的博客内容如下：</span></p><span></span><p><span>内容shots：</span></p><span></span><ul><span>  </span><li><span>MatrixLabs团队背景</span></li><span>  </span><li><span>为什么选择Aptos</span></li><span>  </span><li><span>参与Aptos生态有什么有趣的事情</span></li><span>  </span><li><span>NFMS的故事背景</span></li><span>  </span><li><span>NFMS的特殊玩法（PFP可升级可变化， Hold2Earn， Stake2Earn，Mission .. etc.）</span></li><span>  </span><li><span>NFMS的技术创新（TdL）</span></li><span>  </span><li><span>NFMS的发售方式</span></li><span></span></ul><span></span><p><span>片头曲 by：Ziyu Gao</span></p><span></span><p><span>主播Twitter：</span></p><span></span><ul><span>  </span><li><span>阿莲：0x_Ella</span></li><span>  </span><li><span>Cavin：0xCavin</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljdjaKZys20zvi_-KRSfjkwJOPq_.m4a" length="25801847" type="audio/mp4"/>
+    <itunes:duration>00:32:24</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg5UzhoRzZ6MmZ3T3pRQ2NTUHRGMW90SXAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP.1 普通人到底该如何进入Web3， 如何在区块链行业挖掘第一桶金</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/630c75360d43f7f6306c6b80</link>
+    <guid isPermaLink="false">630c75360d43f7f6306c6b80</guid>
+    <pubDate>Mon, 29 Aug 2022 08:13:38 +0000</pubDate>
+    <description><![CDATA[<p><span>EchoWave 是一档由两个Web3行业参与者发起的播客节目, 陪伴所有想在Web3中探索和寻求真理的朋友。</span></p><span></span><p><span>在这里我们不光一起探索前沿web3资讯，与行业创始人，投资人，从业者一起畅聊Web3，还会一起和大家聊聊趣事。</span></p><span></span><p><span>一起学习，一起经历，一起成长吧！</span></p><span></span><blockquote><span>本期是我们做的第一期播客，向大家简单介绍一下我们（Ella &amp; Cavin），这期或许非常的简短，不成熟，也有些粗糙，但是我们两个人希望用真诚的表达与实际的经历与大家分享一下我们在Web3的经历。希望有朋友会喜欢它，会愿意和我们一起去探索未来对年轻人，创作人在生活与工作上的可能性。</span></blockquote><span></span><p><span>这一期的博客内容如下：</span></p><span></span><ul><span>  </span><li><span>为什么做这个Podcast的初心</span></li><span>  </span><li><span>未来podcast 规划， Podcast名字的含义，</span></li><span>  </span><li><span>我们是谁 - 我们怎么知道Web3的</span></li><span>  </span><li><span>我们第一个买的NFT是什么</span></li><span>  </span><li><span>玩Web3踩过的坑与在Web3赚过钱的经历</span></li><span>  </span><li><span>如何系统的学习Web3知识（初学者进入WEB3应该做哪些事情）</span></li><span>  </span><li><span>一些个人觉得在Web3不错的学习习惯</span></li><span></span></ul><span></span><p><span>片头曲 by：Ziyu Gao</span></p><span></span><p><strong><span>主播Twitter：</span></strong></p><span></span><ul><span>  </span><li><span>阿莲：0x_Ella</span></li><span>  </span><li><span>Cavin：0xCavin</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lppfTXnNXKvtwL4FGTCQQyvjBYFl.m4a" length="26053927" type="audio/mp4"/>
+    <itunes:duration>00:31:59</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpeGZCbHlTTWpOLXRoSS1qcDBUVDVNdDRILWUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

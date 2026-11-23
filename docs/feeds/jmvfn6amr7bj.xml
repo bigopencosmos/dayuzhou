@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>EnterAI</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65f7cd0c6764957079f76ab5</link>
+  <description><![CDATA[智能赋能 听大牛拆解背后的技术逻辑
+助力初创公司 落地智能化应用
+
+一档纯干货的短播客
+两位主播均来自北美科技大厂
+- “晓晓”, 资深 SaaS 产品经理, 深耕企业数字化赋能十余载
+- “老洪”, 全栈 ML 工程师, 专注智能化研究和落地方案设计
+
+他们演绎式的研习讨论和知识分享
+- 以不一样的视角来畅想Idea, 用AI 赋能Startup
+- 探索智能化的前沿技术解决方案.
+
+在这里我们鼓励知识分享, 讨论启发正在创业以及企业深耕的你, 并且持续邀请各行业专家一起来分享知识, 科普前沿科技, 以最真实的AI落地案例为您带来创业灵感, 行业最新技术解读和商业价值应用的精彩探讨~
+
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:13:14 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/jmvfn6amr7bj.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg</url>
+    <title>EnterAI</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65f7cd0c6764957079f76ab5</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>EP17 初创公司数据方案|电商数据框架深度揭秘</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678380661bf3f0ab2b930261</link>
+    <guid isPermaLink="false">678380661bf3f0ab2b930261</guid>
+    <pubDate>Sun, 12 Jan 2025 08:53:49 +0000</pubDate>
+    <description><![CDATA[<p><span>经济和效率是否能兼顾？本期我们请到了有多年 初创公司数据 infra 搭建经验的 Jilong 老师和大家一起探讨 “如何选择 并快速搭建一个 适合初创电商 的 数据平台”。不仅要求其能满足电商运营中业务流程和数据分析的需求，更是要符合初创公司多快好省的特点。</span></p><span></span><p><span>访谈中，老洪一如既往地深挖了 “同时兼顾OLTP&amp;OLAP”，“cache 数据一致性”，以及 "机器学习" 相关 热点问题. 讨论有深度，有兴趣的小伙伴千万不能错过了。</span></p><span></span><p><span><a class="timestamp" data-timestamp="181">03:01</a>: 电商数据应用的快速搭建</span></p><span></span><p><span><a class="timestamp" data-timestamp="330">05:30</a>: SQL数据库+数据中台作为高并发的解决方案</span></p><span></span><p><span><a class="timestamp" data-timestamp="430">07:10</a>: 举例说明电商用户的典型数据使用场景以及数据存储的优化目标</span></p><span></span><p><span><a class="timestamp" data-timestamp="740">12:20</a>: 举例 假想电商 “拼夕夕” 的数据infra (简单 OLTP and OLAP)</span></p><span></span><p><span><a class="timestamp" data-timestamp="880">14:40</a>: Cache layer 对数据更新实时性的影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="1110">18:30</a>: 如何更省钱地 scale up 数据 infra</span></p><span></span><p><span><a class="timestamp" data-timestamp="1380">23:00</a>: 如何让 OLAP 数据库对 OLAP 友好</span></p><span></span><p><span><a class="timestamp" data-timestamp="1586">26:26</a>: 销售预测，用户分析等数据库的构架优化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1636">27:16</a>: 存算分离主导 的 OLAP 框架</span></p><span></span><p><span><a class="timestamp" data-timestamp="2100">35:00</a>: Orchestration, 增量计算等一些细节问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="2400">40:00</a>: 适合初创公司的云服务选项（databrick， serverless）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2608">43:28</a>: databrick 套餐 vs 云厂商 原生套餐 的 对比</span></p><span></span><p><span><a class="timestamp" data-timestamp="2890">48:10</a>: 构建抽象层的重要性</span></p><span></span><p><span><a class="timestamp" data-timestamp="3030">50:30</a>: 机器学习处理系统的选择</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f7cd0c6764957079f76ab5/lqOpCPY1KoXG_EbMzNfTBdDj9ICP.m4a" length="54783589" type="audio/mp4"/>
+    <itunes:duration>00:55:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP16 为何用户画像没有用/快速联系到真实用户</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/677ce3d0cda04ef4c1fee63e</link>
+    <guid isPermaLink="false">677ce3d0cda04ef4c1fee63e</guid>
+    <pubDate>Tue, 07 Jan 2025 08:22:45 +0000</pubDate>
+    <description><![CDATA[<p><span>经典的用户画像是否真的能打, 还是纸上谈兵? 为何数据建模更能帮你联系到真实的用户.</span></p><span></span><p><span>这期我们来深入探讨用户画像的自动化之路, 欢迎小伙伴留言互动提问, 谢谢大家~</span></p><span></span><p><span>Timeline</span></p><span></span><p><span><a class="timestamp" data-timestamp="40">00:40</a> 什么是用户画像建模</span></p><span></span><p><span><a class="timestamp" data-timestamp="85">01:25</a>用户画像解决什么问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="135">02:15</a>用户画像不实用的根本原因</span></p><span></span><ul><span>  </span><li><span>如何联系到真实用户: 映射用户画像模型到真实用户:</span></li><span>  </span><li><span>隐私数据阻碍真实数据收集</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="185">03:05</a>传统用户画像的唯一用处是: 产品设计时候的共情</span></p><span></span><p><span><a class="timestamp" data-timestamp="290">04:50</a>通过用户画像来共情的风险:先验经验产生的偏见</span></p><span></span><p><span><a class="timestamp" data-timestamp="427">07:07</a>用户画像的正确打开方式</span></p><span></span><p><span>- 用已收集的数据来进行用户画像建模, 而非凭空想象</span></p><span></span><p><span><a class="timestamp" data-timestamp="495">08:15</a> 跳过用户画像来直接建立数据模型</span></p><span></span><p><span><a class="timestamp" data-timestamp="517">08:37</a> 举例1广告推荐: 数据进行隐式用户画像建模</span></p><span></span><p><span><a class="timestamp" data-timestamp="555">09:15</a> 举例2:相似产品 相似用户群体的隐私</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljdhVneN6TL9Wsfe25fD-FebRkmS.m4a" length="14424966" type="audio/mp4"/>
+    <itunes:duration>00:14:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP15 [老洪答疑]从图片到视频, 从扩散到流匹配算法</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67307cdbf373fe5d4d17ecf2</link>
+    <guid isPermaLink="false">67307cdbf373fe5d4d17ecf2</guid>
+    <pubDate>Sun, 10 Nov 2024 09:32:59 +0000</pubDate>
+    <description><![CDATA[<p><span>解析困扰大家的Meta Movie Gen10大技术难点</span></p><span></span><p><span>Meta“最强视频模型”不用DiT这个观点是有误区的? 为何工业界, 大家越来越多用流匹配而不是diffusion生成视频或图像? 这套媒体基础模型平台的发展对未来内容创作可能产生什么影响?</span></p><span></span><p><span>对Meta Movie Gen里那些高冷的技术难点细节感兴趣的朋友们, 本期我们汇总了十余个技术问题(FAQ), 来请老洪深入浅出的逐个击破, 带着你们一起揭开Movie Gen神秘的面纱.&nbsp;</span></p><span></span><p><span>感谢大伙儿的喜欢和关注! 对于Movie Gen还有什么想了解的, 有疑问的, 随时可以在评论区留言, 我们会尽量给你们解答~</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="25">00:25</a> Movie Gen需要的大量训练数据从何而来?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="118">01:58</a> MovieGen 是怎么进行过滤和清理数据?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="169">02:49</a> 误区解析: "Meta“最强视频模型”不用DiT，用Llama大力出奇迹了</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="206">03:26</a> MovieGen使用的流匹配技术和传统的Diffusion技术, 谁优谁劣?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="294">04:54</a> 大力出奇迹的功劳?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="333">05:33</a> Meta如何将流匹配技术与Llama架构结合,以提升视频生成质量？流匹配相比扩散模型在视频生成中的具体优势劣势如何</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="417">06:57</a> 如何优化流匹配算法以适应视频生成任务的特殊需求的?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="555">09:15</a> 流匹配如何改善了视频生成中的文本-视觉对齐问题?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="696">11:36</a> 在多阶段训练过程中,流匹配技术在不同阶段(如T2I、低分辨率T2V、高分辨率T2V)的表现有何差异?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="768">12:48</a> 对未来内容创作可能产生什么影响?</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljhFkMN0MWlRae-74KyTF3ZquuIC.m4a" length="14900100" type="audio/mp4"/>
+    <itunes:duration>00:14:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP14 AI主播有多强? 和老洪竞争上岗你选谁</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671cab4044ae79002c2e0b64</link>
+    <guid isPermaLink="false">671cab4044ae79002c2e0b64</guid>
+    <pubDate>Sat, 26 Oct 2024 08:41:35 +0000</pubDate>
+    <description><![CDATA[<p><span>AI视角和人类视角同台点评Meta电影生成模型</span></p><span></span><p><span>即便Sora已经给大家足够的预期，想必很多小伙伴都看到Meta Movie Gen的Demo了吧?这次Meta作为视频生成界杀出来的黑马, 亮剑即绝招. 全能生成王—视频音频文武全能, 效果直接炸街!</span></p><span></span><p><span>本期节目与GoogleAI(NotebookLM)的主播一起初步探索Movie Gen, 速览Meta开源的92页技术论文,简单介绍Meta四大模型. 涵盖了MovieGen使用的创新训练方法; 如何利用反向学习巧妙地进行人工合成数据训练以及个性化视频功能的工作原理及其带来的新可能性等细节探讨.</span></p><span></span><p><span>这是首次引入AI辅助制作节目, 一方面实践一直倡导的利用AI提升生产力的理念, 同时看看小伙伴对ML技术论文解读有没有兴趣。另外, 小小预告下, 我们在筹备一期Movie Gen深入解析, 欢迎大家留言你有兴趣的问题，我们会在后续节目中努力为大家安排。</span></p><span></span><p><span>再次感谢你们的喜欢和关注!</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="122">2:02</a> 30B参数的视频模型: 背后的强大资源支持, 效果拉满 (高达1080p分辨率、最长16秒、帧率16fps的高保真视频)</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="198">03:18</a>TAE(Temporal Autoencoder)扮演了什么角色? 它是如何压缩大量高清视觉数据, 提高数据处理效率?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="366">06:06</a>个性化视频定制模型: 如何解决Movie Gen视频生成过程中出现小瑕疵的问题? 动态内容创作中改如何确保生成的人脸动作和表情看起来自然逼真呢</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="532">08:52</a>文字指令编辑视频模型: 如何通过"反向学习"来训练AI进行视频编辑</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="663">11:03</a>如何评估Movie Gen的性能优势, 评估者主要关注哪些方面?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="825">13:45</a>音频模型: 相比传统的音效库,Movie Gen Audio在音频生成方面有何创新?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="927">15:27</a>对未来内容创作可能产生什么影响?</span></li><span></span></ul><span></span><p><strong><span>Reference</span></strong></p><span></span><p><span>MovieGen demo: </span><a href="https://ai.meta.com/research/movie-gen/" data-url="https://ai.meta.com/research/movie-gen/"><span>Meta Movie Gen</span></a></p><span></span><p><span>原论文 MovieGen: A Cast of Media Foundation Models</span></p><span></span><p><span><a data-url="https://ai.meta.com/static-resource/movie-gen-research-paper" href="https://ai.meta.com/static-resource/movie-gen-research-paper">ai.meta.com</a></span></p><span></span><p><span>Google AI Podcast: </span><a href="https://notebooklm.google.com/" data-url="https://notebooklm.google.com/"><span>notebooklm.google.com</span></a></p><span></span><p><span>论文解读音频: </span><a href="https://notebooklm.google.com/notebook/14b5d8d6-0c90-431c-bdd4-def8974a76d3/audio" data-url="https://notebooklm.google.com/notebook/14b5d8d6-0c90-431c-bdd4-def8974a76d3/audio"><span>notebooklm.google.com</span></a></p><span></span><p><strong><span>Podcast Script中文翻译(GPT版)</span></strong></p><span></span><p><span>好的，听我说，你是一名导演，脑海中有一个精彩的电影场景，对吧？但不用召集整个剧组、摄影机和餐饮团队，你只需在电脑上敲几个字，瞬间就能看到16秒的纯高清电影魔力，配有音效和一切，这就是Meta的新AI，Movie Gen。我跟你说，理解这个研究真是让人惊叹。</span></p><span></span><p><span>这绝对是一个改变游戏规则的技术。但这不只是一个AI，更像是一个数字专家团队在协作。Movie Gen Video处理视觉效果，Movie Gen Audio则负责音效，甚至还有一个专门的AI来个性化这些视频。想象一下，就像进入了你自己的电影世界。</span></p><span></span><p><span>这就是我所谓的个性化首映式！Meta声称这项技术比Runway Gen 3和OpenAI的技术还要好，不过在完全陷入这种热潮之前，我得问一句，这到底是怎么运作的？幕后到底发生了什么，让这部电影魔术变成现实？</span></p><span></span><p><span>其核心是一个叫Movie Gen Video的系统，它非常强大，拥有大约300亿个参数。</span></p><span></span><p><span>哇，参数？我们需要一个简单的解释，参数究竟是什么？</span></p><span></span><p><span>好吧，把它想象成这样：人类大脑之所以强大，是因为它拥有数十亿的神经元和数万亿的连接，参数在AI中类似于这些连接。连接越多，AI对周围世界的理解就越深。Movie Gen Video在大量数据上进行了训练，包括数亿个视频片段和数十亿张图像，以便能够创建动态影像。</span></p><span></span><p><span>这就像让超级计算机上电影学院的课程，但规模却前所未有。不过，将所有这些数据压缩进一个AI必然面临一些挑战吧？当然，高分辨率视频需要大量的处理能力。为了应对这一挑战，Movie Gen Video使用了一种叫时间自编码器（TAE）的技术。</span></p><span></span><p><span>听起来像是科幻电影里的东西，给我们解释一下吧。</span></p><span></span><p><span>想象一下，把复杂的3D模型压缩成小文件，这样可以快速发送，然后在另一端可以完美重建。TAE对视频做的就是这种压缩处理，使AI无需巨型超级计算机也能运行。</span></p><span></span><p><span>这是令人印象深刻的数据管理！但我猜创建这种复杂系统并非一帆风顺。Meta团队遇到了哪些障碍？</span></p><span></span><p><span>一个挑战是处理所谓的“斑点伪影”。你是否注意过那些低画质视频中出现的小块状或失真？</span></p><span></span><p><span>是的，视频质量下降时会出现像素化，非常让人分心，对吧？</span></p><span></span><p><span>没错，那些是压缩伪影，在压缩和重建视觉数据时很常见。Meta团队不得不开发新技术来减少这些伪影，就像调整高性能引擎的每一个细节都很重要。他们甚至需要一些创造性的解决方案来训练这个庞大的AI，以确保它能处理大量数据而不受影响。</span></p><span></span><p><span>所以他们基本上教会了这个AI如何高效利用每个像素。这真是令人惊叹！不过，谈了这么多压缩和伪影，我们还没提到最酷的功能，就是能够让你自己融入视频之中。Movie Gen是怎么实现这种个性化的电影魔术的？</span></p><span></span><p><span>关键在于教AI理解并操控人脸，让它看起来真实可信。TAE压缩数据的方式，在这里会利用你的照片，重现你的脸部特征在生成视频中。</span></p><span></span><p><span>这不仅仅是把我的脸贴到另一个身体上，而是无缝地把我整合到场景中，太神奇了！</span></p><span></span><p><span>不仅仅是面部本身，模型还分析你的特征和动作，使视频中的人物看起来像你。他们使用了三阶段的训练过程，深入分析人们的外观和动作细节，使其看起来自然。</span></p><span></span><p><span>就像是创造了一个数字化的你，然后你可以在任何电影中出演。我觉得这很神奇，也有点可怕。而更让我震惊的是编辑功能。你可以仅通过输入指令来编辑这些AI生成的视频，对吗？</span></p><span></span><p><span>没错！你可以改变场景，添加物体，甚至转变视频中的已有元素，就像拥有一个好莱坞编辑室一样。</span></p><span></span><p><span>不过，训练一个AI进行视频编辑是不是需要大量素材库，像收集每一部电影的编辑记录？</span></p><span></span><p><span>这是个好问题，确实很难收集如此大量的数据。但Meta团队找到了一个巧妙的替代方案，使用一种叫“反向翻译”的方法。</span></p><span></span><p><span>反向翻译？说来听听。</span></p><span></span><p><span>想象一下，语言模型在学习翻译时会将一句话翻译成另一种语言，然后再翻译回原语言，以检查准确性。反向翻译在视频编辑上类似，通过让AI撤销它的编辑来学习。</span></p><span></span><p><span>也就是说，不需要数百万个预编辑视频，而是通过让AI撤销自己的编辑来学习。</span></p><span></span><p><span>正是如此。他们让AI编辑一个视频，然后训练它根据原始视频和指令逆转编辑。这种“倒推式”学习方式效果惊人。</span></p><span></span><p><span>真是出人意料的创新。Meta团队对Movie Gen充满信心，声称它是最好的视频生成工具之一，但在AI界，怎么衡量这个“最好”？</span></p><span></span><p><span>人类评估是其中重要的一部分。他们邀请人们观看视频并评价质量，比如视频是否符合文本提示、视觉质量、真实性和美观。</span></p><span></span><p><span>还好这过程还有人类的判断。他们具体在视频中看什么？</span></p><span></span><p><span>他们关注算法和数据难以衡量的细节，比如动作的自然度、场景的可信度和艺术印象。评估也通过大量专家，并确保他们不知道是哪款AI生成的，以保持公正。</span></p><span></span><p><span>当AI电影评论员听起来是个不错的工作。团队还建立了一个新的AI模型评估基准，对吧？</span></p><span></span><p><span>是的，叫做Movie Gen Video Bench。它包含1000个不同主题的提示，远超过之前的任何数据集，能让研究人员直接比较不同AI视频生成模型。</span></p><span></span><p><span>就像为AI电影制作设定了新金标准。不过，我们还没谈到音频部分。Movie Gen Audio难道只是添加笑声或背景音乐？</span></p><span></span><p><span>不，Movie Gen Audio远比普通音效库复杂。它会生成真实的音效和音乐，与视频完全同步。它能区分视频中的实际声效（称为“叙事音效”）和背景音乐（称为“非叙事音效”）。</span></p><span></span><p><span>所以如果是繁忙城市街道场景，Movie Gen Audio不会只是加一些随机声音，而是理解场景并添加合适的声音，比如交通声、人声，甚至远处的警笛声。</span></p><span></span><p><span>它还会添加背景音乐以提升场景氛围。为了达到电影音效质量，模型在大量视频和音频数据上进行了训练。</span></p><span></span><p><span>就像有一个好莱坞音效工程师随时准备服务。这个技术真是了不起，不过随着AI在创意领域的角色越来越多，不禁让人担心对人类工作的影响。这会如何影响未来的电影制作？</span></p><span></span><p><span>确实，很多人担心工作流失，但也有人认为这是巨大的机遇。想想看，所有怀有电影梦的人，无论经济状况或背景如何，突然都能使用这些强大的工具，可能会引发独立内容创作的爆发。</span></p><span></span><p><span>确实，这让每个人都有机会实现他们的创意梦想。而这不仅限于电影制作，对教育和游戏也有影响。想象一下，个性化的教育视频，或真实感十足的游戏世界。</span></p><span></span><p><span>真是令人激动的可能性。</span></p><span></span><p><span>说真的，未来的可能性令人叹为观止。我们可能会看到全新的艺术形式诞生，互动体验将模糊现实与幻想的界限。这项技术可能会彻底改变我们创造和体验媒体的方式。</span></p><span></span><p><span>就像我们正踏入一个新的电影体验时代，充满了实验和创新，就像电影早期的日子一样。不过，在激动人心的讨论中，我们还是稍微冷静一下。</span></p><span></span><p><span>我们今天讲了很多内容，对于第一次听到这些信息的听众，您希望他们记住哪些关于Movie Gen的要点呢？其实，Movie Gen本质上是Meta开发的一系列AI模型，可以通过简单的文字提示生成高质量的视频，甚至可以为其配上音效。最酷的是它还能个性化视频，就像我们之前讨论的那样，让你自己也能融入其中。不过，除了惊艳的视觉效果外，重要的是要记住这背后有着一些非常创新的AI技术，比如帮助高效处理数据的时间自编码器（TAE），以及各种巧妙的训练技术，使其能够学习和适应。</span></p><span></span><p><span>确实，这提醒我们正生活在一个技术飞速发展的时代。那些曾经纯属科幻的东西，如今正在变为现实。</span></p><span></span><p><span>真让人好奇接下来会怎样。随着技术不断进步，谁知道人们将用它创造出什么样的奇迹？</span></p><span></span><p><span>这正是结束讨论的完美点。我们深入探讨了Movie Gen，了解了它的功能，甚至思考了它的意义。如果这次深度解读让你的思维活跃起来，那么不要停下探索的脚步。AI领域不断进步，总有新的知识等待我们去学习和发现。下次见，继续探索、继续提问、继续想象未来的无限可能。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljdqcyCfU9znGAWvnvAaL2jfHZr4.m4a" length="20281300" type="audio/mp4"/>
+    <itunes:duration>00:19:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkMwwGTeg6gfz-6O0mh5t7JXtioW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP13 很快会有超级智能吗? 准备好迎接Intelligence Age</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/670cd1e60d2f24f289fbf578</link>
+    <guid isPermaLink="false">670cd1e60d2f24f289fbf578</guid>
+    <pubDate>Mon, 14 Oct 2024 08:10:14 +0000</pubDate>
+    <description><![CDATA[<p><span>为什么马斯克等大佬希望AGI发展慢下来?如何阻止终结者到来?带你用好AGI这把双刃剑.</span></p><span></span><p><span>这期和小伙伴们畅聊下超级智能, 灵感来源于奥特曼The Intelligence Age的文章. 听完你会对AGI（通用人工智能）和ASI（超级人工智能)有更加立体,本质的理解, 明白比起人类,它最大的本质区别/特点是什么?</span></p><span></span><p><span>如果AGI/ASI真的如奥特曼预言的‘几千天’就能抵达, 作为这个革新的原动力“Scalling Law”, 有哪些假设前提值得我们了解和思考的? 虽然AGI来袭下, AI无可避免的会取代部分人的工作，但我们仍然可以利用AI提升工作效率, 并和AI协作来提升竞争优势。 此外也微探索了下大家最关心的AGI对就业的潜在影响, 大家是否会面临失业等问题. 不远的前方, AI时代的两条可能路径的探索: 一是人类进入“乌托邦”式的自由生活，二是面临失去经济自主权的风险。</span></p><span></span><p><span>欢迎大家在评论区留言, 聊聊你是怎么看待超级智能的到来?</span></p><span></span><p><span>Timeline:</span></p><span></span><p><span><a class="timestamp" data-timestamp="51">00:51</a>通俗理解AGI</span></p><span></span><p><span><a class="timestamp" data-timestamp="191">03:11</a>AGI真的会来临吗?</span></p><span></span><p><span><a class="timestamp" data-timestamp="245">04:05</a>奥特曼预言即将进入超级智能时代的关键依据, 这个说法浮夸了吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="323">05:23</a>Scaling laws失效的几种可能</span></p><span></span><p><span><a class="timestamp" data-timestamp="404">06:44</a>超级智能时代下, 我们会失去工作吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="485">08:05</a>如何在AGI时代更有竞争力, 避免自己被优化</span></p><span></span><p><span><a class="timestamp" data-timestamp="558">09:18</a> 难道人类经济活动被人工智能完全取代不一定都是坏事?</span></p><span></span><p><span>reference article</span></p><span></span><p><a href="https://ia.samaltman.com/" data-url="https://ia.samaltman.com/"><span>The Intelligence Age (samaltman.com)</span></a><span> - 奥特曼的小作文</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llMfosK1c8jgj0JP2NTV9vb4JxrD.m4a" length="14075174" type="audio/mp4"/>
+    <itunes:duration>00:13:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg47KWyMTrbYY_pVhhPrs5DbopL2.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP12 代码编辑器Cursor五倍速做旅行计划,剖析Cursor运行机制</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66f8d8df6c7f817786d96053</link>
+    <guid isPermaLink="false">66f8d8df6c7f817786d96053</guid>
+    <pubDate>Sun, 29 Sep 2024 04:34:39 +0000</pubDate>
+    <description><![CDATA[<p><span>Cursor集成式的编辑体验是怎样的?从Cursor看与AI协作新范式</span></p><span></span><p><span>本期我们探讨了Cursor带来的革新理念:在新的生产方式下创造产品,实现更高效的生产。以AI智能伙伴协同办公(如旅行规划)为例,展示了人与AI协作的新模式。这种模式与传统AI办公的最大区别在于:你从使用AI 工具的底层劳力翻身成为压榨 AI 干活的经理人。虽然ChatGPT等工具已经能够提供咨询建议,告诉你如何完成任务,但最终执行仍需要你亲力亲为。而Cursor展示的可能性更进一步 -- 它将你的角色提升为管理者(manager),而Cursor则成为真正帮你完成工作的得力助手.这种转变意味着,你可以专注于制定策略和做出决策,而将具体的执行工作交给AI助手。这不仅提高了工作效率,还改变了人与AI协作的本质,使得创造过程更加流畅和高效</span></p><span></span><p><span>本期播客我们从下几点来深入探讨Cursor AI这款智能编程助手~</span></p><span></span><ul><span>  </span><li><span>Cursor集成式的编辑体验</span></li><span>  </span><li><span>新范式案例演示: 压榨AI来设计一个 旅游计划</span></li><span>  </span><li><span>与AI协作的新范式: 对创作者以及下一代AI的影响</span></li><span></span></ul><span></span><p><span>Timeline:</span></p><span></span><p><span><a class="timestamp" data-timestamp="42">00:42</a> 代码小白也可以用自然语言来编程吗?Cursor如何重塑我们的工作模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="148">02:28</a> Cursor写作就好比从Word的所见即所得变成所想即所得.</span></p><span></span><p><span><a class="timestamp" data-timestamp="265">04:25</a>:和LLM合作共同完成一个任务不再是难事</span></p><span></span><p><span><a class="timestamp" data-timestamp="333">05:33</a> Cursor展示的Diff的形式让我们能够在文档中无缝协作</span></p><span></span><p><span><a class="timestamp" data-timestamp="510">08:30</a> 如何让繁琐的旅游规划变简单, 高效有趣</span></p><span></span><p><span><a class="timestamp" data-timestamp="536">08:56</a> 和传统大模型聊天最本质的区别? 版本控制功能赋予了和LLM合作的基本可能</span></p><span></span><p><span><a class="timestamp" data-timestamp="599">09:59</a> AI与人创作力合作的新范式,‘人机协作’(human-AI teamwork" model ) 会如何重新定义我们的工作方式</span></p><span></span><p><span>PS: 写了一篇从Cursor看与AI协作新范式的文章, 并且附上了旅行计划的效果展示, 有兴趣的小伙伴可以去substack上看看啦</span></p><span></span><p><span><a data-url="https://substack.com/home/post/p-149698448?r=4azkdp&amp;utm_campaign=post&amp;utm_medium=web" href="https://substack.com/home/post/p-149698448?r=4azkdp&amp;utm_campaign=post&amp;utm_medium=web">substack.com</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltlGOrlg80iSfV78HuUBOYhvwqRP.m4a" length="15283799" type="audio/mp4"/>
+    <itunes:duration>00:14:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP11 [深度答疑]听完比90%的人更了解OpenAI O1的技术</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66eb2d755ca6d0ace3d2712a</link>
+    <guid isPermaLink="false">66eb2d755ca6d0ace3d2712a</guid>
+    <pubDate>Wed, 18 Sep 2024 19:43:49 +0000</pubDate>
+    <description><![CDATA[<p><span>“还能看到GPT5吗?O1在推理过程中有实时搜索吗? 是否代表了一个全新的训练方向?” 收集了7个挺有意义的O1问题, 并第一次尝试录制FAQ来深入解答这些疑惑。希望通过这期播客能帮助大家更好地理解O1模型.</span></p><span></span><p><span>如果小伙伴们有任何新的问题或想法, 以及这种FAQ的形式是否有帮助, 随时可以在评论区留言告诉我们呀~</span></p><span></span><h2><strong><span>Timeline</span></strong></h2><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="200">03:20</a> O1模型用来做数据反哺, 是否可行</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="300">05:00</a> O1是否代表了一个全新的训练方向? 是否有可能取代GPT系列? 我们还能看不到GPT5吗</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="374">06:14</a> O1使用的强化学习RL与之前训练ChatGPT的RLHF有何异同, 这次有什么新创新</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="463">07:43</a> O1模的出现会被prompt engineer彻底取代, 未来应用种人工设计Prompt的角色会如何变化</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="523">08:43</a> O1的COT和传统的COT(思维链)有啥区别, 有很多怀疑说O1只是特化了Agent/不会是4O微调的agent吧</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="669">11:09</a> O1在推理过程中是否真正实现了(inference time search)实时搜索, 如果是, 具体是如何实现的</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="861">14:21</a> 相比之前的模型,O1在减少幻觉方面有改进</span></li><span></span></ul><span></span><p><strong><span>相关概念以及定义:</span></strong></p><span></span><p><span>System 1 vs System 2</span></p><span></span><ul><span>  </span><li><span>System 1:快速、直觉的思考方式,类似大多数语言模型的直接输出</span></li><span>  </span><li><span>System 2:慢速、深度的思考方式,O1模型采用的方法,会生成内部思维链</span></li><span></span></ul><span></span><ol><span>  </span><li><span>数据反哺</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用模型生成的数据来增强训练数据集,从而提高模型性能的技术</span></li><span>  </span><li><span>强化学习(Reinforcement Learning, RL)</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一种机器学习方法,通过与环境交互并从反馈中学习,以最大化累积奖励</span></li><span>  </span><li><span>RLHF (Reinforcement Learning from Human Feedback)</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用人类反馈来指导强化学习过程的方法,通常用于训练语言模型</span></li><span>  </span><li><span>Prompt Engineering</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设计和优化输入提示,以引导AI模型产生期望输出的技术</span></li><span>  </span><li><span>COT (Chain of Thought)</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一种推理技术,让模型逐步展示解决问题的思考过程,而不是直接给出答案</span></li><span>  </span><li><span>Inference Time Search</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在模型推理过程中实时进行搜索或优化的技术,用于提高输出质量</span></li><span>  </span><li><span>蒙特卡洛树搜索(Monte Carlo Tree Search)</span></li><span>  </span><li><span>是一种用于某些决策过程的启发式搜索算法,最著名的应用是在棋类游戏软件中</span><br><span>幻觉(Hallucination)</span><br><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI模型生成看似合理但实际上不准确或虚构的信息的现象</span></li><span></span></ol>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmNhBbKoX6pTCkMRryYB64cLd6RF.m4a" length="16328814" type="audio/mp4"/>
+    <itunes:duration>00:16:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP10 OpenA1 O1草莓模型会带来哪些LLM的技术革新?</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66e7e1583a5ff0a0cac9f45c</link>
+    <guid isPermaLink="false">66e7e1583a5ff0a0cac9f45c</guid>
+    <pubDate>Mon, 16 Sep 2024 07:42:16 +0000</pubDate>
+    <description><![CDATA[<p><span>新发布的O1模型是否和大家之前的预期相符, 惊喜还是失望更多?</span></p><span></span><p><span>OpenAI备受期待的"草莓模型"以新命名O系列霸气亮相, 一改连基本算数都搞不明白的文科生, 腰身在数学,科学, 编程等领域展现出令人惊艳的理科思维, 妥妥理科学霸!&nbsp;</span></p><span></span><p><span>作为‘推理’模型的首个代表, 官网宣称O1的在处理复杂推理任务的重大进步, 代表了人工智能的新水平, 各大媒体相继称其开启了大模型的新纪元.&nbsp;</span></p><span></span><p><span>本期话题以纯技术主题的知识分享, 带大家一起去了解O1系列是技术新突破, 还是新瓶装老酒.</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="58">00:58</a> 对O1模型的两个直观感受</span></p><span></span><p><span><a class="timestamp" data-timestamp="281">04:41</a> 纠正观点: O1达到博士生水平了?</span></p><span></span><p><span><a class="timestamp" data-timestamp="338">05:38</a> O1的发布有哪些更加深远的意义和本质影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="393">06:33</a> O1的两点小启发:</span></p><span></span><p><span>* 让AI模型通过思维链走向"理科生"的新道路</span></p><span></span><p><span>* 后训练的scaling law为模型self evolution奠定基础</span></p><span></span><p><span><a class="timestamp" data-timestamp="589">09:49</a> 强化学习并不能解决所有的幻觉问题</span></p><span></span><p><span>PS: 小伙伴们, 我们加更啦~</span></p><span></span><p><span>借着横空出世的O1, 提前祝大家中秋节快乐~ 也特此感谢大家的关注, 我们接下来也会出一系列关于O1的有趣话题, 尽情期待~</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llkwSIhT1g-80j7RJSPFh7RoDzfo.m4a" length="11765117" type="audio/mp4"/>
+    <itunes:duration>00:11:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP09 AI搜索就是RAG?深挖估值30亿的独角兽Perplexity的底层逻辑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66e65eea3a5ff0a0ca95b7d3</link>
+    <guid isPermaLink="false">66e65eea3a5ff0a0ca95b7d3</guid>
+    <pubDate>Sun, 15 Sep 2024 04:13:30 +0000</pubDate>
+    <description><![CDATA[<p><span>你们是否也好奇AI搜索引擎的背后技术?坊间传闻500行代码搞定的核心技术, Perplexity有何魅力可以估值30亿美金? 它的运行速度为何能够如此快速地回答问题?</span></p><span></span><p><span>这一期我们会带领大家一起深入揭秘AI搜索的前沿技术和未来发展. 通过对市面上的AI搜索引擎调研的结果分享, 为你硬核拆解这些技术难点. 一起畅想AI搜索的未来,并探讨它对独立开发者的影响, 究竟AI搜索结合社区模式会擦出怎样的火花呢?</span></p><span></span><p><span><a class="timestamp" data-timestamp="39">00:39</a>Perplexity区别ChatGPT之处: 联网以及兼容多种模型</span></p><span></span><p><span><a class="timestamp" data-timestamp="148">02:28</a>坊间说核心技术仅需500行代码? 作为市值30亿的公司, 它技术是否有过人之处?</span></p><span></span><p><span><a class="timestamp" data-timestamp="195">03:15</a>除了RAG的其余技术突破: AI解答问题的基本步骤</span></p><span></span><p><span><a class="timestamp" data-timestamp="362">06:02</a>通过用户交互来优化最终生成的答案</span></p><span></span><p><span><a class="timestamp" data-timestamp="423">07:03</a>当前技术发展的整体水平, 突破和瓶颈</span></p><span></span><p><span><a class="timestamp" data-timestamp="500">08:20</a>同类产品的测评比较: Perplexity很快但仍没有实时的信息</span></p><span></span><p><span><a class="timestamp" data-timestamp="601">10:01</a>Perplexity不错的数学计算能力, (Meta AI (llama3.1-400b) 最牛)</span></p><span></span><p><span><a class="timestamp" data-timestamp="691">11:31</a>提升数学运算效率：KV Cache技术应用提高吞吐速度</span></p><span></span><p><span><a class="timestamp" data-timestamp="784">13:04</a>搜索的终极形式和未来体验是什么, 对于独立开发者意味什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="917">15:17</a>AI搜索+社区模式的一点看法, AI知乎是否有前途</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltt0Je6Xf5kiXasdyx_bvbSHpeMf.m4a" length="18354682" type="audio/mp4"/>
+    <itunes:duration>00:17:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP08 [避坑系列]你用AI做副业赚钱了吗?求解AIGC副业的盈亏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66db458eee04007d88b41752</link>
+    <guid isPermaLink="false">66db458eee04007d88b41752</guid>
+    <pubDate>Sat, 07 Sep 2024 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>用AI做副业真的能赚到钱吗?</span></p><span></span><p><span>这一期,晓晓和老洪将为大家深入分析用AI进行副业赚钱的可行性, 并教你从本质上如何判定一个行业是否能赚钱!</span></p><span></span><p><span>通过数据分析和理论实验,我们详细探讨了两种主要的AI赚钱方式:流量账号变现和贩售AI生成的产品或服务。重点关注普通人在这些领域中获得可持续收入的可能性以及AI副业的市场前景。</span></p><span></span><p><span>此外,本期节目还对产品市场匹配PMF, 进行了实际应用和演练。内容丰富,干货满满, 欢迎大家的收听并在节目下方留言提问, 加入我们的讨论~</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="17">00:17</a> 普通人, 通过AI副业赚钱是否可行？</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="27">00:27</a> 定义副业赚钱的标准：每天收入100元，月收入3000元</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="80">01:20</a> 两种AI赚钱方式：流量账号变现与贩售AI产生的产品/服务</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="116">01:56</a> 复习上一期的学习内容: 用产品市场匹配（PMF）框架来分析AI副业的市场情况</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="211">03:31</a> 实验方法以及实验对象的选取: &nbsp;&nbsp;&nbsp;&nbsp;同类推测?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="270">04:30</a> 实验假设1&amp;结论: 前20%的流量账号的数据观察分析</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="278">04:38</a> 实验假设2&amp;结论: 前20%的力流量账号是否可以match之前预估的月入3K标准</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="400">06:40</a> 假设1已打破, 那前3%是否能赚到3K呢?</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="448">07:28</a> 为何只看到近几个月的新账户? (头部玩家的游戏且收入可持续性稳定不足)</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="529">08:49</a> 结论: AI副业可能实现小额收益，但难以达到理想收入</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="543">09:03</a> AI生成图和头像的市场收益情况</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmpuIBbu0NkCgsfGE_sFFgPFSbAY.m4a" length="13149677" type="audio/mp4"/>
+    <itunes:duration>00:12:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP07 聊聊PMF的核心,它真的不能拿着锤子找钉子吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66c5920933591c27beaa632e</link>
+    <guid isPermaLink="false">66c5920933591c27beaa632e</guid>
+    <pubDate>Wed, 21 Aug 2024 07:06:49 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>创业早期唯一重要的事情—产品市场匹配</span></strong><span>（PMF）</span></p><span></span><p><span>本期博客,我们将带领大家深入学习产品市场匹配（PMF），也是创业早期至关重要的环节。我们探讨了红杉资本的一篇经典文章，并原创总结出了一个简单易懂的需求/产品四象限模型，帮助大家更好地理解市场需求与产品的契合度。此外帮助理解,也涵盖了科技产品领域的多个实际案例，深入分析了PMF的应用，帮助大家在创业路上少走弯路。</span></p><span></span><p><strong><span>时间线：</span></strong></p><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="10">00:10</a> - 产品市场匹配（PMF）的基本概念</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="11">00:11</a> - 常见的失败原因（为何找不到PMF）</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="25">00:25</a> - PMF是否等同于市场需求分析？</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="65">01:05</a> - 红杉资本文章解析：《The Ark Product Market Fit Framework》</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="81">01:21</a> - 三种基本原型分析：<a class="timestamp" data-timestamp="91">01:31</a> - Hair On Fire 紧急需求：技术壁垒与差异化竞争的关键</span><br><span><a class="timestamp" data-timestamp="162">02:42</a> - Hard Fact：非刚需产品，需改变用户习惯</span><br><span><a class="timestamp" data-timestamp="199">03:19</a> - Future Vision：未来愿景，科幻小说般功能，案例分析iPhone和特斯拉</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="240">04:00</a> - 市场需求与产品的四象限分析模型（原创分享）<a class="timestamp" data-timestamp="269">04:29</a> - 现有产品，已有需求：取胜关键在于差异化竞争</span><br><span><a class="timestamp" data-timestamp="327">05:27</a> - 明确需求与愿景产品，案例分析：特斯拉的FSD</span><br><span><a class="timestamp" data-timestamp="385">06:25</a> - Unrealized需求与已有产品：教育用户的重要性</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="465">07:45</a> - AI产品属于哪一类？探索AI产品的PMF策略</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="556">09:16</a> - 为什么“拿着锤子找钉子”是AI初创公司唯一有效的市场策略？</span></li><span></span></ul><span></span><p><span>其余reference:&nbsp;</span></p><span></span><p><a href="https://www.sequoiacap.com/article/pmf-framework/" data-url="https://www.sequoiacap.com/article/pmf-framework/"><span>The Arc Product-Market Fit Framework | Sequoia Capital</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luTOu6GDDRR5Jc-Ly5lhUu_w3gZN.m4a" length="13108612" type="audio/mp4"/>
+    <itunes:duration>00:12:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP06 产品设计的脑洞清单:被忽略的微信功能创意碰撞</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66b149467349f7a557fc8f89</link>
+    <guid isPermaLink="false">66b149467349f7a557fc8f89</guid>
+    <pubDate>Mon, 05 Aug 2024 21:51:01 +0000</pubDate>
+    <description><![CDATA[<p><span>这期节目详细讨论了微信在人脉管理功能上的潜在市场和商业动机.从市场和产品的角度切入，带领大家一起体验一次商业产品设计(peer design), 并系统性地设计出一款能够简化小微企业主和个体经营者人脉管理流程的解决方案.</span></p><span></span><p><span><a class="timestamp" data-timestamp="10">00:10</a>微信忽略了的微小企业以及个体经营者用户覆盖需求</span></p><span></span><p><span><a class="timestamp" data-timestamp="69">01:09</a>人脉管理功能的市场需求和痛点</span></p><span></span><p><span><a class="timestamp" data-timestamp="83">01:23</a> 可能的盈利模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="163">02:43</a> 功能模块设想: 联系人信息共享、用户资料管理和日历任务提醒。</span></p><span></span><p><span><a class="timestamp" data-timestamp="225">03:45</a> 联系人整合:微信和LinkedIn的联系人信息资料互享, 如何解决Graph Conflation</span></p><span></span><p><span><a class="timestamp" data-timestamp="323">05:23</a> 用户资料管理:快速搜索和自动对联系人进行分类分组</span></p><span></span><p><span><a class="timestamp" data-timestamp="483">08:03</a> 互动和通知:推送通知和生成式AI功能增强用户互动</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsRWsB9N5YM6o2dJPZ1laVMfSJ5y.m4a" length="10225707" type="audio/mp4"/>
+    <itunes:duration>00:09:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP05 编辑语音可以如文本编辑一样简单轻松吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666eae5ec26e396a3621c746</link>
+    <guid isPermaLink="false">666eae5ec26e396a3621c746</guid>
+    <pubDate>Sun, 16 Jun 2024 09:20:30 +0000</pubDate>
+    <description><![CDATA[<p><span>想象一下如果能够通过编辑文本的形式，直接编辑语音内容，让语音视频的编辑自动根据文本完成, 这是不是众多剪辑者的理想场景? 对, 现如今语音编辑技术实现这个功能完全不在话下, 它将使音视频编辑变得更加简单高效，极大提升创作者的体验。</span></p><span></span><p><span>我们这一期节目详细介绍语音编辑的现阶段能力,实现原理以及难点突破~</span></p><span></span><p><span>欢迎小伙伴们收听,订阅我们的频道, 跟着我们一起了解这个创新如何改变音频剪辑的游戏规则</span></p><span></span><p><span><a class="timestamp" data-timestamp="8">00:08</a> 语音可以像文字一样随意编辑的吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="151">02:31</a> 生成相似音色难度和声音克隆谁的更大</span></p><span></span><p><span><a class="timestamp" data-timestamp="351">05:51</a> Transformer的填充词检测</span></p><span></span><p><span><a class="timestamp" data-timestamp="536">08:56</a> 如何进行填充词的检测</span></p><span></span><p><span><a class="timestamp" data-timestamp="745">12:25</a> 如何处理音调的变换和统一</span></p><span></span><p><span><a class="timestamp" data-timestamp="963">16:03</a> 替换语音的过程如何保证对话的流畅和自然</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lv39Xe07IwGoNxwwEH33ROypuQwB.m4a" length="19551793" type="audio/mp4"/>
+    <itunes:duration>00:19:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP04 为何软件大厂CICD钟爱持续集成持续交付</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666e4aabc26e396a36107135</link>
+    <guid isPermaLink="false">666e4aabc26e396a36107135</guid>
+    <pubDate>Sun, 16 Jun 2024 02:15:07 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎收听本期播客！今天我们来聊聊持续集成和持续交付CI/CD</span></p><span></span><p><span>从繁琐耗时的手动测试部署,到CICD带来的快速集成，我们会揭示CI/CD如何加速上线、减少错误，并大大提升团队协作的效率. 这期节目都将带你了解CI/CD的关键优势，以及如何在自己的项目中成功实施. 感谢大家的聆听, 也欢迎在留言区和我们继续探讨和提问.</span></p><span></span><ul><span>  </span><li><span><a class="timestamp" data-timestamp="89">01:29</a> 持续集成和持续交付的最大特点</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="164">02:44</a> 持续集成/交付的挑战和风险把控</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="249">04:09</a>: 什么是回滚机制？它在CI/CD中有多重要</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="348">05:48</a> 降低CI/CD风险的-从单元测试到集成测试</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="475">07:55</a> 如何帮助不同企业自我定位CICID的需求</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="497">08:17</a> CI/CD的重要性</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="790">13:10</a> 使用Kubernetes和CI/CD的区别‘</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="900">15:00</a> 利用 AI 提高 CI/CD Pipeline效率</span></li><span>  </span><li><span><a class="timestamp" data-timestamp="1086">18:06</a> AI 在CI/CD的应用</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhGHbjwx0vWN9rz0tze1k4lDBZ2i.m4a" length="21533169" type="audio/mp4"/>
+    <itunes:duration>00:20:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP03 声音克隆的初探索</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66695559c26e396a363a3ca5</link>
+    <guid isPermaLink="false">66695559c26e396a363a3ca5</guid>
+    <pubDate>Wed, 12 Jun 2024 07:59:21 +0000</pubDate>
+    <description><![CDATA[<p><span>你是否曾想过，如果能够复制某位名人的声音，会是怎样的体验？或者，你是否好奇声音克隆在科技、艺术和娱乐领域的应用？本期播客深入讨论了声音克隆(Voice Cloning)的基本原理和技术实现细节,我们将深入探讨声音克隆技术的奥秘。别担心，我们会为你揭开这个神秘面纱。</span></p><span></span><p><span><a class="timestamp" data-timestamp="39">0:39</a> 什么是声音克隆</span></p><span></span><p><span><a class="timestamp" data-timestamp="180">3:00</a> 声音克隆的原理和技术</span></p><span></span><p><span><a class="timestamp" data-timestamp="380">6:20</a> 个性化声音 (声学模型的妙用)</span></p><span></span><p><span><a class="timestamp" data-timestamp="450">7:30</a> 高质量的音源 预处理和预判断</span></p><span></span><p><span><a class="timestamp" data-timestamp="535">8:55</a> 语音克隆技术将如何处理语音语调韵律的变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="778">12:58</a> 不同声学模型的不同表达力的差异</span></p><span></span><p><span><a class="timestamp" data-timestamp="870">14:30</a> 如何弥补训练数据不足</span></p><span></span><p><span><a class="timestamp" data-timestamp="1016">16:56</a> 如何解决口语化的声音合成</span></p><span></span><p><span><a class="timestamp" data-timestamp="1165">19:25</a> 虚拟歌手 AI孙燕姿的技术解读和思考</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnrZ6KgQL6wqrfi30xYessmQ6YVT.m4a" length="23187508" type="audio/mp4"/>
+    <itunes:duration>00:23:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm3UmWjtEkedhE2aIFcCVBilB_Ly.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

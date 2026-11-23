@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>破晓之前</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64be2d735680f4d4a89363df</link>
+  <description><![CDATA[和你有关的投资圈大事件
+光鲜背后，总有被忽略的事实
+我们想尝试还原，事件之中，到底都发生了什么]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:48:32 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64be2d735680f4d4a89363df.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>SanSan33_</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg</url>
+    <title>破晓之前</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64be2d735680f4d4a89363df</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>Vol.22 潮起潮落又一年，港股打新谁赚钱</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af18f44b4a4e20202f71f9e</link>
+    <guid isPermaLink="false">6af18f44b4a4e20202f71f9e</guid>
+    <pubDate>Mon, 09 Nov 2026 09:28:31 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎来到《破晓之前》。失踪半年的两位主播，终于回来聊聊港股 IPO。</span></p><p><span>过去一年，港股打新经历了一轮过山车：认购倍数从几千倍、上万倍一路冲高，新股首日涨幅惊人；到了下半年，市场很快转冷，有的新股甚至申购不足。我们回头梳理这波行情，聊聊港交所新规如何改变新股供给，AI 和半导体题材又怎样推高热度，以及打新、国际配售和基石投资背后各自承担的风险。</span></p><p><span>如果你也参与过这轮港股打新，或者好奇新股热潮为什么来得快、退得也快，这期节目可以陪你一起复盘。</span></p><p><span>🕙 这一期中，你将听到：</span></p><p><span><a class="timestamp" data-timestamp="108">01:48</a> 港股 IPO 从火热到遇冷：新股打新的收益为什么和大盘走势背离？两位主播又是怎么退出这场打新游戏的？</span></p><p><span><a class="timestamp" data-timestamp="933">15:33</a> 新规如何改变供需：公开发售份额减少，新股认购倍数为什么从百倍涨到千倍？</span></p><p><span><a class="timestamp" data-timestamp="1505">25:05</a> AI 和半导体接力：新题材如何催生第二波打新热潮？二季度的新股首日涨幅有多惊人？</span></p><p><span><a class="timestamp" data-timestamp="2191">36:31</a> 基石投资和流动性：新股热潮留下了哪些被套住的资金？解禁之后又面临什么问题？</span></p><p><span><a class="timestamp" data-timestamp="2861">47:41</a> 排队上市的公司怎么办：市场转冷后，发行可能比破发更难；基石和散户又该怎么看待手里的股票？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/ljml24e2BR_D0d-MuCODBN-Le1o3.m4a" length="53663012" type="audio/mp4"/>
+    <itunes:duration>00:55:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqoDhSFuDTxgvWrwEqUCzqWKB7LN.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.21 AI元年当上“程序员”，爽到想劝所有人立刻去试试看！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69fc0e8d1b7bd50295a281b3</link>
+    <guid isPermaLink="false">69fc0e8d1b7bd50295a281b3</guid>
+    <pubDate>Thu, 07 May 2026 04:19:07 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎来到《破晓之前》。</span></p><p><span>过去三个月，两位主播处于“查无此人”的状态。我们没去度假、没在摸鱼，而是沉迷了一段很多人也在沉迷的</span><strong><span>Vibe Coding</span></strong></p><p><span>在这一期节目里，我们不想讨论那些看起来火热的话题，比如AI带来什么样的投资机会、AI大厂之间的军备竞赛、甚至AI会不会取代人的工作；</span></p><p><span>我们想跟你分享这几个月直接上手的体验，聊聊两个零基础的“外行人”，是如何被AI拽着飞奔，从 100 行代码起步，搭出几万行逻辑复杂的量化系统。在这个过程之中，我们发现：在AI的浪潮之中，普通人真正有效的跟随方式，是上手去做</span></p><p><span>如果你还在纠结要不要学一学Vibe Coding，或者在为 AI 带来的职业焦虑而失眠，这期节目或许能帮你穿透迷雾，看到这个“上手即正义”的新版本的世界</span></p><p></p><hr><h3><span>🕙 这一期中，你将听到：</span></h3><p><strong><span><a class="timestamp" data-timestamp="43">00:43</a></span></strong><strong><span> 消失的三个月：</span></strong><span> 为什么开始Vibe Coding之后会进入上瘾状态，丧失对外界一切琐事的兴趣？</span></p><p><strong><span><a class="timestamp" data-timestamp="312">05:12</a></span></strong><strong><span> 零基础通关：</span></strong><span> 从中东喂骆驼到回国写代码，一个外行如何靠 Gemini 的 100 行初始代码“暴力”跨进Coding门槛</span></p><p><strong><span><a class="timestamp" data-timestamp="1104">18:24</a></span></strong><strong><span> “模糊的正确”和“莫名其妙学会了”：</span></strong><span> 为什么现在的开发不需要从 0 到 1？在 AI 时代，逻辑模糊正确比语法精准更重要 。以前我们要确保搭建的方案不踩坑，所以要花大量时间储备知识，现在有了极其高效的工具，边做、边试、边改，‘莫名其妙学会了’是最爽的体感</span></p><p><strong><span><a class="timestamp" data-timestamp="1420">23:40</a></span></strong><strong><span> 穿透信息过载：</span></strong><span> 为什么你看遍了小红书的“安利”也学不会？拒绝焦虑，上手去做可能是跟随 AI 进化的唯一姿势</span></p><p><strong><span><a class="timestamp" data-timestamp="2110">35:10</a></span></strong><strong><span> 古法Coding的批评是对的：</span></strong><span>现阶段的AI没有削平所有门槛，进入技术领域，外行需要完成非常多艰难的自我扫盲，但这不是阻碍，新手也可以用产品目标倒逼技术实现，至于代码冗余？交给进化中的AI解决吧</span></p><p><strong><span><a class="timestamp" data-timestamp="3025">50:25</a></span></strong><strong><span> AI作为生产力底座的新世界：“</span></strong><span>AI 帮我证明了很多人干的工作其实就是 Shit”——AI 是一面照妖镜，它正在揭穿那些只会Pua、没有 Lead 能力的“中间商” 。有能力跟AI合作的个体占据优势，这个新版本的世界终于来了！</span></p><p><strong><span><a class="timestamp" data-timestamp="4155">01:09:15</a></span></strong><strong><span> 现在就去做吧：</span></strong><span>我们也许没有太好的传递想说的信息，因为AI与个体之间的信息量真的好难表达，但最重要的一句话是，如果你想到了，现在立刻马上，去做吧！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lsrA4taBmzibyYAAvjVtLrqRIa7G.m4a" length="69302858" type="audio/mp4"/>
+    <itunes:duration>01:11:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmMf5S2rwZOLmFOWlG7YG75TYGug.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.20 流动性盛宴，情绪天地板|2025 港股复盘：在潮汐市场里经历打脸与狂欢</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6971a9caef1cf272a7cb25da</link>
+    <guid isPermaLink="false">6971a9caef1cf272a7cb25da</guid>
+    <pubDate>Thu, 22 Jan 2026 04:55:41 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎来到《破晓之前》</span></p><span></span><p><span>站在 2026 年的开端，本期节目中，我们一起复盘了过去这一年港股市场波澜壮阔、甚至有点“打脸”的行情。从 2024 年底的降息预期，到 2025 年 DeepSeek 引发的科技狂欢，再到特朗普关税政策带来的深蹲跳水，港股用一年时间向我们展示了什么是真正的“情绪与流动性的极限拉扯”</span></p><span></span><p><span>如果你也好奇，为什么“南下资金”确实夺取了港股的定价权，或者想知道像泡泡玛特和创新药企们是如何在这一年里完成业绩“大翻身”的，这期内容不容错过</span></p><span></span><h3><span>🕙 这一期中，你将听到</span></h3><span></span><ul><span>  </span><li><strong><span><a class="timestamp" data-timestamp="114">01:54</a> 脸疼的复盘：</span></strong><span> 回看 2024 年 8 月的预测，虽然逻辑对了，但 2025 年港股的火爆程度依然超出了所有人的想象。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="571">09:31</a> 转折点回顾：</span></strong><span> 2024 年 9 月那场点燃市场的金融政策发布会，是如何彻底扭转了全球资金对中国资产的估值预期。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="764">12:44</a> 2025 行情过山车：</span></strong><span> 从 DeepSeek 助推的 25000 点，到特朗普“关税大棒”砸回的 19000 点，港股这一年经历了什么。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="1215">20:15</a> 定价权易主：</span></strong><span> 外资占比下滑，南下资金成交额占比突破 60%，港股正变得越来越像“A 股”？</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="1940">32:20</a> 创新药的“第二春”：</span></strong><span> 告别泡沫后的创新药企，如何通过数以亿计的 License-out（权益外卖）交易，在 2025 年证明了自己的价值。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="2451">40:51</a> 新消费的全球奇迹：</span></strong><span> 泡泡玛特、老铺黄金与雪王，这些企业是如何在消费降级的叙事下，靠出海和极硬的业绩完成“逆天改命”的。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="3018">50:18</a> IPO 盛世与隐忧：</span></strong><span> 2025 年港股募资额全球第一，但在繁荣背后，那些为了进港股通而强行维持市值的“丐板 IPO”又藏着哪些雷？</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="3514">58:34</a> 展望 2026：</span></strong><span> 当流动性预期从“持续变宽”转为“维持现状”，明年的港股投资需要怎样的耐心和颗粒度？</span></li><span></span></ul><span></span><p><strong><span>如果你对本期节目提到的内容有任何看法，欢迎在评论区与我们讨论</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lu9hyM-e_aPjI5KkKEEEeUDqUJMG.m4a" length="56932513" type="audio/mp4"/>
+    <itunes:duration>00:58:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.19 AI炒币爆火前，我们实战了半年｜赚到20%+之外的更多真相</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6926ec66f8a9e1d1628ea146</link>
+    <guid isPermaLink="false">6926ec66f8a9e1d1628ea146</guid>
+    <pubDate>Wed, 26 Nov 2025 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙 这一期中，你将听到——</span></p><span></span><p><span><a class="timestamp" data-timestamp="24">00:24</a> AI炒币爆火，千问与Deep Seek傲视群雄；AI炒股实验，国产大模型仍表现不凡</span></p><span></span><p><span><a class="timestamp" data-timestamp="434">07:14</a> 我们已实战AI炒股半年：收益率20%！</span></p><span></span><p><span><a class="timestamp" data-timestamp="751">12:31</a> 实盘一开AI立马追涨杀跌，满仓追涨清仓止损，AI也是大型韭菜？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1225">20:25</a> AI应在炒股中扮演怎样的角色：分析师还是投资经理？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1685">28:05</a> AI带来的超额收益来源到底是什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1974">32:54</a> 从教AI做事，到给AI提供信息支持，到AI教我做事，我们与AI的合作过程中经历了怎样的心态转变</span></p><span></span><p><span><a class="timestamp" data-timestamp="2622">43:42</a> 大模型的加持会让所有人成为投资大师吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3020">50:20</a> 大模型越来越普及，但使用大模型的门槛并没有降低，人们的工作和生活思维模式尚未改变</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/ljj06rO-bT-Jue6e0uAYzaM_dcO8.m4a" length="63554584" type="audio/mp4"/>
+    <itunes:duration>01:05:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.18 自家的事还是国家的事？娃哈哈瓶里卖的什么水</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69037cf0fd16c105526f8e54</link>
+    <guid isPermaLink="false">69037cf0fd16c105526f8e54</guid>
+    <pubDate>Thu, 30 Oct 2025 15:13:26 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好久不见呀，先跟大家道个歉，本期录音由于菜鸟主播不熟悉专业麦，换新的音频线有bug，没能发现，到了剪辑的时候才意识到音质不太对……</span></p><p><span>硬着头皮先上线了，听感很一般，感谢收听本期节目的朋友们包容，下期一定改！</span></p><p><span>🕙 这一期中，你将听到——</span><br><span><a class="timestamp" data-timestamp="20">00:20</a> 宗庆后去世，宗家陷18亿美元遗产争夺战</span></p><p><span><a class="timestamp" data-timestamp="284">04:44</a> 宗馥莉接班宗庆后，操刀娃哈哈集团大换血</span></p><p><span><a class="timestamp" data-timestamp="600">10:00</a> 谁的娃哈哈？宗家如何控制国资作为大股东的娃哈哈集团</span></p><p><span><a class="timestamp" data-timestamp="1098">18:18</a> 娃哈哈和娃哈哈集团之间什么关系？娃哈哈的钱赚谁的腰包？&nbsp;</span></p><p><span><a class="timestamp" data-timestamp="1384">23:04</a> 娃哈哈与达能之争，宗庆后初显手腕</span></p><p><span><a class="timestamp" data-timestamp="1974">32:54</a> 细读宗庆后私生子信托案文件：宗家遗产分配始末，哪些是谣言、哪些是诡辩？</span></p><p><span><a class="timestamp" data-timestamp="2748">45:48</a> 造神？争利？也许这出豪门狗血剧中大家都只是普通人</span></p><p><span><a class="timestamp" data-timestamp="3280">54:40</a> “农夫山泉媚日”事件凸显宗馥莉性格与手腕</span></p><p><span><a class="timestamp" data-timestamp="3620">01:00:20</a> 作为非典型国企混改企业的娃哈哈，后续将如何发展？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lm-3Wxhkrc-7OfnJq2VB7bjoww66.m4a" length="61581054" type="audio/mp4"/>
+    <itunes:duration>01:03:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpHNY5v8_upDxv0CrHUcYRPE6zXB.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.17 网红智元要借壳？天降十倍大牛股｜上纬新材收购案细节扫描</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68b99c885faf3686590b3c8e</link>
+    <guid isPermaLink="false">68b99c885faf3686590b3c8e</guid>
+    <pubDate>Thu, 04 Sep 2025 14:12:09 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙 这一期中，你将听到——</span></p><span></span><p><span><a class="timestamp" data-timestamp="151">02:31</a> 智元机器人：“具身智能”赛道的当红炸子鸡，估值超150亿</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a> 交易框架：智元拟通过协议转让+要约收购获取上纬新材近67%股权</span></p><span></span><p><span><a class="timestamp" data-timestamp="465">07:45</a> 巧妙设计交易：满足所有规则，避开30%要约收购红线，三步走实现控股权收购</span></p><span></span><p><span><a class="timestamp" data-timestamp="656">10:56</a> 原大股东放弃表决权，智元提前实现实际控制</span></p><span></span><p><span><a class="timestamp" data-timestamp="1115">18:35</a> 交易还没完成，股价已经十倍，交易还能继续吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1393">23:13</a> 谁套现跑路了？二股东金风科技减持的绝佳卡点</span></p><span></span><p><span><a class="timestamp" data-timestamp="1967">32:47</a> 停牌钱交易量放大，资金提前布局暗流涌动？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2117">35:17</a> 没分的钱原本准备怎么分的？智元投资主体拆分三个池子，满足多方诉求</span></p><span></span><p><span><a class="timestamp" data-timestamp="2706">45:06</a> 对一级市场的影响：这作业你看明白了，敢抄吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/luRzN5a_-H1rsMQmO6_ikNyueyjn.m4a" length="50236250" type="audio/mp4"/>
+    <itunes:duration>00:51:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpHNY5v8_upDxv0CrHUcYRPE6zXB.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.16 零基础速通“稳定币”：加密货币撞进现实，稳定币会偷走美联储的印钞机吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68822a50a12f9ff06ad91d88</link>
+    <guid isPermaLink="false">68822a50a12f9ff06ad91d88</guid>
+    <pubDate>Thu, 24 Jul 2025 12:46:06 +0000</pubDate>
+    <description><![CDATA[<h3><span>🕙 </span><strong><span>这一期中，你将听到——</span></strong></h3><span></span><p><strong><span><a class="timestamp" data-timestamp="109">01:49</a> 稳定币是虚拟货币中的美元替身</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="259">04:19</a> 稳定币发行商的盈利模式：赚的是存入美元的利息</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="433">07:13</a> 两大稳定币USDT和USDC有什么区别？</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="752">12:32</a> 稳定币自带货币超发风险</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="924">15:24</a> USDT收益率远超美债，超额利润从何而来？</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1400">23:20</a> 中美欧火速立法，全球监管争相守护铸币权</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1633">27:13</a> 若稳定币体量快速增长，虚拟货币的崩盘将直接影响现实世界</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1896">31:36</a> 稳定币进入现实交易，在高通胀国家生根发芽</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2171">36:11</a> 稳定币促进美元在全球交易的渗透，可能使弱势国家货币加速崩溃</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2416">40:16</a> 中国杀入战场：香港实验人民币稳定币</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lgQ810QO9qbHcS_NuXdd1MpCQYA_.m4a" length="47845596" type="audio/mp4"/>
+    <itunes:duration>00:49:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.15 车圈大佬骂战不休，供应链企业在ICU：“恒大式“暴雷风险多大？低价内卷何时到头</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/685d0ab8bef90978ec02de8a</link>
+    <guid isPermaLink="false">685d0ab8bef90978ec02de8a</guid>
+    <pubDate>Thu, 26 Jun 2025 08:57:09 +0000</pubDate>
+    <description><![CDATA[<h3><span>🕙 </span><strong><span>这一期中，你将听到——</span></strong></h3><span></span><p><strong><span><a class="timestamp" data-timestamp="22">00:22</a></span></strong><span> 车圈口水战突然转向“行业自律”，神秘力量介入，真正值得担忧的是供应链遭受的冲击</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="281">04:41</a></span></strong><span> 长城魏建军抛出“车圈恒大论”始末：比亚迪成众矢之的</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="390">06:30</a></span></strong><span> 骂战背后是价格战：比亚迪掀起降价内卷，价格腰斩几乎成为新常态，全行业被迫陪跑，唯一有可能顶上房地产窟窿的支柱产业深陷低价陷阱</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="854">14:14</a></span></strong><span> 车企的吸血魔术大拆解：经销商一个月回款，供应商付款账期长达小半年，2400亿应付甚至可以理个财，“迪链”汇票贴现再剥供应商5%利润</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1449">24:09</a></span></strong><span> 山东最大比亚迪经销商跑路，压货模式下经销商杠杆拉爆难以为继</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1691">28:11</a></span></strong><span> 核心车企挤兑风险其实很低，但供应链已经被推到在死亡边缘</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2107">35:07</a></span></strong><span> 60天账期承诺难以改变当前状况：结算节点、支付方式都没有明确，供应链企业短期可能只会收获“重新定义帐期”的结果</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2416">40:16</a></span></strong><span> 垄断优势下的低价内卷，长期会严重伤害供应链创新能力，也带来产品质量的螺旋下降风险，因此“必须改变现状”的政策意图非常明确</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="3058">50:58</a></span></strong><span> 降本藏在看不见的地方，近期考虑买车的话，建议决策尽量谨慎</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/ljESB_9t1yav16SvplzCwINa0llm.m4a" length="50830639" type="audio/mp4"/>
+    <itunes:duration>00:52:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.14 星巴克中国要卖身，“中国星巴克”忙上市：霸王茶姬能不能接棒雪王神话？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/682ed75d457b22ce0df95a85</link>
+    <guid isPermaLink="false">682ed75d457b22ce0df95a85</guid>
+    <pubDate>Thu, 22 May 2025 08:07:43 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙</span><strong><span>这一期中，你将听到——</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="40">00:40</a></span></strong><span> 茶饮品牌扎堆上市，IPO速度赶超各家上新速度</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="124">02:04</a></span></strong><span> 霸王茶姬逆袭密码：3年狂开6400家店，单店月销25,000杯，咖啡因含量比星巴克还高！</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="351">05:51</a></span></strong><span> 存货周转天数9天，供应链莫不是开了挂？毛利率46%碾压同行，加盟商半年回本的“印钞机”模式</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="723">12:03</a></span></strong><span> 2024下三四季度的致命转折：同店销售额暴跌27%，奶茶店太多还是咖啡因摄入饱和？瑞幸数据同步预警</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1200">20:00</a></span></strong><span> 这个时间选择美股上市，虽然乱成一锅粥，霸王茶姬还是蹭上了星巴克的故事</span></p><span></span><p><span><a class="timestamp" data-timestamp="2003">33:23</a> 创始人的爽文人生背后，上市结构里藏着秘密？八卦引发全网删帖</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1828">30:28</a></span></strong><span> VC机构XVC两轮豪赌赚几十倍，喜茶600亿估值泡沫反而要成行业最大冤种</span><br><span><a class="timestamp" data-timestamp="2963">49:23</a> &nbsp;趁着外卖补贴多，先喝奶茶再炒股，如果关注茶饮行业的股票，建议等季报确认暴雷风险之后再看</span></p><span></span><p><span>伯牙绝弦确实挺好喝，下次见！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lo76NZ1oJTKIbz_BOLd1-ZHUtgeN.m4a" length="48656350" type="audio/mp4"/>
+    <itunes:duration>00:50:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.13 刚看完商务部约谈沃尔玛，转眼见证中美互加天价关税？世界疯了还是我疯了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6800fbd1cdd692da15fe6d45</link>
+    <guid isPermaLink="false">6800fbd1cdd692da15fe6d45</guid>
+    <pubDate>Thu, 17 Apr 2025 13:12:05 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙这一期中，你将听到——</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="66">01:06</a> 回顾3月时间线</span></strong><span>：特朗普政府以“禁毒不力”为由，两次对中国加征关税累计20%，沃尔玛要求中国供应商降价10%转嫁关税成本，商务部强势约谈</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="351">05:51</a> 4月关税失控：</span></strong><span>特朗普掀翻牌桌，Excel一拉，世界乱套，“顺差÷进口额”粗暴算关税，越南莫名躺枪（税率45%）</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="723">12:03</a> 中美博弈谁在买单？</span></strong><span>中国供应商降无可降，美国消费者惨了，日用品价格或翻倍，沃尔玛货架可能断供</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1200">20:00</a> 短短一周180度转弯：</span></strong><span>特朗普突然豁免半导体、手机等关键商品关税，美股暴涨，闹剧带崩海关系统，企业提货后“补税再说”</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1828">30:28</a> 供应链真相：</span></strong><span>离开中国行不行？60%商品依赖中国，东南亚成本至少高20%，产能根本跟不上，稳定又便宜的制造能力，世界范围无可代替</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2416">40:16</a> 归根究底，美元霸权危机：</span></strong><span>强势关税政策的背后，是美元循环难以为继，美国国债破40万亿利息压垮财政，“印钱消费、举债还钱”的循环必须停下来</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="3000">50:00</a></span></strong><span> </span><strong><span>普通人怎么办？主播的佛系建议：</span></strong></p><span></span><p><strong><span>少看股市</span></strong><span>，猴市波动大，“一天亏几千美金”是常态</span></p><span></span><p><strong><span>保持佛系</span></strong><span>，看不懂没关系，特朗普也不知道自己在干嘛</span></p><span></span><p><span>虽然下周可能更疯，但至少这期录完了！～</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lv_wQsNOEGvpTnwnis2q2-kqYz1i.m4a" length="57655428" type="audio/mp4"/>
+    <itunes:duration>00:59:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.12 DeepSeek爆火刷屏，德银高调唱多出圈，中国股市要起飞？该逃还是该追？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b70acf606e5c5940bd2d1d</link>
+    <guid isPermaLink="false">67b70acf606e5c5940bd2d1d</guid>
+    <pubDate>Thu, 20 Feb 2025 11:04:18 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙这一期中，你将听到——</span></p><span></span><p><span><a class="timestamp" data-timestamp="61">01:01</a> 德意志银行发布的“中国吞噬世界”报告到底为什么突然爆火？从标题到内容，是什么引起大家的疯狂关注</span></p><span></span><p><span><a class="timestamp" data-timestamp="470">07:50</a> 中国制造业的崛起：报告提到中国在全球市场的主导地位被低估，中国制造业到底崛起到了什么程度？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1044">17:24</a> AI引爆市场情绪：Deepseek的AI大突破，这波行情是不是AI技术引爆的？我们聊聊AI如何改变了整个市场情绪</span></p><span></span><p><span><a class="timestamp" data-timestamp="1215">20:15</a> 港股与A股的不同反应：为什么港股率先暴涨，A股却显得有点“迟疑”？美元资金和人民币资金的心理差异究竟是什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2239">37:19</a> 日本80年代泡沫经济的对比：德银宣称中国现在像80年而非89年的日本，市场误判严重到了搞错泡沫起始之年和破灭之年？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2775">46:15</a> 短期炒作VS长期投资：中国股市的长线恢复需要宏观条件支持，利率环境和汇率环境空间都有限，风险因素仍然过多</span></p><span></span><p><span><a class="timestamp" data-timestamp="3052">50:52</a> 市场乐观情绪是否能持续？短线情绪交易的风险和挑战，暴涨很难维持，散户尽量保持谨慎</span></p><span></span><p><span>————</span><br><span>*本期shownotes由deepseek提供思路指导chatgpt生成，并由人类主播修改完成</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/lsUFM1HXU7BftokaNTEMt9Tk3h1z.m4a" length="54824679" type="audio/mp4"/>
+    <itunes:duration>00:56:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.11 从入华淘金到AnythingButChina？是外资大撤退还是中资真的崛起了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67921856d74435e4a35342e5</link>
+    <guid isPermaLink="false">67921856d74435e4a35342e5</guid>
+    <pubDate>Thu, 23 Jan 2025 10:38:38 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙这一期中，你将听到——</span></p><span></span><p><span><a class="timestamp" data-timestamp="22">00:22</a> 从大举涌入到逐步撤退，外资在中国的起起伏伏</span></p><span></span><p><span><a class="timestamp" data-timestamp="525">08:45</a> 从资本市场统计口径来看，历年来有多大体量的外资离开中国和新兴市场，涌入美国？</span></p><span></span><p><span><a class="timestamp" data-timestamp="970">16:10</a> ABC的投资策略是什么？反应了资金面怎样的洞察和预期？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1184">19:44</a> 一级市场资金的节奏与二级市场几乎完全一致，2022年以来经历了大幅萎缩，行业底层运作逻辑发生大幅调整</span></p><span></span><p><span><a class="timestamp" data-timestamp="1648">27:28</a> 外资在中国资本市场的历史任务完成了吗？外资退出历史舞台对中国当下的市场有什么影响？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1965">32:45</a> 实体企业外资的行为逻辑与资本层面外资一致么？差异在哪里？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2512">41:52</a> 从改革开放初期引入外资“拿市场换技术”，到如今出海寻找新机遇，中国企业学会了什么，又欠缺什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2755">45:55</a> 回到当下市场，“924”新政后，各类资金如何看待中国市场？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2973">49:33</a> 过去几年PE/VC市场泡沫产生的影响延宕至今，资本市场与各利益相关方怎么寻找新的发展路径</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64be2d735680f4d4a89363df/loKfSFmwjpCNWjWXx3xzYwH7t6Q9.m4a" length="57395142" type="audio/mp4"/>
+    <itunes:duration>00:59:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpTrAF9-avmdEF22QG4tQ_8-ZDwL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.10 “霸总”杨子身家成谜，女明星嫁豪门大亏本？｜追不下去《再见爱人4》，先算算豪门婚姻里的资产账</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/676d266015a5fd520ec84600</link>
+    <guid isPermaLink="false">676d266015a5fd520ec84600</guid>
+    <pubDate>Thu, 26 Dec 2024 10:16:55 +0000</pubDate>
+    <description><![CDATA[<p><span>再见爱人又一期更新的今天，也来蹭蹭热点</span></p><p><span>虽然节目综艺实在看不下去，但八卦之心熊熊燃烧的我们，也翻遍了上市公司公告，盘一盘豪门家族怎么从上市公司套现了大额财富，也顺便聊聊A股的减持怪象</span></p><p><span>Shownotes里有详细数据汇总哦～</span></p><p><span>🕙这一期中，你将听到——</span></p><p><br><span><a class="timestamp" data-timestamp="176">02:56</a> 黄圣依嫁给保定徐水首富家庭赚到了吗？首富把钱都用来买收藏品合理吗？</span></p><p><span><a class="timestamp" data-timestamp="345">05:45</a> 杨家的财富源泉：巨力索具是做什么的？杨子在巨力是怎样的身份？</span></p><p><span><a class="timestamp" data-timestamp="676">11:16</a> 抛售股票套现两亿：杨子动作果决，疯狂减持</span></p><p><span><a class="timestamp" data-timestamp="940">15:40</a> 财富自由靠股票套现：巨力市值缩水60亿，杨家套现30亿</span></p><figure><img src="https://image.xyzcdn.net/FigDo_RiqGI1gkAlYBrrMcn6gGlg.png"></figure><figure><img src="https://image.xyzcdn.net/FkLJlWKilpfjC1TYtVlnXn3NjHWM.png"></figure><p><em><span>*数据来源：上市公司公告，破晓之前汇总</span></em></p><p><span><a class="timestamp" data-timestamp="1633">27:13</a> 除股票以外，杨子和黄圣依近几年还靠什么赚到了钱？靠谁赚的？</span></p><p><span><a class="timestamp" data-timestamp="2088">34:48</a> 巨力索具增收不增利，杨家对上市公司还有什么诉求，进行了怎样朴素的管理</span></p><p><span><a class="timestamp" data-timestamp="2359">39:19</a> 为减持，上市公司大股东新招层出不穷，减持新规出台解决了A股市场面临的什么问题？</span></p><p><span><a class="timestamp" data-timestamp="2778">46:18</a> 文玩古董艺术品市场有什么猫腻，小众另类投资该占家庭资产这么大份额吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmlAK5et9un8o6w5aPIaqb8tFjPB.m4a" length="50480705" type="audio/mp4"/>
+    <itunes:duration>00:52:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.09 草根逆袭，天才买技｜捧红始祖鸟的安踏，到底拿了什么爽文剧本？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673f04d011045e78e5d3bbad</link>
+    <guid isPermaLink="false">673f04d011045e78e5d3bbad</guid>
+    <pubDate>Thu, 21 Nov 2024 10:24:01 +0000</pubDate>
+    <description><![CDATA[<p><span>🕙这一期中，你将听到——</span></p><span></span><p><span><a class="timestamp" data-timestamp="54">00:54</a> 中产三件宝，安踏占两个？你知道FILA、科隆、迪桑特、始祖鸟都是安踏的品牌吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="479">07:59</a> 5亿对价，数十倍回报：安踏获得FILA中国运营权始末</span></p><span></span><p><span><a class="timestamp" data-timestamp="959">15:59</a> 借助成功运营FILA经验，顺势将迪桑特和科隆中国纳入囊中</span></p><span></span><p><span><a class="timestamp" data-timestamp="1310">21:50</a> 层层杠杆，豪掷56亿欧元收购亚玛芬，收获始祖鸟与萨洛蒙</span></p><span></span><p><span><a class="timestamp" data-timestamp="1873">31:13</a> 复制FILA奇迹，始祖鸟中国业绩突飞猛进：安踏做对了什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2253">37:33</a> 同为国货之光，李宁近年来做了什么？做得如何？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2943">49:03</a> 安踏收购国内新消费品牌MAIA，对一级市场有什么启示吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3144">52:24</a> 李宁与红杉成立合资公司拓展海外市场，双方打的什么算盘？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3299">54:59</a> 下一步，强力产品矩阵支撑下的安踏如何向国际市场发起冲锋？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgVADXJ2hVINDS72pvLQQl9KZZkZ.m4a" length="62000572" type="audio/mp4"/>
+    <itunes:duration>01:03:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.08 经济换挡，金融变天｜一级市场的日子还过得下去吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672363f233c798676f6f45b4</link>
+    <guid isPermaLink="false">672363f233c798676f6f45b4</guid>
+    <pubDate>Thu, 31 Oct 2024 11:19:56 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="40">00:40</a> 中国PE和VC基金DPI 0.3，说明了什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="267">04:27</a> 一级市场是个怎样的市场？PE VC投资是个怎样的行当？</span></p><span></span><p><span><a class="timestamp" data-timestamp="741">12:21</a> 一级市场现状如何？行业的寒冬有多冷？</span></p><span></span><p><span><a class="timestamp" data-timestamp="887">14:47</a> 一二级市场估值倒挂，上市破发成常态，市场套利难以为继</span></p><span></span><p><span><a class="timestamp" data-timestamp="1366">22:46</a> 业绩堪忧的情况下，一级市场还能募到新的钱吗？为了募资，大家在讲什么新的故事？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1850">30:50</a> 行业不确定性加剧，挑战投资机构能力，投资人投资策略反复横跳</span></p><span></span><p><span><a class="timestamp" data-timestamp="2027">33:47</a> 并购在中国的一级市场是一个讲得通的故事吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2529">42:09</a> 人民币和美元的一级市场的到底有啥差？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2785">46:25</a> 最新闹剧：回购条款引发的股东与创始人争斗大戏</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqZWBQD_FKjfNF4QtZ4__iHfA76p.m4a" length="49438197" type="audio/mp4"/>
+    <itunes:duration>00:50:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhihr1g3KmVpmgASk09kHwFcZZTs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

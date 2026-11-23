@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Crypto早知道</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/664467c4f50aad42f65063c5</link>
+  <description><![CDATA[让我们一起探索加密，穿越牛熊]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:49:55 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p664467c4f50aad42f65063c5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Mark_move</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpCV8aC4yVqijspobZxdT3YSbR5m.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpCV8aC4yVqijspobZxdT3YSbR5m.png</url>
+    <title>Crypto早知道</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/664467c4f50aad42f65063c5</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>EP18[CN] 深度解读 8.5 暴跌的背后原因：Jump Crypto 成元凶？日本央行加息与「渡边太太们」的退场</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66b328ae4b8eba7e7e2a5726</link>
+    <guid isPermaLink="false">66b328ae4b8eba7e7e2a5726</guid>
+    <pubDate>Wed, 07 Aug 2024 07:56:30 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>首先，伯克希尔哈撒韦在今年伊始就保持着套现股票提高现金储备的动作已经表明了可能是这个星球上最懂投资的人已经提前开始避险了。</span></strong><span>巴菲特也在第一季度的股东大会上表示（当时伯克希尔哈撒韦的现金储备已接近2000亿美元），除非见到风险很小且高回报的机会，否则他们不会使用这些钱。而就在</span><strong><span>北京时间上周六</span></strong><span>，</span><strong><span>伯克希尔哈撒韦财报显示其在二季度出售了持有的苹果股票的接近一半，现金储备来到了创纪录的 2770 亿美元。在 7 月公布美国 6 月失业率数据为 4.1% 时，市场上就出现了警告的声音，因为彼时距离触发「萨姆法则」仅有一步之遥。但可惜的是，类似警告的声音被之后超预期的 GDP 等数据淹没了。</span></strong></p><span></span><p><span>据 Arkham 显示，在 2021 年年底的巅峰时间，Jump 的地址里有接近 100 亿美元，</span><strong><span>而如今同样这个地址中仅有不到 6 亿美元的资产</span></strong><span>。</span><strong><span>而这 5.95 亿美元仓位里，已大幅转向稳定币，USDC 和 USDT 的持仓占比已达到 96%</span></strong></p><span></span><p><span>日元套利交易（JPY Carry Trade），市场为做该套利交易的交易员起了一个很有趣的名称，叫做「渡边太太」。</span><strong><span>所谓的日元套利交易指的一种基于利率差异的投资策略。它的基本原理是利用低利率货币（如日元）借款，然后将资金投资于高利率货币或高收益资产，从中赚取利差。</span></strong><span>操作原理如下：</span></p><span></span><ul><span>  </span><li><strong><span>借入日元</span></strong><span>：由于日本的利率非常低（有时甚至接近零），投资者可以以非常低的成本借入日元。</span></li><span>  </span><li><strong><span>兑换高收益货币</span></strong><span>：将借来的日元兑换成另一种利率较高的货币，比如澳大利亚元或新西兰元。</span></li><span>  </span><li><strong><span>投资于高收益资产</span></strong><span>：然后将这笔资金投资于该高收益货币国家的债券、存款或其他资产，赚取较高的利息收入。</span></li><span>  </span><li><strong><span>利差收益</span></strong><span>：投资者的盈利来源于借款成本（低利率日元贷款）与投资收益（高利率资产）之间的利差。</span></li><span></span></ul><span></span><p><span>资料来源：</span></p><span></span><p><span><a data-url="https://foresightnews.pro/article/detail/65810" href="https://foresightnews.pro/article/detail/65810">foresightnews.pro</a>&nbsp;</span></p><span></span><p><span><a data-url="https://www.theblockbeats.info/news/54507" href="https://www.theblockbeats.info/news/54507">www.theblockbeats.info</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lngRqmutdreElK9n4Mmcx_ktfEIk.m4a" length="13669147" type="audio/mp4"/>
+    <itunes:duration>00:14:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpCV8aC4yVqijspobZxdT3YSbR5m.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP17[CN] 揭秘区块链盈利能力：哪些 L1 和 L2 收入最高？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66add0197349f7a55772bfbb</link>
+    <guid isPermaLink="false">66add0197349f7a55772bfbb</guid>
+    <pubDate>Sat, 03 Aug 2024 06:37:12 +0000</pubDate>
+    <description><![CDATA[<h1><span>揭秘区块链盈利能力：哪些 L1 和 L2 收入最高？</span></h1><span></span><p><em><span>Bankless 撰文探讨了按收入排名前四的 L1 和 L2，并分析了这些区块链在过去一年中的实际盈利情况。</span></em></p><span></span><h1><span>百链竞发下半场，BTC Layer2 市场该何去何从？</span></h1><span></span><p><em><span>最近，整个一二级市场都承受着黑云压城般的压抑，有很多声音发问，BTC Layer2 的下一步到底该如何走？ 加密研究员 Haotian 在深入调研多个代表性项目得出了三个破局点：1）资产发行「新」叙事；2）Layer2 「标准」收窄；3）BTCFi 生息大幕开启。</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgqaOmMhL4ZZSxw1PNkPQZ6ec6Yb.m4a" length="10222622" type="audio/mp4"/>
+    <itunes:duration>00:10:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtsxXO0CAWEToUJGk7p77FWltmEW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP16 [CN] Web3 为品牌创造的 4 个增量价值</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66977d5b37236c546ec446e1</link>
+    <guid isPermaLink="false">66977d5b37236c546ec446e1</guid>
+    <pubDate>Wed, 17 Jul 2024 08:14:17 +0000</pubDate>
+    <description><![CDATA[<p><span>从 EIP 角度解读 RWA 的前世今身</span></p><span></span><p><span>Web3 为品牌创造的 4 个增量价值</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luXT_J8ZIctFB5sxRaNWv5IMQoZZ.m4a" length="6783540" type="audio/mp4"/>
+    <itunes:duration>00:06:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqTbxXZ6ji2bgW7bTAs332akzrZn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP15 [CN] ETHcc 观点：自动做市商、跨链基础设施与市场基本面..</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6695021b8fcadceb9078c603</link>
+    <guid isPermaLink="false">6695021b8fcadceb9078c603</guid>
+    <pubDate>Mon, 15 Jul 2024 11:03:54 +0000</pubDate>
+    <description><![CDATA[<p><span>ETHcc 观点：自动做市商、跨链基础设施与市场基本面</span></p><span></span><p><span>意图的协议中关键角色 —— 求解器所面临的挑战</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvAwilmyztGP6M6MQMcVfzXDvxFd.m4a" length="7064351" type="audio/mp4"/>
+    <itunes:duration>00:07:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkXRoL9bS4YkhB8CXSWuodabqRQO.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP14 [CN] GSR 研究：Solana ETF 会通过吗？对价格什么影响？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668427a9077b88831bcac2f8</link>
+    <guid isPermaLink="false">668427a9077b88831bcac2f8</guid>
+    <pubDate>Tue, 02 Jul 2024 16:15:35 +0000</pubDate>
+    <description><![CDATA[<p><span>解读公链的商业模式：漫谈区块链投资价值之路</span></p><span></span><p><span>从 VC 和 Builder 的角度聊聊链游的未来发展</span></p><span></span><p><span>GSR 研究：SolanaETF 会通过吗？对价格什么影响？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvc7AEXaVbE_pVJlQzykfIGjYKyd.m4a" length="7993432" type="audio/mp4"/>
+    <itunes:duration>00:08:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqTbxXZ6ji2bgW7bTAs332akzrZn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP13 [CN]解读 MegaETH 白皮书：基建永不眠，Vitalik 参投的巨额融资 L1 有何过人之处？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668038882d3208c040c6ebe8</link>
+    <guid isPermaLink="false">668038882d3208c040c6ebe8</guid>
+    <pubDate>Sat, 29 Jun 2024 16:38:30 +0000</pubDate>
+    <description><![CDATA[<p><span>解读 MegaETH 白皮书：基建永不眠，Vitalik 参投的巨额融资 L1 有何过人之处？</span></p><span></span><p><span>解析加密货币在社交网络与金融化平台中的应用框架</span></p><span></span><p><span>从技术创新到社区建设：Movement 联创 Rushi 详解 MoveVM 与模块化区块链的发展之路</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmtgMoLwofqbfPO1FvdSXswYmmUI.m4a" length="9767967" type="audio/mp4"/>
+    <itunes:duration>00:10:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqTbxXZ6ji2bgW7bTAs332akzrZn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP12「CN」解读 Blast 代币经济学：空投收益与代币价格预测</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667ecd05077b88831bef516d</link>
+    <guid isPermaLink="false">667ecd05077b88831bef516d</guid>
+    <pubDate>Fri, 28 Jun 2024 14:47:31 +0000</pubDate>
+    <description><![CDATA[<h2><span>🔬可关注机会</span></h2><span></span><ul><span>  </span><li><a href="https://x.com/Cobo_Global/status/1806236036617613382" data-url="https://x.com/Cobo_Global/status/1806236036617613382"><span>Cobo推出一站式托管和钱包技术平台Cobo Portal</span></a></li><span>  </span><li><a href="https://www.techflowpost.com/newsletter/detail_51485.html" data-url="https://www.techflowpost.com/newsletter/detail_51485.html"><span>VanEck 宣布在美国首次提交 Solana 现货 ETF 申请，预计可能在 2025 年某个时候推出</span></a></li><span>  </span><li><a href="https://x.com/ionet/status/1805609498389975267" data-url="https://x.com/ionet/status/1805609498389975267"><span>io.net上线区块奖励：80%分配至GPU，20%分配至CPU</span></a></li><span>  </span><li><a href="https://x.com/PeckShieldAlert/status/1805875719337296041" data-url="https://x.com/PeckShieldAlert/status/1805875719337296041"><span>标记为“德国政府”的钱包地址再次转出750枚BTC</span></a></li><span>  </span><li><a href="https://x.com/bwenews/status/1806008087360549221" data-url="https://x.com/bwenews/status/1806008087360549221"><span>市场消息：美国政府向Coinbase发送4000枚比特币</span></a></li><span>  </span><li><a href="https://x.com/EmberCN/status/1805970731165204561" data-url="https://x.com/EmberCN/status/1805970731165204561"><span>Blast为6家做市商分配了2.2亿枚BLAST用于交易所做市</span></a></li><span></span></ul><span></span><h2><span>🌏Macro</span></h2><span></span><ul><span>  </span><li><a href="https://www.techflowpost.com/newsletter/detail_51493.html" data-url="https://www.techflowpost.com/newsletter/detail_51493.html"><span>BTC合约资金费率近两月来首次跌至-0.03%，比特币矿企CleanSpark将以1.55亿美元收购同行GRIID</span></a></li><span>  </span><li><a href="https://x.com/LinChen91162689/status/1806147336831476040" data-url="https://x.com/LinChen91162689/status/1806147336831476040"><span>Deribit上BTC大宗期权卖出周五5.5万美元看涨期权，并卖出6万美元看跌期权</span></a></li><span></span></ul><span></span><h3><span>投融资</span></h3><span></span><ul><span>  </span><li><a href="https://x.com/xprotocol_org/status/1806286043555238299" data-url="https://x.com/xprotocol_org/status/1806286043555238299"><span>模块化娱乐区块链XProtocol完成520万美元战略轮融资，CoinFund等参投</span></a></li><span>  </span><li><a href="https://www.theblock.co/post/302271/vitalik-buterin-megaeth-funding-token-valuation" data-url="https://www.theblock.co/post/302271/vitalik-buterin-megaeth-funding-token-valuation"><span>MegaETH开发商MegaLabs完成2000万美元种子轮融资，Dragonfly领投</span></a></li><span>  </span><li><a href="https://www.coindesk.com/business/2024/06/27/decentralized-exchange-bluefin-to-rollout-token-after-securing-17m-in-total-funding/" data-url="https://www.coindesk.com/business/2024/06/27/decentralized-exchange-bluefin-to-rollout-token-after-securing-17m-in-total-funding/"><span>Bluefin在完成1700万美元融资后拟于今年7月推出治理代币</span></a></li><span></span></ul><span></span><p><span>观点</span></p><span></span><p><a href="https://x.com/OlimpioCrypto/status/1805667834804191633" data-url="https://x.com/OlimpioCrypto/status/1805667834804191633"><span>解读 Blast 代币经济学：空投收益与代币价格预测</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lo887V3v2dnydMjLV5Z9EvHeP61x.m4a" length="4873949" type="audio/mp4"/>
+    <itunes:duration>00:05:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqKVzUJLuFvZ07vOMQr-LxIwUM1n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP11「CN」Movement Labs 简介：有哪些优势及机会？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6675ac03c26e396a3677cd59</link>
+    <guid isPermaLink="false">6675ac03c26e396a3677cd59</guid>
+    <pubDate>Fri, 21 Jun 2024 16:36:18 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬可关注机会</span></p><span></span><ul><span>  </span><li><a href="https://blog.coinlist.co/announcing-the-nillion-community-round-on-coinlist-rjlsb/" data-url="https://blog.coinlist.co/announcing-the-nillion-community-round-on-coinlist-rjlsb/"><span>CoinList开启Nillion Network代币公募，拟分配3500万枚NIL</span></a></li><span>  </span><li><a href="https://x.com/LayerZero_Fndn/status/1803602710908092812" data-url="https://x.com/LayerZero_Fndn/status/1803602710908092812"><span>LayerZero基金会：ZRO推出首日将解锁总量的25%，今日<a class="timestamp" data-timestamp="1140">19:00</a>开放申领</span></a></li><span>  </span><li><a href="https://x.com/solayer_labs/status/1803551061569114622" data-url="https://x.com/solayer_labs/status/1803551061569114622"><span>Solana生态再质押协议Solayer将重新开放Epoch 2</span></a></li><span>  </span><li><a href="https://x.com/RDNTCapital/status/1803585494187646990" data-url="https://x.com/RDNTCapital/status/1803585494187646990"><span>Radiant Capital：ARB STIP奖励已在Arbitrum weETH市场上线</span></a></li><span>  </span><li><a href="https://x.com/pufferfi_cn/status/1803632540860977225" data-url="https://x.com/pufferfi_cn/status/1803632540860977225"><span>在Pendle等协议中质押PufETH的用户现可领取EIGEN二阶段质押空投奖励</span></a></li><span></span></ul><span></span><p><span>相关项目</span></p><span></span><ul><span>  </span><li><a href="https://x.com/ether_fi_Fdn/status/1803499968537526666" data-url="https://x.com/ether_fi_Fdn/status/1803499968537526666"><span>ether.fi社区发起首个提案，拟增加ETHFI链上流动性并增加财库持仓</span></a></li><span>  </span><li><a href="https://governance.ether.fi/t/ethfi-dao-proposal-ethfi-buyback-and-liquidity-pool-seeding/994" data-url="https://governance.ether.fi/t/ethfi-dao-proposal-ethfi-buyback-and-liquidity-pool-seeding/994"><span>ether.fi 提议使用最多 50% 的协议收入购买 ETHFI，并发布「回购 ETHFI 回购、建立金库和 Curve 流动性池」提案，旨在增加链上 ETHFI 流动性并增加金库持有量</span></a></li><span>  </span><li><a href="https://x.com/SeiNetwork/status/1803459148136276175" data-url="https://x.com/SeiNetwork/status/1803459148136276175"><span>可组合流动性层Stargate已与Sei v2集成</span></a></li><span></span></ul><span></span><h2><span>🌏Macro</span></h2><span></span><ul><span>  </span><li><a href="https://x.com/Rewkang/status/1803563019936604606" data-url="https://x.com/Rewkang/status/1803563019936604606"><span>Andrew Kang：比特币不会跌破5万美元，以太坊年内上行上限在4000美元左右</span></a></li><span>  </span><li><a href="https://x.com/NateGeraci/status/1803611753340629081" data-url="https://x.com/NateGeraci/status/1803611753340629081"><span>The ETF Store总裁：仍认为以太坊现货ETF会在7月4日之前推出</span></a></li><span>  </span><li><a href="https://x.com/LinChen91162689/status/1803610586154221914" data-url="https://x.com/LinChen91162689/status/1803610586154221914"><span>Deribit上BTC大宗期权卖出6月底6.5万美元看涨期权，并买入年底9万美元看涨期权</span></a></li><span>  </span><li><a href="https://www.coindesk.com/markets/2024/06/20/stablecoin-issuers-now-18th-largest-holder-of-us-debt/" data-url="https://www.coindesk.com/markets/2024/06/20/stablecoin-issuers-now-18th-largest-holder-of-us-debt/"><span>稳定币发行商成全球第18大美债持有者</span></a></li><span>  </span><li><a href="https://x.com/jseyff/status/1803884787813486892" data-url="https://x.com/jseyff/status/1803884787813486892"><span>3iQ提出北美首个Solana ETF申请</span></a></li><span></span></ul><span></span><p><span>投融资</span></p><span></span><ul><span>  </span><li><a href="https://www.blockchaingamer.biz/news/32834/saltwater-games-animoca-investment/" data-url="https://www.blockchaingamer.biz/news/32834/saltwater-games-animoca-investment/"><span>Web3和XR游戏公司Saltwater Games完成新一轮融资，Animoca Brands参投</span></a></li><span>  </span><li><a href="https://chainwire.org/2024/06/20/bring-the-first-white-label-crypto-cashback-provider-expands-funding-to-1-1-million/" data-url="https://chainwire.org/2024/06/20/bring-the-first-white-label-crypto-cashback-provider-expands-funding-to-1-1-million/"><span>白标加密返现提供商Bring完成110万美元SAFE轮融资，Starkware参投</span></a></li><span></span></ul><span></span><p><span>💡观点</span></p><span></span><ul><span>  </span><li><span>Movement Labs 简介：有哪些优势及机会？</span></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/libZfoZhUiO8vKSeE_HLoN55clYD.m4a" length="6282017" type="audio/mp4"/>
+    <itunes:duration>00:06:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvZq_haWWjKeRx2QIX8UxTK9Fhm-.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP10「CN」Ethena 代币经济学更新：有哪些进展？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66745905b6a8412729363a2f</link>
+    <guid isPermaLink="false">66745905b6a8412729363a2f</guid>
+    <pubDate>Thu, 20 Jun 2024 16:29:54 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬可关注机会</span></p><span></span><ul><span>  </span><li><a href="https://medium.com/@ParticleLabs/introducing-ptc-296656230865" data-url="https://medium.com/@ParticleLabs/introducing-ptc-296656230865"><span>Particle拟于7月初推出原生代币PTC</span></a></li><span>  </span><li><a href="https://x.com/SiloFinance/status/1803068982607446136" data-url="https://x.com/SiloFinance/status/1803068982607446136"><span>借贷协议Silo上线OP主网，或将向初始市场分配10万枚OP</span></a></li><span>  </span><li><a href="https://x.com/KintoXYZ/status/1803143106524750023" data-url="https://x.com/KintoXYZ/status/1803143106524750023"><span>Kinto上线挖矿计划，拟分配代币供应量的33%</span></a></li><span>  </span><li><a href="https://x.com/zkxprotocol/status/1803090435033780595" data-url="https://x.com/zkxprotocol/status/1803090435033780595"><span>ZKX将于今日17时上线Airdrop 2和质押</span></a></li><span></span></ul><span></span><p><span>投融资</span></p><span></span><ul><span>  </span><li><a href="https://m.theblockbeats.info/flash/253963" data-url="https://m.theblockbeats.info/flash/253963"><span>Pantera Capital 将投资 2 亿美元用于人工智能和区块链项目，并筹集 10 亿美元新基金</span></a></li><span>  </span><li><a href="https://www.theblock.co/post/300792/crypto-fueled-linkedin-rival-bondex-says-its-raised-over-10-million" data-url="https://www.theblock.co/post/300792/crypto-fueled-linkedin-rival-bondex-says-its-raised-over-10-million"><span>Web3人才市场Bondex已完成超1000万美元融资，Animoca Brands等参投</span></a></li><span>  </span><li><a href="https://markets.businessinsider.com/news/stocks/eventchi-raises-over-%E2%82%AC1-6-in-seed-funding-to-revolutionize-event-technology-1033487942" data-url="https://markets.businessinsider.com/news/stocks/eventchi-raises-over-%E2%82%AC1-6-in-seed-funding-to-revolutionize-event-technology-1033487942"><span>区块链票务平台EventCHI完成超160万欧元种子轮融资</span></a></li><span></span></ul><span></span><p><span>💡观点</span></p><span></span><p><span>Ethena 代币经济学更新：有哪些进展？</span></p><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhScMPz1MsUtgh3vq3x4OuvbOnDE.m4a" length="6329972" type="audio/mp4"/>
+    <itunes:duration>00:06:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtsxXO0CAWEToUJGk7p77FWltmEW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP9「CN」Restaking 再质押的另类视角:三角债 or 温和通胀</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66682d4bc26e396a36ffa2aa</link>
+    <guid isPermaLink="false">66682d4bc26e396a36ffa2aa</guid>
+    <pubDate>Tue, 11 Jun 2024 10:56:10 +0000</pubDate>
+    <description><![CDATA[<p><span>本播客内容来自于 ‘佐爷 佐爷歪脖山’ 如有侵权，即删</span></p><span></span><figure><br></figure><span></span><figure><br></figure><span></span><figure><br></figure><span></span><figure><img src="https://image.xyzcdn.net/FnsS8PC60UDh-dvMlLWLdXY0Fakz.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgtBgtC024p0l7EsIBFrzh5WU2jd.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgtBgtC024p0l7EsIBFrzh5WU2jd.png"></figure><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loUgR4tEmPo9Hhi6bOyJgSAj_f0C.m4a" length="23052759" type="audio/mp4"/>
+    <itunes:duration>00:23:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqTbxXZ6ji2bgW7bTAs332akzrZn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP8「CN」游戏新趋势：全链游戏如何变革市场？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66642f5563c334a2fb35f1d0</link>
+    <guid isPermaLink="false">66642f5563c334a2fb35f1d0</guid>
+    <pubDate>Sat, 08 Jun 2024 10:15:48 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬可关注机会</span></p><span></span><ul><span>  </span><li><a href="https://x.com/MantaNetwork/status/1799049236920832511" data-url="https://x.com/MantaNetwork/status/1799049236920832511"><span>Manta基金会拟授权5000万枚MANTA来支持Manta Atlantic上的收集者</span></a></li><span>  </span><li><a href="https://x.com/wormhole/status/1798717029631115272" data-url="https://x.com/wormhole/status/1798717029631115272"><span>Wormhole：Stake For Governance已上线，W持有者可质押代币参与治理</span></a></li><span>  </span><li><a href="https://x.com/ethena_labs/status/1798738811784151549" data-url="https://x.com/ethena_labs/status/1798738811784151549"><span>Ethena与Aave集成以支持USDe存入和借出</span></a></li><span></span></ul><span></span><p><span>🌏Marco</span></p><span></span><ul><span>  </span><li><a href="https://flash.jin10.com/detail/20240607234853032800" data-url="https://flash.jin10.com/detail/20240607234853032800"><span>美国比特币ETF资金连续流入达18天创纪录，期权市场押注比特币本月会新高</span></a></li><span></span></ul><span></span><p><span>公链</span></p><span></span><ul><span>  </span><li><a href="https://t.me/durov/280" data-url="https://t.me/durov/280"><span>Telegram将推出Telegram Stars，支持小程序接受数字服务付款</span></a></li><span></span></ul><span></span><p><span>投融资</span></p><span></span><ul><span>  </span><li><a href="https://www.coindesk.com/business/2024/06/06/robinhood-to-buy-crypto-exchange-bitstamp-in-effort-to-expand-outside-the-us/" data-url="https://www.coindesk.com/business/2024/06/06/robinhood-to-buy-crypto-exchange-bitstamp-in-effort-to-expand-outside-the-us/"><span>Robinhood同意以2亿美元收购Bitstamp，预计2025年上半年完成交易</span></a></li><span></span></ul><span></span><p><span>💡观点</span></p><span></span><ul><span>  </span><li><a href="https://www.bitkraft.vc/insights/fully-onchain-games-thesis/" data-url="https://www.bitkraft.vc/insights/fully-onchain-games-thesis/"><span>游戏新趋势：全链游戏如何变革市场？</span></a></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lttvWYamTQRhjkeN17I9Yq2dZUTM.m4a" length="6578647" type="audio/mp4"/>
+    <itunes:duration>00:06:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtsxXO0CAWEToUJGk7p77FWltmEW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP7 「CN」5月Base链上利润达698万美元，在各L2中排名第一</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6660b6ca94977a26ef7d72ec</link>
+    <guid isPermaLink="false">6660b6ca94977a26ef7d72ec</guid>
+    <pubDate>Wed, 05 Jun 2024 19:04:41 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬可关注机会</span></p><span></span><ul><span>  </span><li><a href="https://foresightnews.pro/news/detail/46259" data-url="https://foresightnews.pro/news/detail/46259"><span>StarkWare将支持比特币扩容，推出100万美元应用型研究基金并引入零知识技术</span></a></li><span>  </span><li><a href="https://x.com/AethirCloud/status/1796180443999416615" data-url="https://x.com/AethirCloud/status/1796180443999416615"><span>Aethir公布Checker节点持有者空投项目清单</span></a></li><span></span></ul><span></span><p><span>🌏Marco</span></p><span></span><ul><span>  </span><li><a href="https://cryptoslate.com/insights/bitcoin-hash-rate-plummets-to-567-eh-s-steepest-7-day-decline-since-july-2021/" data-url="https://cryptoslate.com/insights/bitcoin-hash-rate-plummets-to-567-eh-s-steepest-7-day-decline-since-july-2021/"><span>比特币算力近一周下降14%，创2021年7月以来最大周跌幅</span></a></li><span></span></ul><span></span><p><span>投融资</span></p><span></span><ul><span>  </span><li><a href="https://fortune.com/crypto/2024/06/04/ex-polygon-team-43-million-series-a-round-blockchain-scaling-solution-avail/" data-url="https://fortune.com/crypto/2024/06/04/ex-polygon-team-43-million-series-a-round-blockchain-scaling-solution-avail/"><span>区块链扩展服务提供商Avail完成4300万美元A轮融资，Founders Fund等领投</span></a></li><span></span></ul><span></span><p><span>💡观点</span></p><span></span><ul><span>  </span><li><span>5月Base链上利润达698万美元，在各L2中排名第一</span></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p><span></span><p><span>欢迎在评论区留下你的观点，意见和建议</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltO6geOuh9vgHQlhiRimGGl4Uakn.m4a" length="5786595" type="audio/mp4"/>
+    <itunes:duration>00:05:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjazvxNYBOgj9idkbL7welK_IFny.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP6 「CN」Sei DB：为什么数据库优化对于区块链可扩展性至关重要</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665950ebad5aa5d8c2a2ad05</link>
+    <guid isPermaLink="false">665950ebad5aa5d8c2a2ad05</guid>
+    <pubDate>Fri, 31 May 2024 04:24:10 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬</span><strong><span>可关注机会</span></strong></p><span></span><ul><span>  </span><li><span>Pacmoon：Season 4正式结束，V2网站创建账户才能接收空投</span></li><span></span></ul><span></span><p><strong><span>🌏</span></strong><span>Marco</span></p><span></span><ul><span>  </span><li><span>美国比特币现货ETF持续11日净流入，总资产净值为584.68亿美元</span></li><span>  </span><li><span>HODL15Capital：美国比特币ETF连续11天净流入，规模超3万枚BTC</span></li><span></span></ul><span></span><p><span>投融资</span></p><span></span><ul><span>  </span><li><span>以AI驱动的DeFi平台Aperture Finance完成A轮融资，估值达到2.5亿美元</span></li><span></span></ul><span></span><p><span>💡观点</span></p><span></span><ul><span>  </span><li><span>Sei DB：为什么数据库优化对于区块链可扩展性至关重要</span></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p><span></span><p><span>欢迎在评论区留下你的观点，意见和建议</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loG-VzFP3oJUZNvgTv1LKeYUp3CC.m4a" length="6335286" type="audio/mp4"/>
+    <itunes:duration>00:06:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuwHdsttGiD8tWI1zXf2vnWgHN1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP5 [CN] 用原生 L2 代幣來支付交易手續費的优缺点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6655822ec59d1e5757337750</link>
+    <guid isPermaLink="false">6655822ec59d1e5757337750</guid>
+    <pubDate>Tue, 28 May 2024 07:05:15 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>1. </span></strong><span>🔬</span><strong><span>可关注机会</span></strong></p><span></span><ul><span>  </span><li><span>以太坊L2项目Kinto宣布开放存取款</span></li><span>  </span><li><span>Uniswap基金会：尽管美SEC发出韦尔斯通知但仍将实施费用转换</span></li><span></span></ul><span></span><p><span>2 .Marco</span></p><span></span><ul><span>  </span><li><span>前SEC主席：预计会在7月或8月启动现货以太坊ETF交易</span></li><span>  </span><li><span>CME比特币合约未平仓头寸为108.22亿美元，24H涨幅5.66%</span></li><span></span></ul><span></span><p><span>3.💡观点</span></p><span></span><ul><span>  </span><li><span>用原生 L2 代幣來支付交易手續費</span></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p><span></span><p><span>欢迎在评论区留下你的观点，意见和建议</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lperWuX_qYi-6N50Oa8zjb_iK0pX.m4a" length="10379878" type="audio/mp4"/>
+    <itunes:duration>00:10:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqTbxXZ6ji2bgW7bTAs332akzrZn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP4 [CN] SEC批准以太坊ETF, Solona需要L2吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66517b034efbc0c3dcee3d81</link>
+    <guid isPermaLink="false">66517b034efbc0c3dcee3d81</guid>
+    <pubDate>Sat, 25 May 2024 05:45:38 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>1. </span></strong><span>🔬</span><strong><span>可关注机会</span></strong></p><span></span><ul><span>  </span><li><a href="https://www.sec.gov/files/tm/lk87adfs99.pdf" data-url="https://www.sec.gov/files/tm/lk87adfs99.pdf"><span>SEC正式批准现货以太坊ETF</span></a></li><span>  </span><li><a href="https://decrypt.co/231951/grayscale-trusts-bitcoin-layer-2-stacks-near-protocol" data-url="https://decrypt.co/231951/grayscale-trusts-bitcoin-layer-2-stacks-near-protocol"><span>灰度推出 Near 和 Stacks 信托基金</span></a></li><span>  </span><li><a href="https://x.com/aevoxyz/status/1793883299578007960" data-url="https://x.com/aevoxyz/status/1793883299578007960"><span>Aevo：首个Aevo空投项目Zerolend已启动，将空投4亿枚ZERO</span></a></li><span></span></ul><span></span><p><span>2 . 公链/L2</span></p><span></span><ul><span>  </span><li><a href="https://docs.zeta.markets/zeta-x-zx/zeta-x-litepaper" data-url="https://docs.zeta.markets/zeta-x-zx/zeta-x-litepaper"><span>Zeta Markets推出基于Solana的Layer 2扩容方案Zeta X (ZX)</span></a></li><span></span></ul><span></span><p><span>3.投融资</span></p><span></span><ul><span>  </span><li><a href="https://www.ledgerinsights.com/tradeweb-inks-blockchain-deal-with-alphaledger/" data-url="https://www.ledgerinsights.com/tradeweb-inks-blockchain-deal-with-alphaledger/"><span>区块链初创公司Alphaledger完成950万美元A轮融资，EJF Capital领投</span></a></li><span>  </span><li><a href="https://www.odaily.news/newsflash" data-url="https://www.odaily.news/newsflash"><span>Pencils Protocol完成210万美元种子轮融资，估值达2500万美元</span></a></li><span>  </span><li><a href="https://www.theblock.co/post/296227/fantom-sonic-foundation-raise" data-url="https://www.theblock.co/post/296227/fantom-sonic-foundation-raise"><span>Fantom基金会完成1000万美元战略融资，Hashed领投</span></a></li><span>  </span><li><a href="https://m.theblockbeats.info/flash/251117" data-url="https://m.theblockbeats.info/flash/251117"><span>去中心化治理基础设施 Dora Factory 完成 1000 万美元战略融资</span></a></li><span></span></ul><span></span><p><span>4.💡观点</span></p><span></span><ul><span>  </span><li><a href="https://blog.superteam.fun/p/solana-need-l2s-and-appchains" data-url="https://blog.superteam.fun/p/solana-need-l2s-and-appchains"><span>Solana 真的需要 L2 和应用链吗？</span></a></li><span></span></ul><span></span><p><span>作为信息的搬运工，本播客不提供任何财务投资建议，所有内容仅供参考。加密资产风险极大，投资前请务必做好自己的研究（Do Your Own Research）</span></p><span></span><p><span>欢迎在评论区留下你的观点，意见和建议</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luXM0CcWomjKUxLhvaALgB1cSCBa.m4a" length="6310600" type="audio/mp4"/>
+    <itunes:duration>00:06:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtsxXO0CAWEToUJGk7p77FWltmEW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>请系好安全带！</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6020dc7dba0a162eeceb197b</link>
+  <description><![CDATA[谐聊会首期付费单集来啦
+本期您将听到的是
+主播：六兽、郝雨、毛冬
+这次我们激动的邀请到了一些网约车司机和乘客朋友，一起聊一聊坐车和开车的故事。
+乘客最憋气的乘车经历是什么？是否碰到过路怒症患者？
+在司机朋友们的眼中，有什么奇奇怪怪的乘客？凌晨会遇到怎样胡闹的代驾要求？
+旅途中偶遇凶险，平台方配合警方调取录像时看到了什么让人哭笑不得的画面？
+欢迎收听！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:15:23 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6020dc7dba0a162eeceb197b.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>谐星聊天会</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS1xaW5pdS5qZWxsb3cuc2l0ZS9GZ1RUYXRSQnlySkY3YlFCRkROYm1pM2tlcV9CLnBuZw==.png"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS1xaW5pdS5qZWxsb3cuc2l0ZS9GZ1RUYXRSQnlySkY3YlFCRkROYm1pM2tlcV9CLnBuZw==.png</url>
+    <title>请系好安全带！</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6020dc7dba0a162eeceb197b</link>
+  </image>
+  <itunes:category text="Music"/>
+</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>月球背面_FarSide</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64ffc46692354f5dd3ea7442</link>
+  <description><![CDATA[月球背面是一个知识探索型播客，力求通过从业者的微观视角，展现技术、商业、社会前沿领域的灵感瞬间，发掘未知的“月球背面”]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:47:13 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64ffc46692354f5dd3ea7442.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Nirui_Wang</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FljPoWRIByabzc3uNtwzoQxT_7Sb.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FljPoWRIByabzc3uNtwzoQxT_7Sb.jpg</url>
+    <title>月球背面_FarSide</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64ffc46692354f5dd3ea7442</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>月球背面 Far Side | 2023年终特辑-AI漫游指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/659133336396a4645a60d3d9</link>
+    <guid isPermaLink="false">659133336396a4645a60d3d9</guid>
+    <pubDate>Sun, 31 Dec 2023 09:24:01 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>【2023年终特辑】</span></strong><span>在2023年的四季度，从Pika爆火到Google发布GeminiAI到OpenAI千亿美金估值新一轮融资开启，该领域的各个标志性实践再次向我们展现其风驰电掣的发展速度。本期年终特辑我们邀请了AI领域的从业者朋友，从投资人和创业者两个角度，就AI的技术演进历程、行业格局和落地场景三个方面去讨论AI领域的进展。由于AI领域技术路线更迭迅速，对全要素生产率贡献的想象贡献巨大，行业格局尚在形成早期，落地场景充满无限可能等多重因素，我们的讨论可能没有办法做到很全面和非常深入细节，希望这一期漫谈可以带给大家一些启发思考，在2024年我们也会持续关注AI领域的蓬勃发展</span></p><span></span><p><strong><span>【关于月球背面Far Side】</span></strong><span>欢迎大家关注月球背面Far Side，一个知识探索型的播客，力求通过从业者的微观视角，展现技术、商业、社会前沿领域的灵感瞬间。月球背面的第一张影像在1959年拍摄，直到1968年宇航员才亲眼观测到月球背面，对月球背面的探索，是人类孜孜不倦探索未知的缩影。近几年来我们的生活出现了大量的信息过载，在技术、商业和社会领域都发生了几十年不遇的巨大变革，主持和嘉宾希望通过这一方小小书桌的方式，记录下作为微观个体的我们，在宏观大潮之下的感悟和体会，重新拾起湮没的表达欲和好奇心。毕竟人类的群星闪耀时不仅仅是光芒的耀眼的几颗，也有千万个独立个体的努力发光。在这里也希望更多的听众加入我们，一起去探索、提问和记录</span></p><span></span><p><strong><span>嘉宾介绍</span></strong></p><span></span><p><span>月球背面Far Side 主持PonyNini : 一级市场美元基金投资人，关注科技赛道，相信技术在长期中的决定性力量</span></p><span></span><p><span>月球背面Far Side 嘉宾 Bill：一级市场美元基金投资副总裁，长期关注AI及产业数字化赛道，具有AI及软件领域丰富投资经验</span></p><span></span><p><span>月球背面Far Side 嘉宾 Jaadi：前互联网厂里蹲搬砖，现AI+游戏方向bootstrap中</span></p><span></span><p><strong><span>内容提要</span></strong></p><span></span><p><em><span>技术演进</span></em></p><span></span><p><span><a class="timestamp" data-timestamp="126">00:02:06</a>通往AGI的两大技术框架之大模型与多模态</span></p><span></span><p><span><a class="timestamp" data-timestamp="809">00:13:29</a> 中美AI在基础层及应用层的差距有多大？需要多长的追赶时间？</span></p><span></span><p><em><span>行业格局</span></em></p><span></span><p><span><a class="timestamp" data-timestamp="1433">00:23:53</a> 基础层的开源和闭源之争</span></p><span></span><p><span><a class="timestamp" data-timestamp="2075">00:34:35</a> 开源软件与开源AI模型的发展异同</span></p><span></span><p><span><a class="timestamp" data-timestamp="2315">00:38:35</a> 基础层+应用层赢家通吃的玩家是否才能取得最后胜利？</span></p><span></span><p><em><span>落地场景</span></em></p><span></span><p><span><a class="timestamp" data-timestamp="2826">00:47:06</a> 应用层落地场景的选择需要和基础层紧密链接，天才产品经理也需要对基础模型有极高认知</span></p><span></span><p><span><a class="timestamp" data-timestamp="3060">00:51:00</a> AI应用领域的赛马机制</span></p><span></span><p><span><a class="timestamp" data-timestamp="3156">00:52:36</a>中美AI应用生态的不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="3576">00:59:36</a> AI场景中初具落地可能性的场景</span></p><span></span><p><span><a class="timestamp" data-timestamp="4219">01:10:19</a> AI的iPhone时刻何时到来</span></p><span></span><p><strong><span>BGM</span></strong></p><span></span><p><span>《Paradise》by Justhea</span></p><span></span><p><strong><span>推荐阅读</span></strong></p><span></span><p><span>《技术的本质》布莱恩·阿瑟/曹东溟、王健 译</span></p><span></span><p><a href="https://www.eugenewei.com/imported-mt-blog%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BA%A7%E5%93%81%E5%8A%9B%E5%BE%88%E5%BC%BA%E7%9A%84PM%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%89" data-url="https://www.eugenewei.com/imported-mt-blog%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BA%A7%E5%93%81%E5%8A%9B%E5%BE%88%E5%BC%BA%E7%9A%84PM%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%89"><span>www.eugenewei.com（推荐一个产品力很强的PM的深度思考）</span></a></p><span></span><p><span>还有就是一些有趣的开源项目at </span><a href="https://arxiv.org/pdf/2305.09750.pdf" data-url="https://arxiv.org/pdf/2305.09750.pdf"><span>arxiv.org</span></a></p><span></span><p><span>最后欢迎大家持续关注，一起探索“月球背面”，新年快乐！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk5I5T32cBIqYqC-HuD0KjaT1Lhm.m4a" length="90380552" type="audio/mp4"/>
+    <itunes:duration>01:33:08</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zvbm5oMFVENHdXYlk5YkJOTU5vbHdtb1lIN0wucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP1 : 数据-车辆智能化的血液</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/652613c40432a315783816a0</link>
+    <guid isPermaLink="false">652613c40432a315783816a0</guid>
+    <pubDate>Wed, 11 Oct 2023 03:17:23 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎大家关注月球背面Far Side，一个知识探索型的播客，力求通过从业者的微观视角，展现技术、商业、社会前沿领域的灵感瞬间。月球背面的第一张影像在1959年拍摄，直到1968年宇航员才亲眼观测到月球背面，对月球背面的探索，是人类孜孜不倦探索未知的缩影</span></p><span></span><p><span>创立这个播客的初衷可能是比较“自私”的，近几年来我们的生活出现了大量的信息过载，在技术、商业和社会领域都发生了几十年不遇的巨大变革，主持和嘉宾希望通过这一方小小书桌的方式，记录下作为微观个体的我们，在宏观大潮之下的感悟和体会，重新拾起湮没的表达欲和好奇心。毕竟人类的群星闪耀时不仅仅是光芒的耀眼的几颗，也有千万个独立个体的努力发光。在这里也希望更多的听众加入我们，一起去探索、提问和记录</span></p><span></span><p><span>今天是我们的开刊篇，基于主持嘉宾的从业经验，从数据的角度去窥探车辆智能化风驰电掣的发展。数据可能不是目前汽车赛道主体中关注度最高的话题，但是我们把这个主题选做开刊，是因为数据是车辆智能化发展中最基础的话题，是上一个车辆时代可能不曾面对的全新课题，也会是下个车辆时代日新月异的土壤。整车每天要产生20T的数据，数据从哪里来，如何被搜集，怎么能被更好的利用，如何保证数据的安全等这些平时被消费者忽略但是至关重要的问题，我们今天通过简短的讨论，来窥探车辆数据的冰山一角</span></p><span></span><p><span>嘉宾介绍</span></p><span></span><p><span>月球背面Far Side 主持PonyNini : 一级市场美元基金投资人，关注科技赛道，相信技术在长期中的决定性力量</span></p><span></span><p><span>月球背面Far Side 主持Jacky：车载数据库解决方案startup核心创始团队成员，深耕汽车赛道10年+，关注汽车赛道的飞速迭代</span></p><span></span><p><span>内容提要</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00:00</a> 从功能汽车到智能汽车，竞争范式发生变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="230">00:03:50</a> 车辆数据的商业价值体现在哪些方面？</span></p><span></span><p><span><a class="timestamp" data-timestamp="534">00:08:54</a> 什么是软件定义汽车？数据底座对于软件定义汽车的重要作用是什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="940">00:15:40</a> 车辆数据如何分类？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1337">00:22:17</a> 数据的处理闭环中包含哪几个核心环节？近年来车辆数据发生了什么样的变化，对解决方案提出了什么新的挑战或者解决方案有什么新的趋势？什么是车云一体及其重要性？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2997">00:49:57</a> 汽车数据安全和合规的相关趋势有哪些？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3236">00:53:56</a> 在数据生命周期中车企和第三方供应商的合作</span></p><span></span><p><span><a class="timestamp" data-timestamp="3819">01:03:39</a> 海外车厂和中国车厂在数据治理方面的比较</span></p><span></span><p><span>由于是第一次录制，在技术操作上和内容清晰度上还需要继续学习，也非常感谢听众朋友们的谅解</span></p><span></span><p><span>最后欢迎大家收听，我们一起加油，探索“月球背面”</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrXtj2kcghuKQIcvs-qSEW4BzlDg.m4a" length="103720221" type="audio/mp4"/>
+    <itunes:duration>01:11:39</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqbW1xRmVUNC1KVkM3TDBwTnpiamtOWi1rREIucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

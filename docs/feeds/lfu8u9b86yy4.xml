@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>创新灯塔</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65e710728d5665c0089af8c6</link>
+  <description><![CDATA[欢迎来到“科技灯塔”，我们的播客致力于向你传递最新的国内外科技新闻和趋势。每天，我们都会搜集并整合全球各地的科技信息，力图提供最全面，最前沿的科技知识以滋养你的头脑。就像灯塔一样，我们的目标是引导你在这个快速发展的科技世界中找到方向，触摸未来，感知创新。我们不仅提供新闻，更希望通过每一条科技新闻，都能激发你对科技的热爱，对未知的探索，对创新的追求。让我们一起，在科技的海洋中，跟随“科技灯塔”向前航行！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:52:09 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/lfu8u9b86yy4.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>胖胖-9031</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png</url>
+    <title>创新灯塔</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65e710728d5665c0089af8c6</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>E532. 特斯联冲刺港股 | 火山引擎AI突围</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69276b910084e2631deaf099</link>
+    <guid isPermaLink="false">69276b910084e2631deaf099</guid>
+    <pubDate>Wed, 26 Nov 2025 21:06:55 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦几大科技动态：成立近10年、获京东等明星机构投资的AIoT企业特斯联冲刺港股，其核心操作系统TacOS如何支撑产业数智化升级？从传统云计算“Others”到Gartner魔力象限挑战者第一，押注大模型的火山引擎如何逆袭成云计算新势力？智驾“去语言化”、机器人“拟人化”，小鹏的物理AI布局如何推动具身智能落地？头脑风暴阿里千问胜出、长文本处理多数模型翻车，日常场景下大模型能力究竟几何？接下来让我们来解锁这些科技动态背后的商业逻辑与行业影响吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="99">00:01:39</a> 特斯联与火山引擎AI发展动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="344">00:05:44</a> 大模型测评与小鹏物理AI进展&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="621">00:10:21</a> Humans&amp;创企与AI代理监管挑战&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="858">00:14:18</a> 11月27日科技里程碑事件回顾&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lriyyKc7fqnqGp9Qi_a0dkZ4tspo.m4a" length="5987304" type="audio/mp4"/>
+    <itunes:duration>00:12:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E531. 杭州六小龙AI转型 | 核电成AI供电新宠</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69261a0e0084e2631dbaee47</link>
+    <guid isPermaLink="false">69261a0e0084e2631dbaee47</guid>
+    <pubDate>Tue, 25 Nov 2025 21:06:26 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注：从模型比拼到场景落地，“杭州六小龙”如何释放AI创业新信号？当AI变身“24小时吞电怪”，核电如何成为支撑算力狂奔的“永动机充电宝”？曾是辅助驾驶明星的毫末智行为何陷入停摆，自动驾驶行业淘汰赛又释放了哪些生存信号？曾被资本追捧的法律AI公司Robin AI为何跌落至破产边缘，AI赛道“要么指数增长要么淘汰”的规则有多残酷？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="87">00:01:27</a> 杭州六小龙AI转型与核电支撑&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">00:05:24</a> 自动驾驶企业停摆与字节技术探索&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="504">00:08:24</a> 11月26日：科技与资本的突破印记&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lkljz5Ij23vJG2q4s0-QZpe6T9DA.m4a" length="4692460" type="audio/mp4"/>
+    <itunes:duration>00:09:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E530. 蚂蚁“灵光”AI爆火 | 历史今日科技回顾</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6924c89a18565034c397e9a1</link>
+    <guid isPermaLink="false">6924c89a18565034c397e9a1</guid>
+    <pubDate>Mon, 24 Nov 2025 21:10:18 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注蚂蚁新推的全模态AI助手“灵光”，它如何用可交互网页和闪应用让非技术用户轻松创造？资本退潮后，MiniMax与月之暗面怎样用“模型优先”和“技术突破”在巨头林立中证明生存空间？大疆前成员打造的智能出行设备ev¹，如何用智能驾驶和复杂地形适配让用户重获生活自由？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="78">00:01:18</a> 蚂蚁“灵光”与两AI公司技术动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="314">00:05:14</a> 科技赋能生活与AI全栈对抗&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="569">00:09:29</a> 灵光AI爆火与iOS27 AI动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="802">00:13:22</a> 11月25日：科技史上的璀璨瞬间&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/luwPeqIzzyoR8u8OGS7Zufxx--Lo.m4a" length="5597253" type="audio/mp4"/>
+    <itunes:duration>00:11:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E529. 硅基智能拟港股上市 | 人形机器人企业新动态</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/692377126018cc2c983dae3f</link>
+    <guid isPermaLink="false">692377126018cc2c983dae3f</guid>
+    <pubDate>Sun, 23 Nov 2025 21:15:00 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦硅基智能冲刺“港股数字人第一股”，从杀毒软件到数字劳动力，其如何凭借技术与资本走到上市？具身智能“量产元年”，宇树、智元等企业争夺上市先机，对行业生存发展权有何战略意义？ChatGPT上线群聊功能，与“不做社交”表态矛盾，能否成为“共享协作空间”的关键一步？小雷哥的机器人租赁生意从爆火到调整，又折射出行业怎样的商业化探索？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="87">00:01:27</a> 数字人及人形机器人企业上市竞争&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="358">00:05:58</a> ChatGPT群聊与机器人租赁发展&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="563">00:09:23</a> 11月24日科技事件回顾&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lhI1vcFIQnVemaXdbVUZQvb8c2CL.m4a" length="4913411" type="audio/mp4"/>
+    <itunes:duration>00:09:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E528. AI科学家Kosmos突破 | 美国推创世纪AI行动</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6922259bcbba038b42d02ffd</link>
+    <guid isPermaLink="false">6922259bcbba038b42d02ffd</guid>
+    <pubDate>Sat, 22 Nov 2025 21:07:09 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦AI科研突破、科技公司动态与全球AI竞争：AI科学家Kosmos一天完成六个月科研量，如何推动科研模式结构性变革？美国「创世纪行动」将AI竞赛提升至「曼哈顿计划」高度，如何重塑全球AI霸权格局？快手第三季度财报亮眼，AI技术如何驱动内容生产与商业化价值深耕？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="77">00:01:17</a> AI科研突破与吉利智驾整合进展&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="310">00:05:10</a> 阿里快手AI战略与业务动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="549">00:09:09</a> 历史上11月23日科技科学事件&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/liugHzgHYr3kI9q1W-WW1bQskILo.m4a" length="5056273" type="audio/mp4"/>
+    <itunes:duration>00:10:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E527. 英伟达三季度利润飙升 | 国产算力企业密集IPO</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6920d4146018cc2c98fe9ed5</link>
+    <guid isPermaLink="false">6920d4146018cc2c98fe9ed5</guid>
+    <pubDate>Fri, 21 Nov 2025 21:11:26 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦三大科技动态：英伟达三季度利润暴涨近19倍，密集投资AI初创企业释放了哪些关键信号？摩尔线程等国产GPU企业冲刺科创板，能否加速算力自主可控进程？OpenAI联合富士康、软银推进1.4万亿美元基建计划，如何重塑全球AI产业链格局？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="73">00:01:13</a> 英伟达领跑AI，国产算力集团军崛起&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="329">00:05:29</a> 百度AI进展与摩尔线程IPO动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="537">00:08:57</a> 11月22日科技动态与历史回顾&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lqm0UJ3oXwX7rH9T75xs3yusaD3Q.m4a" length="5106423" type="audio/mp4"/>
+    <itunes:duration>00:10:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E526. OpenAI推新编程模型 | Meta发布SAM 3D系列</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691f82946018cc2c98d62726</link>
+    <guid isPermaLink="false">691f82946018cc2c98d62726</guid>
+    <pubDate>Thu, 20 Nov 2025 21:07:07 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注OpenAI新发布的GPT-5.1-Codex-Max，它如何通过长上下文和高效推理重塑软件开发模式？清华提出的大模型“密度法则”，如何像摩尔定律一样推动大模型高效化与终端智能爆发？xAI新推的Grok 4.1 Fast智能体模型，为何能在测评中登顶却在经典编程题“翻车”？Meta发布的SAM 3D系列模型，如何通过2D点击生成高精准3D物体与人像，开启计算机视觉新体验？接下来让我们来解锁这些商业科技动态吧</span></p><span></span><p><span><a class="timestamp" data-timestamp="93">00:01:33</a> OpenAI新模型及清华密度法则进展&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="319">00:05:19</a> xAI与Meta发布新AI模型工具&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="575">00:09:35</a> AI编程发展与历史今日事件&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lsnYdiaDspQce8950Xm_VX_paErO.m4a" length="4930505" type="audio/mp4"/>
+    <itunes:duration>00:10:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E525. 英伟达量子突破 | 阿里千问App公测</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691e3117cbba038b4260e528</link>
+    <guid isPermaLink="false">691e3117cbba038b4260e528</guid>
+    <pubDate>Wed, 19 Nov 2025 21:06:12 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注英伟达推出NVQLink和CUDA-Q，如何搭建量子与经典计算的桥梁？阿里承压上线千问App，能否打破硅谷闭源AI的技术壁垒？GenAI重塑文化产业，人机协同下人类创意如何守住核心价值？蔚来自研芯片“神玑NX9031”技术外供，能否为车企芯片商业化探路？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="77">00:01:17</a> 量子计算与GenAI产业进展观察&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="327">00:05:27</a> 大模型高管创业及阿里千问上线&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="548">00:09:08</a> 何恺明团队推JiT，蔚来芯片外供&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="777">00:12:57</a> 历史上的今天多领域科技成就&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lgENbw2M2Jk4y0dYDGK_plCTp0Kc.m4a" length="5444895" type="audio/mp4"/>
+    <itunes:duration>00:11:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E524. AI多面动态 | AI眼镜热退隐忧</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691cdf94cbba038b42333f27</link>
+    <guid isPermaLink="false">691cdf94cbba038b42333f27</guid>
+    <pubDate>Tue, 18 Nov 2025 22:09:18 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将探讨科技大佬Peter Thiel清仓英伟达却加仓微软苹果的调仓逻辑，释放了AI投资怎样的新信号？AI吃播用玻璃水果、宝石“大快朵颐”，会取代真人吃播成为新主流吗？AI眼镜销量暴涨但退货率超40%，行业卡在哪些硬伤难以破局？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="71">00:01:11</a> AI泡沫争议与吃播新生态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="319">00:05:19</a> AI眼镜行业现状与世界模型展望&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="561">00:09:21</a> AI助力科研制造迈入人机共融时代&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="787">00:13:07</a> 11月19日历史上的重要事件&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/liYF0ZvAWmf0eRvqCPhTHqWGVTOl.m4a" length="5465242" type="audio/mp4"/>
+    <itunes:duration>00:11:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E523. 阿里千问APP公测 | Kimi K2登顶全球</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691b8e196018cc2c98512467</link>
+    <guid isPermaLink="false">691b8e196018cc2c98512467</guid>
+    <pubDate>Mon, 17 Nov 2025 21:57:37 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将探讨中美AI企业估值悬殊，是技术差异还是资本逻辑不同？AI如何让游戏开发从数年协作简化为几小时完成？阿里千问APP开启公测，能否成为“随叫随到”的AI生活入口？大模型渗透关键领域，数据安全与输出可信度风险如何应对？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="70">00:01:10</a> 2025年AI发展：中美差异及应用&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="339">00:05:39</a> 阿里千问公测与大模型安全风险&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="550">00:09:10</a> Gemini 3引热议，投资界加仓减持&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="796">00:13:16</a> 11月18日历史重要事件回顾&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/li2sOvEGGuXGxlsKlyj_qSaOEEXr.m4a" length="5472909" type="audio/mp4"/>
+    <itunes:duration>00:11:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E522. 苹果腾讯达成和解 | AI音乐颠覆传统</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691a3c9b6018cc2c982100d3</link>
+    <guid isPermaLink="false">691a3c9b6018cc2c982100d3</guid>
+    <pubDate>Sun, 16 Nov 2025 21:09:34 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将探讨苹果与腾讯十年博弈终和解，15%抽成新规将如何重塑iOS小程序商业化生态？当AI生成音乐动摇独家曲库根基，依赖版权的传统音乐平台该如何转型求生？微软执意将Windows变为“智能体操作系统”，为何用户却呼吁“住手，我们只想要稳定系统”？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="74">00:01:14</a> 苹果腾讯和解及AI音乐行业变革&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">00:05:24</a> 斯宾塞谈AI热潮与微软系统争议&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="532">00:08:52</a> 新能源车“平替”竞争与AI基建动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="789">00:13:09</a> 11月17日科技探索历史印记&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lsiIpHdtbHSrFKdORAAsDl2aDDqw.m4a" length="5546371" type="audio/mp4"/>
+    <itunes:duration>00:11:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E521. 萝卜快跑超Waymo | AlphaProof IMO夺银</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6918eb106018cc2c98015635</link>
+    <guid isPermaLink="false">6918eb106018cc2c98015635</guid>
+    <pubDate>Sat, 15 Nov 2025 21:09:46 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦AI产业的几项关键进展：当AI成为生产要素，百度智能云如何通过自研芯片与全栈协同构建新灯塔？智能体规模化落地遇阻，CoreSpeed如何用专属基础设施搭建“高速跑道”？从“苕萝卜”到全球最大无人驾驶平台，萝卜快跑如何凭借大模型经验加速出海？AI首次在IMO摘银，数学推理能力突破将如何影响大模型可靠性？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="84">00:01:24</a> 2025AI全栈算力与智能体基建&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="343">00:05:43</a> 百度小鹏AI与汽车业务新动态&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="591">00:09:51</a> AlphaProof IMO夺银，AI数学推理突破&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="811">00:13:31</a> 11月16日历史上的科技大事件&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/liYtybRdoQ10XkE_C-wdhR4xXh7n.m4a" length="5560370" type="audio/mp4"/>
+    <itunes:duration>00:11:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E520. GPT-5.1升级 | 小米推大模型家居</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69179991cbba038b4298a3ce</link>
+    <guid isPermaLink="false">69179991cbba038b4298a3ce</guid>
+    <pubDate>Fri, 14 Nov 2025 21:17:01 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注：从内部工具到全球AI生图第四，SeaArt如何逆袭超越Midjourney？中美欧通用大模型治理各走何路，如何平衡创新与安全？小米首个“大模型+智能家居”方案Miloco，能否打破传统交互的机械繁琐？GPT-5.1主打“有人设、说人话”，会如何改变我们的对话体验？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="78">00:01:18</a> SeaArt发展及中美欧AI治理&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="313">00:05:13</a> 小米推Miloco，ChatGPT升级5.1&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="585">00:09:45</a> 第四范式财报与11.15科技史&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lj7vUS0av1nHMKh5lEviBkc2CBGb.m4a" length="5261717" type="audio/mp4"/>
+    <itunes:duration>00:10:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E519. 萝卜快跑Robotaxi全球领先 | 腾讯Q3营收增长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69164813cbba038b4270cf37</link>
+    <guid isPermaLink="false">69164813cbba038b4270cf37</guid>
+    <pubDate>Thu, 13 Nov 2025 21:08:18 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将关注：萝卜快跑如何以超25万周订单、1.4亿全无人驾驶里程，稳居全球Robotaxi商业化榜首？腾讯Q3营收1928亿、净利润增19%，AI技术如何推动其三大核心业务双位数增长？百度十年深耕AI全栈能力，如何通过萝卜快跑、昆仑芯等案例为产业智能化提供“基因编辑工具”？接下来让我们来解锁这些商业科技动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="78">00:01:18</a> 萝卜快跑领跑，腾讯Q3业绩增长&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="313">00:05:13</a> 百度AI成果与情感AI新探索&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="556">00:09:16</a> 今日科技新品与历史科技事件回顾&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/ls-iJ0zTLdH7a_Ha87RtiJeOYOl6.m4a" length="4966364" type="audio/mp4"/>
+    <itunes:duration>00:10:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E518. 具身智能爆发 | 中国AI成全球必选项</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6914f6b96018cc2c98915377</link>
+    <guid isPermaLink="false">6914f6b96018cc2c98915377</guid>
+    <pubDate>Wed, 12 Nov 2025 21:09:05 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目将聚焦具身智能商业化爆发、AI模型的历史文献推理能力以及中国AI崛起三大动态。具身智能赛道爆发，人形机器人如何从实验室走进工厂仓库，资本又是怎样用真金白银押注这场终端革命？谷歌神秘AI模型为何能破解200多年前的“天书”账本，甚至展现出超越模式识别的历史文献理解能力？海外AI陷入真空时，中国AI如何以极致效率和商业闭环，从“备选项”跃升为全球“必选项”？接下来让我们来解锁这些AI与科技的前沿动态吧。</span></p><span></span><p><span><a class="timestamp" data-timestamp="92">00:01:32</a> 具身智能爆发，AI解析账本显推理&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="369">00:06:09</a> 中国AI崛起与空间智能新方向&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="587">00:09:47</a> AI资本冷静期转向软件应用热潮&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="842">00:14:02</a> 11月13日：历史上的科技里程碑&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;本期主播：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;后期：西娅</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;收听平台：小宇宙、喜马拉雅、Apple Podcast 等。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;如果喜欢我们的节目，欢迎点赞评论转发。</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e710728d5665c0089af8c6/lm0oU2hQOYJbKhYkX9DZEpx9VGvs.m4a" length="6075826" type="audio/mp4"/>
+    <itunes:duration>00:12:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcRVmmF8bYMBB1-tw_prZCZixG3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

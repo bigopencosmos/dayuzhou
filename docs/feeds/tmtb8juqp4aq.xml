@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AI圆桌π</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6719ce990d2f24f289751ca3</link>
+  <description><![CDATA[《AI圆桌π》汇聚全球顶尖AI专家/学者关于人工智能的最新观点。节目采用AI技术生产播客+邀请行业专家接受访谈，从技术发展到未来影响，为你呈现多元视角，带你深入了解 AI 的魅力与挑战，一同探索人工智能时代的无限可能]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:44:51 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/tmtb8juqp4aq.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>力力说</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fp9cxRiOpSGPKH-gIE20QgaLZp51.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fp9cxRiOpSGPKH-gIE20QgaLZp51.png</url>
+    <title>AI圆桌π</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6719ce990d2f24f289751ca3</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>千亿豪赌？解码Meta 超级个人 AI 助手 Muse的诞生</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af074be5b7c4709bfe2efc6</link>
+    <guid isPermaLink="false">6af074be5b7c4709bfe2efc6</guid>
+    <pubDate>Sun, 08 Nov 2026 13:15:17 +0000</pubDate>
+    <description><![CDATA[<p><span>年仅29岁的Alexandr Wang，19岁从麻省理工学院辍学创业后，联合创办了AI 数据公司 Scale AI，并在短短几年内将其发展为估值数百亿美元的企业。如今Alexandr Wang加入Meta不到一年，带领一支不足200人的团队，打造出Meta押注消费级AI的核心产品Muse——这背后，是一次押注方向的豪赌，一段7个月的打磨，以及一个关于如何让产品真正“破圈”的故事。本期节目围绕爆款个人 AI 助手 </span><strong><span>Muse</span></strong><span> 的诞生展开，重点剖析了 Wang 与 Mark Zuckerberg 的合作，包括双方如何通过高人才密度与极度克制的精干团队来打造精美消费品。</span></p><img src="https://image.xyzcdn.net/FgCVTtEINCWgbqWxuzqupB_JlR6N.png"><img src="https://image.xyzcdn.net/Ft21Ai7d7KNmJ8mgmPMO8_sWzFD6.png"><img src="https://image.xyzcdn.net/Fkp8ig7qb1lzHdm5TJ3GzAPStm_g.png"><img src="https://image.xyzcdn.net/FooE560ABetL1XMmLtf1bPZsrz7h.png"><img src="https://image.xyzcdn.net/Fh0HakXbsOQKmHN_qfWk663Mvwir.png"><img src="https://image.xyzcdn.net/FlrJZbVRBpPLnyWG7CKeV58DC4SJ.png"><img src="https://image.xyzcdn.net/Fnme6r6pMgVinlcY3mpFcTxzE9L_.png"><img src="https://image.xyzcdn.net/Fj_ntlJ2UZSxjTE5dHwX4QITc7HN.png"><img src="https://image.xyzcdn.net/FuuNRBW6WXMX2_3agiVeQK0vQwG9.png"><img src="https://image.xyzcdn.net/Fu1f2oogpj5NAAz6F0enPZbTKG1b.png"><img src="https://image.xyzcdn.net/FjH7eXAuwtKZLqsDBcDBwkwGA-2C.png"><img src="https://image.xyzcdn.net/FooGfaodjAwow2--FENt0Vf8sJzV.png"><img src="https://image.xyzcdn.net/FgW2YE-R1WUiIYOP02JA_jEo6nxM.png"><img src="https://image.xyzcdn.net/Fm4jh3elLu_UqiC7nfhh-R_0B-Ri.png"><img src="https://image.xyzcdn.net/FtmK2Xooon4yJTZ2-f_RU48Wsr8A.png"><img src="https://image.xyzcdn.net/FhllMJGwBeQ953HPLwgYYqpyzurf.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FhuqY2KdfJu_nwUqhCuW7rEoK3dw.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/limZNjUgD4Nsa5CGi9_t4aHuRZvp.m4a" length="9491001" type="audio/mp4"/>
+    <itunes:duration>00:09:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoI4N4-H-Qjc1tASVlfn9aA__ZyK.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AMD 82亿美元收购World Labs：李飞飞携手苏姿丰，世界模型才是未来？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6abcc223e742e36efcbd19e1</link>
+    <guid isPermaLink="false">6abcc223e742e36efcbd19e1</guid>
+    <pubDate>Wed, 30 Sep 2026 08:05:20 +0000</pubDate>
+    <description><![CDATA[<p><span>AMD近日宣布以82亿美元全股票交易收购由华裔科学家李飞飞创立的空间智能独角兽World Labs。此次收购旨在将AMD从单纯的硬件供应商转型为软硬件一体化的AI平台公司，以打破英伟达的垄断地位。交易完成后，World Labs将作为独立研究组织保留在旧金山，李飞飞将出任AMD执行副总裁兼首席科学家。该合作标志着人工智能产业正从语言大模型阶段，加速迈向能够理解三维真实物理世界的物理AI新时代。</span></p><img src="https://image.xyzcdn.net/FvmASg0zGyNq32JtflEyyJDPZ7x3.jpeg"><img src="https://image.xyzcdn.net/ls_84xDaS2LC_DTjLJi_Kmni2xKv.png"><img src="https://image.xyzcdn.net/FgXNk65THK4yeeXIKG73xhJSvCo2.png"><img src="https://image.xyzcdn.net/FiK3iEP0KmK_jgCj5UpytLFDybNz.png"><img src="https://image.xyzcdn.net/Fo57gKZqI6FrPki2-Dvw-AGmG0e1.png"><img src="https://image.xyzcdn.net/FoQz0hKNVcMLXJtkQNkdBXEiB8w-.png"><img src="https://image.xyzcdn.net/FiZsaK08L3aQvxgZA61VPWkqE_x0.png"><img src="https://image.xyzcdn.net/Fr1Ni3waubRfFx74j97WQepoUoWg.png"><img src="https://image.xyzcdn.net/Ft_UnNTxWeLHM8SawHR80-jnV9CM.png"><img src="https://image.xyzcdn.net/FkIF_nW6D5geaGMCuZ2g-ZA-VLQR.png"><img src="https://image.xyzcdn.net/FqVg6Bhyd8Q04eO7yFn7jIqUr9B9.png"><img src="https://image.xyzcdn.net/FjmxjNZcKpFhuPD5xz-Lulqsh-HF.png"><img src="https://image.xyzcdn.net/FsRiPSW2X7twVT2Krh76UZf-CosT.png"><img src="https://image.xyzcdn.net/FgObKseUPeK0KVPbB5ljuifxbfgX.png"><img src="https://image.xyzcdn.net/FuRM9mcZZaTSwZijAfzTtl3KFcyh.png"><img src="https://image.xyzcdn.net/Fuqg3aInW-Hby_W6O5WWsG_4mi6F.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FpLaI_RkuUVC4RI9bewfBPGmeEf_.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lsMDSC2FA436Td-qNS6qgOqnkVWO.m4a" length="9217513" type="audio/mp4"/>
+    <itunes:duration>00:09:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fku98eRnaCl5KRnfxUcQf65dm2gr.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>&quot;AI 教母&quot;李飞飞：10 年后职场只剩两类人？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5333ca4adef2b365629d07</link>
+    <guid isPermaLink="false">6a5333ca4adef2b365629d07</guid>
+    <pubDate>Sun, 12 Jul 2026 06:29:57 +0000</pubDate>
+    <description><![CDATA[<p><span>10年后职场只剩两类人？近日，“AI教母”斯坦福大学教授李飞飞，与 MasterClass 创始人兼 CEO 大卫・罗吉尔在一场播客访谈中，直面当下普遍的“AI 替代焦虑”，并围绕 AI 技术本质、企业数字化转型陷阱、教育变革、10年职场分层 “杠铃效应” 四大板块展开讨论。对于“智能的成本正在趋近于零”这样的流行说法，李飞飞直陈：说这话的人，不太负责任。她始终认为，AI是激发人类能动性的强大工具，而非取代人类的对手。</span></p><img src="https://image.xyzcdn.net/FubZduj5_NiIP9PfhrlDV4ezqsAa.jpg"><img src="https://image.xyzcdn.net/njnPtyc-Plvo0YWNkWDB595zdDsQ.png"><img src="https://image.xyzcdn.net/FtJIQ65qNmeXO9GFN5vyBLqRPrIy.png"><img src="https://image.xyzcdn.net/FjQPn9HuN8Ke_eSdApzC_GFGjP02.png"><img src="https://image.xyzcdn.net/FiP9gO35paFQNXqlfxGy7WDtnBFa.png"><img src="https://image.xyzcdn.net/FuUSu-fjOIAf2nj20joSuwnxa_pN.png"><img src="https://image.xyzcdn.net/FvZIbRBQpkIUVEHGXlwHHboTXYZp.png"><img src="https://image.xyzcdn.net/FqhXaq3ZxmlkaoNyREm7DGwJmx2Q.png"><img src="https://image.xyzcdn.net/FtIQ5Tgiip-W7THscy5UoWv1fbmX.png"><img src="https://image.xyzcdn.net/FimScTJrdp8IgguiNp5YSH_KNde1.png"><img src="https://image.xyzcdn.net/FsIYms5VuGf_ytytyYci7RWIx5xf.png"><img src="https://image.xyzcdn.net/FtEH1no1rB9jjSciOpjKpklHSV84.png"><img src="https://image.xyzcdn.net/FpPIfXLRDaMX0M1Yk_xMoSjo0r32.png"><img src="https://image.xyzcdn.net/Fs6JF8jHYkQNc1plq8FusEPlp8fJ.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FgLXFufsbnmUGCxFpnyB8xXWSzis.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/ljMWV6_6Fam0YwxYLZzgXot8XwWt.m4a" length="32402389" type="audio/mp4"/>
+    <itunes:duration>00:33:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FptX4UKk8zY6NoXdn69dUpru0Moc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>谷歌CEO斯坦福大学毕业演讲：我学到的最永恒的忠告，与科技无关—心怀乐观、迎难而上、追随热爱</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a445efd2e335a35a80c0ea2</link>
+    <guid isPermaLink="false">6a445efd2e335a35a80c0ea2</guid>
+    <pubDate>Wed, 01 Jul 2026 00:30:45 +0000</pubDate>
+    <description><![CDATA[<p><span>2026年6月14日，谷歌CEO桑达尔·皮查伊受邀为斯坦福大学毕业生在毕业典礼上发表演讲。 身处 AI 焦虑弥漫的毕业季，他抛开科技话题，核心围绕人生选择展开，称</span><strong><em><span>“我学到的最永恒的忠告，与科技无关”</span></em></strong><span>, 真正左右人生的关键抉择寥寥无几，并以逃课赴拉斯维加斯、初见初雪的亲身经历佐证适度放松无碍大局。 他送给2026届毕业生三个“过滤器”：</span><strong><em><span>心怀乐观、迎难而上、追随热爱</span></em></strong><span>，又分别以将加州山丘视作金色、Chrome 浏览器从微末份额逆袭、早年在 Sweet Hall 接触电脑的经历举例阐释。</span></p><img src="https://image.xyzcdn.net/FuxmVMlHVNsM5OIUi0TSNqx4LUvd.png"><img src="https://image.xyzcdn.net/nmqL5tJqu1pc8Dc5DRbVNK2Iybgq.png"><img src="https://image.xyzcdn.net/FsMReAS_lNEB9MdL6c81bVWgTmiw.png"><img src="https://image.xyzcdn.net/Flv_qOeaPBdbQyo1XfTsFMksfu71.png"><img src="https://image.xyzcdn.net/FqWjA_OsGAB5BbMzt_Gm14nZzREv.png"><img src="https://image.xyzcdn.net/FsSYgCS715rXYdRWw8j21tG-1Wi7.png"><img src="https://image.xyzcdn.net/FvEXQkbfGdMDFuGuRIfRdA3-vrfP.png"><img src="https://image.xyzcdn.net/Fq4D_8DksH8PkWzdXoTtzEwXyIvs.png"><img src="https://image.xyzcdn.net/FpA0TBeKM6cmSxncifzvAJr0dViR.png"><img src="https://image.xyzcdn.net/FkPhxxuaZo_QqqN2UpU5TzIlZG6K.png"><img src="https://image.xyzcdn.net/FrGH9HmYXkXbuFWNIM0y11soiQ0P.png"><img src="https://image.xyzcdn.net/FkEsySOdcDG9uMycNcEJG0wQ6Uyl.png"><img src="https://image.xyzcdn.net/Fk3jYNnvKpNcXR336IxsG_AqZ8go.png"><img src="https://image.xyzcdn.net/Fl_ztR2MTRuk4slKjdXaP_kF0GRh.png"><img src="https://image.xyzcdn.net/FmK99CpImi3J6IwUm1a2MfrKz0ls.png"><img src="https://image.xyzcdn.net/FhMR6S6j_V6JTjhZn2g86uJU0b8-.png"><img src="https://image.xyzcdn.net/FnY0ToWOCGNtvR7xI9RrPsw78jZd.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/loX2SWE8tWw0BtNiRMYkrXqfmR_Y.m4a" length="36227056" type="audio/mp4"/>
+    <itunes:duration>00:37:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh3HzIHf_WNz34yKH68XYz0ERbEC.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Anthropic CEO 达里奥：若重回 2014 ，我仍会加入百度</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a3a75212e335a35a808229c</link>
+    <guid isPermaLink="false">6a3a75212e335a35a808229c</guid>
+    <pubDate>Tue, 23 Jun 2026 12:02:26 +0000</pubDate>
+    <description><![CDATA[<p><span>Anthropic&nbsp;CEO达⾥奥・阿莫代伊（Dario Amodei）曾是OpenAI的核心骨干，主导了GPT-2和GPT-3的开发工作。因在AI安全理念上存在分歧，他于2021年与妹妹丹妮拉·阿莫代（Daniela Amodei）共同创立了Anthropic。近期达里奥接受媒体采访时罕见公开谈及</span><strong><span>2014―2015年在百度硅⾕AI实验室的⼯作经历</span></strong><span>，并就规模定律、算⼒扩张、商业模式、公司治理、全球监管、对华从业经历、就业冲击、尖端模型安全等议题分享了他的观点。</span></p><figure><img src="https://image.xyzcdn.net/FtcPIb9FncoBRoLxGlbz8-w9psoG.png"></figure><figure><img src="https://image.xyzcdn.net/ng_Jogr_LB-XAD9-cuxKYI2QJiER.png"></figure><figure><img src="https://image.xyzcdn.net/Fjp-75b1YKudyFLGmEJW2v_-OEmN.png"></figure><figure><img src="https://image.xyzcdn.net/FufDYSiiaVgtZRX6BBwlJNQq4PB2.png"></figure><figure><img src="https://image.xyzcdn.net/FrAK5aXRGpFZe11JuY52JbBr8Sc5.png"></figure><figure><img src="https://image.xyzcdn.net/Fph1eAPRKLWVncX4DQxpk4KzDdvQ.png"></figure><figure><img src="https://image.xyzcdn.net/FhP_W89K5pcmF8VqBYB9EkH3fq2Q.png"></figure><figure><img src="https://image.xyzcdn.net/Fl2H7JTY_R9E_Xd4CYHZXBd12OwY.png"></figure><figure><img src="https://image.xyzcdn.net/Fn5TNFfw1JqsHFTDkPX4fVn43YLM.png"></figure><figure><img src="https://image.xyzcdn.net/FgIci2tWjwPdEdCuVsiRcFjcMG2U.png"></figure><figure><img src="https://image.xyzcdn.net/FnpQbjnc6ObZClny4WYJxyS5TDm3.png"></figure><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lj4fkSWgsaxvy6DBv7v7BZZgbe5i.m4a" length="30036538" type="audio/mp4"/>
+    <itunes:duration>00:30:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fv9qQY3xe9UxVBBK71UApyDFIhxC.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>斯坦福大学蒂娜・西利格：运气可制造——如何主动捕捉生命中的幸运之风？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a36118975ba9e0c533634a3</link>
+    <guid isPermaLink="false">6a36118975ba9e0c533634a3</guid>
+    <pubDate>Sat, 20 Jun 2026 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>近期斯坦福大学教授蒂娜・西利格（Tina Seelig）接受播客访谈时分享了其过去20多年针对“运气”的研究核心结论：Fortune（际遇 / 天命）不可控，但Luck（运气）却不同——“</span><strong><span>运气并非随机馈赠，而是可系统训练、主动创造的人生技能”</span></strong><span>。那些总被好运眷顾的人，掌握了三步造运法则：第⼀步：搭建坚固船体（Build your sailboat）——明确核心价值观，重构⾃我叙事；第二步：招募可靠船员（Recruit your crew）——建立长期弱关系人脉，招募多元、持不同意见的船员；第三步：扬起船帆（Hoist the sail）——主动行动，对不确定性保持开放接纳，灵活调整船帆⻆度。</span></p><img src="https://image.xyzcdn.net/FuYStEjBtChXxcgk8tq-_NH2Oohq.png"><img src="https://image.xyzcdn.net/ng3J-hSXe4xbIIIZFbkf69MVWVZf.png"><img src="https://image.xyzcdn.net/Fq-ImNitlveR1UNO8AQnvzt9_QJy.png"><img src="https://image.xyzcdn.net/FterXmeVwR0pgQN5RVdOesGi2MXJ.png"><img src="https://image.xyzcdn.net/FmBhZTv3j072fkEiB0Ki8mq6lcm3.png"><img src="https://image.xyzcdn.net/Ft1gR_tS2y1U3cwo5EiTHrglb4E4.png"><img src="https://image.xyzcdn.net/Fv1Y5tzJkLoBcsmtBhJQsyBOTxfk.png"><img src="https://image.xyzcdn.net/FlRidpPJtkEcNbIVj-TrM9Wcjc7u.png"><img src="https://image.xyzcdn.net/FihMCAnCyVTuJPE_SofNy2MoFjsV.png"><img src="https://image.xyzcdn.net/FhjaSKlrGRvqabSO9XjGqCvuLC6O.png"><img src="https://image.xyzcdn.net/ForVkvoCu7HW6KBDb6EwyRs3tM_E.png"><img src="https://image.xyzcdn.net/FgbsDxy97-C-1jS-rsIP8xBvjRzi.png"><img src="https://image.xyzcdn.net/Ft48TENGW7LC8sRnExh6K9aXxRVJ.png"><img src="https://image.xyzcdn.net/Fs4bIwbGMp6cMUDIoSQYFu1WMGA8.png"><img src="https://image.xyzcdn.net/FhY2DsIW-YqfVN0X9Sb-e-ql1j7O.png"><img src="https://image.xyzcdn.net/FjiQSVQFrzOtG1pNUEdP7tvqTOKK.png"><img src="https://image.xyzcdn.net/Fkuz3O21ikMI_Ia5eeUKOYFLdcwP.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lh2R96W7MoqCxWUgrky1bdqXm5yg.m4a" length="34443377" type="audio/mp4"/>
+    <itunes:duration>00:35:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuWpjwFmrdb48UNMSwasipiAfKQQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>汤道生对话姚顺雨：腾讯AI太慢? AI下半场的真相、争议与行业出路</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a26927cb30e1571aea2ab48</link>
+    <guid isPermaLink="false">6a26927cb30e1571aea2ab48</guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>“AI的下半场，不是方法论的问题，而是寻找好问题的问题。”</span></strong><span>2026年6⽉5⽇，腾讯AI产业应⽤⼤会举办，腾讯集团⾼级执⾏副总裁、CSIG CEO汤道⽣与腾讯⾸席AI科学家姚顺⾬展开⻓达⼀⼩时的重磅公开对谈，直⾯⾏业最⼤争议与外界对腾讯AI的核⼼质疑。本次对话是腾讯官⽅对当下AI⾏业格局、企业战略、技术路线、产品逻辑最完整、最坦诚的⼀次系统性表态。在姚顺雨看来，“下半场才刚刚开始”；汤道生则将其比作一场马拉松：“我们有长期主义的耐心。”</span></p><img src="https://image.xyzcdn.net/FlYSGqF0hw5QRbZeWTNN8mIDn4gs.png"><img src="https://image.xyzcdn.net/ngo0MBDHvPSzDsyvWfLw3kk9afHk.png"><img src="https://image.xyzcdn.net/ng9WlMBqlLpIqcy4KxMQ69ruKDut.png"><img src="https://image.xyzcdn.net/nvYHZqZz0or6tc87Drei8ADa3BjS.png"><img src="https://image.xyzcdn.net/ntA7-_auzGMcjCsspC3ffaH_8O1E.png"><img src="https://image.xyzcdn.net/nrIYOpfKWYtVAu8Fc5qX3ox_gUEx.png"><img src="https://image.xyzcdn.net/Fsy-L6oO_36NUY5FKieTefaOQxAj.png"><img src="https://image.xyzcdn.net/nvDRLdFzpQQintFWZ5VDr9PRU2hz.png"><img src="https://image.xyzcdn.net/nsr0gAL7nSidXuJ5opcrqgpyNUPf.png"><img src="https://image.xyzcdn.net/nmoxIQiNsk2qcvt-Z9DnIyuF2sA3.png"><img src="https://image.xyzcdn.net/njuyLTMJHpk8EY1bR3B9A2kjyR-I.png"><img src="https://image.xyzcdn.net/ng7L2xHcvMZnQBJOyzHGEglkmHh6.png"><img src="https://image.xyzcdn.net/FlC1g4b8WgHzNGXI-hsPKytBSmXY.png"><img src="https://image.xyzcdn.net/FuvPd8uZhCneHOtxF-dNPGuBLg1F.png"><img src="https://image.xyzcdn.net/nrUoBnfzv3rCqZL-COcpC4AFNi4I.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lv-tc0XpbxENNh7C2aPPF_E6FPSG.m4a" length="22293756" type="audio/mp4"/>
+    <itunes:duration>00:22:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm_3IFPUrT0mPcHOvr31ZTAuVvn8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>黄仁勋卡内基梅隆大学毕业典礼演讲：AI 时代年轻人不必恐慌，所有人重回同一起跑线</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a1ed19d7444b57222323cfd</link>
+    <guid isPermaLink="false">6a1ed19d7444b57222323cfd</guid>
+    <pubDate>Tue, 02 Jun 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>5月10日，英伟达创始人及CEO黄仁勋出席卡内基梅隆大学第128届毕业典礼并发表主题演讲，向毕业生传递了AI时代的历史性机遇与个人使命。黄仁勋在体育场的雨中向数千名毕业生表示"</span><strong><span>你们正以一个非凡的时刻进入这个世界......一个新产业正在诞生，一个科学发现的新纪元正在开启。没有任何一代人比你们拥有更强大的工具和更广阔的机遇......我们都站在同一条起跑线上，这是你们帮助塑造未来的时刻</span></strong><span>”</span></p><img src="https://image.xyzcdn.net/npMJ9DQC1XJZoRm_ujZL-FHIN6dP.png"><img src="https://image.xyzcdn.net/FjE4o6iqxoqujUsBjoh8pQkBj-XT.png"><img src="https://image.xyzcdn.net/FkQuDSlA5QrXtm3OtS7eAAcHbq6J.png"><img src="https://image.xyzcdn.net/Fqq6oOY-skXXNW3AFKXI_8BV10GP.png"><img src="https://image.xyzcdn.net/FnaZBZswvDtialgmYs0EWdkR154n.png"><img src="https://image.xyzcdn.net/FsLahXqwsKWYhZYqfy48FS_N8Mxa.png"><img src="https://image.xyzcdn.net/Fo_CWOfeRIvxdN8TV5ALp5eWNyEw.png"><img src="https://image.xyzcdn.net/Fqn_97kewZ8iM89I4JGvG6W5-xSh.png"><img src="https://image.xyzcdn.net/FgeShEzBJfZw6jcAOTJGULqXEsu0.png"><img src="https://image.xyzcdn.net/FrqeaiBtv9MqsuddtfnhpWtNOYB_.png"><img src="https://image.xyzcdn.net/FjjjtZlInyJcuqCdf8p4dnlThDY-.png"><img src="https://image.xyzcdn.net/Funw7y3Cog7V4IvdeVijDmEHI4zR.png"><img src="https://image.xyzcdn.net/FnO0yQd5FWqXJUUVH12peB3MQ4pu.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/ltbQnEakBE3H3QfVDWvKQ5RNP1cB.m4a" length="21264289" type="audio/mp4"/>
+    <itunes:duration>00:21:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh_Icz7hcFAjFZGOoFl7_w8o7Z7D.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>钉钉悟空：阿里企业级AI布局，实测一人公司可能性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a18dbb0ac7bdb080c326cd0</link>
+    <guid isPermaLink="false">6a18dbb0ac7bdb080c326cd0</guid>
+    <pubDate>Fri, 29 May 2026 00:27:09 +0000</pubDate>
+    <description><![CDATA[<p><span>2025 至 2026 年，企业级 AI Agent 迎来规模化落地的关键元年，办公生产力正从人机对话提效，加速转向 AI 自主执行工作。传统办公AI 普遍存在能力碎片化、交互被动、安全合规薄弱三大痛点，难以串联完整业务流程，更无法满足中大型企业的数据安全需求。在此行业变革浪潮下，阿里钉钉近期正式推出首款独立 AI 原生 App—— 悟空，作为阿里巴巴 ATH 事业群旗下旗舰级产品，承载着钉钉从传统协同办公工具向 AI 原生企业工作平台全面转型的核心使命。在此行业变革浪潮与市场刚需驱动下，钉钉悟空的出现或许可以深度激活阿里生态价值，精准适配中小微企业与 OPC 需求，成为企业级AI 赛道的重要标杆，引领协同办公迈入 AI 自主自治的全新发展阶段。本期节目将对钉钉「悟空」展开全方位深度测评，结合产品技术架构、功能规则，从产品战略定位、核心场景能力实测、迭代优化方向三大核心维度，系统拆解悟空的产品价值、能力边界、核心优势（提示：本节目涉及的测试数据基于特定计算环境产生）。</span></p><img src="https://image.xyzcdn.net/FpzaaO7odRprqOBf1ZdwiJg48GUt.png"><img src="https://image.xyzcdn.net/nir_Q3AdiXbmRRmHOoOa1pK1Dj6P.png"><img src="https://image.xyzcdn.net/FjmsRU9-Qb--3bC8H-afpbrAZ-hH.png"><img src="https://image.xyzcdn.net/FuItmVYRdBNh1UMdNvKTmEU-fnog.png"><img src="https://image.xyzcdn.net/FkB4sVxZBjY3tWaX1Z-TEQjdtRLt.png"><img src="https://image.xyzcdn.net/FpSgASc3NrWbq1PHOZ_h2SPW7ehd.png"><img src="https://image.xyzcdn.net/Fgq5kDNVt-mbUvHArQbajUcNSasH.png"><img src="https://image.xyzcdn.net/Fqd-DL1nuXhr-uRHUff5Uq1wLB_m.png"><img src="https://image.xyzcdn.net/FlEIWsrStvC8IPHV3ZeBCmmf_mHg.png"><img src="https://image.xyzcdn.net/Fq0sJ9ZmBvbVuxrFbJuO1kvy5Htr.png"><img src="https://image.xyzcdn.net/FmwA6tm4r4zvfdzQDNTeFKoiIJ_s.png"><img src="https://image.xyzcdn.net/Fmg450dxPQOy9FcCKCgwMSh8F6PT.png"><img src="https://image.xyzcdn.net/Fm07UmzRdq9ZBpuQCPkrxxSuiv50.png"><img src="https://image.xyzcdn.net/FiDPz0taLMBoI4hY8WwbBGhXDPhP.png"><img src="https://image.xyzcdn.net/FlGW_j34nr8VUStDrKhqFGt2vYn9.png"><img src="https://image.xyzcdn.net/Fpk4AlYxOFtVJ2hqmPt6uBOx_cI4.png"><img src="https://image.xyzcdn.net/Fj9yuX2VnF2fN6JpIr1xaGB-5DTm.png"><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lsQGfjVgVA9E37ThoPDFXiQu5MlR.m4a" length="33021867" type="audio/mp4"/>
+    <itunes:duration>00:34:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FszYOYVRpUhQSmgzis_PqSFx0O1D.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2026谷歌I/O炸场！AI正式进入「智能体时代」</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a0dabc11b7bd50295852e9e</link>
+    <guid isPermaLink="false">6a0dabc11b7bd50295852e9e</guid>
+    <pubDate>Wed, 20 May 2026 12:51:45 +0000</pubDate>
+    <description><![CDATA[<p><span>北京时间 2026 年 5 月 20 日凌晨，Google I/O 2026 于加州山景城开幕。本届大会核心基调是</span><strong><span>全面进入 Gemini 智能体时代</span></strong><span>，战略核心为 “AI 全栈闭环 + 生态深度渗透”—— 从底层 TPU 算力、Gemini 模型矩阵、Antigravity 开发平台，到终端产品与行业标准，谷歌完成全链路 AI 布局，明确将 AI 从 “工具功能” 升级为 “系统级智能中枢”，全面渗透搜索、Android、Workspace、YouTube 等核心生态。</span></p><figure><img src="https://image.xyzcdn.net/FncSykyUusTaoR4RYWAdfjrguH8F.png"></figure><figure><img src="https://image.xyzcdn.net/Fh4Q-n8-JdMtYS_HBT6ROhT_k6Kf.png"></figure><figure><img src="https://image.xyzcdn.net/FgHb56LI_6rR5xbyqJkiCQETFaS4.png"></figure><figure><img src="https://image.xyzcdn.net/Fs9dhQ56tOCU0bg2U7UvZUY4iuz_.png"></figure><figure><img src="https://image.xyzcdn.net/FqKb162vwVRnAM-GgZcuMJ85BBjg.png"></figure><figure><img src="https://image.xyzcdn.net/FlB_laW9H3n4RBD-S8XGUnnReQuf.png"></figure><figure><img src="https://image.xyzcdn.net/FvdD_uIbrqx47ihCKnTh-7n1zk7p.png"></figure><figure><img src="https://image.xyzcdn.net/FnEuD1RQ5-phgzx8y7i6pu60a0u0.png"></figure><figure><img src="https://image.xyzcdn.net/FsrUFT-exw-PWMNoJk8tnwLxPgOM.png"></figure><figure><img></figure><figure><img src="https://image.xyzcdn.net/FnwuE00BihS2IVfddUSw96fughZ0.png"></figure><figure><img src="https://image.xyzcdn.net/FkZ07lShddafkTQVE3rjGIPYUt6U.png"></figure><figure><img src="https://image.xyzcdn.net/FqB7_aapJa1n80yBC_6o-T0k_UMA.png"></figure><figure><img src="https://image.xyzcdn.net/FoHrRJrsphDM5SVT0lX5t_PpPAsP.png"></figure><figure><img src="https://image.xyzcdn.net/Foe12piqg6AcRdg8dm1OSxo9Nk2c.png"></figure><figure><img src="https://image.xyzcdn.net/FhIe3Q8IDAhQG3p-8alQCC77pK-u.png"></figure><figure><img src="https://image.xyzcdn.net/Fi0gOBUUb_mVFPNp5u9m16alSCGL.png"></figure><figure><img src="https://image.xyzcdn.net/FlC1e3YNFOxqvEFo_BLA6XRWapJm.png"></figure><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lgfSPMkCycnm64s7SyxXqafUGdTD.m4a" length="26795477" type="audio/mp4"/>
+    <itunes:duration>00:27:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FglUxfYbstFxLNPZzLy1zhsn5lOG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>DeepMind 姚顺宇：人生苦短，别浪费在讨好“老登”身上</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a0936f7e1eb34a9398aacff</link>
+    <guid isPermaLink="false">6a0936f7e1eb34a9398aacff</guid>
+    <pubDate>Sun, 17 May 2026 03:41:45 +0000</pubDate>
+    <description><![CDATA[<p><span>近日，谷歌 DeepMind 核心研究科学家姚顺宇接受深度专访。姚顺宇拥有清华本科、斯坦福理论物理博士背景，深耕基础物理研究多年后跨界入局人工智能，先后任职于 Anthropic 与 Google DeepMind，全程参与了Claude、Gemini 等顶级大模型核心研发。本次访谈跳出行业客套话术，直面产业真相与行业痛点，其中 </span><strong><span>“人这一辈子也没多长，为什么要把自己的时间浪费在伺候老登身上”</span></strong><span> 一语出圈，既道出一线从业者心声，也折射出科技行业深层职场矛盾。</span></p><figure><img src="https://image.xyzcdn.net/norqoziLw6nNzrmCzIA4QA_5GCql.png"></figure><figure><img src="https://image.xyzcdn.net/Fo2sf58comrv9-EYTodI8yM9mx1s.png"></figure><figure><img src="https://image.xyzcdn.net/FgEDEEboPHK5nmyCLTa_blqTvT5z.png"></figure><figure><img src="https://image.xyzcdn.net/Fpy7VnKr0LG-SAyJJJ74FDxoF_z0.png"></figure><figure><img src="https://image.xyzcdn.net/FjtSZc5cKsu5fPG8Nkzlf_TO5WfI.png"></figure><figure><img src="https://image.xyzcdn.net/FpJwZnUOwHDfHYtgv_BJf2-aTaG7.png"></figure><figure><img src="https://image.xyzcdn.net/Fk-xr1WTVABmAszKp3PpY4AvgpPS.png"></figure><figure><img src="https://image.xyzcdn.net/FvnEmyizXTIf5siIfd_KWM-A0IE-.png"></figure><figure><img src="https://image.xyzcdn.net/FhmtQuuTni6g2lYmzjWvBwv_Y8W9.png"></figure><figure><img src="https://image.xyzcdn.net/FmsLmvKvV4Cd18PPYC9A0J-99dWQ.png"></figure><figure><img src="https://image.xyzcdn.net/Fk-Z5o-6b7_IHFjhE3kx-XYiH-jk.png"></figure><figure><img src="https://image.xyzcdn.net/FkFB4WHpYGdEslCfJvnbfTR1ZMJ6.png"></figure><figure><img src="https://image.xyzcdn.net/FlziiPz0bWywax0UBfE-LCixbJvW.png"></figure><figure><img src="https://image.xyzcdn.net/Fo0GamJDLLpShuhZRl15oEjDEG5n.png"></figure><figure><img src="https://image.xyzcdn.net/Froc5Qun2QkXsQygYR4QqNip6uKJ.png"></figure><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><img src="https://image.xyzcdn.net/FiHj6Ikh_IGLgMebZKRormN1Of2q.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lmO4Ae9B16ChBhjASM5p_8DY2U_Z.m4a" length="26202893" type="audio/mp4"/>
+    <itunes:duration>00:26:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlaMHuEeXvX4bpoOLKVs0qYQAMFG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2026中美会谈全解析：黄仁勋“压轴补位”，科技博弈进入深水区</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a05c5931b7bd5029527a7cb</link>
+    <guid isPermaLink="false">6a05c5931b7bd5029527a7cb</guid>
+    <pubDate>Thu, 14 May 2026 13:49:08 +0000</pubDate>
+    <description><![CDATA[<p><span>2026 年 5 月 14 日，中美在北京正式会晤。双方围绕双边关系定调、经贸合作、科技博弈、全球治理等核心议题达成一系列共识，其中</span><strong><span>科技领域（AI 芯片、半导体、数字治理）</span></strong><span> 成为谈判核心，随行 17 位美国商界巨头（含 8 大科技 CEO）执掌公司总市值超</span><strong><span>16万亿美元，</span></strong><span>创下历史之最。本期节目从主要议题、黄仁勋与马斯克随行深层逻辑、会晤对中美关系及 AI 产业的影响等维度，进行全面解析。</span></p><figure><img></figure><figure><img src="https://image.xyzcdn.net/Fj5_5zlhhhBY8YkH5kbnI7JOpdC2.png"></figure><figure><img src="https://image.xyzcdn.net/nrTVZpqUm3D_aEYVoNgE6uB1ME_g.png"></figure><figure><img src="https://image.xyzcdn.net/Ft1gVuuv3D1jX-Jn9YC1B8DWwfRY.png"></figure><figure><img src="https://image.xyzcdn.net/FjjSLZESrP7J6qe4mE9OKuwGAu8A.png"></figure><figure><img src="https://image.xyzcdn.net/FkpJT16h6OQVu1aGDYMTuebdUHBh.png"></figure><figure><img src="https://image.xyzcdn.net/FqS11NAXZUxFY9MBaEqofjV4azb8.png"></figure><figure><img src="https://image.xyzcdn.net/FjR3F9pDPN7NgwUJlnBTyAJ-v0bV.png"></figure><figure><img src="https://image.xyzcdn.net/Fqw_p-SP4PVnBOgXBE8McrD7WKqa.png"></figure><figure><img src="https://image.xyzcdn.net/FvKGBkj3eofcDm0FDI5ql-B-ojPu.png"></figure><figure><img src="https://image.xyzcdn.net/FpOPJhho22C94PyJV0EPh4xtNwYf.png"></figure><figure><img src="https://image.xyzcdn.net/FsKAk0XqxFYRzmPRlxyHxOo4dXvb.png"></figure><figure><img src="https://image.xyzcdn.net/FnihxTUe3usvgKCl-exOiKCCrN1u.png"></figure><figure><img src="https://image.xyzcdn.net/FkB_8hVCuyMT947_7JRSrzGAyzwm.png"></figure><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><figure><img src="https://image.xyzcdn.net/FspNWiisJQVyQGLpE3vZBKTZfZUW.png"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lpSMx7-tLAiodHheWIuCb06IDXxw.m4a" length="8013677" type="audio/mp4"/>
+    <itunes:duration>00:08:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhMpLEWoEG8o13-gE1Kt5a3Y09Qx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>豆包付费版全解析：从“流量内卷”到“价值重塑”——中国AI商业化的分水岭</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69fad827b19b707c001b988d</link>
+    <guid isPermaLink="false">69fad827b19b707c001b988d</guid>
+    <pubDate>Wed, 06 May 2026 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>2026 年 5 ⽉ 4 ⽇，字节跳动旗下 AI 产品⾖包在 App Store ⻚⾯正式公⽰付费订阅⽅案，推出标准版、加强版、专业版三档会员，定价 68-500 元 / ⽉，核⼼聚焦 PPT ⽣成、数据分析、⻓⽂档精读等⾼算⼒⽣产⼒场景，免费版永久保留基础功能。此举标志着国内 C 端 AI 赛道正式从“免费烧钱换规模”转向“基础免费 + 专业付费”的商业化深⽔区。本期节目将从成本、增⻓、竞争、战略四⼤维度剖析字节调整的核⼼逻辑，并从商业模式、定价体系、技术迭代、⽤⼾⽣态、监管合规五⼤层⾯，研判其对中国 AI ⾏业的深远影响。</span></p><figure><img></figure><figure><img src="https://image.xyzcdn.net/FlAgA3_iiwloz_wazzYIuiRnPJZP.png"></figure><figure><img src="https://image.xyzcdn.net/nkdaQc4RwoNCU3qd84He4AXCM4P_.png"></figure><figure><img src="https://image.xyzcdn.net/FmUjHBQfWUMK1tr38tknrjFOcEjY.png"></figure><figure><img src="https://image.xyzcdn.net/FkWqdHDfr_wQ0xpggj97le9MqEyA.png"></figure><figure><img src="https://image.xyzcdn.net/Foz-H8yLIePC2KasIVY9Qjq6hXPs.png"></figure><figure><img src="https://image.xyzcdn.net/Fil-_3FXJtRVJDaFe9uXwHmYNcgX.png"></figure><figure><img src="https://image.xyzcdn.net/Fj5MW_GjCGqCtgvMnuNDpv8_R9-7.png"></figure><figure><img src="https://image.xyzcdn.net/Ft60igpeh1OSumbhl-xW7qfY25HZ.png"></figure><figure><img src="https://image.xyzcdn.net/FsJOofrFfI3UAafWB4EGL4jK8Y70.png"></figure><figure><img src="https://image.xyzcdn.net/FjtsA8o4SPPn-Dm4MapYWh11A8Cu.png"></figure><figure><img src="https://image.xyzcdn.net/FpXJxzH1YsO3xu69Aj9d5oA6xs_7.png"></figure><figure><img src="https://image.xyzcdn.net/Fu5edDUa7TrWiGbeR-U2C-LYflNA.png"></figure><figure><img src="https://image.xyzcdn.net/Fhf0S9DOcIWzglIBkQZSwi4f1KPR.png"></figure><figure><img src="https://image.xyzcdn.net/Fs1XtONi9EvhM-Y6U1Lq7wcVGRPf.png"></figure><figure><img src="https://image.xyzcdn.net/Fv3SQorL5fWRLuNAu8jHN_yDWY4o.png"></figure><figure><img src="https://image.xyzcdn.net/FizOIC1jMfSyWBucpqrd2r5S6nZL.png"></figure><figure><img src="https://image.xyzcdn.net/FlqmZ_5b-dYxdPub94TDjc5-bbnC.png"></figure><p><span>如希望领取PPT/文字版本内容可加入播客听友群（请扫以下二维码）或关注微信公众号：力力说AI</span></p><figure><img src="https://image.xyzcdn.net/FgFN2IipKFK8oWGC4s43gubTf6pU.png"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/ln4Ko3U0zbO6BYqY39FxxosoWQky.m4a" length="20309021" type="audio/mp4"/>
+    <itunes:duration>00:20:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqBOnFoEA7kF2rfyD5NQV208pIF5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Manus收购被叫停：技术主权与AI出海的“中国红线”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69f20bedfbed7ba9411f6099</link>
+    <guid isPermaLink="false">69f20bedfbed7ba9411f6099</guid>
+    <pubDate>Wed, 29 Apr 2026 14:00:09 +0000</pubDate>
+    <description><![CDATA[<p><span>近日，中国政府依法依规对Meta收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。此次禁令作为首例公开叫停的AI外资并购案，标志着“监管套利式出海”模式的终结。这一风向标不仅促使行业重塑合规与退出路径，也迫使国内AI企业从短期套利转向深耕本土长期价值。未来AI领域的竞争将围绕技术自主可控展开，资本逻辑也将由外资并购转向国资与本土产业赋能。</span></p><figure><img></figure><figure><img src="https://image.xyzcdn.net/FlKH4IKRGFXYFmJzut55-_Gp4IfO.png"></figure><figure><img src="https://image.xyzcdn.net/FsDres8GE4Lw544um-zSNXHNVH2A.png"></figure><figure><img src="https://image.xyzcdn.net/FrRvf8nRuLuG9HGlFOt4oW3hSJjp.png"></figure><figure><img src="https://image.xyzcdn.net/Fks3wYOHdJUUAoBqEByutZPhn6DX.png"></figure><figure><img src="https://image.xyzcdn.net/FgS6XFAuqZXj4qhfrpUy5MoSbi2X.png"></figure><figure><img src="https://image.xyzcdn.net/FijFvA8lZJGGggvZwkF5aj-eefol.png"></figure><figure><img src="https://image.xyzcdn.net/FgCiiyJGUJ7JYAEFMGaSONXDFfEC.png"></figure><figure><img src="https://image.xyzcdn.net/FqtuBf8rz8DQDJ6eej0mV3YsPevB.png"></figure><figure><img src="https://image.xyzcdn.net/FphWkXP9qDg80zaKWBLICNSY0lo_.png"></figure><figure><img src="https://image.xyzcdn.net/FhQkfhp7v49aCz9AN6jXb_cqjv05.png"></figure><figure><img src="https://image.xyzcdn.net/Fg6i1sWFyjMiIKr-Rptpy_sGMEvn.png"></figure><figure><img src="https://image.xyzcdn.net/FgwSz9dulHunjY8ybKLGvS4FMcIK.png"></figure><figure><img src="https://image.xyzcdn.net/Fjw4cPDaewSQAob54o-9HZ9XuBNE.png"></figure><figure><img src="https://image.xyzcdn.net/Fp5OFM-CkbhqPOisNCXilaXMO-Fr.png"></figure><figure><img src="https://image.xyzcdn.net/Fii0gptzJ0ey4fozGOWdbU02D2dp.png"></figure><figure><img src="https://image.xyzcdn.net/FvKs5c9TUjKW1Wa80Dcvpsf1klWy.png"></figure><figure><img src="https://image.xyzcdn.net/FjCDTh-ugW2A-gFzLaK1DQ8gc8dm.png"></figure><p><span>如希望领取PPT/文字版本内容可关注微信公众号：力力说AI</span></p><p><span>或加入播客听友群（请扫以下二维码）</span></p><figure><img src="https://image.xyzcdn.net/FsoTaiCpBakWcWhOE0dsRAaJoFSh.png"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lmqpZIMhKLQ5sLxxxH-5gp_qfLus.m4a" length="15957138" type="audio/mp4"/>
+    <itunes:duration>00:16:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fmzecliw-LGOf4fax6rP0cu71UKo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>苹果新纪元：库克时代谢幕与特努斯的AI新挑战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ed99671e94ae69212ab9f3</link>
+    <guid isPermaLink="false">69ed99671e94ae69212ab9f3</guid>
+    <pubDate>Sun, 26 Apr 2026 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>苹果近期官宣重大人事变动：执掌公司 15 年的 CEO 蒂姆・库克（Tim Cook）将于 9 月 1 日转任董事会执行主席，硬件工程高级副总裁约翰・特努斯（John Ternus）接任 CEO。这一交接不仅是苹果管理层的更迭，更标志着这家科技巨头从“运营驱动”向“产品技术驱动”的战略转向。本期节目将从库克任期功过、特努斯背景、接班逻辑、AI 前景与核心挑战五个方面展开深度解析。</span></p><figure><img src="https://image.xyzcdn.net/Fsj-g42o45eKWvn1z2jOIip2kOqD.jpg"></figure><figure><img src="https://image.xyzcdn.net/nuCR_KQvYYq7730iVgjz1vsYgebs.png"></figure><figure><img src="https://image.xyzcdn.net/Fta5YsY1hR_cNFF_VygidK2qJ4nY.png"></figure><figure><img src="https://image.xyzcdn.net/FnYFCcz4Yqnq5OrVIQeOWWFQ2cQA.png"></figure><figure><img src="https://image.xyzcdn.net/FiLAIxqDXozqaD254jouukFOiMD8.png"></figure><figure><img src="https://image.xyzcdn.net/Fr-WtnjgpIonaWmpafn6ydtg9a8x.png"></figure><figure><img src="https://image.xyzcdn.net/Fk7nOBDIrwiceDuboSkvonSo3PzC.png"></figure><figure><img src="https://image.xyzcdn.net/FmzDVkxrZdtWygaFfYRt5_s1dP-z.png"></figure><figure><img src="https://image.xyzcdn.net/FvE6CJFPDi9UNl_P23St2-Kcrcru.png"></figure><figure><img src="https://image.xyzcdn.net/Fo6Yt6akz9LZqn1NBZHuWHjglv9B.png"></figure><figure><img src="https://image.xyzcdn.net/FiydOZF64ZvVzsbKVwSKKlDvE-V-.png"></figure><figure><img src="https://image.xyzcdn.net/Fk-HePYwJ0dYq5YzlFGqFCh0HFja.png"></figure><figure><img src="https://image.xyzcdn.net/FppZ4PwZ6Pt9SAKUfoPsVE_caaN-.png"></figure><figure><img src="https://image.xyzcdn.net/FnPjj3jWmmnJ6x0tUlGgE9MzL0z1.png"></figure><p><span>如希望领取《2026年AI指数报告》/PPT/文字版本内容可关注微信公众号：力力说AI</span></p><p><span>或加入播客听友群（请扫以下二维码）</span></p><figure><img src="https://image.xyzcdn.net/Fl-fWKjnlq4kpL2q4BUXSryvYtsj.png"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6719ce990d2f24f289751ca3/lnsf8SUHme8SfgbJ-wGs7bCjkYEr.m4a" length="33555473" type="audio/mp4"/>
+    <itunes:duration>00:34:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq1KMO3cyFTiLjk4pttLXPKGU4Ds.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

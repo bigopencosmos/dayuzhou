@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AIContext|AI每日新闻</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66961fad8fcadceb90aac34e</link>
+  <description><![CDATA[AIContext电台！每日播报AI最新资讯，让你持续保持AI上下文！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:12:44 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66961fad8fcadceb90aac34e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FtXL_KxQeiFM8hwfCs-jeBNH_1_3.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FtXL_KxQeiFM8hwfCs-jeBNH_1_3.png</url>
+    <title>AIContext|AI每日新闻</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66961fad8fcadceb90aac34e</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>2024.11.15 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67360823f373fe5d4d565526</link>
+    <guid isPermaLink="false">67360823f373fe5d4d565526</guid>
+    <pubDate>Thu, 14 Nov 2024 18:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🤖 </span><strong><span>具身智能新标杆：EAI基准横空出世，o1-preview领跑榜单</span></strong><br><span>李飞飞与吴佳俊团队推出的Embodied Agent Interface（EAI）具身智能决策能力评价基准，不仅统一了目标表示方法，还通过线性时态逻辑（LTL）显著提高了模块间的互操作性，为未来研究提供了强有力的工具。</span></p><span></span><p><span>🧠 </span><strong><span>大模型新突破：RouterDC高效组合，无需梯度回传</span></strong><br><span>南方科技大学与香港科技大学联合研究团队提出的RouterDC新方法，基于双重对比学习，高效组合多个大模型，显著优于现有路由方法，为大模型的实际应用开辟了新可能。</span></p><span></span><p><span>🚶 </span><strong><span>Keras之父François Chollet离职：谷歌深度学习框架迎来新篇章</span></strong><br><span>谷歌宣布Keras之父François Chollet正式离职，尽管未来动向未明，但其对Keras、JAX、TensorFlow和PyTorch的支持将继续，业界猜测他可能被Anthropic挖角，引发广泛关注。</span></p><span></span><p><span>🚗 </span><strong><span>红旗汽车智能化转型：5nm芯片与纯视觉智驾系统领航未来</span></strong><br><span>红旗汽车发布自主研发的5nm车载芯片“红旗1号”和纯视觉端到端智驾系统“司南智驾”，展示了中国汽车工业在智能化和电动化方面的重大进步。</span></p><span></span><p><span>🔒 </span><strong><span>火山方舟数据安全升级：全周期防护，用户隐私无忧</span></strong><br><span>火山方舟大模型平台通过全周期的安全方案，强化了用户数据的安全性和隐私性，确保数据在传输、存储和处理过程中始终处于高度保密状态。</span></p><span></span><p><span>🤖 </span><strong><span>灵宝CASBOT发布首款全尺寸双足人形机器人：52自由度，续航超4小时</span></strong><br><span>灵宝CASBOT推出的“CASBOT 01”，具备52个自由度，算力达550T，续航时间超过4小时，能够进行多种家务活动，标志着人形机器人领域的新突破</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FmGcdFXKFDxhUpxwipntk6uqREWF.m4a" length="3416393" type="audio/mp4"/>
+    <itunes:duration>00:04:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.13 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673375a643dc3a43871d10ee</link>
+    <guid isPermaLink="false">673375a643dc3a43871d10ee</guid>
+    <pubDate>Tue, 12 Nov 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🧬 </span><strong><span>AlphaFold3开源：AI助力蛋白质结构预测新时代</span></strong><br><span>DeepMind的AlphaFold3开源发布，为结构生物学带来革命性工具，推动药物发现和分子生物学研究。</span></p><span></span><p><span>🎵 </span><strong><span>音乐AI新星：博士研究者加入字节跳动Seed团队</span></strong><br><span>一位音乐生成领域的博士研究者选择加入字节跳动，看好其在音乐生成领域的资源和团队实力。</span></p><span></span><p><span>🧠 </span><strong><span>测试时训练：MIT研究揭示语言模型推理能力提升之道</span></strong><br><span>MIT研究发现，测试时训练（TTT）显著提升语言模型抽象推理能力，挑战复杂任务必须依赖符号组件的假设。</span></p><span></span><p><span>🔬 </span><strong><span>CryoSTAR：AI与冷冻电镜结合，解析蛋白质动态构象</span></strong><br><span>字节跳动研究团队提出CryoSTAR方法，成功应用于蛋白质动态构象解析，为生命科学和制药领域带来新工具。</span></p><span></span><p><span>📈 </span><strong><span>数学新突破：哈佛和拉霍亚团队发现复杂椭圆曲线</span></strong><br><span>哈佛大学和拉霍亚团队发现复杂椭圆曲线，扩展了椭圆曲线研究的前沿，为解决椭圆曲线秩问题提供新线索。</span></p><span></span><p><span>💻 </span><strong><span>OpenCoder：开源代码大模型，推动AI可复现发展</span></strong><br><span>OpenCoder团队发布完全开源的代码大模型，提供全方面构建细节，推动代码AI的可复现发展。</span></p><span></span><p><span>🔒 </span><strong><span>隐私保护新方法：苏黎世联邦理工团队提出严格评估策略</span></strong><br><span>苏黎世联邦理工团队提出新方法，严格评估机器学习算法的隐私保护能力，解决现有评估方法的误区。</span></p><span></span><p><span>🎓 </span><strong><span>NeurIPS 2024线下论文分享会：AI研究者的学术盛宴</span></strong><br><span>机器之心联合黄大年茶思屋和智源社区举办NeurIPS 2024线下论文分享会，提供学术交流平台。</span></p><span></span><p><span>🖼️ </span><strong><span>百度iRAG：检索增强文生图技术，消除AI幻觉</span></strong><br><span>百度发布iRAG技术，解决大模型图片生成幻觉问题，推动AI应用的可用性和可信度提升。</span></p><span></span><p><span>🎨 </span><strong><span>机器人艺术家Ai-Da：百万美元画作引发AI与艺术讨论</span></strong><br><span>机器人艺术家Ai-Da创作的图灵肖像在苏富比拍卖会上高价成交，引发关于人工智能与艺术创作的讨论。</span></p><span></span><p><span>🚀 </span><strong><span>AlphaFold3开源：谷歌诺奖级AI模型推动生命科学研究</span></strong><br><span>谷歌开源AlphaFold3，推动药物发现和疾病治疗，加速生命科学领域的研究进展。</span></p><span></span><p><span>🚗 </span><strong><span>文远知行股价暴涨：自动驾驶技术市场前景广阔</span></strong><br><span>文远知行股价暴涨40%，市值达到61.68亿美元，反映市场对自动驾驶技术的高度热情。</span></p><span></span><p><span>🗣️ </span><strong><span>Claude团队深度访谈：AI发展与未来趋势展望</span></strong><br><span>Claude团队核心成员讨论AI模型的开发、公司扩展策略及行业未来趋势，强调“人才密度”的重要性。</span></p><span></span><p><span>🔍 </span><strong><span>SearchGPT开源：港中文MMLab推出Vision Search Assistant</span></strong><br><span>港中文MMLab、上海AI Lab、腾讯团队联合发布开源版SearchGPT，实现模型内部知识的实时更新。</span></p><span></span><p><span>🧠 </span><strong><span>MIT研究：测试时训练大幅提升大模型推理能力</span></strong><br><span>MIT研究发现，测试时训练显著提升大模型推理能力，在ARC任务中表现优于GPT-4和Claude，超越人类平均水平。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lp31iaLwAAEqZkY-M2X6_6uq7CEs.m4a" length="6942961" type="audio/mp4"/>
+    <itunes:duration>00:09:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.12 | AI新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6732212a43dc3a4387d26dfb</link>
+    <guid isPermaLink="false">6732212a43dc3a4387d26dfb</guid>
+    <pubDate>Mon, 11 Nov 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🤖 </span><strong><span>天工开源计划启动：具身智能机器人赋能千行百业</span></strong><br><span>国家地方共建具身智能机器人创新中心推出天工开源计划，助力具身智能技术发展，打造机器人生态圈。</span></p><span></span><p><span>🧬 </span><strong><span>GeoStab-suite：几何学习模型革新蛋白质突变预测</span></strong><br><span>清华大学团队开发的GeoStab-suite模型，通过几何学习显著提升蛋白质突变预测精度，研究成果发表于《Nature Computational Science》。</span></p><span></span><p><span>🚗 </span><strong><span>自动驾驶新突破：极限操控条件下的安全漂移</span></strong><br><span>机器人顶会CoRL展示新技术，使自动驾驶汽车在极限操控条件下实现安全漂移，优于专家模型。</span></p><span></span><p><span>🎨 </span><strong><span>SeedEdit：字节跳动推出国内首个通用图像编辑模型</span></strong><br><span>字节跳动发布SeedEdit模型，用户可通过自然语言指令轻松实现图像编辑，目前已上线豆包PC端和字节AIGC平台。</span></p><span></span><p><span>🔍 </span><strong><span>LoRA微调与完全微调：MIT研究揭示差异</span></strong><br><span>MIT研究团队探讨LoRA与完全微调方法的差异，发现LoRA微调中的“侵入维度”影响模型泛化能力。</span></p><span></span><p><span>📚 </span><strong><span>GitHub新增AI学习路径：助力工程师全面掌握AI技术</span></strong><br><span>GitHub开发者路线图资源库新增AI学习路径，提供从基础到高阶的详细资源链接和教程。</span></p><span></span><p><span>🎭 </span><strong><span>AutoHallusion：自动检测大模型幻觉现象</span></strong><br><span>马里兰大学团队开发AutoHallusion框架，通过自动生成幻觉案例，有效缓解大模型幻觉研究中的数据集缺乏问题。</span></p><span></span><p><span>🔮 </span><strong><span>OpenAI调整策略：应对下一代大模型数据匮乏挑战</span></strong><br><span>OpenAI预计2028年现有数据将被用尽，正研究新技术应对数据匮乏，引发AI行业发展方向讨论。</span></p><span></span><p><span>🌐 </span><strong><span>SAC-KG：中科大团队提升领域知识图谱构建效率</span></strong><br><span>中科大MIRA实验室提出SAC-KG框架，利用大型语言模型自动化构建知识图谱，准确率和领域特异性显著提升。</span></p><span></span><p><span>🧠 </span><strong><span>FrontierMath：评估大模型高级数学推理能力新基准</span></strong><br><span>陶哲轩等顶尖数学家提出FrontierMath基准，测试结果显示顶尖大模型解题率均未超过2%。</span></p><span></span><p><span>🛰️ </span><strong><span>猎户座模型发布：OpenAI揭示AI发展进入收益递减阶段</span></strong><br><span>OpenAI最新模型“猎户座”提升不及预期，标志着AI模型发展进入收益递减阶段，引发业界广泛讨论。</span></p><span></span><p><span>🎨 </span><strong><span>ChatGPT新功能：根据用户生活绘制画作</span></strong><br><span>ChatGPT推出新功能，用户可输入一句话让AI绘制反映用户生活的画作，迅速走红并展现强大模拟能力。</span></p><span></span><p><span>🔍 </span><strong><span>SearchLVLMs：多模态大模型实时信息反馈增强</span></strong><br><span>上海人工智能实验室等机构提出SearchLVLMs框架，增强多模态大模型实时信息反馈能力，提升回答准确率。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llQTY0sO2v6XNw5oRD0hMUBcXFmu.m4a" length="5207405" type="audio/mp4"/>
+    <itunes:duration>00:07:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.08 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672cd56a82eb19451df77d57</link>
+    <guid isPermaLink="false">672cd56a82eb19451df77d57</guid>
+    <pubDate>Thu, 07 Nov 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🔬 </span><strong><span>量子级精度：微软AI系统革新蛋白质模拟</span></strong><br><span>微软研究院推出的AI2BMD系统以量子级精度高效模拟蛋白质的全原子运动，解决了传统分子动力学模拟的难题，为药物发现带来新希望。</span></p><span></span><p><span>🏥 </span><strong><span>数字化智慧病理：罗氏诊断引领医疗革新</span></strong><br><span>罗氏诊断在进博会上展示的数字化智慧病理解决方案，通过AI辅助判读算法提升病理诊断效率和准确性，推动精准医疗发展。</span></p><span></span><p><span>🤖 </span><strong><span>机器人革命：自变量推出全球最大具身大模型</span></strong><br><span>自变量机器人公司宣布推出全球最大规模的端到端统一具身大模型WALL-A，预示着机器人领域的“ChatGPT时刻”即将到来。</span></p><span></span><p><span>🔗 </span><strong><span>超连接技术：豆包大模型突破梯度消失难题</span></strong><br><span>字节跳动豆包大模型团队提出的超连接技术，通过动态调整连接权重，显著提升模型性能，为密集模型和混合专家模型带来新突破。</span></p><span></span><p><span>📊 </span><strong><span>表格数据处理新星：浙江大学推出TableGPT2</span></strong><br><span>浙江大学研发的TableGPT2在处理表格数据方面超越GPT-4，适用于商业智能等生产级应用，推动多模态模型技术进步。</span></p><span></span><p><span>🌐 </span><strong><span>具身智能峰会：探讨机器人与世界模型未来</span></strong><br><span>智源论坛2024具身与世界模型专题峰会聚焦具身智能与世界模型最新进展，探讨数据平台标准化与开放性，推动机器人领域协同进化。</span></p><span></span><p><span>🔒 </span><strong><span>多轮对话安全风险：上海交大揭示OpenAI o1漏洞</span></strong><br><span>上海交大与上海人工智能实验室研究团队揭示OpenAI o1在多轮对话中的安全风险，开发多轮攻击算法并开源安全对齐数据集，提升AI鲁棒性。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FsukGiitX2JUu3rFoZt7ZaoM-RjJ.m4a" length="3300769" type="audio/mp4"/>
+    <itunes:duration>00:04:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.07 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672b81326c53cd405a74f3b0</link>
+    <guid isPermaLink="false">672b81326c53cd405a74f3b0</guid>
+    <pubDate>Wed, 06 Nov 2024 14:46:45 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>🌩️ "八观"气象大模型：精准预测未来天气，助力新能源电力系统升级</span><br><span> </span></strong><span>阿里巴巴达摩院发布的“八观”气象大模型，通过高精度预测，显著提升了新能源发电和电力负荷的准确率，为应对极端天气提供了强有力的技术支持。</span></p><span></span><p><strong><span>💡 AMD逆袭英特尔：数据中心处理器市场的新霸主</span><br><span> </span></strong><span>AMD在第三季度数据中心处理器市场首次超越英特尔，其EPYC处理器的竞争优势显著，推动了市场格局的变革。</span></p><span></span><p><strong><span>🤖 腾讯混元发布巨型MoE模型：超越Llama3.1，引领AI新纪元</span><br><span> </span></strong><span>腾讯混元团队推出的Hunyuan-Large模型，在多项评测中表现卓越，已成为业界已开源的最大MoE模型，推动了AI技术的新突破。</span></p><span></span><p><strong><span>📚 大语言模型在算法设计中的应用：潜力与挑战并存</span><br><span> </span></strong><span>通过对180多篇论文的回顾，研究人员探讨了LLMs在算法设计中的广泛应用及其面临的挑战，为这一新兴领域的发展提供了重要洞见。</span></p><span></span><p><strong><span>🌐 AgentOccam：零样本LLM智能体的革命性突破</span><br><span> </span></strong><span>伊利诺伊大学香槟分校和亚马逊的研究团队开发的AgentOccam智能体，通过优化网络交互，显著提升了在WebArena上的性能，成为新的SOTA。</span></p><span></span><p><strong><span>🤖💰 Physical Intelligence获4亿美元融资：AI机器人技术的崛起</span><br><span> </span></strong><span>Physical Intelligence公司成功融资4亿美元，显示出市场对AI驱动机器人技术的高度兴趣，预示着机器人与人类协作的未来。</span></p><span></span><p><strong><span>🔬 FoldMark水印方法：AI蛋白生成模型的版权保护新策略</span><br><span> </span></strong><span>普林斯顿大学王梦迪团队提出的FoldMark水印方法，有效解决了生成式人工智能在蛋白质生成模型中的版权保护问题，为生物安全提供了新的保障。</span></p><span></span><p><strong><span>🛡️ OpenAI推出RBR机制：提升语言模型安全性的新途径</span><br><span> </span></strong><span>OpenAI安全团队提出的基于规则的奖励机制，通过细粒度控制模型响应，显著提升了语言模型的安全性，为AI应用提供了更可靠的保障。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fg5gukLt1PsnOkQMOxqShW6P3qZa.m4a" length="3849401" type="audio/mp4"/>
+    <itunes:duration>00:05:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.06 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672a1cdcb2eb246ec4e55740</link>
+    <guid isPermaLink="false">672a1cdcb2eb246ec4e55740</guid>
+    <pubDate>Tue, 05 Nov 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>🎙️ 国产AI播客崛起：挑战谷歌NotebookLM</span><br><span> </span></strong><span>国内开发者推出的多个AI播客平台在功能和创意上有所突破，但在自然度和内容深度上仍需追赶谷歌NotebookLM。</span></p><span></span><p><strong><span>🤖 OpenAI扩展硬件领域：前Meta高管加盟</span><br><span> </span></strong><span>OpenAI宣布Meta增强现实眼镜项目前负责人Caitlin Kalinowski将加入公司，领导机器人和消费类硬件业务，预示着OpenAI在硬件领域的进一步扩展。</span></p><span></span><p><strong><span>🧠 谷歌DeepMind新框架：提升LLM对齐能力</span><br><span> </span></strong><span>谷歌DeepMind与芝加哥大学合作开发的eva框架，通过非对称自博弈机制提升大型语言模型的自我提升和泛化能力，无需依赖人工数据。</span></p><span></span><p><strong><span>📹 视频分割新突破：SAM2Long提升长视频处理能力</span><br><span> </span></strong><span>港中文和上海AI Lab的研究团队推出的SAM2Long模型，通过多路径记忆树结构和不确定性处理机制，显著提升长视频分割精度，超越现有方法。</span></p><span></span><p><strong><span>🔌 华为与中科大合作：生成大规模神经电路框架</span><br><span> </span></strong><span>中国科学技术大学王杰教授团队与华为诺亚方舟实验室合作，提出可生成大规模神经电路的框架，为新一代芯片电路逻辑综合工具奠定基础。</span></p><span></span><p><strong><span>🧬 多模态深度学习模型：预测组织特异性可变剪接位点</span><br><span> </span></strong><span>浙江大学良渚实验室开发的SpTransformer模型，用于预测pre-mRNA序列中的组织特异性可变剪接位点，为疾病相关遗传变异提供新见解。</span></p><span></span><p><strong><span>🛡️ 文本到图像生成安全检测：Latent Guard框架</span><br><span> </span></strong><span>牛津大学与香港科技大学联合提出的Latent Guard框架，通过在文本编码器的潜在空间中检测恶意输入，提升文生图模型的安全性。</span></p><span></span><p><strong><span>🔍 天工 AI搜索引擎升级：专业数据覆盖全球</span><br><span> </span></strong><span>昆仑万维推出的融入大模型能力的AI搜索引擎「天工 AI」在金融投资和科研学术领域进行了重大升级，提供更专业、准确和高效的搜索体验。</span></p><span></span><p><strong><span>👕 AI换衣技术：解决线上购物“货不对板”问题</span><br><span> </span></strong><span>一款AI换衣小项目引发关注，用户只需上传衣服图片，AI即可自动搭配并生成视频展示穿搭效果，减少退货率，但生成视频中仍存在不完美之处。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fr03Qvnrlj05u0kej7IKBEDEzmRu.m4a" length="3813341" type="audio/mp4"/>
+    <itunes:duration>00:05:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.05 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6728dfb433c798676f6a85e6</link>
+    <guid isPermaLink="false">6728dfb433c798676f6a85e6</guid>
+    <pubDate>Mon, 04 Nov 2024 14:53:37 +0000</pubDate>
+    <description><![CDATA[<p><span>🔥 </span><strong><span>块状注意力机制：AI推理效率的飞跃</span></strong><br><span>《Block-Attention for Efficient RAG》论文提出了一种新的块状注意力机制，大幅提升了检索增强生成模型的推理速度和准确率。</span></p><span></span><p><span>🎨 </span><strong><span>AI幻觉优化图像分割：ProMaC框架的突破</span></strong><br><span>伦敦大学玛丽女王学院与上海交通大学的研究团队开发的ProMaC框架，利用AI幻觉优化图像分割技术，显著减少了手动提示的依赖。</span></p><span></span><p><span>🧠 </span><strong><span>语言模型的自我反思：LLM的新能力探索</span></strong><br><span>多机构联合团队的研究发现，语言模型可以通过内省了解自身，这一能力有助于创造更诚实的模型，但也可能避开人类监督。</span></p><span></span><p><span>💊 </span><strong><span>AI驱动药物设计：TamGen平台的革命性进展</span></strong><br><span>微软研究院、中国科学技术大学和全球健康药物研发中心合作开发的TamGen平台，通过Transformer自注意力机制实现分子精准生成与优化，显著加速了药物发现流程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FnbXnhONZsr0cafBb1OKolJGtFnd.m4a" length="2260537" type="audio/mp4"/>
+    <itunes:duration>00:03:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.02 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6724e01e33c798676fbe6faf</link>
+    <guid isPermaLink="false">6724e01e33c798676fbe6faf</guid>
+    <pubDate>Fri, 01 Nov 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🌐 </span><strong><span>字节跳动与香港大学合作：HybridFlow框架大幅提升强化学习效率</span></strong><br><span>字节跳动豆包大模型团队与香港大学共同开发的HybridFlow框架，通过混合编程模型和分布式计算技术，将强化学习训练吞吐量提升至20倍，解决了大模型训练中的灵活性和性能问题。</span></p><span></span><p><span>💊 </span><strong><span>中国科学院与华西医院合作：PRnet模型助力药物发现</span></strong><br><span>中国科学院与四川大学华西医院开发的PRnet深度生成模型，成功预测转录对新型化学扰动的反应，推荐了233种疾病的候选药物，研究成果发表于《Nature Communications》。</span></p><span></span><p><span>🏆 </span><strong><span>Richard Sutton团队提出“奖励聚中”新思想，强化学习性能大幅提升</span></strong><br><span>Richard Sutton教授团队提出的“奖励聚中”新思想，通过减去平均奖励显著提升了几乎所有强化学习算法的性能，该研究入选首届强化学习会议（RLC 2024）。</span></p><span></span><p><span>🔍 </span><strong><span>OpenAI宣布ChatGPT成为AI搜索引擎，实时信息能力全面开放</span></strong><br><span>OpenAI宣布ChatGPT正式成为AI搜索引擎，消除了即时信息的最后短板，付费订阅者和候补名单用户可立即使用联网的实时对话信息能力。</span></p><span></span><p><span>🧠 </span><strong><span>MIT研究发现LLM几何结构与大脑功能性脑叶相似</span></strong><br><span>MIT研究团队发现大型语言模型（LLM）在学习概念时形成的几何结构与大脑功能性脑叶的相似性，揭示了AI系统在处理信息时自然地发展出与生物大脑相似的几何和分形结构。</span></p><span></span><p><span>🤖 </span><strong><span>中山大学与华为诺亚合作：PIVOT-R模型提升机器人复杂任务表现</span></strong><br><span>中山大学和华为诺亚等单位的研究团队提出的PIVOT-R模型，通过视觉-语言模型解析用户指令，指导机器人执行任务，成功率超过谷歌的RT-1模型26.6%。</span></p><span></span><p><span>🚀 </span><strong><span>清华大学交叉信息院发现data scaling laws，机器人零样本泛化能力突破</span></strong><br><span>清华大学交叉信息院的研究团队在具身智能领域取得突破性进展，发现了data scaling laws，使得机器人能够在零样本情况下泛化到全新场景和物体，彻底改变通用机器人的开发方式。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FpbQyPaGA3YZbq3cKm_TUS1B4pxT.m4a" length="2910825" type="audio/mp4"/>
+    <itunes:duration>00:03:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.11.01 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6723757933c798676f73638c</link>
+    <guid isPermaLink="false">6723757933c798676f73638c</guid>
+    <pubDate>Thu, 31 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🌟 </span><strong><span>科大讯飞发布星火4.0 Turbo：七大能力超越GPT-4 Turbo</span></strong><br><span>科大讯飞在第七届世界声博会上推出星火4.0 Turbo，性能大幅提升，并启动国产超大规模智算平台“飞星二号”。</span></p><span></span><p><span>🧬 </span><strong><span>DNASimCLR：基因序列分类准确率高达99%，AI技术革新基因研究</span></strong><br><span>山东大学研究人员开发的DNASimCLR框架，利用AI技术在基因序列分类中实现突破性进展，准确率高达99%。</span></p><span></span><p><span>🧬 </span><strong><span>AI设计新型DNA开关：精准控制基因表达</span></strong><br><span>麻省理工学院、哈佛大学和耶鲁大学的研究人员利用AI设计出数千个新型DNA开关，实现对基因表达的精确控制。</span></p><span></span><p><span>🔧 </span><strong><span>百川智能推出1+3产品矩阵：低成本实现最佳私有化部署</span></strong><br><span>百川智能发布全新产品矩阵，帮助企业以最低成本实现最佳私有化部署，支持混合数据调优，多场景可用率高达96%。</span></p><span></span><p><span>🚗 </span><strong><span>吉利雷神EM-i超级电混：AI科技助力极致节能</span></strong><br><span>吉利汽车发布雷神EM-i超级电混系统，集高性能电混技术与AI科技于一体，提供极致节能和智能体验。</span></p><span></span><p><span>🎨 </span><strong><span>Recraft V3模型登顶Hugging Face排行榜：文本转图像质量卓越</span></strong><br><span>AI初创公司Recraft的Recraft V3模型在Hugging Face文本转图像排行榜上超越知名公司，提供高质量图像生成。</span></p><span></span><p><span>🤖 </span><strong><span>英伟达HOVER模型：1.5M参数控制人形机器人执行复杂动作</span></strong><br><span>英伟达GEAR团队发布HOVER模型，仅用1.5M参数即可控制人形机器人执行多种机体运动。</span></p><span></span><p><span>🎭 </span><strong><span>MimicTalk算法：15分钟训练个性化3D数字人模型</span></strong><br><span>浙江大学与字节跳动合作开发的MimicTalk算法，大幅提升个性化数字人模型的训练效率和质量，仅需15分钟即可完成训练。</span></p><span></span><p><span>🔮 </span><strong><span>Moirai-MoE：下一代时序预测基础模型引领AI预测新纪元</span></strong><br><span>Salesforce、新加坡国立大学和香港科技大学共同推出Moirai-MoE模型，在39个数据集上显示出优越的性能。</span></p><span></span><p><span>🏭 </span><strong><span>波士顿动力Atlas机器人：工厂环境中的全自动操作展示</span></strong><br><span>波士顿动力公司发布视频，展示Atlas人形机器人在工厂环境中的全自动操作能力，无需预设程序或远程操控。</span></p><span></span><p><span>📚 </span><strong><span>苹果研究：小型语言模型训练的计算瓶颈与成本效率</span></strong><br><span>苹果发布研究论文，探讨小型语言模型训练的计算瓶颈和成本效率，发现FlashAttention的重要性。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FjHFxWm_91CR7vBCQsr5sKU1FTCL.m4a" length="3461413" type="audio/mp4"/>
+    <itunes:duration>00:04:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.31 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6722e32333c798676f47dd17</link>
+    <guid isPermaLink="false">6722e32333c798676f47dd17</guid>
+    <pubDate>Thu, 31 Oct 2024 01:54:28 +0000</pubDate>
+    <description><![CDATA[<p><span>🎓 </span><strong><span>学术荣耀</span></strong><span>：陈长汶教授荣获ACM SIGMM 2024杰出技术成就奖</span></p><span></span><p><span>🤖 </span><strong><span>科技新星</span></strong><span>：Cyan青心意创发布自研通用人形机器人OrcaⅠ</span></p><span></span><p><span>🧬 </span><strong><span>生物医药突破</span></strong><span>：DeltaDock框架大幅提升分子对接效率</span></p><span></span><p><span>📐 </span><strong><span>数学天才</span></strong><span>：高中生发现勾股定理的10种新证明方法</span></p><span></span><p><span>🛠️ </span><strong><span>技术升级</span></strong><span>：GitHub Copilot新增多款AI模型选择</span></p><span></span><p><span>🌐 </span><strong><span>行业转型</span></strong><span>：Runway CEO预测AI成为基础设施</span></p><span></span><p><span>🎮 </span><strong><span>游戏AI革命</span></strong><span>：北大与UCLA团队开发新型智能体</span></p><span></span><p><span>🗣️ </span><strong><span>语音技术革新</span></strong><span>：港中大与趣丸科技推出MaskGCT模型</span></p><span></span><p><span>🤖 </span><strong><span>人形机器人新篇章</span></strong><span>：中科慧灵发布“灵宝CASBOT”品牌</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FmZicV5X-a6U1cIrr8P7IDHT6ePM.m4a" length="2884829" type="audio/mp4"/>
+    <itunes:duration>00:03:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.30 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6720cef533c798676fe06685</link>
+    <guid isPermaLink="false">6720cef533c798676fe06685</guid>
+    <pubDate>Tue, 29 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🤖 </span><strong><span>AI机器人进军农业：宇树科技机器狗实地测试成功</span></strong><br><span>社交平台上涌现大量AI生成的机器人干农活视频，而宇树科技的B2机器狗已在泰山成功完成垃圾清运任务，展示了机器人技术在实际应用中的巨大潜力。</span></p><span></span><p><span>🔬 </span><strong><span>TraCoCo：3D医学图像分割新突破</span></strong><br><span>澳大利亚阿德莱德大学和同济大学联合研发的TraCoCo半监督学习方法，通过创新损失函数提升了3D医学图像分割的准确性和鲁棒性，达到行业领先水平。</span></p><span></span><p><span>🌐 </span><strong><span>AI巨头再添猛将：Julian Schrittwieser加盟Anthropic</span></strong><br><span>谷歌DeepMind资深研究员Julian Schrittwieser宣布加入AI公司Anthropic，这一变动被视为AI领域的重要事件，预示着Anthropic在强化学习领域的进一步扩张。</span></p><span></span><p><span>📊 </span><strong><span>Grok大模型新增图像理解功能</span></strong><br><span>马斯克旗下xAI公司推出的Grok大模型最新更新增加了图像理解功能，不仅能将手写公式转换为LaTeX，还能解释梗图，展示了AI在图像处理方面的强大能力。</span></p><span></span><p><span>💻 </span><strong><span>丹麦首台AI超级计算机Gefion启动</span></strong><br><span>由NVIDIA技术支持的丹麦首台AI超级计算机Gefion正式启动，旨在推动量子计算、清洁能源等领域的突破，标志着丹麦在AI研究和应用方面迈出了重要一步。</span></p><span></span><p><span>🎨 </span><strong><span>OmniGen：统一图像生成任务的扩散模型</span></strong><br><span>智源推出的新扩散模型架构OmniGen，通过简化操作和知识迁移能力，支持多种图像生成任务，现已开源并在GitHub和Hugging Face上提供代码和演示。</span></p><span></span><p><span>📜 </span><strong><span>OSI发布开源AI定义1.0版</span></strong><br><span>开放源代码促进会（OSI）发布了“开源AI定义”的1.0正式版，明确了开源AI系统的标准，Llama 3因未能满足要求而引发争议，Meta表示将继续推动AI发展。</span></p><span></span><p><span>🤖 </span><strong><span>HIL-SERL：机器人强化学习新框架</span></strong><br><span>UC伯克利BAIR实验室提出的HIL-SERL强化学习框架，使机器人仅需短时间训练即可实现高成功率，展示了在复杂任务中的强大适应能力。</span></p><span></span><p><span>🎯 </span><strong><span>D-FINE：目标检测精度新突破</span></strong><br><span>中国科学技术大学研究团队提出的D-FINE目标检测方法，通过创新技术显著提升了检测精度和效率，在COCO数据集上超越了现有方法，为实时目标检测带来新突破。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FhSoeJ9o1VB2UGagslx4ltCBMCYF.m4a" length="4101989" type="audio/mp4"/>
+    <itunes:duration>00:05:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.29 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671fa3a7d2febbfe7ad42d1b</link>
+    <guid isPermaLink="false">671fa3a7d2febbfe7ad42d1b</guid>
+    <pubDate>Mon, 28 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🍽️ </span><strong><span>AI推荐系统被“玩坏”</span></strong><span>：伦敦居民操纵谷歌AI，餐厅评分飙升</span><br><span>伦敦居民在Reddit上为一家餐厅狂刷好评，导致谷歌AI推荐系统失灵，该餐厅成为伦敦最佳牛排三明治推荐之一。</span></p><span></span><p><span>💻 </span><strong><span>通义“代码模式”</span></strong><span>：非专业程序员也能轻松编程</span><br><span>阿里旗下通义推出“代码模式”，通过实时预览功能让非专业程序员也能轻松生成代码，支持40多种编程语言，直接在网页上渲染成应用。</span></p><span></span><p><span>📝 </span><strong><span>Meta开源NotebookLlama</span></strong><span>：挑战谷歌NotebookLM</span><br><span>Meta推出基于Llama模型的开源项目NotebookLlama，处理PDF文件并生成播客脚本，已在GitHub上开源，未来计划改进语音模型和支持更多类型文件。</span></p><span></span><p><span>🚗 </span><strong><span>DriveDreamer4D</span></strong><span>：世界模型助力自动驾驶4D重建</span><br><span>极佳科技联合多家研究机构推出DriveDreamer4D，利用世界模型增强4D驾驶场景重建效果，获得超过80%的用户偏好投票。</span></p><span></span><p><span>🧠 </span><strong><span>AI自我进化新突破</span></strong><span>：长期记忆驱动智能升级</span><br><span>普林斯顿大学等研究机构发表论文，探讨长期记忆（LTM）对AI自我进化的重要性，提出基于多智能体的Omne框架，提升模型处理长期数据的能力。</span></p><span></span><p><span>💰 </span><strong><span>轻舟智航获数亿元融资</span></strong><span>：加速自动驾驶技术研发</span><br><span>轻舟智航完成数亿元人民币的C+轮融资，用于加大全栈自动驾驶技术研发投入，推进中高阶NOA方案的大规模量产交付。</span></p><span></span><p><span>🎥 </span><strong><span>VERIFIED系统</span></strong><span>：细粒度视频理解新标杆</span><br><span>清华大学研究团队在NeurIPS 2024上提出VERIFIED系统，解决细粒度视频片段检索中的多对多问题，推动细粒度视频理解的发展。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FhA4cRuoqtBvxOaOyvhVAACG9Aav.m4a" length="3244897" type="audio/mp4"/>
+    <itunes:duration>00:04:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.28 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671e233c44ae79002c652625</link>
+    <guid isPermaLink="false">671e233c44ae79002c652625</guid>
+    <pubDate>Sun, 27 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🎓 </span><strong><span>斯坦福AI工具升级：Co-STORM引领学术研究新纪元</span></strong><br><span>斯坦福大学推出的Co-STORM AI工具，通过协作对话机制，助力学术研究取得突破性进展，已在GitHub获得12k Star。</span></p><span></span><p><span>🤖 </span><strong><span>全球最酷人形机器人SE01：众擎机器人引领服务市场新潮流</span></strong><br><span>深圳众擎机器人公司发布SE01，具备32个自由度，计划2025年实现年产销超千台，开启人形机器人新时代。</span></p><span></span><p><span>🔒 </span><strong><span>AI安全新突破：AdvUnlearn框架提升扩散模型鲁棒性</span></strong><br><span>密歇根州立大学OPTML实验室提出AdvUnlearn框架，有效增强扩散模型在对抗性提示攻击下的安全性，为生成式AI保驾护航。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FgJbNcEGSvNPwUoOFBhBwTV604uS.m4a" length="1751865" type="audio/mp4"/>
+    <itunes:duration>00:02:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.26 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671b9a2844ae79002c09f088</link>
+    <guid isPermaLink="false">671b9a2844ae79002c09f088</guid>
+    <pubDate>Fri, 25 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🗣️ </span><strong><span>智谱清言推出情感语音通话功能，国产AI技术再创新高</span></strong><br><span>智谱清言宣布其情感语音通话功能全面上线，并开源了情感语音模型GLM-4-Voice，标志着国产AI技术在多模态交互和自主智能体方面的重大进步。</span></p><span></span><p><span>🌐 </span><strong><span>华为与伦敦大学学院合作推出LiMAC架构，AI操作手机更智能</span></strong><br><span>华为与伦敦大学学院合作推出的LiMAC架构，使AI能够像人类一样操作手机，显著缩短执行时间至平均每个任务只需3秒，性能超越了基于GPT-4的基线。</span></p><span></span><p><span>🤖 </span><strong><span>稚晖君开源智元机器人灵犀X1，推动国内机器人技术进步</span></strong><br><span>稚晖君在1024程序员节上宣布开源智元机器人灵犀X1的全套图纸和代码，提供了详细的硬件和软件资源，被视为国内机器人开源界的重要里程碑。</span></p><span></span><p><span>🔬 </span><strong><span>ICML 2024新算法TDPO-R，提升扩散模型生成效率</span></strong><br><span>武汉大学等机构的研究人员在ICML 2024上提出TDPO-R算法，通过引入时间差分奖励机制，有效缓解了扩散模型对齐时的奖励过优化问题，有望推动生成模型的发展。</span></p><span></span><p><span>🦾 </span><strong><span>波兰公司Clone Robotics发布仿生机器人Torso，灵感来自《西部世界》</span></strong><br><span>波兰机器人公司Clone Robotics发布的仿生机器人Torso，采用“人造肌肉”驱动，模仿人类肌肉骨骼结构，能够进行复杂动作，团队已筹集64万美元资金推进技术发展。</span></p><span></span><p><span>📚 </span><strong><span>arXiv与Hugging Face合作，简化研究资源获取流程</span></strong><br><span>arXiv与Hugging Face合作推出新功能，用户点击按钮即可直接访问相关论文、模型和数据集，极大提升了研究的便捷性。</span></p><span></span><p><span>🧪 </span><strong><span>康奈尔大学开发LLM-EO算法，提升化学空间探索效率</span></strong><br><span>深度原理与康奈尔大学的研究团队开发了LLM-EO算法，利用大型语言模型显著提高了化学空间探索的效率，该研究已发布在预印平台arXiv上。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FnRX-43C61G00fqlkFxl17vFHm_F.m4a" length="2917421" type="audio/mp4"/>
+    <itunes:duration>00:04:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2024.10.25 | AI 新闻速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671a5d8759e38abc46871459</link>
+    <guid isPermaLink="false">671a5d8759e38abc46871459</guid>
+    <pubDate>Thu, 24 Oct 2024 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>🚶‍♂️ OpenAI高层变动：Miles Brundage离职投身AI政策研究</span><br><span></span></strong><span>OpenAI资深研究者和管理者Miles Brundage宣布离职，计划创立或加入非营利机构，专注于AI政策研究和倡导。</span></p><span></span><p><strong><span>🔍 AI透明化新工具：Transluce发布Monitor界面</span><br><span></span></strong><span>AI研究实验室Transluce发布Monitor工具，帮助研究者直观观察和分析大模型的内部计算过程。</span></p><span></span><p><strong><span>🛠️ 英伟达Blackwell芯片修复完成：2025年初量产</span><br><span></span></strong><span>英伟达CEO黄仁勋确认Blackwell AI芯片设计缺陷已修复，预计2025年初开始发货。</span></p><span></span><p><strong><span>🔒 谷歌开源SynthID-Text：提高LLM生成文本识别度</span><br><span></span></strong><span>谷歌DeepMind开发的SynthID-Text技术已开源，能够为大型语言模型生成的文本添加水印。</span></p><span></span><p><strong><span>🏆 OPPO Hammer-7B模型评测夺冠：工具调用表现卓越</span><br><span></span></strong><span>OPPO研究院与上海交通大学合作开发的Hammer-7B模型在工具调用评测中表现突出，综合排名第一。</span></p><span></span><p><strong><span>🧠 多校联合推出DuoAttention框架：提升长上下文推理效率</span><br><span></span></strong><span>MIT韩松团队与多所高校联合推出DuoAttention框架，大幅提升长上下文推理效率。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fkl-v7Z1YKw2V94f-ySvMhUF3TX5.m4a" length="2224065" type="audio/mp4"/>
+    <itunes:duration>00:03:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnKDRevWti7r1PEDBENogycq-x91.png"/>
+    <itunes:episode>2024</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

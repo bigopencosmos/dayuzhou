@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>穿梭Web3.0量子之门</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6402b8d286730b81736e3bb5</link>
+  <description><![CDATA[现已开启一辆Web2.0通往Web3.0的入门摆渡飞船。
+
+请不要做无谓的挣扎，登岛吧！~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:50:03 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6402b8d286730b81736e3bb5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Derickwunft吴</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg</url>
+    <title>穿梭Web3.0量子之门</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6402b8d286730b81736e3bb5</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>第6期｜Web3.0入门之《区块链Blockchain是什么》①区块链诞生背景</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6726451c33c798676fee2ef5</link>
+    <guid isPermaLink="false">6726451c33c798676fee2ef5</guid>
+    <pubDate>Sat, 02 Nov 2024 15:32:14 +0000</pubDate>
+    <description><![CDATA[<p><span>区块链BlockChain是以在互联社会中构建信任基础设施为目标，综合运用P2P网络、非对称加密算法、共识机制等技术与手段，通过建立按时序编列、不易篡改、块链式的公共账本，构建形成开放网络信任基础的技术、运营与服务体系。</span></p><p><span>在互联社会搭建信任基础设施是区块链的价值目标与应用场景。</span></p><p><span>区块链是一种去中心化、去中介的陌生信任体系，其关键和核心技术主要包括P2P网络技术、非对称加密算法、共识机制等。</span></p><p><span>区块链在技术上实现去中心化、去中介陌生信任的核心与关键基础是具有时序、内容不易被篡改、呈块链式结构特征的公共账本数据。这个公共账本是区块链网络信任的基础，也是区块链整体技术概念的来源。</span></p><p><span>区块链的应用场景是互联化的社会，或者说是以互联网作为基础设施的人类社会。</span></p><p><span>区块链是一种以技术为中心的基础设施，意味着区块链作为“基础层”可以支撑极其广泛的应用场景。</span></p><p><span>区块链所集成解决的问题是互联社会中“信任”的建立问题，这是核心词，也代表了区块链的主体核心价值。</span></p><p><span>区块链最终的呈现，既是一种新型的技术框架，又是一种崭新的运营体系与服务网络。</span></p><p></p><p><span>交流请关注推特:</span></p><p><span>@derick_imfun</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqyLnj-Fje9eeJMUFuukaBUgjGdS.m4a" length="25408183" type="audio/mp4"/>
+    <itunes:duration>00:26:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第5期｜BTC比特币白皮书诞生16周年，简直恍如隔世</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67263a17cbe0e69c8b9a8c9b</link>
+    <guid isPermaLink="false">67263a17cbe0e69c8b9a8c9b</guid>
+    <pubDate>Sat, 02 Nov 2024 14:43:05 +0000</pubDate>
+    <description><![CDATA[<p><span>我们都需要客观冷静且理智地去学习和接受比特币BTC的一切。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lv0faVB6xMvsiCDV8EOEYG3bTuFA.m4a" length="6086130" type="audio/mp4"/>
+    <itunes:duration>00:06:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第4期 | 美股上市公司微策略MSTR与BTC的量子纠缠</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67238b2133c798676f7933f8</link>
+    <guid isPermaLink="false">67238b2133c798676f7933f8</guid>
+    <pubDate>Thu, 31 Oct 2024 13:53:18 +0000</pubDate>
+    <description><![CDATA[<p><span>美股上市公司微策略（股票代码#MSTR）四年间如何通过BTC比特币赚大钱？</span></p><p><span>素材来源：7UP DAO</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liB0r3ayAMyFHzmyPhxdoLjMHrxT.m4a" length="18170025" type="audio/mp4"/>
+    <itunes:duration>00:18:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第3期 | Web3.0入门之《DeFi是什么？》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ea53283a5ff0a0ca23c21c</link>
+    <guid isPermaLink="false">66ea53283a5ff0a0ca23c21c</guid>
+    <pubDate>Wed, 18 Sep 2024 04:12:24 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>如果不太懂Web3.0</span></blockquote><span></span><blockquote><span>如果不太懂区块链</span></blockquote><span></span><blockquote><span>如果不太懂数字Token体系</span></blockquote><span></span><blockquote><span>如果不太懂NFT</span></blockquote><span></span><blockquote><span>如果不太懂AIGC</span></blockquote><span></span><blockquote><span>如果不太懂游戏化、社交化、娱乐化思维</span></blockquote><span></span><blockquote><span>如果不太懂人的马斯洛需求结构、个人资产/数字所有权</span></blockquote><span></span><blockquote><span>如果不太懂文体旅娱商等多元化产业上下游</span></blockquote><span></span><blockquote><span>如果不太懂虚拟和现实的交融交互</span></blockquote><span></span><blockquote><span>那么，和别人谈元宇宙还为时过早，顶多是“井底之蛙”罢了。</span></blockquote><span></span><p><span>世界之大，唯快不破。跟上学习的脚步，才能真正进入元宇宙的未来。</span></p><span></span><blockquote><span>Twitter： </span><a href="https://x.com/derick_imfun" data-url="https://x.com/derick_imfun"><span>@derick_imfun</span></a></blockquote><span></span><blockquote><br></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmskXlqjrYnzbLLnirP9CMWdW4OI.m4a" length="17906303" type="audio/mp4"/>
+    <itunes:duration>00:10:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FotEbZgmp44N4DF0Hb_cGLnGO08p.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第2期 | Web3.0入门之《Web3.0是什么？》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/642bf462a79cc814709a296c</link>
+    <guid isPermaLink="false">642bf462a79cc814709a296c</guid>
+    <pubDate>Tue, 04 Apr 2023 09:56:49 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>如果不太懂Web3.0</span></blockquote><span></span><blockquote><span>如果不太懂区块链</span></blockquote><span></span><blockquote><span>如果不太懂数字Token体系</span></blockquote><span></span><blockquote><span>如果不太懂NFT</span></blockquote><span></span><blockquote><span>如果不太懂AIGC</span></blockquote><span></span><blockquote><span>如果不太懂游戏化、社交化、娱乐化思维</span></blockquote><span></span><blockquote><span>如果不太懂人的马斯洛需求结构、个人资产/数字所有权</span></blockquote><span></span><blockquote><span>如果不太懂文体旅娱商等多元化产业上下游</span></blockquote><span></span><blockquote><span>如果不太懂虚拟和现实的交融交互</span></blockquote><span></span><blockquote><span>那么，和别人谈元宇宙还为时过早，顶多是“井底之蛙”罢了。</span></blockquote><span></span><p><strong><span>世界之大，唯快不破。跟上学习的脚步，才能真正进入元宇宙的未来。</span></strong></p><span></span><blockquote><span>Twitter： </span><a href="https://x.com/derick_imfun" data-url="https://x.com/derick_imfun"><span>@derick_imfun</span></a></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltXTxdh6G4AQboRaXeTyjRVgFNkr.m4a" length="40955784" type="audio/mp4"/>
+    <itunes:duration>00:28:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl-dRNVb2Vd99qT83m60L1ct9RZT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第1期 | Web3.0入门之《元宇宙是什么？》</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6411df3446bf0091a970c9ee</link>
+    <guid isPermaLink="false">6411df3446bf0091a970c9ee</guid>
+    <pubDate>Wed, 15 Mar 2023 15:07:31 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>如果不太懂Web3.0</span></blockquote><span></span><blockquote><span>如果不太懂区块链</span></blockquote><span></span><blockquote><span>如果不太懂数字Token体系</span></blockquote><span></span><blockquote><span>如果不太懂NFT</span></blockquote><span></span><blockquote><span>如果不太懂AIGC</span></blockquote><span></span><blockquote><span>如果不太懂游戏化、社交化、娱乐化思维</span></blockquote><span></span><blockquote><span>如果不太懂人的马斯洛需求结构、个人资产/数字所有权</span></blockquote><span></span><blockquote><span>如果不太懂文体旅娱商等多元化产业上下游</span></blockquote><span></span><blockquote><span>如果不太懂虚拟和现实的交融交互</span></blockquote><span></span><blockquote><span>那么，和别人谈元宇宙还为时过早，顶多是“井底之蛙”罢了。</span></blockquote><span></span><p><strong><span>世界之大，唯快不破。跟上学习的脚步，才能真正进入元宇宙的未来。</span></strong></p><span></span><blockquote><span>Twitter： </span><a href="https://x.com/derick_imfun" data-url="https://x.com/derick_imfun"><span>@derick_imfun</span></a></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lr52JXYGqky_x1aGpInzyYJWo_LR.m4a" length="23188421" type="audio/mp4"/>
+    <itunes:duration>00:17:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjFKdfqM-96dU1GaWWaL7Er2Hq7C.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

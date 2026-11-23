@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>岛屿行走地图</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65a605446d045a7f5e09a6d1</link>
+  <description><![CDATA[本节目是由HUMBLE HALL 红堂出品的鼓浪屿地图音频导览，包含「建筑、地理、人物、音乐、钢琴博物馆」5条行走路线，全程由参与鼓浪屿申遗项目历程的文史研究学者（吴永奇）作为线路带领人，带你探寻那些或许连鼓浪屿人都未曾触达过的神奇故事。希望通过这份更立体的行走指南，让你看见不一样的鼓浪屿。
+
+*建议先听3分钟的收听说明，你会对它有更清晰的了解。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:10:51 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65a605446d045a7f5e09a6d1.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>HUMBLEHALL红堂</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FnhFX4kZYwMxbNMPYTPfVeI6Klj-.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FnhFX4kZYwMxbNMPYTPfVeI6Klj-.jpg</url>
+    <title>岛屿行走地图</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65a605446d045a7f5e09a6d1</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

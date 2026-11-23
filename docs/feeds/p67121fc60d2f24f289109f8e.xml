@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>硅谷帮</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/67121fc60d2f24f289109f8e</link>
+  <description><![CDATA[Let's talk about things happening in Silicon Valley.
+聊聊硅谷那些事。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:17:37 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p67121fc60d2f24f289109f8e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FvAaIc13Hz1bQ67kefzHoirduIMP.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FvAaIc13Hz1bQ67kefzHoirduIMP.jpg</url>
+    <title>硅谷帮</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/67121fc60d2f24f289109f8e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>【硅谷帮 第四季】EP09 Simular李昂：2028实现AGI｜Zoil Li/ Fiona Xu/ Ang Li</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ef1cfb1d989496e79f601c</link>
+    <guid isPermaLink="false">69ef1cfb1d989496e79f601c</guid>
+    <pubDate>Mon, 27 Apr 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在这一期节目中，我们邀请到了 Simular 的创始人兼 CEO 李昂，一起深入探讨一个正在迅速改变世界的方向——Autonomous Computer（自主计算机）。</span></p><span></span><p><span>李昂（Ang Li）是硅谷AI初创公司 Simular AI 的创始人兼CEO，专注于开发自主计算机智能体（Autonomous Computer Agents），旨在让AI能够像人类一样操作电脑。 在创立Simular之前，李昂曾是谷歌DeepMind的研究科学家，有十年的人工智能研究经验。他是在顶级AI会议（NeurIPS、ICML、CVPR、ICLR）发表过42篇论文的专家，他曾参与谷歌Waymo自动驾驶、广告、地图和YouTube的AI系统构建，也曾在百度Apollo、Facebook AI Research、Apple和CMU Robotics工作过。</span></p><span></span><p><span>从最初只有 20% 成功率的实验，到在公开 benchmark 上 超越人类水平（72.6%），Simular 用两年时间，把一个几乎不可能的方向，变成了现实。但这只是开始。</span></p><span></span><p><span>🎯 本期你将听到：</span></p><span></span><p><span>AI 什么时候能真正达到 AGI？</span></p><span></span><p><span>为什么李昂曾预测 2028，却在 2025 提前实现关键突破什么是「Autonomous Computer」？</span></p><span></span><p><span>为什么未来每个人可能拥有“100个会自动工作的电脑”为什么 GUI（图形界面）才是 AI 自动化的真正难点，而不是 API 调用</span></p><span></span><p><span>从 0 到行业第一：一个 AI 创业团队如何在 OpenAI、Anthropic 等巨头夹击下找到生存空间为什么大模型公司入场，反而对创业公司是“利好”</span></p><span></span><p><span>创业者最重要的能力：相信直觉 + 快速验证 + 不被趋势带偏</span></p><span></span><p><span>💡 几个关键观点：</span></p><span></span><p><span>“提升生产力100倍的方式，不是更快的工具，而是更多‘会自主行动的电脑’”</span></p><span></span><p><span>“Benchmark 达到人类水平，并不等于真正能解决用户问题”</span></p><span></span><p><span>“大公司不是来和你竞争的，但可能会不小心把你干掉”</span></p><span></span><p><span>“真正的差异化，不是模型，而是你如何使用模型”</span></p><span></span><p><span>👍 如果你喜欢这样的深度对谈，记得点赞、订阅并分享给更多朋友！</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Fiona Xu, Partner, Corporate Transaction &amp; Compliance, Innovative Legal Services |</span></p><span></span><p><span>Ang Li, Founder and CEO, Simular AI｜LinkedIn: </span><a href="https://www.linkedin.com/in/angli-ai/" data-url="https://www.linkedin.com/in/angli-ai/"><span>www.linkedin.com</span></a></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #AI #AGI #AI创业 #Agent #科技趋势 #人工智能 #Startup #自动化 #未来工作 #simular #openai #anthropic #entrepreneurship #autonomous</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lkUJMcaczkqJYQ45m83zYMy45m_D.m4a" length="62558344" type="audio/mp4"/>
+    <itunes:duration>01:04:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl3-diQD6c0aEfvsyNYVNgohc50E.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP08 AEO时代：你真的懂增长吗 |Zoil Li /Manyu Jiang /Gwen Chen</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69e351211d989496e7e970ef</link>
+    <guid isPermaLink="false">69e351211d989496e7e970ef</guid>
+    <pubDate>Sat, 18 Apr 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在AI快速发展的今天，真正拉开差距的，已经不是工具，而是你是否看懂了“增长”的本质。</span></p><span></span><p><span>很多人以为自己在做Marketing，但却始终做不出结果；很多人拼命学习新工具，却忽略了商业最底层的逻辑。</span></p><span></span><p><span>本期节目，我们邀请到一位横跨媒体、互联网、到AI创业的增长专家，SolCrys.ai的Co-Founder &amp; CEO Gwen Chen，一起聊聊：</span></p><span></span><p><span>人生为什么很少按计划发展？</span></p><span></span><p><span>“我什么都懂一点，但什么都不精”到底是不是问题？</span></p><span></span><p><span>初创公司为什么只关心一件事：增长？</span></p><span></span><p><span>AI时代，用户已经不再“搜索”，而是直接“提问”？</span></p><span></span><p><span>从SEO到AEO，企业该如何被AI“看见”和“推荐”？</span></p><span></span><p><span>为什么未来内容的核心，不再是流量，而是“信任”和“权威”？</span></p><span></span><p><span>这一期，不只是一次访谈，更像是一堂关于AI时代商业认知与个人选择的深度课。</span></p><span></span><p><span>---</span></p><span></span><p><span>Gwen Chen从记者起步，经历互联网与SaaS行业，再到投身AI创业，她的职业路径几乎映射了过去十年科技与商业的演变。她用“好奇心驱动”的方式不断转型，也在实践中构建了对增长、内容与AI的系统性理解。</span></p><span></span><p><span>---</span></p><span></span><p><span>⏱️【时间轴】</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> 人生从来不按计划走</span></p><span></span><p><span><a class="timestamp" data-timestamp="210">03:30</a> 从媒体到AI创业的转型路径</span></p><span></span><p><span><a class="timestamp" data-timestamp="480">08:00</a> “什么都懂一点”的职场焦虑</span></p><span></span><p><span><a class="timestamp" data-timestamp="840">14:00</a> 身份感与人生选择</span></p><span></span><p><span><a class="timestamp" data-timestamp="1200">20:00</a> 为什么创业公司只关心增长</span></p><span></span><p><span><a class="timestamp" data-timestamp="1800">30:00</a> 增长的底层方法论</span></p><span></span><p><span><a class="timestamp" data-timestamp="2400">40:00</a> AI如何改变内容与信任</span></p><span></span><p><span><a class="timestamp" data-timestamp="3000">50:00</a> 用户行为的变化：从搜索到提问</span></p><span></span><p><span>---</span></p><span></span><p><span>如果你也在思考：“在AI时代，我到底该做什么？”这一期，也许会给你一些不一样的答案。</span></p><span></span><p><span>---</span></p><span></span><p><span>欢迎订阅频道，获取更多硅谷一线的真实经验与深度思考如果你有共鸣，记得点赞 + 分享给身边的朋友</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Manyu Jiang, Global Content Marketing, Via Transportation, Ex-BBC, Reuters, CCTV |&nbsp;</span></p><span></span><p><span>Gwen Chen, Co-Founder and CEO, SolCrys.ai, &nbsp;</span><a href="https://solcrys.com/" data-url="https://solcrys.com/"><span>solcrys.com</span></a><span> |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #startup #AI #创业 #增长 #Marketing #AEO #内容创作 #职场成长 #growth #seo #entrepreneurship</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lvULuDcHvx4UIJcpCaU68gsFzwqm.m4a" length="64625874" type="audio/mp4"/>
+    <itunes:duration>01:06:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtAGOv7AFu_EpMYF_0kSMsLuLjvn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP07 14万华工 被世界遗忘100年｜Zoil Li/Duoduo Xu/Fan Wu</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c6434cb977fb2c475c6e90</link>
+    <guid isPermaLink="false">69c6434cb977fb2c475c6e90</guid>
+    <pubDate>Fri, 27 Mar 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>今天不聊AI了，改聊文学。聊一个被世界遗忘的华人历史。</span></p><span></span><p><span>14万华工奔赴欧洲参与一战，却几乎没有人知道他们的名字。</span></p><span></span><p><span>本期节目，我和湾区写作社群「每天写点东西」主理人许多多一起，邀请到知名作家、心理咨询师吴帆，聊她的代表作《被遗忘的灵魂》，也聊她如何从硅谷科技行业走进写作，花了8年时间，去还原一段被主流叙事忽略的历史。</span></p><span></span><p><span>这期不只是聊小说，更聊海外华人的身份撕裂、移民的孤独、写作如何成为自我疗愈，以及在AI时代，真正有力量的“人类表达”到底是什么。</span></p><span></span><p><span>当历史被遗忘，文学还能不能把它重新写回来？当我们身处硅谷，为什么反而更需要文艺与叙事？</span></p><span></span><p><span>这是一场关于写作、历史、移民与人性的深度对谈。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Duoduo Xu, Founder, Write Something Every Day |</span></p><span></span><p><span>Fan Wu, Writer, Psychotherapist </span><a href="https://www.linkedin.com/in/cindyfanwu/" data-url="https://www.linkedin.com/in/cindyfanwu/"><span>www.linkedin.com</span></a><span> |</span></p><span></span><p><span>Souls Left Behind:</span></p><span></span><p><a href="https://www.amazon.com/Souls-Left-Behind-Chinese-Labour-ebook/dp/B0CV177W6F" data-url="https://www.amazon.com/Souls-Left-Behind-Chinese-Labour-ebook/dp/B0CV177W6F"><span>www.amazon.com</span></a></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #Podcast #ChineseHistory #ForgottenHistory #WWI #ChineseLaborers #OverseasChinese #ImmigrantStories #Literature #Writing #FanWu #ChineseDiaspora #AsianAmerican #Storytelling #HumanityInTheAgeOfAI #writer #writing #海外华人 #华人历史 #一战华工 #文学 #播客</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lsEQZ8uLNKywDi3SGxuF7RItoaHC.m4a" length="57955188" type="audio/mp4"/>
+    <itunes:duration>00:59:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FofIiw5R5isNw8vOb9AjrzLwbhaR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP06 AI自己干活 人类还剩什么｜Zoil Li /Beinan Wang /Lei Tang</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69be5f783c625cc5ae6d5327</link>
+    <guid isPermaLink="false">69be5f783c625cc5ae6d5327</guid>
+    <pubDate>Sat, 21 Mar 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在 AI 发展越来越快的今天，真正让人不安的，可能已经不是“会不会被替代”，而是当工具越来越聪明，人到底还要做什么？</span></p><span></span><p><span>本期节目，我们邀请到了Fabi.ai的Founder&amp;CTO Lei Tang和AI Infra开源社区专家Beinan Wang一起来讨论：</span></p><span></span><p><span>当 AI Agent 开始自己调用 API、自己执行任务、自己和其他 Agent 协作，未来的工作、产品形态、公司组织，甚至互联网本身，会变成什么样？</span></p><span></span><p><span>从 Claude、Cursor、Codex，到多 Agent 协作、Slack Bot、MCP、AI 调 API，再到未来“API 不再服务人类，而是主要服务 Agent”的可能性，我们聊到了 AI 正在如何快速改写今天的产品逻辑与创业逻辑。节目里提到，现在做一个 prototype 可能只需要几个小时，但真正能不能进入 production，背后仍然需要完整的系统能力、数据安全、上下文管理，以及人来兜底。</span></p><span></span><p><span>我们也聊到了一个很多人都在焦虑的话题：</span></p><span></span><p><span>AI 能干越来越多的活，就业怎么办？</span></p><span></span><p><span>节目中有一句非常扎心但真实的判断——“活虽然 AI 都可以干了，但你不能让 AI 兜底。” 也就是说，在很长一段时间里，AI 可以做执行，但责任、判断、风险、决策，最终仍然要回到人身上。</span></p><span></span><p><span>除此之外，这期还讨论了很多非常前沿、很“硅谷现在进行时”的判断：</span></p><span></span><p><span>AI Agent 正从“辅助工具”走向“数字入口”</span></p><span></span><p><span>未来可能不是 App Store + 一堆应用，而是一个懂你的 Agent 帮你上网、订日历、下单、调用各种服务</span></p><span></span><p><span>很多互联网公司的 API，正在从“给人用”转向“给 AI 用”</span></p><span></span><p><span>多 Agent 协作、Agent-to-Agent 通信，可能会成为下一代产品架构的基础</span></p><span></span><p><span>公司组织会因此被重构，更多人被迫变成“full stack”</span></p><span></span><p><span>创业门槛在降低，但真正的护城河反而变得更难建立。</span></p><span></span><p><span>世界正在加速切换到 Agent 时代。</span></p><span></span><p><span>而真正的问题，不只是 AI 能做什么，</span></p><span></span><p><span>而是——你准备好如何与它一起工作、竞争，甚至共生了吗？</span></p><span></span><p><span>欢迎收听。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Lei Tang，Co-Founder &amp; CTO Fabi.ai, <a data-url="https://www.fabi.ai/" href="https://www.fabi.ai/">www.fabi.ai</a> , Ex-Lyft |</span></p><span></span><p><span>Beinan Wang, AI Data Infra, Open Source Community Expert｜</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley &nbsp;#硅谷 #jobseekers #找工作 #layoffs #裁员 #ai #chatgpt #llm #claude #salary #meta #openai #google #apple #anthropic &nbsp;#leadership #agent</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lsEQZ8uLNKywDi3SGxuF7RItoaHC.m4a" length="57955188" type="audio/mp4"/>
+    <itunes:duration>00:59:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fn14xoKVhMZEfhkFfxXKk-JxtdV1.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP05 当Glean AI成为公司“大脑” ｜Zoil Li/ BigJoe/Kelly Xu</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69b27c6d52cc900b9de6caa3</link>
+    <guid isPermaLink="false">69b27c6d52cc900b9de6caa3</guid>
+    <pubDate>Thu, 12 Mar 2026 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>当AI不再只是写写文案、画画图，而是真正开始改变企业的工作方式，会发生什么？</span></p><span></span><p><span>在这一期《硅谷帮》节目中，我们邀请到了来自 Glean 的 Solutions Marketing Leader Kelly，以及老朋友“硅谷大舅”，一起聊聊AI在真实公司里的落地体验——不是概念，不是demo，而是每天都在用的生产力工具。</span></p><span></span><p><span>从产品经理如何用AI快速找到公司内部知识，到企业如何把分散在各个系统里的信息“瞬间召唤”；从“问AI比问同事还快”的惊艳时刻，到AI如何逐渐成为团队工作流的一部分——这一期我们深入拆解：</span></p><span></span><p><span>AI企业工具到底解决了什么真实问题</span></p><span></span><p><span>为什么很多人第一次用就有“任督二脉被打通”的感觉</span></p><span></span><p><span>AI如何改变产品经理、市场、运营的工作方式</span></p><span></span><p><span>企业级AI和普通AI工具最大的不同在哪里</span></p><span></span><p><span>如果你对这些问题感兴趣：</span></p><span></span><p><span>AI在公司里到底有没有用？</span></p><span></span><p><span>未来的知识工作会不会被AI重构？</span></p><span></span><p><span>硅谷公司现在都在怎么用AI？</span></p><span></span><p><span>这一期会给你一个来自一线的真实答案。</span></p><span></span><p><span>🎧 一场关于 AI、工作效率、以及未来工作方式 的深度对话。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>BigJoe, Product, Ex-Google |</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youtube channel &nbsp;@da-jiu &nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeChat official account "硅谷大舅",&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilibili channel “硅谷大舅”,&nbsp;</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小红书 channel "硅谷大舅"; |</span></p><span></span><p><span>Kelly Xu, Head of Solutions Marketing, Glean | <a data-url="https://www.glean.com/" href="https://www.glean.com/">www.glean.com</a></span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #AI #productmanager #pm #产品经理 #chatgpt #deepseek #engineer #人工智能 #openai #程序员 #GleanAI</span></p><span></span><p><span>#Glean #enterpriseAI #companyknowledgeAI #AIworkplace #AIproductivity #AItools #generativeai &nbsp;#futureofwork #knowledgemanagement #knowledgegraph &nbsp;#AIstartups #techpodcast #AIpodcast #AI播客 #科技播客 #企业AI #AI工具</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lnWG2Cdx8cfyMnkMf8R-EiJnTWvb.m4a" length="56717743" type="audio/mp4"/>
+    <itunes:duration>00:58:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmXSwK00fdTNC_RYpHx9vPp4SEHN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP04 北美奶茶有多卷?｜Zoil Li/Amy Duan/Jiachun Li</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69a95020c8cdeb38c2f38189</link>
+    <guid isPermaLink="false">69a95020c8cdeb38c2f38189</guid>
+    <pubDate>Thu, 05 Mar 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>现在北美奶茶店市场到底有多卷了？今天非常开心和Ume Tea的Founder &amp; CEO 佳纯以及吃货小分队的Founder &amp; CEO Amy一起来聊聊当下北美奶茶店市场局势。</span></p><span></span><p><span>为什么在中国可以一个月开上千家门店的茶饮品牌，在美国却可能一年都开不了几家？为什么有的品牌越做越大，有的却在扩张中踩坑？在竞争越来越激烈的北美茶饮市场，真正决定成败的关键到底是什么？从产品研发、门店选址、供应链管理，到品牌定位、市场竞争和资本环境，我们一起拆解了很多创业者最关心的问题：</span></p><span></span><p><span>在美国做奶茶，为什么产品本地化比照搬国内爆款更重要？</span></p><span></span><p><span>为什么有些品牌宁愿慢慢打磨供应链，也不盲目扩张？</span></p><span></span><p><span>在美国开店，监管、装修、合同等现实问题为什么会极大拖慢扩张速度？</span></p><span></span><p><span>当资本大量涌向AI，餐饮创业者该如何打造一个真正可持续的生意？</span></p><span></span><p><span>为什么“把对的产品卖给对的客人”，往往比“做最好喝的奶茶”更重要？</span></p><span></span><p><span>节目中也分享了很多非常真实的一线经验：从不同城市消费者口味差异、到新品研发背后的供应链压力，再到如何找到品牌真正的核心客户群。</span></p><span></span><p><span>如果你：</span></p><span></span><p><span>对北美奶茶行业感兴趣</span></p><span></span><p><span>想在海外做餐饮创业</span></p><span></span><p><span>或者好奇一家茶饮品牌是如何一步步成长起来的</span></p><span></span><p><span>这一期节目，会带你看到 奶茶行业光鲜背后的真实商业逻辑。有些经验来自成功，也有些来自踩过的坑——但每一个都非常真实。</span></p><span></span><p><span>也许听完之后，你会重新理解：在北美，把一家奶茶店做好，到底有多难。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Zero&amp; |</span></p><span></span><p><span>Amy Duan, Founder and CEO, Chihuo｜</span></p><span></span><p><span>Jiachun Li, Founder and CEO, Ume Tea |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #奶茶出海 #奶茶 #food #foodie #foodandbeverage #品牌出海 #chihuo #吃货小分队 #连锁店 #store #chain #boba #bobatea #milktea #umetea #BobaBusiness #BubbleTea #NorthAmericaBoba #TeaIndustry #FoodBusiness #RestaurantStartup#Entrepreneurship #StartupStories #FounderJourney #BrandBuilding#SupplyChain #BusinessStrategy #RetailExpansion #MarketCompetition #AsianBusiness #AsianEntrepreneurs #OverseasEntrepreneurship #FoodPodcast #BusinessPodcast #StartupPodcast #IndustryInsights</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/ljH1EGgobi4kFT63RuCqcIj6mwJ5.m4a" length="60428385" type="audio/mp4"/>
+    <itunes:duration>01:02:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkbJoIdHmTfRGEAAKYHnTU9Dn61G.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP03 世界加速变化 我们怎么办？｜Zoil Li / Tina / Selena Yuan</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/699ead94de29766da97aeb32</link>
+    <guid isPermaLink="false">699ead94de29766da97aeb32</guid>
+    <pubDate>Thu, 26 Feb 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在一个“变化才是唯一不变”的时代，我们该如何适应？如何领导？又如何留住自己？</span></p><span></span><p><span>当AI席卷科技行业、远程办公重塑协作方式、贸易战与地缘政治重构供应链，当不断裁员成为企业关键词——我们是否还在用过去的逻辑，管理今天的组织？</span></p><span></span><p><span>本期节目，我们邀请到两位在硅谷一线操盘变革的人才战略专家：一位是Tina Weinberger，来自科技行业的Senior HRBP同时也是Career Coach，另一位是Selena Yuan生物制药上市公司的Global Head of Talent。她们不仅见证了从咨询顾问“空降式变革”，到企业内部长期转型的全过程，更亲身经历了疫情之后，人才观念与“忠诚”定义的彻底转变。</span></p><span></span><p><span>节目中，我们聊到了：</span></p><span></span><p><span>AI、Cloud、地缘政治、战争与经济周期叠加——多层级、高强度、超高速的变化，对自己和组织意味着什么？</span></p><span></span><p><span>为什么真正有效的变革，不是“空降三个月搞定”，而是像水一样渗透？</span></p><span></span><p><span>当员工的“忠诚”不再属于公司，而是属于自己的purpose，管理者该怎么办？</span></p><span></span><p><span>在remote时代，信任、关系、文化还能如何建立？</span></p><span></span><p><span>李小龙的曾经说过“Be water”。真正的变革，不是强推，不是对抗，而是找到阻力最小的路径，吸收已有的best practice，快速扩散、自然生长。</span></p><span></span><p><span>这不仅是一场关于企业转型的讨论，更是一场关于个人成长与时代适应的深度对话。如果你正在经历组织变革、行业震荡，或是在思考——</span></p><span></span><p><span>在这个剧烈变化的世界里，我该如何定位自己？</span></p><span></span><p><span>这一期，或许会给你新的视角。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Tina Weinberger, Senior HRBP, Splunk, Ex-Intel |</span></p><span></span><p><span>Selena Yuan, Head of Global Talent, Cytokinetics, Ex-Visa, Ex-Gilead Sciences |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #career #职场 #change #变化 #应对变化 #RapidChange #FutureOfWork #Leadership #OrganizationalTransformation #TalentStrategy #AdaptingToChange #AI #AIDisruption #CloudComputing #TechIndustry #TechLayoffs #layoff #HRLeadership #TalentManagement #EmployeeLoyalty #RemoteWork #WorkplaceCulture #PurposeDriven #CareerGrowth #CareerResilience #PersonalDevelopment #GrowthMindset #BeWater</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lmByuuXcYFxjO_bv6Y-4PonbxR-i.m4a" length="70535999" type="audio/mp4"/>
+    <itunes:duration>01:12:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuY2q49msjQvgRjyjjaGExUYgZ2y.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP02 如何用 AI 读懂自己的一生｜Zoil Li / Manyu / Kaitan Sun</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/698d7e5766e2c303772a8845</link>
+    <guid isPermaLink="false">698d7e5766e2c303772a8845</guid>
+    <pubDate>Thu, 12 Feb 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在人类与AI共生共智的时代，技能会过时，工具会被替代，但有一件事越来越重要——你对自己的认识有多深。而AI可以帮你解锁隐藏的认知模式。本期节目，我们和 Kaitan Sun, EpicTopia AI 的 CEO 深聊：</span></p><span></span><p><span>一个 商科出身的数据科学家，如何用人生旅程追踪 + AI 洞察，重新理解个人成长，实现自赋的人生意义这件事。我们从她小时候开始“记录人生”这件事聊起，在她看来，人生看似零散的事件，本质是一条持续更新的数据流和采样序列：大事件、感情关系、跨文化经验、技能的积累，职涯转型，甚至那些看似微不足道的情绪波动，经过系统整理，能够显现出一个人最底层的信念模式和价值观权重。而这部分工作，让AI来做。通过对人的更深了解，AI提供更个性化的行动指南。</span></p><span></span><p><span>节目中，她分享了：</span></p><span></span><p><span>对自己的认知深度，就是核心竞争力</span></p><span></span><p><span>如何通过 AI 工坊、人生曲线和行为模式，回看“来时路”</span></p><span></span><p><span>AI 是工具，还是一种“新的物种”？它怎么帮我们更好认识自己</span></p><span></span><p><span>福格行为模型如何帮助想法真正落地</span></p><span></span><p><span>为什么不需要成为“全能型选手”，而是要极致发挥天赋</span></p><span></span><p><span>什么是每个人都应该有的「自我说明书」</span></p><span></span><p><span>当热爱、擅长与价值观重叠，使命感会如何自然浮现</span></p><span></span><p><span>我们还聊到了：</span></p><span></span><p><span>AI 创业活动、AI 是否只是工具，以及当“想法到落地”的速度被极大压缩后，人类真正的使命感和意义，该从哪里来？如果你是创业者、创作者，或正在思考如何把自己未来的方向，这一期，会给你一些灵感和实用建议。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations |</span></p><span></span><p><span>Manyu Jiang, Global Content Marketing, Via Transportation, Ex-BBC, Reuters, CCTV |</span></p><span></span><p><span>Kaitan Sun, Founder and CEO, EpicTopia AI, </span><a href="https://www.epictopia.com/" data-url="https://www.epictopia.com/"><span>www.epictopia.com</span></a><span> |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #startup #executive #ai #aistartup #epictopia #entrepreneurship #entrepreneur #lifevalues #life</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lp5GhKTh-0qP1LpGDsXJ9TvONcyW.m4a" length="67732505" type="audio/mp4"/>
+    <itunes:duration>01:09:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrbfEn9mx_s1oujEsWiZIQa_qnWZ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第四季】EP01 在硅谷把中华文化唱响世界｜Zoil Li /张宁远 /过客</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6984495f70aae7e967b78583</link>
+    <guid isPermaLink="false">6984495f70aae7e967b78583</guid>
+    <pubDate>Thu, 05 Feb 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🎙️ 从硅谷工程师到金色大厅：一群华人用音乐连接世界</span></p><span></span><p><span>他们不是科班出身的音乐家。</span></p><span></span><p><span>有人是耶鲁博士、北大硕士的退休工程师，有人是硅谷科技人——却一起做出了横跨中、美、俄的原创大型清唱剧。</span></p><span></span><p><span>本期节目，我们邀请到清羽合唱团创团团长、现任理事长 Nina张宁远，以及笔名“过客”的词作者——一位从工程师转向文学创作的跨界创作者。</span></p><span></span><p><span>你将听到：</span></p><span></span><p><span>✨ 一个硅谷工程师社群，如何“误打误撞”发展成国际级合唱团</span></p><span></span><p><span>✨ 美国人、俄罗斯国家合唱团一起唱中文，是怎么做到的？</span></p><span></span><p><span>✨ 为什么中国原创清唱剧能打动世界顶级交响乐团</span></p><span></span><p><span>✨ 从《黄河大合唱》到《补天》，华人如何用音乐讲述自己的文化故事</span></p><span></span><p><span>✨ 25年坚持背后：业余艺术如何走上国际舞台，甚至走进维也纳金色大厅</span></p><span></span><p><span>节目里，他们分享了与 Symphony San Jose、俄罗斯国家合唱团合作的真实经历，也聊到外国音乐家为何被中国作品吸引——不是因为商业，而是因为文化的深度与作品本身的力量</span></p><span></span><p><span>更动人的，是这群硅谷华人对艺术的长期主义：</span></p><span></span><p><span>音乐没有国界。</span></p><span></span><p><span>它是人与人之间最容易建立连接的语言。</span></p><span></span><p><span>如果你关心——</span></p><span></span><p><span>🎼 海外华人的文化表达</span></p><span></span><p><span>🎼 工程师如何玩转艺术</span></p><span></span><p><span>🎼 中国原创音乐如何走向世界</span></p><span></span><p><span>🎼 或者单纯想听一个“不按常理出牌”的人生故事</span></p><span></span><p><span>这一期，你一定会被打动。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>Nina Zhang 张宁远, Founder and Chair of A-sharp Chorus｜</span></p><span></span><p><span>过客, Lyricist, Yale PhD, Retired Engineer |</span></p><span></span><p><span>清羽合唱团 A-sharp Chorus：</span></p><span></span><p><span><a data-url="http://asharpchorus.org/" href="http://asharpchorus.org/">asharpchorus.org</a></span></p><span></span><p><span>海外游子吟：<a data-url="https://www.youtube.com/watch?v=hcg6bZLkiq8" href="https://www.youtube.com/watch?v=hcg6bZLkiq8">www.youtube.com</a></span></p><span></span><p><span>禹王治水：<a data-url="https://tv.cctv.com/2011/01/12/VIDELYcvAFCy5jPobrJqCxXI110112.shtml" href="https://tv.cctv.com/2011/01/12/VIDELYcvAFCy5jPobrJqCxXI110112.shtml">tv.cctv.com</a></span></p><span></span><p><span>补天：<a data-url="https://www.youtube.com/watch?v=hA4LuVXC8xU" href="https://www.youtube.com/watch?v=hA4LuVXC8xU">www.youtube.com</a></span></p><span></span><p><span>大风歌：<a data-url="https://www.youtube.com/watch?v=YEl2aV0YWUY" href="https://www.youtube.com/watch?v=YEl2aV0YWUY">www.youtube.com</a></span></p><span></span><p><span>相聚维也纳｜清羽合唱团2026维也纳金色大厅项目扩大招生</span></p><span></span><p><span><a data-url="https://mp.weixin.qq.com/s/65zR0PolWWdqhNg9bb_aRw" href="https://mp.weixin.qq.com/s/65zR0PolWWdqhNg9bb_aRw">mp.weixin.qq.com</a></span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley &nbsp;#硅谷 #QingyuChoir #清羽合唱团 #choir #symphony #symphonysanjose #中国国家大剧院 #阿镗 #鲍元恺 #陈乐昌 #黄安伦 #维也纳金色大厅 #禹王治水 #海外游子吟 #补天 #大风歌 #清唱剧 #交响乐</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lkxnXeZkOxORen-Aipz93MqPAcZU.m4a" length="54862848" type="audio/mp4"/>
+    <itunes:duration>00:56:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtHXeL-aMgYYZiB90jfo48gdrnZv.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP12 TikTok卖了 谁是赢家？Zoil Li / Fiona Xu / Beinan Wang</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/694d09a563a654fa60cae7db</link>
+    <guid isPermaLink="false">694d09a563a654fa60cae7db</guid>
+    <pubDate>Thu, 25 Dec 2025 10:24:08 +0000</pubDate>
+    <description><![CDATA[<p><span>曾经信誓旦旦要和美国政府硬杠到底的TikTok终于还是同意出售部分业务。字节保留了广告电商业务但还是需要剥离数据算法。美国保留了活着的TikTok，得到了一块难以言状的技术，却不知是否真的可以高枕无忧。中国广大的出海企业一身冷汗瑟瑟发抖。快速全球化扩张按下暂停键，今后企业出海何去何从？今天好好讨论一下这场TikTok禁令大戏。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>Beinan Wang, AI Data Infra, Open Source Community Expert｜</span></p><span></span><p><span>Fiona Xu, Partner, Corporate Transaction &amp; Compliance, Innovative Legal Services |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley &nbsp;#硅谷 #tiktok #tiktokban #bytedance #usgovernment #trump #oracle #jointventure #socialmedia #advertising #ecommerce #algorithm #data #compliance #datasecurity</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/li54FVVX3bhKEffAw3k0airKcOCz.m4a" length="47585514" type="audio/mp4"/>
+    <itunes:duration>00:48:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq8WM0alb2txXoMHQ1IJsPHn0V7i.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP11 Live Music大家玩起来 Zoil Li/ Raymond Fu/ Duoduo Xu</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6943dcc652d4707aaa437a8d</link>
+    <guid isPermaLink="false">6943dcc652d4707aaa437a8d</guid>
+    <pubDate>Thu, 18 Dec 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>想玩音乐的，想现场K歌的朋友都不要错过这一期的聊天谈话。看在号称文化沙漠的硅谷，一帮有热情的音乐人是如何自发组织成立Go Live音乐人联盟，通过周末酱这个品牌，聚集更多的对音乐感兴趣的人，让普通人也可以释放对音乐的热情。这颗沙漠中长出的柠檬树就是对硅谷精神最好的诠释。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>Raymond Fu, Chair of the Board, Go Live Musician's League |</span></p><span></span><p><span>Duoduo Xu, Founding team member, Go Live Musician's League |</span></p><span></span><p><span>Go Live Musician's League:</span></p><span></span><p><a href="https://golive.music/" data-url="https://golive.music/"><span>golive.music</span></a></p><span></span><p><span>Weekend Jam:</span></p><span></span><p><a href="https://www.instagram.com/weekendjambayarea" data-url="https://www.instagram.com/weekendjambayarea"><span>www.instagram.com</span></a></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #livemusic #weekendjam #周末酱 #music #composition #songwriter #musician #ai #chatgpt #entrepreneurship #创业 #大厂 #socialmedia #suno #sunoai #liveband</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lsfAo6zYTWC_wGqi2JFHUnC8f5_6.m4a" length="48315426" type="audio/mp4"/>
+    <itunes:duration>00:49:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkMeNjpe-34umpMqtMP5XxAeD7-m.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP10 AI数字分身替你社交｜Zoil Li/ David Shao/ Nicole Huang</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/693bece637f52a644e9633b1</link>
+    <guid isPermaLink="false">693bece637f52a644e9633b1</guid>
+    <pubDate>Fri, 12 Dec 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>未来AI时代下的社交媒体会是什么形态？平台上绝大部分内容都是AI生成的？甚至在玩社交的都是AI数字分身！今天和Walnut AI的两位founders一起来畅想一下未来，同时也看看Walnut AI是怎么为我们准备数字分身来迎接AI社交媒体时代。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>David Shao, Founder and CEO, Walnut AI, Ex-LinkedIn |</span></p><span></span><p><span>Nicole Huang, Co-founder &amp; Head of Product and Growth, Walnut AI, Ex-Xiaohongshu |</span></p><span></span><p><span>Walnut AI: <a data-url="https://walnut.ai/" href="https://walnut.ai/">walnut.ai</a></span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley &nbsp;#硅谷 #ai #chatgpt #entrepreneurship #创业 #openai #大厂 #socialmedia #linkedin #xiaohongshu #digitaltwin #socialnetwork</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lr3NGs408Zt0XK2-SxWkRJerdbTK.m4a" length="55541408" type="audio/mp4"/>
+    <itunes:duration>00:57:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrijnFsyabkziDeVGWX22KUR5Z9W.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP09 用创业赢回自己人生 Zoil Li/ Echo Zhong/ Carly Wu</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69314f0d3fec3166cf3cca09</link>
+    <guid isPermaLink="false">69314f0d3fec3166cf3cca09</guid>
+    <pubDate>Thu, 04 Dec 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这是充满了欢声笑语的一期谈话。Carly Wu从大厂跳出开始个人创业开启人生新篇章，Echo Zhong也离开明星Startup自己主理新的业务。谈话中没有听到如何去卷去拼，反而是顺势而为，不被业务裹挟的从容与自由。当创业成为生活的一部分，才是赢回自己人生的时刻。这也许正是本次谈话如此轻松愉快的原因吧。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>Echo Zhong, Co-Founder Zhong &amp; Sanchez CPA, Ex-Kick, Ex-KPMG |</span></p><span></span><p><span>Carly Wu, Entrepreneurship, Ex-Amazon, Ex-BCG |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #layoffs #裁员 #ai #chatgpt #salary #amazon #entrepreneurship #创业 #出海 #cpa #openai #consulting #大厂 #bigtech #worklifebalance #fire</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/li3PRfenOfR4HQKcl6q3TZU277hi.m4a" length="56915294" type="audio/mp4"/>
+    <itunes:duration>00:58:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fmwg7XrPINYUPaUMPoBt_CsHotR7.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP08 从Meta上亿薪酬挖人开始 Zoil Li / Lei Tang / Rita Li</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/692043a56018cc2c98f28de0</link>
+    <guid isPermaLink="false">692043a56018cc2c98f28de0</guid>
+    <pubDate>Fri, 21 Nov 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Meta Llama 4 进展不利，Mark Zuckerberg利用钞能力挥舞上亿薪酬支票大力挖人，一边还狂裁600顶尖AI researchers。Alexandr Wang大权在握，杨立昆被迫出走。这场AI人才大战打的风起云涌，我们也从组织架构管理和行业发展趋势聊聊这场震惊行业的大戏。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>唐磊，Co-Founder &amp; CTO Fabi.ai, <a data-url="https://www.fabi.ai/" href="https://www.fabi.ai/">www.fabi.ai</a> , Ex-Lyft |</span></p><span></span><p><span>Rita Li, Senior HRBP, Ex-GE, Ex-Microsoft |</span></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley &nbsp;#硅谷 #jobseekers #找工作 #layoffs #裁员 #ai #chatgpt #markzuckerberg #alexanderwang #llm #llama #salary #meta #openai #google #apple #leadership</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lj30m-OqYFokp8duHfM9q1ng4f1_.m4a" length="113047754" type="audio/mp4"/>
+    <itunes:duration>00:58:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm97YGtYM2ss_d10r-bCbCeMflxJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【硅谷帮 第三季】EP07 H1B困局:风险与焦虑 Zoil Li / Shiyang Gong / Joice Liu</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/691650dc6018cc2c98bbe7a0</link>
+    <guid isPermaLink="false">691650dc6018cc2c98bbe7a0</guid>
+    <pubDate>Thu, 13 Nov 2025 22:09:52 +0000</pubDate>
+    <description><![CDATA[<p><span>H1B这个话题是有无数心酸血泪故事，但又一时不知从何说起。对于普通留子来说身份问题处处充满了无力感。虽然我们无法给到大家完美的解决方案，但是能坐下来聊聊H1B带来的压力，风险与焦虑，也未尝不可。让处在漩涡之中的朋友们知道你不是一个人。非常感谢德恒硅谷律师事务所的龚律师和Life Coach，前大厂打工人的Joice一起来讨论这个话题。两位嘉宾也给大家带来了很多经验分享和建议。</span></p><span></span><p><span>对话</span></p><span></span><p><span>Zoil Li, Product, Data, Operations, Ex-Wish |</span></p><span></span><p><span>Shiyang Gong, Immigration Law Partner @ Deheng Law Offices|</span></p><span></span><p><a href="https://www.dhimmigration.com/" data-url="https://www.dhimmigration.com/"><span>www.dhimmigration.com</span></a></p><span></span><p><span>Joice Liu, Life Coach, Ex-Google |</span></p><span></span><p><a href="https://joiceguides.me/" data-url="https://joiceguides.me/"><span>joiceguides.me</span></a></p><span></span><p><span>邮箱：siliconvalleybang@gmail.com</span></p><span></span><p><span>#podcast #siliconvalley #硅谷 #h1b #immigration #offer #job #ead #visa #greencard #工作签证 #移民 #lawyer #google #h1bvisa #jobs #jobseekers #f1 #students #layoffs</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67121fc60d2f24f289109f8e/lp6_MFmFDpCfZ88q0bL9KcsWtb61.m4a" length="109467590" type="audio/mp4"/>
+    <itunes:duration>00:56:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm0MTFB5bSh8jUijpnKE6bbY-aZa.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

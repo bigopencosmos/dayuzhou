@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>科技前哨</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61e78326f4a4629b8ef1bfd3</link>
+  <description><![CDATA[●关于科技前哨
+
+科技前哨是一档由创新地图制作播出的播客节目，我们致力于挖掘前沿科技，关注“技术—产业—社会”相互影响下的最新趋势，探索全球最前沿的科技创新实践，向听众提供最具价值的科技产业深度分析。
+
+●关于我们
+
+创新地图是作为一个投身新科技浪潮的创业团队，我们以连接全球科技创新为目标，是一家集知识服务、产业协调为一体的综合机构。
+
+目前已拥有以企业家、投资人、海内外科研工作者、科技极客等构成的高粘性社群11万余人。
+
+如果你对我们的播客节目有什么意见，欢迎与我们留言互动，也欢迎关注我们的公众号“前哨科技特训营”。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:53:20 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61e78326f4a4629b8ef1bfd3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png</url>
+    <title>科技前哨</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61e78326f4a4629b8ef1bfd3</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>科技前哨｜Anthropic 才五岁已经冲上万亿，最快造富神话真的这么神吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6affb802a4a79edf137c0d54</link>
+    <guid isPermaLink="false">6affb802a4a79edf137c0d54</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>Anthropic公司刚上市，有人拿到发行价，当天就赚了；有人一开盘买进去，收盘反而亏了。还有人没买，却更怕自己错过了下一个亚马逊。</span></p><p><span>本期从Anthropic上市，拆开公司增长、股权定价和个人兑现，看看科技创富究竟是哪一段在变快。</span></p><h2><strong><span>科技扫描</span></strong></h2><p><span>1. 阿里云外部客户收入增长</span></p><p><span>2. Gemini 开始替部分用户操作 Mac</span></p><p><span>3. 德国电信旗下基金向 Mistral 投资一亿欧元</span></p><p><span>4. 福特用宁德时代授权技术做成样车电芯</span></p><p><span>5. 谷歌为太空算力项目签下重型发射协议</span></p><p><span>6. 默沙东与 Isomorphic Labs 合作寻找抗肿瘤小分子</span></p><p><span>7. 美国批准每三个月给药一次的重症肌无力新疗法</span></p><p><span>8. 新加坡用批发型央行数字货币结算票据</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lqsqfOaD4M7VYWGepp7qCzJqEIXN.m4a" length="26242628" type="audio/mp4"/>
+    <itunes:duration>00:27:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜AI 取代人？Mercor 再进一步，把 500 万人租给模型大厂了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afece12fe62f8f52c4da72c</link>
+    <guid isPermaLink="false">6afece12fe62f8f52c4da72c</guid>
+    <pubDate>Thu, 19 Nov 2026 10:28:04 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>Mercor 按每小时91美元雇了500万名专家，每天付出去400万美元现金，还说自己花在推理上的钱是员工工资的三倍。</span></p><p><span>它现在卖的不是模型，也不是数据，是“知道做得对不对”这件事。</span></p><h2><strong><span>前哨科技扫描</span></strong></h2><p><span>1.Waymo 被加州 DMV 禁止上高速，随后撤出全美高速运营</span></p><p><span>2.同一周，特斯拉把迈阿密 Robotaxi 地理围栏翻倍</span></p><p><span>3.403个美国数据中心一年耗电相当于密歇根全州</span></p><p><span>4.三星、美光、SK 海力士被控串谋抬高内存价格，诉讼推进</span></p><p><span>5.FBI 称黑客已用自主 AI 工具在三小时内攻破网络</span></p><p><span>6.华为鸿蒙智行联盟十月交付同比下滑50%，成员品牌运营日益独立</span></p><p><span>7.Isomorphic Labs 完成50亿美元 C 轮，Sequoia、Greenoaks 领投</span></p><p><span>8.Meta 的 AI 购物助手自己写了一条规则：不要搜索亚马逊</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lnAfPCxZGickcDTT2Mq3F9TIvrsR.m4a" length="25594496" type="audio/mp4"/>
+    <itunes:duration>00:26:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜最贵的人先被裁？AI 落地中国一家康复中心，第一刀砍向康复督导</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afd1999fe62f8f52c4ce69f</link>
+    <guid isPermaLink="false">6afd1999fe62f8f52c4ce69f</guid>
+    <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情：</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>河南平顶山，一家自闭症康复中心装了套AI系统。六个月后，走人的不是每天面对孩子的康复师，是一位一年拿十万元、每月只来一两次的兼职督导。</span></p><p><span>传统康复行业，一个督导职能能管五六十个案例，全国有实战经验的督导屈指可数，现在AI接走的正是这门生意里最贵、最慢、最难复制的那一环。更有趣的是成本降了，课单价却从四十、六十涨到八十，三成家长选了更贵的那档。</span></p><h2><strong><span>本期科技扫描</span></strong></h2><p><span>1.美国远程访问新规落地，九国同日签《旧金山宣言》</span></p><p><span>2.意大利因扫描安卓相册对 Meta 罚8.05亿欧元</span></p><p><span>3.Anthropic 十一月十八日定价，十九日开始交易</span></p><p><span>4.北美数据中心电力缺口接近100%</span></p><p><span>5.汇丰折价甩卖3亿美元数据中心问题贷款</span></p><p><span>6.阿里发布 Qwen4-Max</span></p><p><span>7.三星AI眼镜十二月上市对标 Meta，苹果瞄准2027年底</span></p><p><span>8.英伟达空头一周浮盈240亿美元，纳指100跌7.2%</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lhwQHWtFsjqWWUA3KeB52PpvqAvC.m4a" length="22396778" type="audio/mp4"/>
+    <itunes:duration>00:23:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>美国两场火箭发射，背后是太空时代的集装箱革命？！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afbc517a4a79edf137a756c</link>
+    <guid isPermaLink="false">6afbc517a4a79edf137a756c</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>同一周里，一枚火箭的上面级被发射塔的机械臂接住；另一枚的上面级出了故障，四十颗卫星落进海里。</span></p><p><span>看起来是两家公司的运气差别，真正拉开距离的是另一件事，谁能把发射变成有节奏的产线。本期从这两件事讲起，算清一次失败在两家公司账上到底值多少钱。</span></p><h2><strong><span>本期科技扫描</span></strong></h2><p><span>特斯拉与 SpaceX 合并谈判进入新阶段，最快十二月宣布</span></p><p><span>Anthropic 启动 IPO 路演，发行八点二五亿股</span></p><p><span>央行上调外汇存款准备金率至百分之六，十一月十五日生效</span></p><p><span>大众取消沃尔夫斯堡一体化压铸中心</span></p><p><span>中国商飞十九座电动客机完成首次载人飞行</span></p><p><span>美国人对 AI 的负面看法多于正面</span></p><p><span>苹果首款智能眼镜 N50，目标明年六月发布</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/ln_PiJ0QZZvrd6anc84oQvUQnA9b.m4a" length="30245765" type="audio/mp4"/>
+    <itunes:duration>00:31:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨|美国全国航班停航，这背后是新旧系统迭代的问题</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afa6db2a4a79edf1379e14f</link>
+    <guid isPermaLink="false">6afa6db2a4a79edf1379e14f</guid>
+    <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><p><span>美国全国航班停了四个多小时，一万两千多个航班被取消。起因不是攻击，是一段正在被换掉的旧铜线。同一周，微软邮件在全球中断将近一天，原因也不是攻击。</span></p><p><span>两次事故都不是设备用坏了，是系统更新把埋了很久的问题引爆。钱都涌向新增算力的时候，谁在负责让已经有的系统继续转。</span></p><h2><strong><span>本期扫描</span></strong></h2><p><span>1. 黄仁勋辞职后的英伟达，和一份“自己出钱买需求”的报道</span></p><p><span>2. 星舰第一次被发射塔接住，可这一发里最熟的环节失手了</span></p><p><span>3. Anthropic 启动上市路演，“更便宜”和“更贵”同时出现</span></p><p><span>4. Mercor 估值两百亿美元、年化三十亿；Mirendil 融资十亿</span></p><p><span>5. 芯片追不到，就去追电表</span></p><p><span>6. 没有方向盘的车卖给你，但能不能动由订阅决定</span></p><p><span>7. 京东十三点三五亿欧元买下欧洲的货架</span></p><p><span>8. 铀价创纪录，人工智能的电费账单开始寄到矿上</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lvlZaNc2ACYCJdkbyk0hfRb30pRA.m4a" length="27546452" type="audio/mp4"/>
+    <itunes:duration>00:28:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜AI替你买东西，国外商家也不欢迎了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af67c2c14d01a26f8a92409</link>
+    <guid isPermaLink="false">6af67c2c14d01a26f8a92409</guid>
+    <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>你让AI去买一包尿布，它记得尺码、会比价、能下单。可就在双十一，京东说自己的AI购物咨询活跃用户接近八千万；几天后，eBay把一部分第三方购物代理挡在门外。</span></p><p><span>同样是“AI替你买”，为什么一边开门、一边关门？商家卖的从来不只是商品，还有“被看见”的机会和规则。</span></p><h2><strong><span>本期扫描</span></strong></h2><ul><li><p><span>SE3 完成300万美元A轮，军用无人机炒作空间智能概念</span></p></li><li><p><span>Biomatter 1800万美元A轮，用AI设计工业酶走进商业</span></p></li><li><p><span>Gartner 预测2027年全球AI支出4.05万亿美元</span></p></li><li><p><span>Gama 融资1500万欧元，硅电池给卫星做更便宜的太阳能阵列</span></p></li><li><p><span>Nebuly 2100万美元A轮，帮企业追踪AI的使用与投资回报</span></p></li><li><p><span>美国厂商想要绕开磷化铟（InP）”，下单新的光互连设备</span></p></li><li><p><span>MIT 研究让气候模型训练少跑几次模拟，优化了预测效果</span></p></li></ul><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lrwsLx4fO4eaanProvvbCUq2ecrD.m4a" length="28326103" type="audio/mp4"/>
+    <itunes:duration>00:29:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜心脏支架没那么有用！13年数据研究揭露的新答案</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af593803caef3b52f54be5f</link>
+    <guid isPermaLink="false">6af593803caef3b52f54be5f</guid>
+    <pubDate>Thu, 12 Nov 2026 10:29:27 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>体检报告上写着血管堵了70%，很多人都会选择放个心脏支架吧。但这台手真的有用吗？</span></p><p><span>一项跑了13年、覆盖37个国家的研究，给了一个不太好接受的答案，了解这期你会对心脏支架有更多的了解。</span></p><p><span>本期扫描</span></p><p><span>1. 两家大厂的联网汽车能被远程解锁、点火</span></p><p><span>2. 软银锁定数据中心发电二季度亏了1.12万亿日元</span></p><p><span>3. CoreWeave 业绩超预期，又准备数十亿美元芯片抵押债</span></p><p><span>4. 在太空真空里 3D 打印出太阳能阵列桁架</span></p><p><span>5. 比亚迪机器人充电臂自动插枪，五分钟补能</span></p><p><span>6. Mercor 融资七点五亿美元，估值200亿美元</span></p><p><span>7. 法国指认伊朗策动超市冷柜网络攻击</span></p><p><span>8. 碱基编辑治疗镰状细胞贫血，早期临床成功</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lu6f5bkyDfRx4ZRcz325qyQ_iJM9.m4a" length="27586342" type="audio/mp4"/>
+    <itunes:duration>00:28:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜AI眼镜搅动韩国高考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af3dd5a14d01a26f8a81e16</link>
+    <guid isPermaLink="false">6af3dd5a14d01a26f8a81e16</guid>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>韩国一场期中考试里，一个学生把普通眼镜换成了智能眼镜。</span></p><p><span>全国只查到四起，却换来一整套新规则：高考仅佩戴即作废，故意作弊可移交调查。而最反直觉的是，今天市面上九成六的 AI 眼镜根本看不见答案。</span></p><p><span>当外部智能随时能接入人的感官，社会靠什么维持“评价”的可信度？</span></p><h2><strong><span>本期科技扫描</span></strong></h2><p><span>Anthropic 撤回自己的 IPO 定价文件，降低上市定价</span></p><p><span>三井化学116亿美元收购 JSR，日本化工史上最大并购</span></p><p><span>加州否决亿万富翁税，公投前花费4亿美元宣传、游说</span></p><p><span>摩根士丹利买下过户代理 Vinyl Equity，Agent接入传统金融</span></p><p><span>AI 热潮推动芯片行业关键业务外包，但数据风险担忧仍在</span></p><p><span>氧化镓衬底还没量产，价格战已排到2027年</span></p><p><span>Agility Robotics 登陆纳斯达克，手握三亿美元订单</span></p><p><span>FDA 给所有 GLP-1 加视力风险警示</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lqo6N_ip73rljhYc-cQHqbVwuZJp.m4a" length="26916199" type="audio/mp4"/>
+    <itunes:duration>00:27:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜五分之一：中国把AI基建成本压到美国五分之一的真实拆解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af289095b7c4709bfe3c6f5</link>
+    <guid isPermaLink="false">6af289095b7c4709bfe3c6f5</guid>
+    <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>本期摘要</span></strong></h2><p><span>同样规模的数据中心，为什么中国只花五分之一？</span></p><p><span>内蒙古乌兰察布一个规划八百兆瓦的园区，首期一百二十兆瓦一年内交付，造价被估为美国同类项目的五分之一。</span></p><p><span>把账拆开你会发现：便宜的是壳和电，芯片那一栏一点没便宜。</span></p><h2><strong><span>本期扫描</span></strong></h2><p><span>1. 字节把沐瞳卖给沙特 Savvy，反垄断无条件放行</span></p><p><span>2. 宏禧科技第二条12英寸 Micro-OLED 产线投产</span></p><p><span>3. 华为推“全自主”台式机：秦云 HM650／HM650g 搭载麒麟X90</span></p><p><span>4. Google 扩 TPU 家族：定制硅的竞争点从“算得快”转向“记得住、守得住”</span></p><p><span>5. Instagram 的 AI 年龄识别全球铺开：年龄验证从“填生日”变成“算法推断”</span></p><p><span>6. 亚马逊组建家庭机器人新团队：正在搭建“全新品类”家庭机器人</span></p><p><span>7. 律师用八块二手 V100 自建私有服务器，“数据不出门”就不再是大机构的特权</span></p><p><span>8. 特斯拉中国10月零售跌到2022年7月以来最低，上海工厂变成“出口基地”</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lq7_fJjM1J9Hv-N3uDV4w51oInTM.m4a" length="33952508" type="audio/mp4"/>
+    <itunes:duration>00:34:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜Anthropic 自己画的RSI红线，可能已经被跨过去了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af18dcfb4a4e20202f71e48</link>
+    <guid isPermaLink="false">6af18dcfb4a4e20202f71e48</guid>
+    <pubDate>Mon, 09 Nov 2026 09:13:17 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会参会方式：</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>一家公司自己定的安全红线，如果它自己先跨过去了，会发生什么？</span></p><p><span>2026年8月12日到10月29日，独立评估机构 METR 的团队进入 Anthropic 内部，看到未发布模型的基准、训练指标、员工问卷与约十五场研究员访谈，随后交出约一百页报告。</span></p><p><span>该公司的综合能力指数自2025年10月起，增速是此前的1.9倍，置信区间1.5到2.8倍；分数从每年约十五分涨到二十九分。</span></p><p><span>本期从这份被涂黑了大半的报告出发，追问「一年走完两年的路」到底是夸还是警告，以及它为什么恰好赶在下周的上市路演之前。</span></p><h2><strong><span>本期扫描</span></strong></h2><ul><li><p><span>AI 购物代理开始按月收费</span></p></li><li><p><span>美国空管要到二零二八年才扔掉软盘</span></p></li><li><p><span>沙特公共投资基金据称二百五十亿美元收购 Unity</span></p></li><li><p><span>药管局调查诺华 Zolgensma 的严重癌症风险</span></p></li><li><p><span>阿耳忒弥斯二号发射在电离层打出两个五千公里空洞</span></p></li><li><p><span>Inkling 2 Small：五千九百四十亿参数，六十八小时预训练</span></p></li><li><p><span>IonQ 把二零二六年营收预期上调到五亿美元以上</span></p></li><li><p><span>美国财政部切断 MEXC，币安部分欧洲用户被要求年底前清仓</span></p></li></ul><h2><strong><span>资源与后续</span></strong></h2><ul><li><p><span>公众号/视频号：创新地图</span></p></li></ul><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lg6aiUj3mEHKKdmkHaPqX5jupGmr.m4a" length="26254029" type="audio/mp4"/>
+    <itunes:duration>00:27:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜被大公司买下，资金、发行和平台似乎都有了，为什么工作室反而没能留下？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aed6a53b4a4e20202f5a96d</link>
+    <guid isPermaLink="false">6aed6a53b4a4e20202f5a96d</guid>
+    <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>王煜全·前哨大会2026</span></strong></h2><img src="https://image.xyzcdn.net/FsrUIb3X-vjEgZ3zCTiRZ4Cx7ADv.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>一项研究追踪的二百八十三家主要开发工作室中，九十三家后来关闭。本期从索尼收购又关闭Firewalk的反差出发，追问买家究竟买下了什么：一个项目、一批资产，还是持续创作的能力？</span></p><h2><strong><span>本期科技扫描</span></strong></h2><ul><li><p><span>法国血站冷链遭入侵：不偷数据，也能制造危机</span></p></li><li><p><span>高通的两张成绩单：手机承压，汽车增长</span></p></li><li><p><span>Phaze融资八百七十五万美元：Agent也需要工作站</span></p></li><li><p><span>Shield AI完成X-BAT原型：造出来之后，才进入验证</span></p></li><li><p><span>Ai2联手Google：从预测天气，到推演长期气候</span></p></li><li><p><span>Steam审核积压：游戏做完之后，发行仍要排队</span></p></li><li><p><span>波多黎各调用家庭电池：备用电怎样成为电网资源</span></p></li><li><p><span>苹果解释iCloud公开链接检查：分享方式改变保护边界</span></p></li></ul><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p><h2></h2><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lkQoZClk6ApKnhMka_AghrFBrWJM.m4a" length="31392533" type="audio/mp4"/>
+    <itunes:duration>00:32:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜美国中期选举之后：谁拿走了权力，谁又按下了AI的刹车？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aec56fa6381f0f964c4464c</link>
+    <guid isPermaLink="false">6aec56fa6381f0f964c4464c</guid>
+    <pubDate>Thu, 05 Nov 2026 10:26:40 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>本期摘要</span></strong></h2><p><span>美国中期选举后，民主党预计夺回国会两院，特朗普仍掌握总统权力；与此同时，多个地方的选民支持限制数据中心建设。</span></p><p><span>本期从选民的生活账单出发，聊聊华盛顿的权力如何重新分配，以及选举结果可能如何影响AI建设、市场和中美贸易。</span></p><h2><strong><span>科技速览：</span></strong></h2><p><span>1. AMD数据中心业务大涨：AI与服务器需求如何改变芯片公司的重心？</span></p><p><span>2. fal融资13亿美元：不训练最大模型，也能做生成式媒体的基础设施。</span></p><p><span>3. Salesforce拟收购Cresta：客服AI从回答问题走向完成任务。</span></p><p><span>4. 谷歌学校搜索与AI：能开关搜索，不代表能单独关闭其中所有AI功能。</span></p><p><span>5. Canva组织重组：1271人受影响，但具体裁员人数未披露。</span></p><p><span>6. 币安遭遇盗窃：假面试与被入侵的内部工具如何串成攻击链？</span></p><p><span>7. Nexus Mods更新AI政策：不全面禁止，但创作者需要披露使用情况。</span></p><p><span>8. 美国资助28个聚变研发项目：商业发电之前，还有哪些工程难题？</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/linUEBBkpteuWmAjh_1ifK_nYbkF.m4a" length="30096601" type="audio/mp4"/>
+    <itunes:duration>00:31:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜陌陌没消失，去欧洲买了一家“挑人”的交友软件</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aeaacf697726cd4675c7e69</link>
+    <guid isPermaLink="false">6aeaacf697726cd4675c7e69</guid>
+    <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>本期摘要</span></strong></h2><p><span>注册交友软件，为什么还要先等审核？陌陌母公司收购了荷兰交友App Inner Circle的多数股权，并保留其品牌和当地运营。⁠⁠</span></p><p><span>从会员筛选、兴趣圈子到线下活动，拆解陌陌的海外布局：当一家强调“挑人”的社区追求规模，门槛与信任还能守住吗？</span></p><h2><strong><span>科技速览</span></strong></h2><p><span>1. Marvell拟收购Lumentum：AI连接产业链迎来整合。</span></p><p><span>2. 甲骨文拟融资两百亿美元：股票与债券各占一半。</span></p><p><span>3. Grok Bot收紧额度：订阅增长碰上服务成本压力。</span></p><p><span>4. 报业机构起诉Brave：版权争议延伸至AI搜索上游。</span></p><p><span>5. 苹果机器人开发传闻：硬件推进之后，软件与交互仍是难题。</span></p><p><span>6. Powerwall协调热泵：把低价电和富余太阳能提前存成热。</span></p><p><span>7. Spotify据称筹备AI改编：歌曲授权与艺人选择成为关键。</span></p><p><span>8. Claude Code限制游戏复刻：生成工具开始细化创作边界。⁠⁠</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lmLG3Laea7guCBr0_TxUJZLOTNHM.m4a" length="30611098" type="audio/mp4"/>
+    <itunes:duration>00:31:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜AI 接连解题，年轻数学家为什么开始犹豫？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae94c3c97726cd4675be039</link>
+    <guid isPermaLink="false">6ae94c3c97726cd4675be039</guid>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h3><strong><span>本期摘要</span></strong></h3><p><span>AI 在游戏里先忙着审批和分口粮，到了数学研究里，又接连交出重要难题的证明。答案越来越多，年轻研究者却开始犹豫：自己还该练什么，做什么才算成果？</span></p><p><span>本期串起八条科技动态，再从 OpenAI 新进展、MIT 调查和哈佛天文台的故事，聊聊人的位置会怎样变化。</span></p><h3><strong><span>内容速览</span></strong></h3><ul><li><p><span>五十个 Agent的社会实验，建出了审批和配给制度</span></p></li><li><p><span>加拿大加入欧洲算力网络，小国开始算力拼多多</span></p></li><li><p><span>车企十月交付，增长背后是不同的故事</span></p></li><li><p><span>自主消防飞行器进入采购流程</span></p></li><li><p><span>巴西律师在诉状中藏提示词，试图影响法院 AI</span></p></li><li><p><span>苹果智能在中国的测试时间明确</span></p></li><li><p><span>印度黄金进口下降，后面还要看库存和销售</span></p></li><li><p><span>Neuralink 盲视系统等待监管推进</span></p></li></ul><h3><strong><span>资源与后续</span></strong></h3><p><span>公众号/视频号：全球风口</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/liHtOS-WUxb8zVroncnmLj6z7rsx.m4a" length="32564591" type="audio/mp4"/>
+    <itunes:duration>00:33:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>科技前哨｜可可跌了四成五，巧克力为什么一分没降？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae8722797726cd4675b9654</link>
+    <guid isPermaLink="false">6ae8722797726cd4675b9654</guid>
+    <pubDate>Mon, 02 Nov 2026 11:43:12 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期摘要</span></strong></p><p><span>可可价格从每公斤十点七五美元跌到五点九五美元，跌幅接近45%。同一段时间，美国糖果价格指数还在涨，万圣节糖果销量却在跌。</span></p><p><span>原料跌、货架涨、销量掉，三个方向同时发生。这是一条被设计成单向的传导链：涨的时候是火箭，跌的时候是羽毛。</span></p><p><span>锁住价格的四道关卡是什么？GLP-1减肥药又起到了什么作用？</span></p><p><strong><span>动态速览：八条产业信号</span></strong></p><ul><li><p><span>英国一百天后关停固定电话，一次基础设施迁移的实验</span></p></li><li><p><span>旅行者1号沉默了两天，人类深空工程的极限样本</span></p></li><li><p><span>哈勃的两种结局，太空设备的维护无法被情怀续命</span></p></li><li><p><span>全球智能手机出货跌14%，产品线越铺越宽，利润越来越薄</span></p></li><li><p><span>法国通过1120亿美元流量税，美国流量巨头会接招吗？</span></p></li><li><p><span>教皇利奥呼吁解除AI武装，谁有资格定义人</span></p></li><li><p><span>战争机器人替人上战场，人还得冒险维护</span></p></li><li><p><span>谷歌算力卫星首次回传，太空数据中心的实验开始了</span></p></li></ul><p><strong><span>资源与后续</span></strong></p><p><span>公众号/视频号：创新地图</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/loSs9kTAjGrQ2HhLtWZWR0JusOu3.m4a" length="30943472" type="audio/mp4"/>
+    <itunes:duration>00:31:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

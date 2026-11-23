@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>阿卡姆講座</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65f426fe676495707989e82a</link>
+  <description><![CDATA[人文與社會]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:12:44 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65f426fe676495707989e82a.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Miss.Katonic</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQwNzcwMDUwLzQwNzcwMDUwLTE3MTA0OTU3NDkyOTctMDI3MjE2NWQ3ZmZhOC5qcGc=.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQwNzcwMDUwLzQwNzcwMDUwLTE3MTA0OTU3NDkyOTctMDI3MjE2NWQ3ZmZhOC5qcGc=.jpg</url>
+    <title>阿卡姆講座</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65f426fe676495707989e82a</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>从对OpenClaw 失望到对Hermes感到满意</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a28401b97e115babe5e033f</link>
+    <guid isPermaLink="false">6a28401b97e115babe5e033f</guid>
+    <pubDate>Tue, 09 Jun 2026 15:30:34 +0000</pubDate>
+    <description><![CDATA[<p><span>从对OpenClaw 失望到对Hermes感到满意</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/lhIsuCgn9B-dB4lJUV88ZjEDI93a.mp4a" length="8842454" type="audio/mpeg"/>
+    <itunes:duration>00:09:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>贫穷历史学研究生使用OpenClaw的感受（音频由edge-tts生成）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69a9b87bc2ee8d4c21a4825d</link>
+    <guid isPermaLink="false">69a9b87bc2ee8d4c21a4825d</guid>
+    <pubDate>Thu, 05 Mar 2026 16:38:27 +0000</pubDate>
+    <description><![CDATA[<p><span>感谢OpenClaw（内置kimi-k2.5）提出用免费开源的edge-tts生成音频，并自动执行了从安装edge-tts到转音频的操作</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/FstH7Zhuyo_jUrzZ5fH9bbjkhO8B.mp3" length="1281024" type="audio/mpeg"/>
+    <itunes:duration>00:03:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>STS,索卡尔事件与科学大战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66839fa996efcf17f80170f7</link>
+    <guid isPermaLink="false">66839fa996efcf17f80170f7</guid>
+    <pubDate>Tue, 02 Jul 2024 06:04:17 +0000</pubDate>
+    <description><![CDATA[<p><span>在阅读STS（科技与社会）领域的研究时，我们要意识到这个领域背后可能存在一些有争议的形而上学承诺，而这些承诺可能与自然科学家们的看法大相径庭。关键词：</span><br><span>索卡尔事件(Sokal hoax)</span><br><span>科学大战（science wars)</span><br><span>STS，即Science, Technology, and Society，通常被译为“科技与社会”。这是一个跨学科领域，强调将科技置于其所在的历史、社会、文化背景中进行研究</span><br><span>科学元勘（Science Studies）和科学知识社会学（SSK）</span><br><span>索卡尔的恶搞文章《跨越界线：通往量子引力的转换诠释学》</span><br><span>索卡尔《时髦的空话：后现代知识分子对科学的滥用》</span><br><span>Ian Hacking 《the social construction of what 》</span><br><span>Contingency 偶然性</span><br><span>Nominalism 唯名论</span><br><span>Explanation for stability 对稳定性的解释</span><br><span>柯林斯、拉宾格尔主编《一种文化？关于科学的对话》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/FnAQrhDPBkHSDlpuoly1HtLovY5a.mp4a" length="4167920" type="audio/mpeg"/>
+    <itunes:duration>00:04:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>怯者抽刃-思悼世子的暴行</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666af2847cedb8f7e280a2e7</link>
+    <guid isPermaLink="false">666af2847cedb8f7e280a2e7</guid>
+    <pubDate>Thu, 13 Jun 2024 12:41:05 +0000</pubDate>
+    <description><![CDATA[<p><span>思悼世子的家庭关系固然不幸，但他毕竟是一国世子，是可以挥刀向更弱者以渲泄心中郁火的人</span><br><span>本集提到：</span><br><span>英祖 李昑（思悼世子的父亲）</span><br><span>正祖（思悼世子的儿子)</span><br><span>惠庆宫洪氏（思悼世子的妻子）</span><br><span>冰爱（思悼世子的侍妾，清瑾县主和恩全君的母亲）</span><br><span>金环才，徐京达（思悼世子的受害者）</span><br><span>韩国电影《思悼》</span><br><span>郑炳说《权力与人：思悼世子之死与朝鲜王室》 </span><br><span>惠庆宫洪氏《恨中录》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/llq39n5Ya8Zu9XidJEGqlhMEiccU.mp4a" length="5946985" type="audio/mpeg"/>
+    <itunes:duration>00:06:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>利玛窦与冯琦的“厌世”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6661723a839f4e7309ee8ed7</link>
+    <guid isPermaLink="false">6661723a839f4e7309ee8ed7</guid>
+    <pubDate>Thu, 06 Jun 2024 07:03:11 +0000</pubDate>
+    <description><![CDATA[<p><span>万历年间，来自教宗国马切拉塔城的耶稣会传教士利玛窦写下了《畸人十篇》，以宣传教义。《畸人十篇》以许多笔墨描绘此世之苦并谓之“地狱气象”，并以此世非“人世”，乃“禽兽之本处所”；而人本“天民”，居此世不过如客侨寓，至死方返本乡。</span><br><span>史料原文：</span><br><span>“上不能以遇巷結明主，內不敢以枉道通中官，外不能低首摧顏託蚍蜉之援，下不能舍華隱耀消蠻觸之忌，徒以孤睽之跡，獵虛聲，取大官，動而得名，忌亦隨至”；</span><br><span>“诚视世民如大海中遇风涛，舟舶坏溺而其人荡漾波心沉浮海角，且各急于己难，莫肯相顾；或执碎板，或乘朽篷，或持败笼，随手所值，急操不舍，而相继以死，良可惜也！不知天主何故生人于此患难之处，则其爱人反似不如禽兽焉？”；</span><br><span>“见世者非人世也，禽兽之本处所也，所以于是反自得有余也。人之在世，不过暂次寄居也，所以于是不宁不足也”</span><br><span>“夫造物者造人贵绝万类，但其寿不及树木与禽兽者何意乎？今之人寿短乎，古造物者惜怜之耳”；“百年之中，非是度生，是度苦海也。则死岂非行尽苦海，将届岸乎？苟岁月久长，岂非逆风阻我家归乎？”；</span><br><span>冯琦病中绝笔：</span><br><span>“浩渺天风隔海涛，三千度索问仙桃。翩翩一鹤青冥去，已隔红尘万仞高”</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/lmkqPv94SKhenK5uVNkzcphVLrly.mp4" length="8516508" type="audio/mp4"/>
+    <itunes:duration>00:08:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>祥林嫂是五四妇女史观的化身吗：能动性、清代寡妇地位与女性劳动</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66028e4824acf91c3d71534a</link>
+    <guid isPermaLink="false">66028e4824acf91c3d71534a</guid>
+    <pubDate>Tue, 26 Mar 2024 07:38:10 +0000</pubDate>
+    <description><![CDATA[<p><span>在这期节目中，我将从对鲁迅《祝福》中的角色“祥林嫂”的讨论出发，探讨关于能动性、清代寡妇地位 与 女性劳动的几个问题。</span><br><span> 1 《祝福》概述</span><br><span> 2 祥林嫂是受害者，但并非没有能动性；祥林嫂的希望与困境也并非完全符合我们对传统社会的刻板印象</span><br><span>2.1从“五四妇女史观到”“修正主义”的性别史观</span><br><span>	⁃	陈东原《中国妇女生活史》（1928）</span><br><span>	⁃	高彦颐</span><br><span>2.2 祥林嫂的能动性</span><br><span>2.3 寡妇的地位：祥林嫂面对的逼嫁与立嗣问题</span><br><span>	⁃	黄锐杰《祭祀、立嗣权与乡土社会的伦理危机 ——重释祥林嫂之死》</span><br><span>	⁃	史料原文</span><br><span>《大清律例》：“其孀婦自願守志，而母家、夫家搶奪強嫁者，各按服制照律加三等治罪。其娶主不知情不坐，知情同搶照強娶律加三等”</span><br><span>清代广东巡抚郭世勋报告：“广东英德县龙右供：乾隆五十一年叔父故，叔母孀守，同幼子相依小的过活。小的因无力养赡，有贪图财礼使用，屡劝叔母改嫁，不允，小的起意强行嫁卖，议财礼46两番银，婶母知，不甘失节，自缢而死”</span><br><span>《大清律例》：“婦人夫亡無子守志者，合承夫分，須憑族長擇昭穆相當之人繼嗣”</span><br><span>2.4 祥林嫂的劳动</span><br><span>	⁃	郭松义</span><br><span>	⁃	《明天》單四嫂子</span><br><span>文字版及参考文献见：<a data-url="https://tilanqiao.zhubai.love/" href="https://tilanqiao.zhubai.love/">tilanqiao.zhubai.love</a>，欢迎关注</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/ltAcG7SUXo0D6m59FilsNDEcTn-D.mp4a" length="11479589" type="audio/mpeg"/>
+    <itunes:duration>00:11:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>重訪 林奕含</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f426fe676495707989e82d</link>
+    <guid isPermaLink="false">65f426fe676495707989e82d</guid>
+    <pubDate>Fri, 15 Mar 2024 09:41:33 +0000</pubDate>
+    <description><![CDATA[<p><span>做这期节目的主要原因，是我在互联网上看到许多关于林奕含的过于“刻板＂的描述。这期节目包含以下内容：</span><br><span>1＂房思琪＂是林奕含吗</span><br><span>2.如何理解林奕含的精神疾病（是什么疾病；有什么症状；生物－心理－社会模型）</span><br><span>3.未能取得的本科学位与被精神疾病修改的人生</span><br><span>4.对读林奕含与王德威关于胡兰成的论述 </span><br><span>文字稿及参考资料见：tilanqiao.zhubai.love</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65f426fe676495707989e82a/licxGLWzXtMvxWPhU4xF5Lckmivr.mp4a" length="6479401" type="audio/mpeg"/>
+    <itunes:duration>00:13:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65f426fe676495707989e82a/FttqeDLrsbrqzLY8p3Tu8XYyvxkM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

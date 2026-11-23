@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ggtalk</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/5e280fac418a84a0461faeea</link>
+  <description><![CDATA[接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。
+
+头发越来越少，经验越来越多；颈椎开始僵硬，头脑依然灵活。代码写多了就想尝试点新东西，聊技术，聊工作，聊生活。挤地铁？又堵车？随便点一期吧，听个乐呵。
+
+我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:48:04 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p5e280fac418a84a0461faeea.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>梁杰</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg</url>
+    <title>ggtalk</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/5e280fac418a84a0461faeea</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>大开眼界的英国之行</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64e429a543256dac0a1c8211</link>
+    <guid isPermaLink="false">64e429a543256dac0a1c8211</guid>
+    <pubDate>Tue, 22 Aug 2023 03:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>今年最重大的家庭旅行，去伦敦玩了 10 天，感触颇深。当然，这期不是什么旅游攻略和景点介绍，都是主观表达，聊聊看到的，想到的，好玩的，讨厌的。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/5e280fac418a84a0461faeea/lraXZNHxXxESxDQQfoesk2MFwCJM.mp3" length="61302758" type="audio/mpeg"/>
+    <itunes:duration>02:07:27</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2022 圣诞之行——4000 公里寒冬自驾，一波三折意外收获</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63b883a10d87411151070324</link>
+    <guid isPermaLink="false">63b883a10d87411151070324</guid>
+    <pubDate>Fri, 06 Jan 2023 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期回归单口，回顾一下我们一家刚刚结束的圣诞自驾。这趟的目的地依然是落基山脉，去的越多，群山对我的吸引力越强。我很难用什么高深的词汇来描述，但总有那么一刻，在我疲惫和迷茫的时候，会想起那些覆盖着白雪，在阳光下闪闪发光的山峰。我就知道，我又该去看山了。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/talkcdn.swift.gg/112c9b80-9038-40c6-bcb8-2e0523549600.mp3" length="42435446" type="audio/mpeg"/>
+    <itunes:duration>01:28:08</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>旅游漫谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63a7d2d0cdde18cf9b754016</link>
+    <guid isPermaLink="false">63a7d2d0cdde18cf9b754016</guid>
+    <pubDate>Sun, 25 Dec 2022 03:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/talkcdn.swift.gg/b57ec068-9fe5-4b27-8626-687b95d85f6a.mp3" length="48094350" type="audio/mpeg"/>
+    <itunes:duration>01:39:56</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>文科转码的程序员，在日本跳了个槽</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/639c06a7cdde18cf9b74e3e1</link>
+    <guid isPermaLink="false">639c06a7cdde18cf9b74e3e1</guid>
+    <pubDate>Thu, 15 Dec 2022 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好久不见！这几个月太忙了，年底终于有些时间来录节目。这期和十元聊聊在日本跳槽的经历，以及她对日本 IT 工作和行业的感想。由于录音设备问题，前两分钟梁杰的声音比较小，两分钟之后就正常了。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/talkcdn.swift.gg/426b090f-0dd2-4c67-9615-fe36b6fd1db1.mp3" length="49567276" type="audio/mpeg"/>
+    <itunes:duration>01:43:00</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>打破幻想的温哥华之旅</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62efda09f5799d134563f249</link>
+    <guid isPermaLink="false">62efda09f5799d134563f249</guid>
+    <pubDate>Sun, 07 Aug 2022 15:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>期待已久的温哥华之旅，因为意外从 7 天变成了 10 天，但也更加完整的考察了温哥华各地的风土人情。总体来说，温哥华并不适合我们，至于为什么，请听节目内容。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/talkcdn.swift.gg/f65c0c0e-994e-4291-8fbb-96b2e0482c3c.mp3" length="57392278" type="audio/mpeg"/>
+    <itunes:duration>01:59:19</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲聊 | 加拿大的房子类型和居住体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/628407fb0e4f65aff946cfa8</link>
+    <guid isPermaLink="false">628407fb0e4f65aff946cfa8</guid>
+    <pubDate>Tue, 17 May 2022 14:50:00 +0000</pubDate>
+    <description><![CDATA[<p><span>房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/talkcdn.swift.gg/e2680374-6ce7-467e-aa23-09f9054b31de.mp3" length="43512077" type="audio/mpeg"/>
+    <itunes:duration>01:30:24</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲聊 | 买车过程，以及两个月的皮卡体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/627c0ff1a104ebf987cc7912</link>
+    <guid isPermaLink="false">627c0ff1a104ebf987cc7912</guid>
+    <pubDate>Wed, 11 May 2022 19:03:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这里写一下完整的型号：2021 Ram Classic Warlock。每天发动起来，心情都是愉悦的，累并快乐着。</span></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL3RydWNrMi5tcDM=.mp3" length="40698374" type="audio/mpeg"/>
+    <itunes:duration>01:24:32</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲聊 | 为什么我想换皮卡</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/627c0ff1a104ebf987cc7911</link>
+    <guid isPermaLink="false">627c0ff1a104ebf987cc7911</guid>
+    <pubDate>Wed, 11 May 2022 19:02:00 +0000</pubDate>
+    <description><![CDATA[<p><span>陪伴我们四年的 Civic，变成了过去式。</span></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL3RydWNrMS5tcDM=.mp3" length="26364247" type="audio/mpeg"/>
+    <itunes:duration>00:54:40</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲聊 | 卡尔加里和多伦多，我的第一印象</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/627c0ff1a104ebf987cc7910</link>
+    <guid isPermaLink="false">627c0ff1a104ebf987cc7910</guid>
+    <pubDate>Wed, 11 May 2022 19:01:00 +0000</pubDate>
+    <description><![CDATA[<p><span>考察一下哪个城市更适合作为下一步搬家的目标。时间很短，了解有限，不过第一印象已经建立起来了。后续会继续考察。</span></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL3RyaXAyLm1wMw==.mp3" length="41660312" type="audio/mpeg"/>
+    <itunes:duration>01:26:32</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲聊 | 第一次带孩子旅游，和第二次带孩子旅游</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/627c0ff1a104ebf987cc790f</link>
+    <guid isPermaLink="false">627c0ff1a104ebf987cc790f</guid>
+    <pubDate>Wed, 11 May 2022 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊近期的两次短途旅行，分别去了卡尔加里和多伦多。</span></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL3RyaXAxLm1wMw==.mp3" length="32574305" type="audio/mpeg"/>
+    <itunes:duration>01:07:36</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在加拿大工作和生活是什么体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61c0dc5c874a732463bf77df</link>
+    <guid isPermaLink="false">61c0dc5c874a732463bf77df</guid>
+    <pubDate>Mon, 20 Dec 2021 15:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期是和枫言枫语一起录制的串台节目，我也终于当了一回嘉宾！聊聊我自己的加拿大生活体验。</span></p><span></span><p><span>参考链接：</span></p><span></span><ul><span></span><li><span>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</span></li><span></span><li><a href="https://fyfy.fm/" data-url="https://fyfy.fm/"><span>枫言枫语</span></a></li><span></span></ul><span></span><br><span></span><p><span>新听众？推荐阅读</span><a href="https://talk.swift.gg/guide" data-url="https://talk.swift.gg/guide"><span>新听众指南</span></a></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL2Z5ZnktY2FuYWRhLm1wMw==.mp3" length="41921954" type="audio/mpeg"/>
+    <itunes:duration>01:28:03</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>佛系技术翻译组 SwiftGG 的过去与现在</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61b66808dc62c545d3557dcd</link>
+    <guid isPermaLink="false">61b66808dc62c545d3557dcd</guid>
+    <pubDate>Sun, 12 Dec 2021 20:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期是和卓同学的卖鱼桥分桥一起录制的串台节目。录了有一段时间了，最近刚剪好发出来。主要是和卓同学、mm 一起聊聊我们 SwiftGG 翻译组。</span></p><span></span><p><span>算了一下，SwiftGG 从正式成立到现在也有 7 年多了。最初为什么成立？如何吸收成员发展壮大？后期为什么越来越不活跃？这期我们就来好好聊聊。</span></p><span></span><p><span>参考链接：</span></p><span></span><ul><span></span><li><span>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</span></li><span></span></ul><span></span><br><span></span><p><span>新听众？推荐阅读</span><a href="https://talk.swift.gg/guide" data-url="https://talk.swift.gg/guide"><span>新听众指南</span></a></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL3N3aWZ0Z2dfbWFpeXVxaWFvLm1wMw==.mp3" length="34938870" type="audio/mpeg"/>
+    <itunes:duration>01:20:13</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在加拿大过冬——补充</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61a54277d9233589b596facc</link>
+    <guid isPermaLink="false">61a54277d9233589b596facc</guid>
+    <pubDate>Mon, 29 Nov 2021 19:50:00 +0000</pubDate>
+    <description><![CDATA[<p><span>上期聊了很多，但后面发现还是漏了一些东西，这期续上。</span></p><span></span><p><span>参考链接：</span></p><span></span><ul><span></span><li><span>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</span></li><span></span></ul><span></span><br><span></span><p><span>新听众？推荐阅读</span><a href="https://talk.swift.gg/guide" data-url="https://talk.swift.gg/guide"><span>新听众指南</span></a></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL2NhbmFkYV93aW50ZXJfMi5tcDM=.mp3" length="24713519" type="audio/mpeg"/>
+    <itunes:duration>00:51:13</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在加拿大过冬</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/619817a0138b51cbd78f388d</link>
+    <guid isPermaLink="false">619817a0138b51cbd78f388d</guid>
+    <pubDate>Fri, 19 Nov 2021 19:40:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见，近期估计都是这种单口闲聊。本期先讨论一个问题：加拿大到底冷不冷。然后聊聊这边的取暖方式，以及冬季和开车相关的各种困难、经验和故事。</span></p><span></span><p><span>参考链接：</span></p><span></span><ul><span></span><li><span>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</span></li><span></span></ul><span></span><br><span></span><p><span>新听众？推荐阅读</span><a href="https://talk.swift.gg/guide" data-url="https://talk.swift.gg/guide"><span>新听众指南</span></a></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL2NhbmFkYV93aW50ZXIubXAz.mp3" length="37686755" type="audio/mpeg"/>
+    <itunes:duration>01:18:15</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ggtalk 暂时迁移到 sndn.link/ggtalk</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61318267dfd1eb12d9bd824b</link>
+    <guid isPermaLink="false">61318267dfd1eb12d9bd824b</guid>
+    <pubDate>Fri, 03 Sep 2021 01:20:00 +0000</pubDate>
+    <description><![CDATA[<p><span><a data-url="https://sndn.link/ggtalk" href="https://sndn.link/ggtalk">sndn.link</a>，或者在 SoundOn.fm 搜索 ggtalk。</span></p>]]></description>
+    <enclosure url="https://bts-media.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL2F1ZGlvL25vdGljZS5tcDM=.mp3" length="5997370" type="audio/mpeg"/>
+    <itunes:duration>00:06:15</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly90YWxrY2RuLnN3aWZ0LmdnL3N0YXRpYy9sb2dvLmpwZw==.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

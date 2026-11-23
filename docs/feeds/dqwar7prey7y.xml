@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>东京单向街二楼会客厅</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6860c8dc051d3e661600391c</link>
+  <description><![CDATA[大家好，这里是东京单向街二楼会客厅，我们专注于深度文化分享和多元思想交流，播送各个领域的嘉宾在东京单向街二楼分享的精彩内容。也希望每一位朋友给自己留一些闲暇，来东京单向街坐一坐～]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:27:39 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/dqwar7prey7y.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>东京单向街书店</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FjZot5fjhiwd6LmgWGMnH-H33nDZ.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FjZot5fjhiwd6LmgWGMnH-H33nDZ.png</url>
+    <title>东京单向街二楼会客厅</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6860c8dc051d3e661600391c</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>郭宇&amp;孙靖涵：AI能拍电影吗？No.95</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b001fd8a4a79edf137c4833</link>
+    <guid isPermaLink="false">6b001fd8a4a79edf137c4833</guid>
+    <pubDate>Sun, 22 Nov 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>【活动简介】</span></strong></p><p><span>从一段文字到一支视频，AI 需要几步？</span></p><p><span>visi0 的工作流程：输入一个故事 -&gt; Claude 拆解关键帧 -&gt; AI 生成每一帧图像 -&gt; AI 将静帧变成视频片段 -&gt; Remotion 合成最终影片。全程自动化，但每一步都有人类可以介入调整的空间。</span></p><p><span>分享要点：</span></p><p><span>故事到画面： Claude Vision 如何理解视觉叙事</span></p><p><span>图像生成的选择： FLUX vs Stable Diffusion vs 商业 API</span></p><p><span>视频生成的前沿： Kling、Wan2.2 等模型的实际表现</span></p><p><span>现场演示：30 秒短片的诞生过程</span></p><p><span>AI 影像的局限：为什么"差一点"的感觉很重要</span></p><p><span>关联项目：</span></p><p><span>visi 0</span></p><p></p><h3><strong><span>【嘉宾介紹】</span></strong></h3><img src="https://image.xyzcdn.net/lhCN_ex2WYYsplmPTgaZahrsdNoD.png"><p><strong><span>郭宇</span></strong></p><p><span>字节跳动前资深员工，28岁实现财富自由，进入“英年早退”的状态。</span></p><img src="https://image.xyzcdn.net/Fsh16ibubEdMep0PnKZDTX3Qi2dZ.png"><p><strong><span>孙靖涵</span></strong></p><p><span>前央视主持人 、制片人</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lux-ydu7VNOVlUdDLSgnj2G4XeF2.m4a" length="104606057" type="audio/mp4"/>
+    <itunes:duration>01:47:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkogEKPKQECafpDp7mafFrU8Rtl9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>郭宇&amp;孙靖涵：用AI经营一人公司 No.94</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae80f2197726cd4675b54cf</link>
+    <guid isPermaLink="false">6ae80f2197726cd4675b54cf</guid>
+    <pubDate>Mon, 02 Nov 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>【活动简介】</span></strong></p><p><span>一个人能同时推进 20 多个软件项目吗？</span></p><p><span>在过去一年里，我借助 AI 编程助手同时维护着 20 多个项目——从区块链钱包到视频生成系统，从邮件平台到直播工具。这不是因为我是超人，而是因为工作方式发生了根本性的变化。</span></p><p><span>分享要点：</span></p><p><span>从 Claude Code 到 Skills 系统：如何让 AI 理解你的项目上下文</span></p><p><span>端口分配、自动化测试、代码审查——一个人的 DevOps</span></p><p><span>"研究 → 计划 → 执行"三阶段工作流的实际运作</span></p><p><span>独立开发者的困境与 AI 带来的可能性</span></p><p><span>关联项目：</span></p><p><span>Skills</span></p><p><span>全项目生态</span></p><p></p><h3><strong><span>【嘉宾介紹】</span></strong></h3><img src="https://image.xyzcdn.net/lhCN_ex2WYYsplmPTgaZahrsdNoD.png"><p><strong><span>郭宇</span></strong></p><p><span>字节跳动前资深员工，28岁实现财富自由，进入“英年早退”的状态。</span></p><img src="https://image.xyzcdn.net/Fsh16ibubEdMep0PnKZDTX3Qi2dZ.png"><p><strong><span>孙靖涵</span></strong></p><p><span>前央视主持人 、制片人</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lq-7lo9zeYUBqI_yqO2diYqkE4fk.m4a" length="119628719" type="audio/mp4"/>
+    <itunes:duration>02:03:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ll-KjZnt-PB7pTXN8H0w7jhMu6tn.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>陈天玺：我出生在日本，却没有国籍 No.93</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6addad03c96c8942ec11d9c7</link>
+    <guid isPermaLink="false">6addad03c96c8942ec11d9c7</guid>
+    <pubDate>Sun, 25 Oct 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>【活动简介】</span></strong></p><p><span>所谓无国籍者，是指未被任何国家承认为国民的人。根据联合国难民署（UNHCR）2024年的统计数据，全球无国籍者人数约为420万人。但实际上，无国籍者的人数可能至少达到1000万人。本期播客不仅将介绍全球无国籍状况，还将自己作为无国籍者生活约30年的亲身经历，探讨国籍问题。此外，结合25年来通过实地调查所接触的无国籍者，以及NPO法人“无国籍网络”所援助对象的案例，探讨无国籍问题的现状及社会面临的挑战。</span></p><p></p><p><strong><span>【嘉宾介紹】</span></strong></p><img src="https://image.xyzcdn.net/Fs5XoQoJ4tBKbdZuPbNI4Vu9Bcha.jpg"><p><strong><span>陈天玺</span></strong></p><p><span>早稻田大学国际学术院教授、“无国籍网络”发起人</span></p><p><span>1971年出生于横滨中华街。1972年，受中日邦交正常化及日本与中华民国断交的政治局势影响，在出生后不久便陷入无国籍状态。此后，她便专注于移民与无国籍者问题的研究，并于筑波大学取得国际政治经济学博士学位。曾任哈佛大学费正清中国研究中心研究员、日本学术振兴会（东京大学）研究员、国立民族学博物馆副教授，现为早稻田大学国际学术院教授。她的研究领域涵盖华侨华人议题、移民与少数族群问题，以及国境与国籍等相关课题。著作包括描写其半生经历的《无国籍》（新潮文库），以及《华侨：华商的网络与身份认同》（明石书店）、《被遗忘的人们：日本的“无国籍”者》（明石书店）、《无国籍与多重国籍：你是“哪里人”？》（光文社新书）、《Stateless》（新加坡国立大学出版社）、《彩虹项链：什么是国籍？》（大月书店）等。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lj_Z6qITC28jE0R_hzVgSWzYPshi.m4a" length="83352397" type="audio/mp4"/>
+    <itunes:duration>01:25:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu2gvs4NwISB1K6PmKLzpgbp81DN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>王彧：时间与故乡—电影如何记住我们失去的东西 No.92</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad324810e4e410a05be3451</link>
+    <guid isPermaLink="false">6ad324810e4e410a05be3451</guid>
+    <pubDate>Sun, 18 Oct 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<h3><strong><span>【活动简介】</span></strong></h3><p><span>我们生活的东亚，在过去三十年间经历了剧烈的城市化、人口流动与社会变迁。数以亿计的人离开了故乡，城市在旧地图上重新生长，整个童年记忆中的街道、气味、邻居，也许就在某个十年内永远消失了。</span></p><p><span>电影因此成为一种特殊的记忆装置。</span></p><p><span>本期活动选择三位仍与当代东亚电影密切相关的导演，讨论电影如何保存那些正在消失的人、地方与生活方式。</span></p><p></p><h3><span>【嘉宾介紹】</span></h3><p><strong><span>王彧</span></strong></p><p><span>电影制片人、国际电影节专家、策展人</span></p><p><span>王彧长期从事电影制作与国际合拍，曾任北京国际电影节电影创投总监／市场总监，创办英文杂志《华语电影市场》。参与制片或发行逾 30 部影片，涵盖贾樟柯、乌尔善、杨超等导演代表作，斩获金球奖、金狮奖、银熊奖、金马奖等国际重要荣誉，曾任韩国电影振兴委员会顾问、北京电影学院特聘导师。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/liu5EZWoR4RlLpBPXldxgUYnHxM5.m4a" length="94051616" type="audio/mp4"/>
+    <itunes:duration>01:36:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lqZ4mxEUXrEMkzH_9POt53XCRwKY.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>喻社长&amp;嘟嘟嘟：从日本公立小学到美国藤校：一位华人母亲的真实教育实践 No.91</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab0c965f04646b3a954cb68</link>
+    <guid isPermaLink="false">6ab0c965f04646b3a954cb68</guid>
+    <pubDate>Mon, 21 Sep 2026 06:18:28 +0000</pubDate>
+    <description><![CDATA[<h3><strong><span>【活动简介】</span></strong></h3><p><span>从日本公立小学到藤校——这不是一个关于"牛娃"的故事，而是一个普通家庭在信息不对称、持续迷茫中，一步一步做出判断、不断调整的真实历程。</span><br><span>本期节目是在单向街书店东京银座店举办的一场深度亲子教育对谈。嘉宾喻总的大女儿从东京公立小学出发，经历两次转校、私立中高中，最终考入美国藤校。这条路并非规划出来的，而是在每一个关键节点，通过持续观察孩子状态、判断学校是否匹配、调整方向而走出来的。</span><br><span>对谈围绕在日华人家庭最真实的困惑展开：如何调研和评估日本学校？什么才是选择学校最重要的维度——氛围、压力、家长文化，还是孩子的状态？在升学压力与亲子关系之间，如何不把关系弄丢？</span><br><span>这场对谈没有标准答案，只有一个已经走过这条路的家长，和一个正在摸索的家长，一起把"日本教育到底该怎么看"这件事，拆解得更清楚一点。</span><br></p><h3><span>【嘉宾介紹】</span></h3><p><strong><span>喻社长</span></strong></p><p><span>东京恋人株式会社社长，长期从事中日国际贸易业务，同时也是两位女儿的母亲。</span></p><p><span>喻老师创业十余年，始终坚持事业与家庭并重，亲自参与孩子的成长与教育。如今，大女儿就读于美国常青藤名校，二女儿就读于日本优秀女子学校。</span></p><p><span>在家庭教育中，喻老师注重尊重与陪伴，重视与孩子建立平等、信任的亲子关系，通过倾听、沟通和言传身教，引导孩子保持积极乐观的心态，培养独立思考与持续成长的能力。</span></p><p><span>本次分享中，喻老师将结合自身创业与育儿经历，与大家交流家庭教育中的实践经验与成长感悟。</span></p><p><span>教育理念：与孩子成为朋友，慢慢说话；用乐观影响孩子，用成长陪伴成长。</span></p><p></p><h4><span>嘟嘟嘟</span></h4><p><span>从上海移居东京的医药从业者，三个女儿的妈妈，大宝二宝刚刚入学公立学校2个月，对孩子在日本的教育处于迷茫和困顿期，亟需过来人的指导。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lmu6vuCjnMntnHS9Dy8atE8VjQ8T.m4a" length="104192985" type="audio/mp4"/>
+    <itunes:duration>01:47:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lqvrHYHkU8S4l82VH5LUjTD7eJEJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>许知远&amp;刘争：《那些忧伤的年轻人》25周年纪念对谈 No.90</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa693f39d32647781686921</link>
+    <guid isPermaLink="false">6aa693f39d32647781686921</guid>
+    <pubDate>Sun, 13 Sep 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<h1></h1><img src="https://image.xyzcdn.net/ljvzdtdvNhF9mBiOWuHfIwmM84vo.png" alt=""><h3><strong><span>【活动主题】</span></strong></h3><h3><strong><span>Asian Talk 255</span></strong></h3><h2><strong><span>二十五年后，我们还忧伤吗？</span></strong></h2><h3><strong><span>——《那些忧伤的年轻人》25周年纪念对谈</span></strong></h3><p><span>&nbsp;</span></p><h3><strong><span>【活动简介】</span></strong></h3><p><span>2001年，《那些忧伤的年轻人》出版。那时的许知远还是一个年轻人，他用一台自行组装的电脑写下这些文字，记录下一个年轻人面对新世界时的困惑、忧伤与勇气。</span></p><p><span>二十五年过去，世界已经发生了巨大的变化。互联网、城市、工作与生活方式不断重塑着我们，而年轻人依然在面对关于自我、时代、选择与未来的种种问题。</span></p><p><span>25周年纪念版重新出版，也让我们有机会回到那个年轻的许知远，重新阅读那些曾经属于一个时代的忧伤，并看看今天的我们，还能从中读到什么。</span></p><p><span>9月9日，许知远将来到东京单向街书店，与刘争展开一场面对面的对谈。</span></p><p><span>二十五年前，他们谈论的是年轻人如何理解这个世界；二十五年后，我们或许更想知道：</span><strong><span>当我们走过青春，世界也改变了，我们曾经的忧伤还在吗？那些年轻时无法回答的问题，如今有了答案吗？</span></strong></p><p><span>这不仅是一场关于《那些忧伤的年轻人》的纪念，也是一场关于</span><strong><span>青春、时代与自我</span></strong><span>的重新回望。</span></p><p><span>欢迎来到东京单向街，一起聊聊二十五年前的年轻人，也聊聊二十五年后的我们。</span></p><p><span>&nbsp;</span></p><h3><strong><span>【嘉宾介紹】</span></strong></h3><p></p><img src="https://image.xyzcdn.net/FvGne4KiED9zMmC5cLDz4hcHYUQj.png" alt=""><p><span>作家、出版人、媒体人，《十三邀》主创及主持人。1976年出生于北京，毕业于北京大学，曾赴美国哈佛大学进修。2000年代初开始写作，2001年出版《那些忧伤的年轻人》，此后持续关注知识分子、城市文化、思想与个人经验之间的关系，著作包括《祖国的陌生人》《一个游荡者的世界》《那些忧伤的年轻人》等，他正在撰写五卷本梁启超传记，其中两卷《梁启超：青年变革者 1873—1898》《梁启超：亡命（1898—1903）》现已出版。</span></p><p></p><img src="https://image.xyzcdn.net/Ftv7NM8ICC4p7UPsaF-cQRCLpYB7.png" alt=""><p><span>比较思想学者。关西国际大学经营学部副教授。目前主要研究领域是战后日本思想和中国现代思想。</span></p><p><span>在日本和中国分别出版了由中日比较思想角度撰写的加藤周一研究专著 （《 例外的思想： 战后知识分子加藤周一的射程》现代图书，以及《例外的个体论加藤周一及其思想》知识产权出版社。</span></p><p><span>近年来参与跨文化学术交流，同时涉足艺术文化研究。目前正在撰写探讨当代个体理论的著作。</span></p><p><span>&nbsp;</span></p><h3><strong><span>【关联书籍】</span></strong></h3><h3></h3><img src="https://image.xyzcdn.net/FhTb4VA1OFbzC-MZ65ocxo80eWSa.jpg" alt=""><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lmPx7cmNykDS8z0wA2fXRYAbDGPo.m4a" length="88677508" type="audio/mp4"/>
+    <itunes:duration>01:31:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lofOWNlXEjZ1bjjIOgVJRdaRAWPm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>晏礼中：看不见的世界 No.89</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9e5624a0210c197dcebded</link>
+    <guid isPermaLink="false">6a9e5624a0210c197dcebded</guid>
+    <pubDate>Mon, 07 Sep 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>通过第一本记录中国当代道士的采访实录，探讨在科技发达的今天，中国道士和日本神主，如何应对社会焦虑以及他们的仪式和智慧对现代人的治愈意义。</span></p><p><span>【嘉宾介绍】</span></p><p><strong><span>晏礼中</span></strong></p><p><span>前媒体人、作家，中国道教全真龙门派第三十三代弟子，现为吉生风水营造社主理人。著有《别处生活》《大地清凉》《道士上山》等书。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/ln7YiBX4K3uYdUKvxu0Qm7aEhCke.m4a" length="71507180" type="audio/mp4"/>
+    <itunes:duration>01:13:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnwES3d046Na3b5ajAAVZZlEGsFl.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>陈经伟：我在日本当村官 No.88</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a93a1b4a0210c197dca555b</link>
+    <guid isPermaLink="false">6a93a1b4a0210c197dca555b</guid>
+    <pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>随着日本人口减少与老龄化加剧，乡村振兴（地方创生）已成为社会发展的重要课题。农业、观光、文化体验与社区营造，正在为日本乡村带来新的可能。</span></p><p><span>本期播客将以千叶县多古町为案例，带大家走进日本乡村振兴的第一线，了解农业观光、地方创生与六次产业化的实践探索。</span></p><p><span>嘉宾陈经伟曾参与日本电视台综艺节目及中日纪录片制作，2025年4月加入千叶县多古町乡村振兴队，负责地方宣传、农业推广及国际交流工作。凭借传媒策划与影像制作的专业背景，他积极协助当地政府及相关机构推广多古町的自然资源、特色农业与观光产业，通过内容传播和沉浸式体验，让更多人认识日本乡村的魅力。</span></p><img src="https://image.xyzcdn.net/lkvTGaQD6FjcDy83MEb-p7f1-2RN.jpg"><p><span>嘉宾：</span><strong><span>陈经伟</span></strong></p><p><span>来自中国湖南省，在日本生活10年。兴趣爱好为健身、阅读，以及探索乡村文化。</span></p><p><span>疫情期间，曾走访福岛、茨城、千叶、冈山等日本多个地区，深入学习农业、民宿经营、地方创生及乡村旅游的发展模式。</span></p><p><span>目前以千叶县多古町为据点，希望结合农业、观光、文化体验及六次产业化的发展理念，打造连接都市与乡村的平台，为都市居民提供能够亲近自然、疗愈身心、体验乡村生活的"第二家园"，让更多人重新发现乡村的魅力与价值。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lvkv_s4RT3Xx4ItfNf2SQ4ZYNZzM.m4a" length="53894907" type="audio/mp4"/>
+    <itunes:duration>00:55:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lm2-jypfKy-8c2wLR2CKRvWj7Pt0.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>王东：现代日本料理的起源发展和未来No.87</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a144a728b5c94538eb0cb69</link>
+    <guid isPermaLink="false">6a144a728b5c94538eb0cb69</guid>
+    <pubDate>Mon, 25 May 2026 13:22:48 +0000</pubDate>
+    <description><![CDATA[<p><span>王东先生刚来日本不久，就写了一本畅销书名叫《别告诉我你懂日本》。虽然书名看起来挺嚣张的。</span></p><p><span>但是王东老师私底下是很谦和儒雅的人。</span></p><p><span>他说当年纸质书不好卖，于是出版社就劝他说，你看隔壁什么最强日本史都卖得不错，要不咱们就叫《别告诉我你懂日本》吧。</span></p><p><span>虽然王老师也觉得这个名字挺中二，但是架不住编辑的软磨硬泡，一心软就同意了。</span></p><p><span>在这次的分享中，王老师聊很多关于日本料理的有趣话题，下面我列几个给大家听听。</span></p><p><span>比如</span></p><p><span>1.为什么饺子的流行和与日本军国主义扩张紧密相关？</span></p><p><span>2.日本首相请奥巴马吃寿司之神的寿司，为什么奥巴马却不领情？</span></p><p><span>最后还有一个让我大吃一惊的观点，日本年轻人的口味也在变得越来越辣吗？</span></p><p><span>最后呢，在观众互动的环节，一位女士分享了她一年来在日本的各个小站探店的心得，还有通过制作一汁三菜，感受到身体和心灵都得治愈的过程。</span></p><figure><img src="https://image.xyzcdn.net/FgmEmRr_0cDrztiLB-e-ZrgCPjSs.png"></figure><p><span>银座单向街书店网址：</span><a href="https://one-way-street.com/" data-url="https://one-way-street.com/"><span>one-way-street.com</span></a></p><p><span>联系邮箱：nutcracker.zhangyi@gmail.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/llRoAHg2oO9Kpjr8OvkAxRhC4DeY.m4a" length="74274901" type="audio/mp4"/>
+    <itunes:duration>01:16:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/nncuym00Nzhqoa_93EsBoxfRf7ym.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>关中阿福：82版《西游记》四十周年纪念 No.86</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a0a5f0fe1eb34a93996a7d4</link>
+    <guid isPermaLink="false">6a0a5f0fe1eb34a93996a7d4</guid>
+    <pubDate>Mon, 18 May 2026 00:58:58 +0000</pubDate>
+    <description><![CDATA[<p><span>1982年7月3日</span></p><p><span>电视剧《西游记》正式开拍，导演 杨洁，摄像 王崇秋 及全剧组演职人员上千人，踏遍神州 120余处 拍摄地，远赴泰国多地取景。</span></p><p><span>1988年2月历时 6年，完成 25集 拍摄，同年正式播出。之后 40年 间，先后在央视及各地方电视台重播4000余次。</span></p><p><span>这是他们的故事</span></p><p><span>他们每个人，都是一根梁，一颗钉，拔地筑起灵峰庙字，他们每个人，都是一株草，一粒沙，携手铺陈九州锦霞。</span></p><figure><img src="https://image.xyzcdn.net/FhmCoCvbE5dNvpcHXf8APitNXX4K.jpg"></figure><figure><img src="https://image.xyzcdn.net/FnoXmCSUtbRs766UEcCuTVtjwHbf.jpg"></figure><figure><img src="https://image.xyzcdn.net/FjjJEMLa3bhFPz71f9lzSpRVS530.jpg"></figure><figure><img src="https://image.xyzcdn.net/FsbCUaVM3H_yYQFltQm9QQb2geAu.jpg"></figure><figure><img src="https://image.xyzcdn.net/FvPFHc2AOkoi64sdtxYxvyqhHsWO.jpg"></figure><figure><img src="https://image.xyzcdn.net/FhfkGN4qWO77bmlgDGvxjCymuC5e.jpg"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lgjKdfL_aDGoWs4HwGaIUSyhzRV4.m4a" length="98783595" type="audio/mp4"/>
+    <itunes:duration>01:41:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/nnShUVEGKb1jMjssP32TRyuS725e.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>安公子：“赤马红羊劫”传奇-一个伴随中华2000年的噩梦 No.85</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a00c1771b7bd50295e0c705</link>
+    <guid isPermaLink="false">6a00c1771b7bd50295e0c705</guid>
+    <pubDate>Sun, 10 May 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>算卦、风水、运势、择日，这些看似神秘的东方经验，究竟彼此有什么区别？</span><br><span>“赤马红羊劫”又为何会在中国历史中不断被提起，并成为一种关于时代动荡的集体想象？</span></p><p><span>在这一期节目中，我们从古代文献中的“赤马红羊劫”出发，梳理其历史来源与民间传播，也结合历代真实事件与现实案例，讨论东亚文化中关于命运、时运与空间秩序的理解方式。</span></p><p><span>节目中也谈到了不同年份中的运势变化、日常生活中的宜与忌，以及今年家中适合怎样的风水布局。</span></p><h3><strong><span>【嘉宾介绍】</span></strong></h3><figure><img src="https://image.xyzcdn.net/Fu-rkR7VBOhHPdfPX7dODiGPbAZv.png"></figure><p><strong><span>安公子</span></strong></p><p><span>跨领域的作家和文化传承者。作为作家，出版有《我的自由式》《听爱》《壹步御光年》等文学作品。他同时也是传统文化传承者，为玄学领域知名的术数家和命理师，研习玄学20余年，2019年获得香港第10届全球算命师大赛季军，2025年第16届全球算命师大赛命题老师，并受邀在中国香港、日本、美国等地演讲分享。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lnn7yU09yjvf87yjoCHbcLbdhzz2.m4a" length="75705942" type="audio/mp4"/>
+    <itunes:duration>01:17:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ntxNzkBFNQrvSn431xzBbnwnWp1M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>星尘：变形金刚40周年特别纪念 No.84</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69f761bbe05c0efcd6d3cd83</link>
+    <guid isPermaLink="false">69f761bbe05c0efcd6d3cd83</guid>
+    <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>1984年5月孩之宝精心策划的《变形金刚》英文版漫画在北美地区隆重发售。</span></p><p><span>1984年9月《变形金刚》动画片首播，他们，将一个神奇的变形机器生命世界带到了孩子们面前，迅速在欧美儿童中引起了“变形金刚”热潮。从那时算起，变形金刚已经走过了整整40年的历程。</span></p><p><span>《变形金刚宇宙》(《Transformers Universe》)丛书四册于1986-1987年推出，后来又在各期漫画中陆续推出了其他人物介绍。这套书和后续期刊对当时推出的大部分变形金刚人物(有的仅有玩具未在动漫中出场，有的在动漫出场但无玩具)进行了详细的介绍，是变形金刚最原始的设定资料。</span></p><p><span>遗憾的是变形金刚人物设定集却始终与中国的出版物市场无缘。进入新世纪后，出版过的新的人物设定集以现代审美塑造了精美的变形金刚形象，也凸显了《变形金刚宇宙》的古朴与神秘。然而，对于中国爱好者来说，未能与《变形金刚宇宙》的原生态面貌有一个正式“约会”，始终是个遗憾。</span></p><p><span>四十年来，官方和刚丝都编辑出版过不少G1变形金刚资料集，基本上集中在动画:玩具方面，系统而详细的元祖人物档察集如凤毛麟角。</span></p><p><span>早在2012年，我们就有将《变形金刚宇宙》引进的想法，但由于条件不成熟，始终未能实现。2014年和2018年，我们有了两次与出版社对话的机会，虽然最终形成了两本变形金刚书籍，但出版《变形金刚宇宙》人物档案集的愿望仍未能实现。</span></p><p><span>一转眼，变形金刚已经诞生40周年。这一次，我们终于得偿所愿，能够放开手脚将这本充满怀旧意味、奠定今天变形金刚世界观的著作，完整呈现于中国读者面前。这就是本书--《变形金刚元祖漫画人物档案》。但是这一次，我们将呈现给大家的，远不止原书这么简单……</span></p><figure><img src="https://image.xyzcdn.net/FvEjT_eTkiIF8GjVZa0nzn8VRPyq.jpg"></figure><figure><img src="https://image.xyzcdn.net/FnPe1fpE-rW48c288aR9x3j-eL6G.jpg"></figure><figure><img src="https://image.xyzcdn.net/FgTFccO1DuTVGqlk71f_7BX5jJ3t.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fu5T5rcY3KK8LQz08ETxCbk5ZbM-.jpg"></figure><figure><img src="https://image.xyzcdn.net/FhLMHcprUca0sESRyc_eaXvu3epY.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fr2r-B0DOx4JPdkwQMKTWLxkH0ox.jpg"></figure><figure><img src="https://image.xyzcdn.net/FqO2aGAeNoyjpFbkC4mv3cn18cMJ.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fns77R2ddN06_CT3iGCZTk4W_mLo.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fr14mvryYgZo5qQPW5V4Fm0IBe8m.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fiecxr0FYL-xpVyWhrv7qtI_U3JT.jpg"></figure><figure><img src="https://image.xyzcdn.net/FmdvE9-Lu1J2uUILrTAAcaZfo1hd.jpg"></figure><figure><img src="https://image.xyzcdn.net/FqOzRRzIIv9cwcr0n_lRfQvXk24A.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fm5UXbxL64QrXEmMTbhaHNnbcJV8.jpg"></figure><figure><img src="https://image.xyzcdn.net/Frv8ch8LK04HCr0qj-uhodI91ox4.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fr2DHEZnRBndgyPc9rJ87plGVKK-.jpg"></figure><figure><img src="https://image.xyzcdn.net/FhKvxnLfFEVc94Tqj6V8rFaIciDh.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fta0gRM3M72q6HNvU2aVH_Ec5sbn.jpg"></figure><figure><img src="https://image.xyzcdn.net/FmP-SBoiiB7856JAejov6hQUwrvW.jpg"></figure><figure><img src="https://image.xyzcdn.net/FiB-S2PttIWzrv9CzX8zYu4H60SI.jpg"></figure><figure><img src="https://image.xyzcdn.net/FpaAy3OnFMwfKUfC4Qyll6Rtqmfp.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fkt641XZSd4Erq3WpAI2zI1IbFkM.jpg"></figure><figure><img src="https://image.xyzcdn.net/Fpl2tg3RLzHn_wmvIERQMaVZUI7j.jpg"></figure><figure><img src="https://image.xyzcdn.net/FswHjxcZdAbANaXRiSNOVOsI0qT_.jpg"></figure><figure><img src="https://image.xyzcdn.net/FvHTNVlEje5onC0XHJR4Z8YHm0XM.jpg"></figure><figure><img src="https://image.xyzcdn.net/FigAHp0Zrlb1VxgpiSCLFAtF0KA1.jpg"></figure><figure><img src="https://image.xyzcdn.net/FmbT8dyB-sYTsNm8qxLCcW1anVLr.jpg"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lu1rz9v92Rw76zejvH1BqZHI4ufc.m4a" length="103588759" type="audio/mp4"/>
+    <itunes:duration>01:46:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ni-0eY-L_l3ZWM49qRzbWkvpQm02.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>[中日双语]志野好伸&amp;塚本麿充：解读中国诗画论 No.83</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ee12041d989496e78e4461</link>
+    <guid isPermaLink="false">69ee12041d989496e78e4461</guid>
+    <pubDate>Sun, 26 Apr 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在日本喜欢汉诗、爱学中国书法和绘画的人很多，但对诗书画的传统理论有兴趣的人未必多。为此，《通过关键词读懂中国古典》丛书出版了第五册《表现的技法—诗·书·画》。在书里，三位作者从各自视角出发，叙述、梳理了中国传统的诗论、书法理论和画论的重要论点和历史变迁。</span><br><span>负责诗论的志野好伸教授是同一丛书里的《圣与狂――圣人·真人·狂人》的执笔者之一。志野教授的研究范围很广，涉及整个中国哲学和文学。在本书中，志野教授通过对《毛诗大序》、曹丕的《典论·论文》、刘勰的《文心雕龙》等诗论和文学理论的分析，讨论了诗要表达什么、诗的作者是些什么样的人等问题。</span><br><span>负责画论的塚本麿充教授不仅从书画样式的角度，还从作为“物”的书画如何被接受的视角重新探讨中国美术史。塚本教授还是策划各种展览会的专家。在本书中，他重新审视作为“物”的作品和画论、书画目录的关系，分析了宋炳的《画山水序》、张彦远的《历代名画记》、荆浩的《笔法记》、郭思的《林泉高致集》等文本。</span><br><span>本期播客除了介绍新书《表现的技法》中关于诗论、画论部分的内容，也讨论了在日本阅读中国传统诗论和画论的意义。</span></p><span></span><p><span>【嘉宾介绍】</span></p><span></span><p><span>志野 好伸</span></p><span></span><p><span>明治大学文学部教授。专攻中国哲学和中国文学。主要著作有Le corps dans les littératures modernes d’Asie orientale : Discours, représentation, intermédialité （合著、Collège de France, 2022）、『東アジアにおける哲学の生成と発展―間文化の視点から』（合著、法政大学出版局）、『何処から何処へ―現象学の異境的展開』（合著、知泉書館）、『聖と狂―聖人・真人・狂者』（编著·合著、法政大学出版局）等。</span></p><span></span><p><span>塚本 麿充</span></p><span></span><p><span>东京大学东洋文化研究所教授。专攻中国美术史及中国书画传播区域的文化史。主要著作有『北宋絵画史の成立』（中央公論美術出版）、『アジア仏教美術論集　東アジアⅢ　北宋・遼・西夏』（合编著、中央公論美術出版）、『コレクションとアーカイヴ――アジア美術研究の可能性』（合编著、出版）、『台北 國立故宮博物院　神品至宝　図録』（合著、東京国立博物館）等。</span></p><span></span><p><span>王 前</span></p><span></span><p><span>人文学者。主要研究领域为政治哲学、思想史。</span></p><span></span><h3><span>【相关图书】</span></h3><span></span><p><img src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9vbmUtd2F5LXN0cmVldC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIv5Zu-5LmmLTIwNHgzMDAuanBn"></p><span></span><p><span>“用关键词读中国古典”书系 第五册</span></p><span></span><p><span>《表现的技法：诗・书・画》</span></p><span></span><p><span>志野 好伸：編, 成田 健太郎：著, 塚本 麿充：著</span></p><span></span><p><span>在中国，人们将诗、书、画皆精称为“三绝”。本卷以从起源、批评术语与作者三个方面审视诗、书、画的共通性为导入，围绕“文”“气”“意”“骨”“风”等关键词，系统介绍经理论建构而形成的诗论、书论、画论中的重要论述与作品，引领读者深入中国艺术及艺术理论的神髓。“用关键词读中国古典书系”隆重完结！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/ltqNPtxvWplt9NHbKxK7MQKkZDsX.m4a" length="115903099" type="audio/mp4"/>
+    <itunes:duration>01:59:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvvJDkYyhhvWPxN71DCYpIW7fllV.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>林翔：《正大剧场》央视引进海外影视剧全记录 No.82</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69e572321e94ae6921a7d37c</link>
+    <guid isPermaLink="false">69e572321e94ae6921a7d37c</guid>
+    <pubDate>Mon, 20 Apr 2026 00:44:07 +0000</pubDate>
+    <description><![CDATA[<p><span>20世纪80年代后期，正大集团在香港成立了正大综艺有限公司，开始在电视领域谋划布局。公司最初以国内地方电视台为试点，将制作完成的综艺节目冠名为《正大纵横》。</span></p><span></span><p><span>1989年3月，正大公司开始给上海、北京、广州、福建等四家电视台供片试播，这是国内首个由香港影视公司定期提供片源的电视专栏节目。栏目分为《放眼世界》和《正大剧场》两个版块，每期的播出时间长达两小时。</span></p><span></span><p><span>其中的《正大剧场》板块播映海外优秀水准的电影及电视剧集，由正大综艺有限公司选购并提供片源，这便是《正大剧场》的起点。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FgMhxIdMrkOIK7hdV70VrARu87RP.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjYbbCy9_cXFnDbY_Fitocs7WEDJ.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FkJsLr9hrMzqArrXshBrKPKCw3lG.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsDuKcCTdJQ1fGZIdlxwO6IFfxi9.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fr2OOGYNtixDhuDKCse3RHIwcC9M.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fnp27Dh_KuNkxswlZ85MLgYc5rkM.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fh1sLx7_iCkM0-6NQVJ51UT7GWAc.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fi-JxvCDV2h8E2ALNd0bFWwTId1k.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjYn-c_LO0KiuYIufqOXvLB5_GB6.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgdnhgxJhhsU-3qA1oxaG3ZEq94s.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgDks4FrtarndX1z5J8iNkYPE2OW.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsLTa24wPJ4VBREX10vJzjv2jmi_.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FonISrUKFiaj0UXtWRYGg-ErvWFp.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtNusyxSBBgB-txM69_skIf20Foj.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fu8vcpX9BAcSCVmxMJgCNsuPGlzk.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fu5k2fd97_VK0FlxOmXayJxVdzhY.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvtctvI8RQLNC5YS4A6yycNZh8jI.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FmiKSIbl6efolch_kCuj_5z_uoJG.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FpG2s60zxgLiZQb-1j3qmUNv51OX.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjYuz7BYaGuaKFGE7mCGTAT9KPUh.jpg"></figure><span></span><p><span>主创团队</span></p><span></span><figure><img src="https://image.xyzcdn.net/FpAZp7WWJiP4hI_00t1f28qoZ0Na.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fp-9gAPGUmJLcjhnCx2rW7e7FpbD.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FnWEI5yGOxBNXJVvX6jl9pZSDWp3.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/lnflVwqHEWWUkS7JwFFMdD9J4irL.m4a" length="116510569" type="audio/mp4"/>
+    <itunes:duration>02:00:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrLJKKS_CqR3at92G1urZtmx0ZuT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周云蓬：绿皮火车-一趟穿越爱情、命运与死亡的旅程 No.81</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69d8f79bb977fb2c479b68c8</link>
+    <guid isPermaLink="false">69d8f79bb977fb2c479b68c8</guid>
+    <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>当歌声与文字相遇，一段关于时间与行走的记忆将被重新唤醒。</span></p><span></span><p><span>2026年4月5日，民谣音乐人、诗人周云蓬来到东京单向街书店，带来一场小型演出与《绿皮火车》分享会。在这部随笔集中，他以细腻而克制的笔触，记录个体在时代与旅途中的漂泊与凝视——那些被忽略的声音、被拉长的时间，以及人与世界若即若离的关系。</span></p><span></span><p><span>“绿皮火车”不仅是一种交通工具，更像是一种缓慢而真实的生活隐喻。它承载着记忆，也通向远方。周云蓬通过音乐与讲述，延展书中的情绪与片段，让文字在声音中再次生长。</span></p><span></span><p><span>这是一场介于阅读与聆听之间的活动，一次关于爱情、命运与死亡的安静对话。</span></p><span></span><h3><span>【嘉宾介绍】</span></h3><span></span><p><img src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9vbmUtd2F5LXN0cmVldC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDMv5ZGo5LqR6JOs5Zu-54mHLTMwMHgyMTQucG5n"></p><span></span><p><strong><span>周云蓬</span></strong></p><span></span><p><span>民谣歌手，作家。九岁失明。</span><br><span>代表作《绿皮火车》，出版诗文集《春天责备》，短篇小说集《笨故事集》，随笔集《行走的耳朵》等。</span><br><span>发行唱片有《沉默如谜的呼吸》（2003）、《中国孩子》(2007）、《牛羊下山》（2010）、《四月旧州》（2014）、《瓦尔登湖》（2022）。</span><br><span>2008年，被《南方人物周刊》评为“青年领袖”，获得华语传媒音乐大奖“最佳民谣艺人”、“最佳作词人”。</span><br><span>2011年，获得人民文学“诗歌奖”，再次获得华语传媒音乐大奖“最佳民谣艺人”。</span><br><span>2022年“我们的民谣”总冠军。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860c8dc051d3e661600391c/llGEmWmp9c6whwajbpOLo_cH1KUa.m4a" length="79990976" type="audio/mp4"/>
+    <itunes:duration>01:22:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrAF7jhu6vvHTEp-cDLQP4lnfUti.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AI好友记</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/662a65b48a089719b7ccd81d</link>
+  <description><![CDATA[几个好友不定时聊聊AI见闻和一些粗浅的看法。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:45:55 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662a65b48a089719b7ccd81d.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>一支烟一朵花</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png</url>
+    <title>AI好友记</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/662a65b48a089719b7ccd81d</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>杨植麟带领下的月之暗面又有新东西了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6738bc4b43dc3a4387254bbe</link>
+    <guid isPermaLink="false">6738bc4b43dc3a4387254bbe</guid>
+    <pubDate>Sat, 16 Nov 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎加入听友群哦，在公告出可以找到！</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> KD Math模型：国内AI公司在数学领域的新突破</span></p><span></span><p><span>moonshot AI最近发布的KD Math模型在GSM8K基准测试中取得92.3%的准确率，显著超越GPT4，显示了国内AI在专业领域的强劲实力。</span></p><span></span><p><span>该模型不仅擅长数学解题，还能详细解释解题步骤，体现了其推理能力。选择从数学领域发力，反映moonshot AI走差异化路线，强调底层技术实力。</span></p><span></span><p><span>此外，专家杨志琳强调未来AI发展应重视强化学习而非单纯依赖算力堆砌。</span></p><span></span><p><br></p><span></span><p><span><a class="timestamp" data-timestamp="83">01:23</a> 强化学习成为AI发展新突破口</span></p><span></span><p><span>讨论强调了不能仅依赖增加算力来提升AI性能的观点，指出参数量增加带来的效果提升已趋于饱和，类似于边际效应递减。</span></p><span></span><p><span>尽管GPT4在算力支持下表现出色，但其进步幅度减小，预示未来单纯依靠算力的增长可能无法持续推动AI性能提升。</span></p><span></span><p><span>强化学习被看作是突破现有局限的关键，通过模仿人类学习方式，使AI能够形成真正的思维能力，而不只是模式匹配。</span></p><span></span><p><span>随着技术进步，到2025年可能出现具备类人思维的AI，这需要结合算力和强化学习的进展。特别提到了对KIMI产品的专注作为AI业务发展中的一项创新举措。</span></p><span></span><p><br></p><span></span><p><span><a class="timestamp" data-timestamp="178">02:58</a> 大模型应用战略与效率管理探讨</span></p><span></span><p><span>讨论了某大模型应用集中资源在单一方向上发展，以及团队精简管理和创新迭代之间的平衡。</span></p><span></span><p><span>指出在AI应用市场，聚焦特定场景实现极致突破是合理策略，同时强调了效率和管理能力的重要性。</span></p><span></span><p><span>同时，也关注了AI技术演进中的思维能力突破，以及当前市场对大模型参数和数据的过度依赖问题，提出了在模型思维能力上的探索可能为竞争中的关键点。</span></p><span></span><p><br></p><span></span><p><span><a class="timestamp" data-timestamp="291">04:51</a> 中国AI企业应专注细分领域与提升推理能力对话中强调了中国企业在AI领域的进步与优势，</span></p><span></span><p><span>特别是垂直行业应用的创新，提出在特定场景下做精做深的策略比盲目追求大模型更为重要。</span></p><span></span><p><br></p><span></span><p><span>同时，指出中国市场应用场景丰富、需求多样化，为技术进步提供了良好环境。</span></p><span></span><p><span>对于未来发展方向，特别提到了多模态和提升模型推理能力的重要性，</span></p><span></span><p><span>批评某些公司急于国际化、忽视技术内涵的做法，</span></p><span></span><p><span>建议中国科技企业应找到自己的节奏，专注于技术和产品的深度发展，以实现长期竞争力。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrC0nBeFOnxJlNgfAo0plBDCq9xf.m4a" length="5046421" type="audio/mp4"/>
+    <itunes:duration>00:06:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsFezxtuhYx00iD6UOGVNVdDda1r.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI大爆发：2026年，AGI真的要来了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67370a8f43dc3a4387ddd530</link>
+    <guid isPermaLink="false">67370a8f43dc3a4387ddd530</guid>
+    <pubDate>Fri, 15 Nov 2024 08:54:57 +0000</pubDate>
+    <description><![CDATA[<p><span>本集播客由AI制作完成</span></p><span></span><p><span>喜欢的听友可以点赞关注转发哦，</span></p><span></span><p><span>也欢迎加入我们的听友群，里面会分享更多优质AI内容</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FoBeHbPwQGDzxmP8HtStI4z4IQfv.m4a" length="2012777" type="audio/mp4"/>
+    <itunes:duration>00:08:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>大白话解释Transformer</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673707b1f373fe5d4d86f5b9</link>
+    <guid isPermaLink="false">673707b1f373fe5d4d86f5b9</guid>
+    <pubDate>Fri, 15 Nov 2024 08:38:23 +0000</pubDate>
+    <description><![CDATA[<p><span>本期内容均由AI完成</span></p><span></span><p><span>如果大家喜欢这种形式就点个关注吧！</span></p><span></span><p><span>想要加粉丝群的听友可以在公号处找到哦</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fhac3iPmiACx_8aZMntSaPuKoJHf.m4a" length="1458233" type="audio/mp4"/>
+    <itunes:duration>00:05:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>5.2亿美元的AI答案引擎：Perplexity的搜索革命</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6737085c43dc3a4387dd0d27</link>
+    <guid isPermaLink="false">6737085c43dc3a4387dd0d27</guid>
+    <pubDate>Fri, 15 Nov 2024 08:38:21 +0000</pubDate>
+    <description><![CDATA[<p><span>注：本集所有内容由AI完成</span></p><span></span><p><span>喜欢的听友点个赞哦，</span></p><span></span><p><span>也欢迎加入我们的听友群，有更多优质内容！！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FtbdgiIrFYOB0UrA5_fJ1s1upGpQ.m4a" length="1732397" type="audio/mp4"/>
+    <itunes:duration>00:06:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>IIya离职风波，谷歌搜索更新，空间智能</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664ca1474efbc0c3dc1a0a95</link>
+    <guid isPermaLink="false">664ca1474efbc0c3dc1a0a95</guid>
+    <pubDate>Wed, 22 May 2024 09:30:00 +0000</pubDate>
+    <description><![CDATA[<h4><span>硅谷AI动态</span></h4><span></span><p><span>伊利亚离职后安全对齐团队解散，原因是他与奥特曼在安全领域存在分歧。</span></p><span></span><p><span>谷歌搜索引擎，利用AI生成搜索结果，提高用户体验。</span></p><span></span><p><span>GPT Table，将各类金融文件转换为XML格式，帮助大模型更准确地理解处理数据。</span></p><span></span><h4><span>AI技术在各个领域的应用与进展</span></h4><span></span><p><span>主要讨论了以下几个方面的内容：</span></p><span></span><p><span>1. GPT Table项目，这是一个开源项目，支持处理非结构化纸质文件，包含丰富模型支持、对话、图像合成、多模态等功能。</span></p><span></span><p><span>2. Agent Scope多智能体开发平台，面向开发者，支持嵌入对话、图像合成、多模态等功能，并连接其他模型API。</span></p><span></span><p><span>3. 斯坦福大学人工智能报告，指出大模型训练成本急剧上升，缺乏统一评估标准，明年有望推出标准化内容。</span></p><span></span><p><span>4. AI在医疗领域的应用，如预测癌症等。</span></p><span></span><h2><span>空间智能与微调大模型的探索</span></h2><span></span><p><span>李飞飞，世界范围内女性AI的第一位，最近创业成立空间智能公司。</span></p><span></span><p><span>主要讨论了两个方面的内容：</span></p><span></span><p><span>一是空间智能的发展，认为人工智能在理解三维信息方面还有很大的差距，目前的空间智能还无法达到人类和动物的认知水平。</span></p><span></span><p><span>二是关于大模型的微调，认为大模型在通过微调获得新知识时，可能会产生幻觉，因此需要更多的微调来帮助其有效使用。</span></p><span></span><p><span>此外，还介绍了一个开源库Bilibot，它是一个本地聊天机器人，集成了文字和语音功能，可以回答用户的问题。最后，提到了一个开源知识库项目，感兴趣的人可以尝试使用</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgz9SVYM96ldBC0tx55uSSHR21AA.m4a" length="12593923" type="audio/mp4"/>
+    <itunes:duration>00:12:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI产品统一评测标准，GPT-4o</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664c9f6fc59d1e5757b9d70a</link>
+    <guid isPermaLink="false">664c9f6fc59d1e5757b9d70a</guid>
+    <pubDate>Tue, 21 May 2024 23:30:00 +0000</pubDate>
+    <description><![CDATA[<h4><span>模型选择与优化策略的探讨</span></h4><span></span><p><span>主要讨论了模型在实际应用中的表现和问题。</span></p><span></span><p><span>提到了一些模型在特定场景下可能无法处理的问题，如长表格、数学和金融逻辑等。</span></p><span></span><p><span>同时，也提到了需要一个专业的权威机构进行评测，以确定哪个模型更适合特定领域。此外，还讨论了音频直接映射到音频组的技术实现，以及端到端的实现方式。</span></p><span></span><h4><span>GPT-4o</span></h4><span></span><p><span>讨论了关于GPT-4o实时性、延迟减少、多模态音频、词汇量分词量增大等优化方面的看法。有人认为这些优化并不算质的飞跃，因为它们并没有带来量的飞跃。但也有人认为，这些优化可以视为一种质变，因为它们在某些方面已经超越了以前的模型。此外，还讨论了实时性降低可能来自于多种因素，如训练数据、推理层架构等。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liej4m0z8z6-PqKBVZzE8vPXeCX2.m4a" length="11687068" type="audio/mp4"/>
+    <itunes:duration>00:12:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>腾讯智能体，AI与博弈论和思维链创新</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664c9ba2b21f9cfa89a89154</link>
+    <guid isPermaLink="false">664c9ba2b21f9cfa89a89154</guid>
+    <pubDate>Tue, 21 May 2024 13:03:30 +0000</pubDate>
+    <description><![CDATA[<h4><span>AI博弈论模型在决策中的应用</span></h4><span></span><p><span>这段内容主要讲述了通过博弈论的方式，提升模型准确性和内部一致性的方法。实验中，AI通过博弈论理论，与同事设计了一个游戏模式，让LIM与自己竞争，用回应工具提高模型准确性。此外，还提到了一个想法，即模仿人类思维链的信号，以提高决策效率。这个思路具有一定的深度，但仍需进一步理解和验证。</span></p><span></span><h4><span>大模型与大脑神经网络的融合探索</span></h4><span></span><p><span>讨论了将大模型的文文本转换为token的过程，以及人工智能在理解人类感知方面的局限性。提到了一个实验室的实验，通过将老鼠的大脑干细胞放入电信号刺激的盒子中，让老鼠模仿打三D弹球。实验结果显示，在20个小时内，基本上所有的实验题都能学会打弹球。这个机制在理论上是可以实现的，但目前准确率不高，且需要大量数据来纠错。因此，将脑电信号直接植入到人类大脑中，可能会比目前的脑机接口更有效。</span></p><span></span><h4><span>大模型使用与评估的挑战与思考</span></h4><span></span><p><span>这段内容主要讨论了人工智能模型在实际应用中的问题。首先，讲者提到了大模型的测试成本可能较大，而评测的重要性逐渐被重视。其次，讲者认为人类应该先关注南极等环境，而不是月球和火星。最后，讲者强调了开源模型在实际应用中的重要性，以及在使用过程中需要自己尝试和调整。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqSnWsBLZNZF_lr5Ur44aRmkes8q.m4a" length="12122635" type="audio/mp4"/>
+    <itunes:duration>00:12:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>实时AI语音，代码阅读工具和代码安全</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6644d63c251bd96e6c95e862</link>
+    <guid isPermaLink="false">6644d63c251bd96e6c95e862</guid>
+    <pubDate>Fri, 17 May 2024 11:30:00 +0000</pubDate>
+    <description><![CDATA[<h4><span>语音识别技术的应用</span></h4><span></span><p><span>会议讨论了微软新上线的聊天功能，该功能可以进行语言分割，支持多人聊天。同时，提到了生成漫画的在线体验，以及音频流媒体服务器的应用。此外，还探讨了同声翻译和流式文字输入的问题，认为SR和TTS等模型都可以支持流失输入，但目前的识别率仍有提升空间。最后，提到了在纠错方面可能存在的问题，如发音不标准等。</span></p><span></span><h4><span>语音识别技术的应用与挑战</span></h4><span></span><p><span>主要讨论了同声翻译技术在直播中的应用。讲者认为，同声翻译在五秒到十秒的延迟是可以接受的，甚至可以实现主流是中文，翻译成其他语言，其他语言的流要落后十秒钟。同时，讲者提出了一个观点，即在播放器播放视频时，由于需要缓冲和缓存，可能会导致播放延迟比同声翻译模型还要慢。因此，可以考虑在同声翻译后面再接一个语言模型纠错，再加一个TTS，这三件事情是有可能追平播放器播放速度的。</span></p><span></span><h4><span>翻译工具与人类语言处理的差异</span></h4><span></span><p><span>这段内容主要讨论了翻译工具在人类工作中的应用，以及大模型在实时翻译中的局限性。从人类的角度来看，翻译工具需要接受多个人同时说话，而大模型的混合流式输入相对复杂。此外，人类的注意力模式与大模型的注意力模式有很大差别，因此大模型在处理静态实时翻译时可能存在问题。虽然大模型在处理多人对话时有一定优势，但仍然需要人工干预和修改。</span></p><span></span><h4><span>代码工具优化</span></h4><span></span><p><span>主要分享了一个自己研发的产品，该产品可以帮助研发人员快速查看和理解别人的代码。该产品是一个预分析工具，可以实时读取自己的代码，不需要写注释，直接预览即可。此外，该产品还具有实时问答功能，可以帮助用户更好地理解代码逻辑。虽然目前该产品还存在一些问题，但讲者相信后续会不断完善。</span></p><span></span><h4><span>代码生成和分支收费的建议</span></h4><span></span><p><span>主要讨论了如何生成适合业务的代码。建议在本地生成一个类似于P catch的隐藏文件，每个分支都会用一个不同的文件，并且是本地的。这样可以避免影响到其他分支，也不会影响到其他任何东西。同时，建议保留原语言的描述，以便于后续的开发。此外，还可以考虑多语种，以适应不同国家和地区的开发者。</span></p><span></span><h4><span>项目开发与代码安全性的探讨</span></h4><span></span><p><span>主要讨论了项目开发中的单元模型分析，以及如何通过代码GPT来描述整个项目。讲者表示，虽然目前只有Python和Java两种语言支持，但可以尝试将所有代码导入，以便大家更快地理解代码。此外，讲者还提到了开源项目的安全性问题，并表示会先进行一些分析，然后考虑SaaS产品的需求。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lue75MvCNmgoQFh_Key__GJK0uAs.m4a" length="28761327" type="audio/mp4"/>
+    <itunes:duration>00:29:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI的数据采集，存储突破和30篇必读论文</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6644d13282b428eafdd9954b</link>
+    <guid isPermaLink="false">6644d13282b428eafdd9954b</guid>
+    <pubDate>Thu, 16 May 2024 09:30:00 +0000</pubDate>
+    <description><![CDATA[<h4><span>大模型公司数据收集与强反馈的应用</span></h4><span></span><p><span>主要讨论了强化学习在数据标注中的应用，以及大模型公司如何通过收集用户数据来提高产品性能。强化学习在收集用户数据时，可以看作是免费的人工标注师，因为大模型公司可以通过让用户使用他们的产品来获取数据。此外，强化学习还可以用于制造强反馈，如点赞、点彩等，以提高产品的质量。会议还提到了强化学习的发展模式，包括GPT3.5、GPT4和GPT5，以及其未来的发展方向。</span></p><span></span><h4><br></h4><span></span><h4><span>人工智能与新型存储器的探索</span></h4><span></span><p><span>会议主要讨论了以下几个方面的内容：1. 人类的创造力逐渐下降，未来可能将把人类智力现有的1%到15%用于创造AGI；2. 有企业正在开发耐600度高温的存储器，该技术有助于在极端环境下开发人工智能系统；3. 有一个基础材料被认为具有巨大的未来，可以用于制造更智能的机器人；4. 一个名为robert的项目，该项目是一个全面的机器人平台，可以共享数据和训练模型，可以在云端进行调试和研发。</span></p><span></span><h4><br></h4><span></span><h4><span>AI论文分享与产品介绍</span></h4><span></span><p><span>主要介绍了AI领域的30篇重要论文，分享了这些论文在AI人工智能领域90%的重要内容。同时，还介绍了一些AI产品，包括eraser、coby、man trip和试试音频流。</span></p><span></span><p><span>eraser是一个生成PPT的工具，可以帮助用户画架构图和设计图；</span></p><span></span><p><span>coby是一个存储、标注整合来自多个平台文件的产品，可以方便地进行多模态知识库的整合；</span></p><span></span><p><span>man trip是一个AI驱动的旅游体验工具，可以帮助用户找到最佳海滩和推荐餐厅。</span></p><span></span><p><span>最后，实时音频流是一个剪辑工具，可以实时解析视频的音频、字幕和SRT，并进行剪辑。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqhv8wab8qk_tzXZ-AaJJsZPUUaq.m4a" length="16787763" type="audio/mp4"/>
+    <itunes:duration>00:17:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>特斯拉FSD，DeepseekV2大模型和字节的StoryDiffusion</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6644c91182b428eafdd7a72e</link>
+    <guid isPermaLink="false">6644c91182b428eafdd7a72e</guid>
+    <pubDate>Wed, 15 May 2024 23:30:00 +0000</pubDate>
+    <description><![CDATA[<h4><span>特斯拉机器人人工厂与自动驾驶发展历程</span></h4><span></span><p><span>本周AI资讯主要讨论了特斯拉打造的一款机器人人工厂，该人工厂已经可以完成简单的装配任务，如SSD安装和板载电池供电。特斯拉的自动驾驶技术也取得了重大进展，从最初的纯视觉路线逐步转向纯视觉路线，引入了占据网络和升级网络等先进技术。特斯拉的BEV在2021年发布后，性能得到了极大提升，实现了更准确的定位。此外，特斯拉还推出了Occupancy Network，这是一种基于纯视觉的神经网络，能够实现对整个空间的感知。</span></p><span></span><h4><span>自动驾驶与机器人技术的融合与发展</span></h4><span></span><p><span>主要讨论了物体的信息检测、自动驾驶技术以及人形机器人的发展。首先，物体的信息检测可以理解为类似于激光雷达的效果，比激光雷达性能更高。其次，在无人驾驶领域， occupy network和transformer等架构被广泛应用，使得整个感知和控制规划更加高效。最后，人形机器人的发展也在不断收敛，从之前的定制化机械臂到现在的通用机器人，提高了其可复制性和推短性，具有更广泛的应用前景。</span></p><span></span><h4><span>人工智能技术的现实意义与价格战</span></h4><span></span><p><span>主要讨论了人形机器人的发展现状和一些技术细节。首先，人形机器人目前的发展仍处于初级阶段，与特斯拉等国际领先公司相比仍有很大差距。其次，会议提到了一个名为Deep C的模型，该模型具有价格优势，但具体性能尚不明确。最后，会议还讨论了GRM3000的降价情况，认为其价格可能比Deep C还要便宜。总体来看，会议主要关注了人形机器人和相关技术的发展动态。</span></p><span></span><h4><span>深度求索与Deep Sick的AI应用探索</span></h4><span></span><p><span>主要讨论了深度求索公司的一些项目和技术，包括推理服务、量化公司以及深度求索公司自己的弹幕性评测项目。深度求索公司在投资量化方面有很高的水平，他们尝试过各种AI技术，并将其应用于投资量化。此外，他们还开发了一个漫画生成工具，可以建立图像之间的联系，保证一致性。最后，深度求索公司还提到了一个开源项目，可以用来做身份连贯的漫画。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lllMxNv5OZqBRNKMKjJEPthegXgr.m4a" length="18975933" type="audio/mp4"/>
+    <itunes:duration>00:19:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>奥特曼，吴恩达，微软都有大招！24年4月第4周</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6638ee4b565d3f8fe31759b4</link>
+    <guid isPermaLink="false">6638ee4b565d3f8fe31759b4</guid>
+    <pubDate>Mon, 06 May 2024 23:30:00 +0000</pubDate>
+    <description><![CDATA[<ul><span>  </span><li><span>奥特曼在斯坦福演讲，发表对情感注入AI的看法</span></li><span>  </span><li><span>吴恩达聊算力，肯定进步和方向</span></li><span>  </span><li><span>微软VASA悄然上线，卷起来~</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqpT3PLF7jl476EKHbQCv6b_f_dO.m4a" length="28552158" type="audio/mp4"/>
+    <itunes:duration>00:29:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>智能客服与AI主播--24年4月第4周</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662e6a2c5fb33c1b2b2d7614</link>
+    <guid isPermaLink="false">662e6a2c5fb33c1b2b2d7614</guid>
+    <pubDate>Sun, 28 Apr 2024 15:24:27 +0000</pubDate>
+    <description><![CDATA[<h4><span>AI主播在直播带货中的应用</span></h4><span></span><p><span>这段内容主要讨论了AI主播在直播带货中的应用。AI主播在直播过程中可以实时生成视频，但目前无法实现像人类主播那样与观众进行互动。</span></p><span></span><p><span>虽然AI主播在回答问题时可以生成回复，但仍然存在一定的局限性。会议还提到了一个例子，即俄罗斯大使馆的安娜，她可以通过24小时的直播卖货，但她的直播内容是预先录制好的，没有实时与观众互动。</span><br><span>AI主播在直播带货中的应用，虽然可以提高效率，但并不能完全替代人类主播。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luaJlbcs9ogDP099D4rIUE8ApwYe.m4a" length="13121512" type="audio/mp4"/>
+    <itunes:duration>00:13:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoSs7Z2qZ8esrfHSzM9YLQgHHgEC.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>腾讯小微上线--24年4月第4周AI资讯</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662d27ed5fb33c1b2bf8760d</link>
+    <guid isPermaLink="false">662d27ed5fb33c1b2bf8760d</guid>
+    <pubDate>Sat, 27 Apr 2024 16:29:32 +0000</pubDate>
+    <description><![CDATA[<h4><span>小微助手与智能助理的比较分析</span></h4><span></span><p><span>主要讨论了小微助手（智能助理）的功能和定位。小微助手是一个端上的产品，可以搜索本地的文件、天气预报、管理网页回答等。目前支持Mac和Windows，没有做手机端。它将本地文件目录当做知识库，以方便用户检索。小微助手与烟花方案有相似之处，但定位上有所区别。此外，小微助手在记忆功能方面也有所不同，它不需要记忆，而是将本地的文件全部当做知识库。</span></p><span></span><h4><span>向量化服务的实施与用户担忧</span></h4><span></span><p><span>主要讨论了向量化存储和检索的问题，以及如何将本地文件进行切片处理。同时，提到了小助手这款产品，它可以通过云服务来实现向量化存储，但可能会带来内存消耗和检索效率的问题。此外，还讨论了知识库的建立，认为每个人的最大知识库是自己的电脑，而云文档则可以作为另一个知识库。最后，提到了企业微信对话机器人，虽然它并不是基于单元模型的，但仍然可以快速搭建。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltoNXZZJdG4yhXh_Jwp-ASrXU3ZP.m4a" length="12467761" type="audio/mp4"/>
+    <itunes:duration>00:12:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiZugzqYBwupCiikFbEAzC_O95Yw.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>GPTs，AI律师，手机大模型和AI管家</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662a66b96a3c2ef095b454d1</link>
+    <guid isPermaLink="false">662a66b96a3c2ef095b454d1</guid>
+    <pubDate>Thu, 25 Apr 2024 14:20:41 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>1 GPTs</span></strong></p><span></span><p><span>Open AI的GPT商店已经上线，可以快速应用到虚拟女友、PDF解析等领域。Robin AI公司完成了B轮融资，计划开发法律类AI产品，帮助用户拟定法律合同并解读合同中的合规性问题。此外，国内公司小兵也因与微软关系密切而备受关注，他提供了一个框架，可以让粉丝将自己克隆成小兵的形象，进行发布。</span></p><span></span><p><strong><span>2 深度求索公司大模型与美团移动VR小模型</span></strong></p><span></span><p><span>深度求索公司发布了一个67B的大模型，国内比较出名。美团推出了一个移动端部署的VR模型，参数量为1.4B和2.7B，预计未来可以在手机上部署大模型，实现断网操作。另外，美国的一所大学培育了一个体外的人工智能体SB I，通过体外培养脑细胞，可以自我繁殖和繁殖神经元，类似于动物的繁殖方式。</span></p><span></span><p><strong><span>3 体外细胞实验与人工智能的探索</span></strong></p><span></span><p><span>主要讲述了海拉细胞在人体实验中的应用。海拉细胞来源于黑人，被用于人体实验，其分裂速度非常快，非常适合用于保持基因稳定。然而，这种细胞的伦理问题仍然存在，因为其细胞已经传了几十年，但仍然活着。此外，海拉细胞的复制速度较慢，难以快速复制。因此，从人类探索的角度来看，通过生物体实现或通过机器来实现目标逻辑可能是一致的，但具体哪种方式性价比更高，还需要进一步探讨。</span></p><span></span><p><strong><span>4 AI管家</span></strong></p><span></span><p><span>首先，提到了一个机器人被训练好的例子，它可以叠裤子、洗衣服等动作。然后，介绍了一个开源的训练框架，可以用于训练各种类型的机器人。最后，讨论了机器人的使用场景，如养老院、家庭照顾等，并提到了一个例子，即一个机器人模仿了人类的炒菜动作。</span></p><span></span><p><span>这段内容主要讲述了照顾孩子的问题，提到了叠枕头和做家务等辅助性工作。同时，也提到了机器可能不会像人类那样进行操作，但人却是这么做的。此外，还提到了将产品接入智能音箱和摄像头等设备，以提高产品的功能</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lt4RK94sZSyK2LKYX0_m3l1oaBns.m4a" length="16529090" type="audio/mp4"/>
+    <itunes:duration>00:17:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgIe9Fk7JSfGqqCyXwqLxbd52_tR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

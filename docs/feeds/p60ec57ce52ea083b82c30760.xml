@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>CryptoNaive</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/60ec57ce52ea083b82c30760</link>
+  <description><![CDATA[做一档加密中文圈节目，all for web3
+
+Be a crypto native and stay naive.
+
+欢迎加密爱好者分享交流、报名参加播客录制，联系推特DM：@CryptoNataNata
+
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:20:05 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p60ec57ce52ea083b82c30760.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Nata-</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg</url>
+    <title>CryptoNaive</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/60ec57ce52ea083b82c30760</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Ep.6 P仔, Yukaz：漫谈SOL NFT之soul</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62becdb6ebfc753783b1f7f6</link>
+    <guid isPermaLink="false">62becdb6ebfc753783b1f7f6</guid>
+    <pubDate>Fri, 01 Jul 2022 10:34:30 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾</span></strong></p><span></span><p><span>P仔 - crypto独立研究者 twitter @0xPzai</span></p><span></span><p><span>Yukaz - SnapFingers DAO Mod</span></p><span></span><p><strong><span>主播</span></strong></p><span></span><p><span>Nata - Mixlabs运营</span></p><span></span><p><strong><span>Timeline </span></strong><span>（本期录制于五月底，部分信息已不具有时效性，请自行判断～）</span></p><span></span><p><span><a class="timestamp" data-timestamp="84">01:24</a> solana上的NFT怎么就火了</span></p><span></span><p><span><a class="timestamp" data-timestamp="334">05:34</a> MagicEden和opensea的区别，sol NFT市场和以太NFT市场情况的不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="750">12:30</a> 玩sol的大量拿白策略</span></p><span></span><p><span><a class="timestamp" data-timestamp="899">14:59</a> sol NFT是在复刻以太NFT的发展路径吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="1265">21:05</a> why OK bear，why迷幻猴</span></p><span></span><p><span><a class="timestamp" data-timestamp="1416">23:36</a> 判断失误的经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="1746">29:06</a> P仔对MagicEden的研究</span></p><span></span><p><span><a class="timestamp" data-timestamp="2094">34:54</a> 图狗如何判断何时卖出</span></p><span></span><p><span><a class="timestamp" data-timestamp="2414">40:14</a> 不确定性与确定性</span></p><span></span><p><span><a class="timestamp" data-timestamp="2534">42:14</a> Solana NFT 会flip Eth NFT吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="2689">44:49</a> 用NFT留下印记；sol NFT市场的未来</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luJjzJcLvn7Srv7ODz_P7Dituwfa.m4a" length="71874718" type="audio/mp4"/>
+    <itunes:duration>00:54:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.5 躺赢君：LUNA、UST崩溃大戏，拿了亚洲金融危机的剧本</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6284c5d2ec529f015818b935</link>
+    <guid isPermaLink="false">6284c5d2ec529f015818b935</guid>
+    <pubDate>Wed, 18 May 2022 10:09:22 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾</span></strong></p><span></span><p><span>躺赢君- 播客躺赢人生、公众号躺赢君主理人</span></p><span></span><p><strong><span>主播</span></strong></p><span></span><p><span>Nata - MixLabs成员</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="117">01:57</a> 躺赢君个人介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="230">03:50</a> 什么是稳定币、UST</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a> LUNA是什么，如何支撑UST</span></p><span></span><p><span><a class="timestamp" data-timestamp="506">08:26</a> UST为什么突然开始脱锚</span></p><span></span><p><span><a class="timestamp" data-timestamp="628">10:28</a> 为何此次螺旋下跌没被成功抑止</span></p><span></span><p><span><a class="timestamp" data-timestamp="895">14:55</a> Luna Foundation Guard为什么要购入BTC</span></p><span></span><p><span><a class="timestamp" data-timestamp="1035">17:15</a> LUNA-UST 与传统金融的对比</span></p><span></span><p><span><a class="timestamp" data-timestamp="1192">19:52</a> 和亚洲金融危机的细节一一匹配</span></p><span></span><p><span><a class="timestamp" data-timestamp="1893">31:33</a> 对LUNA项目机制的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="2088">34:48</a> Anchor的高收益从哪来</span></p><span></span><p><span><a class="timestamp" data-timestamp="2381">39:41</a> LUNA变为meme币？为什么会有人想“抄底”</span></p><span></span><p><span><a class="timestamp" data-timestamp="2594">43:14</a> 项目方解决债务的可能性</span></p><span></span><p><span><a class="timestamp" data-timestamp="2703">45:03</a> “真正的算稳只有美元”</span></p><span></span><p><span><a class="timestamp" data-timestamp="2905">48:25</a> 躺赢君荐书</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liaff1ZRhQoMEkyDQaaOK_4Mi_NH.m4a" length="79545452" type="audio/mp4"/>
+    <itunes:duration>00:50:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.4 侠客张：当跑步爱好者遇上Move to Earn</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62204bf70e153c60474c7811</link>
+    <guid isPermaLink="false">62204bf70e153c60474c7811</guid>
+    <pubDate>Thu, 03 Mar 2022 05:02:46 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾</span></strong></p><span></span><p><span>侠客张 - Crypto KOL</span></p><span></span><p><span>微博：@侠客张_DeFi</span></p><span></span><p><strong><span>主播</span></strong></p><span></span><p><span>Kelly - 清华大学区块链协会成员</span></p><span></span><p><span>Nata- Mix Lab 成员</span></p><span></span><p><strong><span>Timeline</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="132">2:12</a> </span></strong><span>关于“跑步赚钱”游戏 STEPN，及体验经历</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="669">11:09</a> </span></strong><span>web3的 Move to Earn 与 web2的趣步</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="978">16:18</a> </span></strong><span>STEPEN的可玩性</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1233">20:33</a> </span></strong><span>SEPEN为crypto吸引了新增用户吗</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1596">26:36</a> </span></strong><span>对gamefi未来发展的看法</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="2043">34:03</a> </span></strong><span>快问快答侠客张老师：最近主要在crypto玩些什么？分享三个觉得感兴趣的项目？最近的一次亏钱经历？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltDEsao5LkD5H3VKHsuMq6N-Z-As.m4a" length="28093090" type="audio/mp4"/>
+    <itunes:duration>00:38:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyYmVLYmJOaFd3Z1ZKaER4YWI4X0NwWlRjUy0ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.3 Niq：那个毕业去向是‘ALL IN NFT’的年轻人现在怎么样了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61e65f690c35c9f95dca1219</link>
+    <guid isPermaLink="false">61e65f690c35c9f95dca1219</guid>
+    <pubDate>Tue, 18 Jan 2022 06:34:17 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾</span></strong></p><p><span>Niq - LucyCot NFT创始人，WeirDAO 联创人</span></p><p><span>Twitter: @NiqisLucky</span></p><p><strong><span>主播</span></strong></p><p><span>八斤 - 7Star Capital 打工仔</span></p><p><span>Twitter: @BajinHash</span></p><p><span>Nata - Mix Lab member</span></p><p><span>Twitter: @CryptoNataNata</span></p><p><strong><span>Timeline</span></strong></p><p><span><a class="timestamp" data-timestamp="67">1:07</a> 三人自我介绍</span></p><p><span><a class="timestamp" data-timestamp="541">9:01</a> All IN NFT的由来</span></p><p><span><a class="timestamp" data-timestamp="756">12:36</a> 创立LuckyCot NFT项目</span></p><p><span><a class="timestamp" data-timestamp="856">14:16</a> 冲其他NFT的经历及对审美的思考</span></p><p><span><a class="timestamp" data-timestamp="1101">18:21</a> 从web2 user experience到web3 community experience</span></p><p><span><a class="timestamp" data-timestamp="1403">23:23</a> 在web3 品牌构建方式的范式转移</span></p><p><span><a class="timestamp" data-timestamp="1570">26:10</a> 推广Lucky Cot和建立WeirDAO的早期故事</span></p><p><span><a class="timestamp" data-timestamp="1865">31:05</a> 从独立设计师到项目cofounder的心态成长</span></p><p><span><a class="timestamp" data-timestamp="2009">33:29</a> Niq的NFT投资策略</span></p><p><span><a class="timestamp" data-timestamp="1957">32:37</a> 对pfp（头像类）NFT的看法</span></p><p><span><a class="timestamp" data-timestamp="2620">43:40</a> 如何看待各个明星入场NFT的现象</span></p><p><span><a class="timestamp" data-timestamp="2836">47:16</a> Niq如何感知市场</span></p><p><span><a class="timestamp" data-timestamp="3111">51:51</a> 对近期国产IP NFT的看法</span></p><p><span><a class="timestamp" data-timestamp="3387">56:27</a> 对今年NFT市场的展望-pfp和音乐NFT</span></p><p><span><a class="timestamp" data-timestamp="3795">1:03:15</a> Niq的新年愿望 🌅</span></p><p><strong><span>Note</span></strong></p><p><span>全都不是投资建议哦&nbsp;</span></p><p><span>NOT FINANCIAL ADVICE</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lh4Irb2ZVJsi1hyo718VXbLAUNLU.m4a" length="109222375" type="audio/mp4"/>
+    <itunes:duration>01:06:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.2 Dataverse创始人：NFT是数据足迹的化身，你是数据的主人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61d6b65eee197a3aac3dacad</link>
+    <guid isPermaLink="false">61d6b65eee197a3aac3dacad</guid>
+    <pubDate>Thu, 06 Jan 2022 09:29:02 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>Background: 关于Ownership Labs</span></strong></h2><p><span>Ownership Labs一直在探索数据融合共享基础设施，倡导用户主导数据所有权和自我注意力，希望基于完整的用户数据以在虚拟空间中构建数字自我。旗下已有两款产品，Dataverse和Loop。</span></p><p><span>Dataverse是一个去中心化数据协作插件，作为用户个人数据空间，支持跨平台NFT收藏，用于管理和展示用户购买和喜爱的NFT，方便个人用户快速实现策展。</span></p><p><span>Loop 是用于 跟踪Web3最新动态的内容聚合器 ，包括NFT、Mirror文章或者POAP徽章。它允许用户定制化信息流 ，可以通过关注喜欢的钱包或者通过自动的社区机制来发现有趣的动态，更好地过滤掉垃圾信息。</span></p><p><span>Ownership Labs近期也在招募擅长marketing的运营人才，如果你有能力也感兴趣，想帮助他们把产品带给更多人使用，可通过以下渠道联系或私信Nata内推。</span></p><p><span>公众号：Ownership Labs &nbsp;官方推特：@OwnershipLabs</span></p><p></p><h2><strong><span>嘉宾</span></strong></h2><p><span>李其柄 - Ownership Labs创始人</span></p><h2><strong><span>主播</span></strong></h2><p><span>八斤 - 7Star Capital 打工仔</span></p><p><span>推特：@BajinHash</span></p><p><span>Nata - Mix DAO 成员</span></p><p><span>推特：@CryptoNataNata</span></p><p></p><p><strong><span>Timeline</span></strong></p><p><span><a class="timestamp" data-timestamp="87">1:27</a> 什么是Dataverse - 什么是/为什么要掌握自己的数据所有权</span></p><p><span><a class="timestamp" data-timestamp="371">6:11</a> 产品Loop：用户天然就应该拥有数据主权</span></p><p><span><a class="timestamp" data-timestamp="433">7:13</a> Dataverse和Loop的区别</span></p><p><span><a class="timestamp" data-timestamp="543">9:03</a> NFT赛道里用户的需求到底是什么？</span></p><p><span><a class="timestamp" data-timestamp="726">12:06</a> 保护隐私与公开隐私之间的取舍平衡</span></p><p><span><a class="timestamp" data-timestamp="1299">21:39</a> 为什么不是用Web2的方式做Dataverse</span></p><p><span><a class="timestamp" data-timestamp="1958">32:38</a> NFT是数据足迹的化身</span></p><p><span><a class="timestamp" data-timestamp="2104">35:04</a> 读博期间接触区块链，博士辍学参加黑客松</span></p><p><span><a class="timestamp" data-timestamp="2419">40:19</a> 不论Web3发生在中国还是美国，开发者的初心是产品有更多人使用</span></p><p><span><a class="timestamp" data-timestamp="2546">42:26</a> 项目发展中遇到的困难</span></p><p><span><a class="timestamp" data-timestamp="2801">46:41</a> 数据合规性</span></p><p><span><a class="timestamp" data-timestamp="3003">50:03</a> Opensea与OpenDAO</span></p><p><span><a class="timestamp" data-timestamp="3325">55:25</a> 看好的NFT项目</span></p><p></p><h2><strong><span>声明</span></strong></h2><p><span>不可以作为投资建议哦</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnOlRkYU58mv6mODxVHx_K4aLRci.m4a" length="47750322" type="audio/mp4"/>
+    <itunes:duration>01:04:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.1 突袭交大区块链协会会长：聊聊他做的项目、高校区块链、Web 3.0</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61c8092e40785774c7cdd084</link>
+    <guid isPermaLink="false">61c8092e40785774c7cdd084</guid>
+    <pubDate>Sun, 26 Dec 2021 06:18:21 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾：楷楷&nbsp;</span></strong></p><p><span># 低调的上海交通大学区块链协会会长；不想搞AI的AI工程师；已获可观融资但不让说的项目leader</span></p><p><strong><span>主播：Nata&nbsp;</span></strong></p><p><span># Mix Lab成员</span></p><p><span>推特：@CryptoNataNata（欢迎加密爱好者私信交流）</span></p><h2><strong><span>Outline:</span></strong></h2><p><span>关于上交区块链协会</span></p><p><strong><span>国内高校区块链发展得如何</span></strong></p><p><strong><span>做了两个有意思的项目：区块链教育课程上链、web2数据搬迁</span></strong></p><p><span>DAO提供的思路</span></p><p><strong><span>联盟链是伪需求吗</span></strong></p><p><span>Solana的技术创新</span></p><p><span>最近我们感兴趣的跨链项目LayerZero</span></p><p><span>零知识证明</span></p><p><span>隐私计算+区块链是未来？</span></p><p><span>楷楷理解的Web3是怎样的</span></p><p><span>画饼与叙事性结构</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpBivW7kcNjF7N5scMvRQ5a4UiBW.m4a" length="35305372" type="audio/mp4"/>
+    <itunes:duration>00:48:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnGC_Ogca4gYcdRW1bGrPf44gDYM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

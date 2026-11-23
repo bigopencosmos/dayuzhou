@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>让子弹飞</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/627287b24cb83619f2aed623</link>
+  <description><![CDATA[IT 行业，先别急，35 岁只是国内的舆论氛围～ 两个工程师陪你聊聊海外工作生活]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:19:34 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/qchgvvav8rtb.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>詹韬</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FsTgB_RhUm7b0PB14cgm2LbEs340.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FsTgB_RhUm7b0PB14cgm2LbEs340.png</url>
+    <title>让子弹飞</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/627287b24cb83619f2aed623</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>E34 日本医疗的 B 面 —— 高成本的医生培养与不可持续的医保</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68104f257a449ae85852e48b</link>
+    <guid isPermaLink="false">68104f257a449ae85852e48b</guid>
+    <pubDate>Tue, 29 Apr 2025 04:05:46 +0000</pubDate>
+    <description><![CDATA[<p><span>上期节目聊了日本医疗的优势，本期节目我们继续探索这一话题，也聊聊日本医疗的缺陷。</span></p><span></span><p><span><a class="timestamp" data-timestamp="90">01:30</a> 公立私立医院的区别</span><br><span><a class="timestamp" data-timestamp="805">13:25</a> 日本医生的收入水平与培养机制</span><br><span><a class="timestamp" data-timestamp="1166">19:26</a>日本的医保制度是否可持续</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/627287b24cb83619f2aed623/ljpxAtYfz3Hf0n8I1HFwRfZxDunU.m4a" length="36920841" type="audio/mp4"/>
+    <itunes:duration>00:25:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fr3Vx5Kg40GqHXm0jt1gXBn_UIWZ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E33 兼顾了不可能三角的日本医疗制度</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67fcace6623bc78c3985a7ce</link>
+    <guid isPermaLink="false">67fcace6623bc78c3985a7ce</guid>
+    <pubDate>Mon, 14 Apr 2025 06:46:35 +0000</pubDate>
+    <description><![CDATA[<p><span>日本医疗长期排名世界前列，本期节目我们就从经验角度聊聊日本的医疗，看看他们是如何兼顾医疗水平，费用和服务的三角。</span><br><span>很多方面还是非常值得借鉴的，比如大小医院的患者分流，针对不同收入群体的医保费用分级，照顾社会弱势群体的高额疗养制度等。</span></p><span></span><p><span><a class="timestamp" data-timestamp="142">02:22</a> 大医院与小诊所的分流制度与医药分离</span><br><span><a class="timestamp" data-timestamp="691">11:31</a> 医疗水平：长寿之乡与看病体验</span><br><span><a class="timestamp" data-timestamp="1060">17:40</a> 医疗保险费用分级与高额疗养制度</span><br><span><a class="timestamp" data-timestamp="1541">25:41</a> 医疗服务：忙碌的医生</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/627287b24cb83619f2aed623/loSqFeHwWrqjauw4T3FCWFycPBTw.m4a" length="44161417" type="audio/mp4"/>
+    <itunes:duration>00:30:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvXiQwNeNXL7qtC67muX0obYxhGv.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E32 Openai 的 12 场发布会到底聊了些啥</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ad6e322b6a6452657f1f63</link>
+    <guid isPermaLink="false">67ad6e322b6a6452657f1f63</guid>
+    <pubDate>Thu, 13 Feb 2025 04:20:31 +0000</pubDate>
+    <description><![CDATA[<p><span>新年快乐！年初开始 AI 领域就大新闻不断，先是 Openai 圣诞期间开了 12 场发布会，然后是 DeepSeek 的爆火出圈，震撼资本圈。</span><br><span>今天我们就串台小杨同学的播客，借着聊 Openai 发布会的机会，顺便聊聊 AI 领域在过去一年发生的变化，也看看那些除了 chatbot 之外实际落地的有趣产品。</span><br><span> </span><br><span> <a class="timestamp" data-timestamp="123">02:03</a> 模型：闭源开源模型盘点 &amp; 效果对比</span><br><span> <a class="timestamp" data-timestamp="675">11:15</a> &nbsp;Notebooklm：自动生成可互动对话式播客</span><br><span> <a class="timestamp" data-timestamp="843">14:03</a> &nbsp;Cursor：编程大幅提效 &amp; 识别诈骗项目</span><br><span> <a class="timestamp" data-timestamp="1383">23:03</a> &nbsp;其他：Coze &amp;虚拟人陪伴 &amp; Warp</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/627287b24cb83619f2aed623/luLJ3m3bFI0XTnOyPmmPyFo3qfUn.m4a" length="44098969" type="audio/mp4"/>
+    <itunes:duration>00:30:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkEsA-o62dZ3DufroYaiPQWYc-5b.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E31 解锁泰式魅惑：芭提雅的疯狂秀场，曼谷的梦幻建筑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/677b9aaacda04ef4c1b9f3be</link>
+    <guid isPermaLink="false">677b9aaacda04ef4c1b9f3be</guid>
+    <pubDate>Mon, 06 Jan 2025 09:19:56 +0000</pubDate>
+    <description><![CDATA[<p><span>妙仔时隔七年又再度去泰国旅行了，这次的旅行算是开了眼界了，而且已经开到了 “瞠目结舌” 的程度。。。</span><br><span>本期节目我们就来聊聊这趟很 high 的泰国旅行～</span><br><span> </span><br><span> <a class="timestamp" data-timestamp="110">01:50</a> 初印象：文艺作品，华人友好，整体观感</span><br><span> <a class="timestamp" data-timestamp="665">11:05</a> 芭提雅：奇葩的酒店规定，海滩，人妖秀</span><br><span> <a class="timestamp" data-timestamp="1372">22:52</a> 格兰岛：快艇，沉船事故</span><br><span> <a class="timestamp" data-timestamp="1636">27:16</a> city walk：热情松弛的泰国人，风月街</span><br><span> <a class="timestamp" data-timestamp="2102">35:02</a> 曼谷：大皇宫， 佛教，卧佛寺</span><br><span> <a class="timestamp" data-timestamp="2399">39:59</a> 逛街：暹罗购物中心，游船，酒吧，黄油小熊</span><br><span> <a class="timestamp" data-timestamp="3002">50:02</a> 其他：突突车，小费，城市介绍</span></p><span></span><figure><img src="https://image.xyzcdn.net/FiGVDPc6hEZKniNgxtHHQbwZbapW.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsH_lgy2X4IWYP1Z5DGJuhy3uBzL.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FuzU4bWPbHyrd859incVadgvXFRv.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lq4juptBxVJBp1ShQis4yw2OomeL.m4a" length="84745009" type="audio/mp4"/>
+    <itunes:duration>00:58:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fo6hjDfqtb6sP-WfYWDrqxBTmXLC.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E30 遇见最美咖啡厅，韩国釜山行</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672dcc0482eb19451d268d0d</link>
+    <guid isPermaLink="false">672dcc0482eb19451d268d0d</guid>
+    <pubDate>Fri, 08 Nov 2024 08:35:03 +0000</pubDate>
+    <description><![CDATA[<p><span>本期聊聊我们更喜欢的釜山，见山见海的咖啡厅美得超出预期，章鱼虾仁锅，猪肉汤饭超级好吃且国内无同款，除了略有些语言障碍，总体完美的一个旅游城市～</span><br><span>另外穿插补充了一些去韩国旅行的注意事项，地图，打车，语言，换钱。有些坑还真是不踩不知道。</span><br><span> </span><br><span><a class="timestamp" data-timestamp="69">01:09</a> 青瓦台与景福宫</span><br><span><a class="timestamp" data-timestamp="300">05:00</a> 釜山行与《釜山行》</span><br><span><a class="timestamp" data-timestamp="686">11:26</a> 海云台的美食街</span><br><span><a class="timestamp" data-timestamp="1028">17:08</a> 蓝色胶囊小火车</span><br><span><a class="timestamp" data-timestamp="1324">22:04</a> 白浅滩文化村与最美咖啡厅</span><br><span><a class="timestamp" data-timestamp="2058">34:18</a> 汉江公园与《汉江怪物》</span><br><span><a class="timestamp" data-timestamp="2336">38:56</a> 逛仁川机场</span></p><span></span><p><strong><span>青瓦台</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/FtFKL3AlKTKiLJYTHyDRlcWiP4yz.jpg"></figure><span></span><p><strong><span>最美咖啡厅</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/lo7KFimgx97Yjfi15fYDd9QKQSuo.jpeg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fus2z2OiPOAKEqYJ5jY1DbBZ6Vk7.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liu7lBKAwxhNUFYFNLkUxhAL-Vv1.m4a" length="67545725" type="audio/mp4"/>
+    <itunes:duration>00:46:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnpzRVD7vMzrzOiB3VlUMskUdGXJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E29 走访匪夷所思的梨泰院，韩国首尔行</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671f41f0d6a26a393ca16e50</link>
+    <guid isPermaLink="false">671f41f0d6a26a393ca16e50</guid>
+    <pubDate>Mon, 28 Oct 2024 07:59:44 +0000</pubDate>
+    <description><![CDATA[<p><span>上个月去韩国旅行了，九天八夜的深度游，击败 95% 以上赴韩游客的单次旅行时长～ 😏</span><br><span>看秀看景吃美食，走访电影拍摄地，还时隔十多年重见了当年的韩国朋友，整体很充实，也充分感受到旅行度假的魅力所在。</span><br><span>本期我们就先来聊聊在首尔的旅行经历 ～</span><br><span> </span><br><span> <a class="timestamp" data-timestamp="150">02:30</a> 入境韩国：差点“被海关遣返”</span><br><span> <a class="timestamp" data-timestamp="500">08:20</a> 明洞夜市与满大街的韩国便利店</span><br><span> <a class="timestamp" data-timestamp="800">13:20</a> 值得一看的拌饭秀</span><br><span> <a class="timestamp" data-timestamp="1022">17:02</a> 梨泰院：大型踩踏事故到底是怎么发生的</span><br><span> <a class="timestamp" data-timestamp="1532">25:32</a> 探访《请回答1988》拍摄场景</span><br><span> <a class="timestamp" data-timestamp="1624">27:04</a> 跟本地人聊韩国社会：日韩差异，教育内卷</span><br><span> </span><br><span> </span><strong><span>梨泰院发生踩踏事故的巷子</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/Fr00Hg7u_UBAVgdLj2IGmeJbcQNa.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li6Oihlzd6I-zBopnXTLXVfNdIGd.m4a" length="58522329" type="audio/mp4"/>
+    <itunes:duration>00:40:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkNvEPgWlPMbZMB0K2cjjwAcmjig.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E28 你不知道的日本：发现日本旅行的冷门风景（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/669741e18fcadceb90e127da</link>
+    <guid isPermaLink="false">669741e18fcadceb90e127da</guid>
+    <pubDate>Wed, 17 Jul 2024 04:00:32 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们继续聊聊小众的日本旅行地和有趣的地区文化。</span><br><span>京都精致清雅的怀石料理，奈良与城市融为一体的鹿和有着百年大计的青木原树海，不得不说，日本这个国家确实有它的过人之处。</span><br><span> </span><br><span><a class="timestamp" data-timestamp="110">01:50</a> 不值得打卡的东京大阪地标</span><br><span><a class="timestamp" data-timestamp="436">07:16</a> 京都的怀石料理与奈良的鹿 </span><br><span><a class="timestamp" data-timestamp="1206">20:06</a> 有意思的博物馆</span><br><span><a class="timestamp" data-timestamp="1540">25:40</a> 推荐的小众景点：湘南风情，箱根，青木原树海</span><br><span><a class="timestamp" data-timestamp="2048">34:08</a> 推荐的旅行方式与地区限定产品</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llUgASYg3yUKAXrpxcuPQ6joz4AO.m4a" length="66303733" type="audio/mp4"/>
+    <itunes:duration>00:45:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fjc7DN89B9GmGhHhnYUYfC6P9K3E.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E27 日本秘境游：那些你不知道的小众奇趣之地（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666e59c3c26e396a36136f0c</link>
+    <guid isPermaLink="false">666e59c3c26e396a36136f0c</guid>
+    <pubDate>Sun, 16 Jun 2024 03:19:30 +0000</pubDate>
+    <description><![CDATA[<p><span>去的地方多了之后就更不喜欢打卡类的旅行了，本期节目就聊聊我们非典型的日本旅行，介绍一些小众有趣的地方，探讨一些日本的风土人情～</span></p><span></span><p><span><a class="timestamp" data-timestamp="90">01:30</a> 淡路岛：选择酒店的 tips；直岛现代艺术</span><br><span><a class="timestamp" data-timestamp="776">12:56</a> 日本的地区限定：香川乌冬面 &amp; 仙台厚切牛舌</span><br><span><a class="timestamp" data-timestamp="1234">20:34</a> 神户牛肉与和牛</span><br><span><a class="timestamp" data-timestamp="1437">23:57</a> 芦屋与日本的高端住宅区 </span><br><span><a class="timestamp" data-timestamp="2162">36:02</a> 日本的自然风光：温泉滑雪，轻井泽，伊豆半岛</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgTeO4Yjcu2WiSgkLsxYmLAftEIf.m4a" length="68700421" type="audio/mp4"/>
+    <itunes:duration>00:47:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FursaYndYQnVFGw0pRlVXu88aBhw.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E26 日本“议员”经验谈：社区自治会是如何运转的</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6628f75a200abebe6e04c27a</link>
+    <guid isPermaLink="false">6628f75a200abebe6e04c27a</guid>
+    <pubDate>Wed, 24 Apr 2024 12:13:13 +0000</pubDate>
+    <description><![CDATA[<p><span>蔺 さん喜提大别墅之后最近又加入了所在社区的自治会，光荣的成为了一名“议员”（没错，就是日本国会议员的那个议员！）。</span><br><span>本期节目我们就来一起聊聊日本的社区自治。</span></p><span></span><p><span><a class="timestamp" data-timestamp="104">01:44</a> 自治会介绍：遍布日本的 30 多万个自治会</span><br><span><a class="timestamp" data-timestamp="590">09:50</a> 防灾工作：防灾演习，应急食品</span><br><span><a class="timestamp" data-timestamp="1760">29:20</a> 自治会的其他：日归旅行，运动会，经费管理</span><br><span><a class="timestamp" data-timestamp="2459">40:59</a> 日本社区的数字化</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lh52mwWdbI6sux96WF8zJJ-2y6di.m4a" length="78097773" type="audio/mp4"/>
+    <itunes:duration>00:53:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrCpLbJZHBqtfaiNueo6htolu-mt.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E25 开启韩影之旅：那些不可错过的震撼与感动</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6600c7222d9eae5d0ac93d9d</link>
+    <guid isPermaLink="false">6600c7222d9eae5d0ac93d9d</guid>
+    <pubDate>Mon, 25 Mar 2024 00:36:50 +0000</pubDate>
+    <description><![CDATA[<p><span>妙仔首次来当嘉宾，聊聊她入坑多年的韩国电影，我也是新近入坑韩国电影，不得不说，韩流作为一种席卷全球的文化现象，确实有他的过人之处。</span><br><span> </span><br><span>本期节目我们就聊聊如何喜欢上韩国电影，顺便推荐一些经典佳片。</span><br><span> </span><br><span><a class="timestamp" data-timestamp="112">01:52</a> 对韩国电影的整体印象</span><br><span><a class="timestamp" data-timestamp="235">03:55</a> 入坑的时机</span><br><span><a class="timestamp" data-timestamp="417">06:57</a> 韩国电影分类</span><br><span><a class="timestamp" data-timestamp="550">09:10</a>《素媛》电影背景故事、剧情、细节和观影感受</span><br><span><a class="timestamp" data-timestamp="1745">29:05</a>《恐怖直播》剧情线解构</span><br><span> </span><br><span>本期提到的韩国电影集合：</span><br><span>社会：《熔炉》，《素媛》，《7号房的礼物》</span><br><span>灾难：《釜山行》,《流感》,《汉江怪物》</span><br><span>爱情：《假如爱有天意》,《我脑中的橡皮擦》,《我的野蛮女友》</span><br><span>剧情：《恐怖直播》,《出租车司机》,《辩护人》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkFkX18w0HjNwnW-dSWVOhECOhvW.m4a" length="51714617" type="audio/mp4"/>
+    <itunes:duration>00:35:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkQZWQfKx70Q4xepM20XpHgYQAN5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E24 新春快乐，跟小杨同学聊聊只有 0 次和无数次的邮轮旅行（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65cd7cda35dd8780edccca11</link>
+    <guid isPermaLink="false">65cd7cda35dd8780edccca11</guid>
+    <pubDate>Thu, 15 Feb 2024 02:54:17 +0000</pubDate>
+    <description><![CDATA[<p><span>2024 新春快乐～ 书接上期，本期节目聊聊小杨同学地中海邮轮行的沿途观感以及一些欧洲旅行的 Tips。</span></p><span></span><p><span><a class="timestamp" data-timestamp="88">01:28</a> 沿途风情：马略卡，巴塞罗那，拉西佩齐亚，那不勒斯</span><br><span><a class="timestamp" data-timestamp="580">09:40</a> 邮轮 Tips：旅行准备，订票技巧，逃生演习</span><br><span><a class="timestamp" data-timestamp="878">14:38</a> 杂谈海上灾难片与克苏鲁神话</span><br><span><a class="timestamp" data-timestamp="1360">22:40</a> 其他邮轮行：多瑙河河轮，国内邮轮</span><br><span><a class="timestamp" data-timestamp="1918">31:58</a> 今年的旅行规划：大加纳利群岛</span></p><span></span><p><strong><span>小杨同学供图</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/FlqTYrPriI5ohdH_hGmmAAHX0kIj.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FqQzINLjWUl4idNewfTDSmBmY3oy.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fpz5L6x6Y7V8lLBBsfzYwA2Blng1.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Ft_6HeWWtOdgz8nBZYPtf5AE16Gj.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fgs4mjBAyPwTixgJQw-Sm_KLLY-T.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liQAvYkIQ_J-G7A_MR9I7OfmMj6U.m4a" length="60605357" type="audio/mp4"/>
+    <itunes:duration>00:41:45</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvU2FoTWJmRWhzaV9BRlNQSnpadDVIa2lrUGYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E23 邮轮之旅：最奢侈的风景体验，最随心的度假方式（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65a64fe4ed29175cc37e366b</link>
+    <guid isPermaLink="false">65a64fe4ed29175cc37e366b</guid>
+    <pubDate>Tue, 16 Jan 2024 09:44:03 +0000</pubDate>
+    <description><![CDATA[<p><span>2024 新年快乐啊～ 今年新年我们跟小杨同学聊聊他去年八天七夜的地中海邮轮旅行。途经的都是想去的地方啊，意大利的那不勒斯，西班牙的巴塞罗那，法国的马赛。</span></p><span></span><p><span>体验非常好的同时还很有性价比，聊着聊着我就心动了。</span></p><span></span><p><span>今年他又要去大西洋做邮轮了，看来邮轮旅行确实有它的过人之处，用小杨同学的话来说，邮轮旅行只有 0 次和无数次。</span></p><span></span><p><span>本期节目我们就来聊聊邮轮旅行的魅力。</span></p><span></span><p><span><a class="timestamp" data-timestamp="130">02:10</a> 整体行程：那不勒斯 -&gt; 马略卡 -&gt; 巴塞罗那 -&gt; 马赛 -&gt; 热那亚 -&gt; 拉西佩齐亚</span><br><span><a class="timestamp" data-timestamp="265">04:25</a> 邮轮介绍：海上城市，完善的设施</span><br><span><a class="timestamp" data-timestamp="690">11:30</a> 超出预期的体验：只有邮轮上能看得到的风景，成熟的管理流程</span><br><span><a class="timestamp" data-timestamp="1165">19:25</a> 餐饮：自助餐，特色餐厅 </span><br><span><a class="timestamp" data-timestamp="1398">23:18</a> 价格：房间类型，服务等级 </span><br><span><a class="timestamp" data-timestamp="1996">33:16</a> 签证问题</span></p><span></span><p><strong><span>小杨同学供图</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/FnMhKJ4tnNIHr0W5H6u6kO_o3pvY.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FnuxWGZ7JsXhOvTGWOF7nn6ENZvX.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fs2RpFrJVMjwzOthfK0a5vFPT_ov.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvuFdlU6wPmepDTU_ZxzKNFZ_pRA.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgvXmP70mcjAko8Z2ExuUCV6it-i.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FkB47MRERi9s7YKAvflOoZBLoEmx.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luoN98fQCYhCqYUBhYki231y6Jkl.m4a" length="57407693" type="audio/mp4"/>
+    <itunes:duration>00:39:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fni_n2HdiQaPIs0uMh2lAmaTb3ns.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E22 滞后的支付大战，跟桂哥聊聊日本的支付行业</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/658a34bebf3589e894408242</link>
+    <guid isPermaLink="false">658a34bebf3589e894408242</guid>
+    <pubDate>Tue, 26 Dec 2023 02:04:45 +0000</pubDate>
+    <description><![CDATA[<p><span>今天有幸请到微软 10 届MVP， 在日本聚合支付一线深耕多年的桂哥一起来闲聊日本的支付行业以及技术。</span></p><span></span><p><span><a class="timestamp" data-timestamp="108">1:48</a> 从国内社区到日本支付服务开发一线</span><br><span><a class="timestamp" data-timestamp="192">3:12</a> 滞后的日本支付行业？</span><br><span><a class="timestamp" data-timestamp="563">9:23</a> 信用卡支付 vs QR成长性</span><br><span><a class="timestamp" data-timestamp="689">11:29</a> QR支付趋势渐成</span><br><span><a class="timestamp" data-timestamp="1006">16:46</a> 地方政府的QR支付助力</span><br><span><a class="timestamp" data-timestamp="1125">18:45</a> 聚合支付的技术栈以及高可用性的需求</span><br><span><a class="timestamp" data-timestamp="1452">24:12</a> 稳中求细, 不怕慢的的日式开发</span><br><span><a class="timestamp" data-timestamp="2165">36:05</a> 不用卷的日本支付IT</span></p><span></span><p><span>相关资料：</span><br><span> </span><a href="https://dotnetconf.cn/#conference-speakers" data-url="https://dotnetconf.cn/#conference-speakers"><span>桂哥 &nbsp;- 开发者，架构师，微软10届MVP</span></a><br><span> </span><a href="https://www.nira.or.jp/paper/report212309_pre.pdf" data-url="https://www.nira.or.jp/paper/report212309_pre.pdf"><span>2023非现金支付实态调查</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltnErvF1ltmicm55ITTcL1W4I89r.m4a" length="38310251" type="audio/mp4"/>
+    <itunes:duration>00:39:34</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZteWdZTkxNRzRfTzZabVF5cjdSeFZvZEw3NnUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E21 聊聊数字货币的真实与谎言</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6556f13d51ba721857ea3037</link>
+    <guid isPermaLink="false">6556f13d51ba721857ea3037</guid>
+    <pubDate>Fri, 17 Nov 2023 04:51:08 +0000</pubDate>
+    <description><![CDATA[<p><span>好久没有聊数字货币了，这期我们就结合最近的比特币 ETF 即将获得 SEC 通过的消息聊聊数字货币圈的真实与谎言。</span></p><span></span><p><span><a class="timestamp" data-timestamp="196">03:16</a> 最近这波大涨的原因以及数字货币的价值疑问</span><br><span><a class="timestamp" data-timestamp="496">08:16</a> 技术理想在现实落地后的真实与谎言</span><br><span><a class="timestamp" data-timestamp="1458">24:18</a> 数字货币在个人价值方面的真实与谎言</span><br><span><a class="timestamp" data-timestamp="2882">48:02</a> 数字货币在社会价值方面的真实与谎言</span><br><span><a class="timestamp" data-timestamp="3349">55:49</a> 一个有趣的项目：UBI（全民收入计划）</span><br><span><a class="timestamp" data-timestamp="3534">58:54</a> 数字货币的价值陷阱</span><br><span> </span><br><span>相关资料：</span><br><span></span><a href="https://www.panewslab.com/zh/articledetails/13r1wn31gez1.html" data-url="https://www.panewslab.com/zh/articledetails/13r1wn31gez1.html"><span>UBI 发展史：乌托邦和空想的结合场域</span></a><br><span></span><a href="https://www.panewslab.com/zh/articledetails/6nk7mer8.html" data-url="https://www.panewslab.com/zh/articledetails/6nk7mer8.html"><span>Paypal公开信：我们为什么要推出稳定币PYUSD？</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljTboSKvypT03T14AsNa2osmvR2E.m4a" length="97959253" type="audio/mp4"/>
+    <itunes:duration>01:07:29</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpWEZBTjhRWlAycllqelRWRzlUdVhpQi05d2wucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E20 没有诗的远方，跟 Jose 杂谈拉美</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/652cb32636a1383a6664877f</link>
+    <guid isPermaLink="false">652cb32636a1383a6664877f</guid>
+    <pubDate>Mon, 16 Oct 2023 03:51:00 +0000</pubDate>
+    <description><![CDATA[<p><span>之前跟 Jose 聊过一期西班牙，本期我们再跟 Jose 聊聊魔幻现实主义的拉美。</span></p><span></span><p><span><a class="timestamp" data-timestamp="98">01:38</a> 去委内瑞拉的机缘</span><br><span><a class="timestamp" data-timestamp="284">04:44</a> 拉美国家介绍 &amp; 拉美人观感</span><br><span><a class="timestamp" data-timestamp="844">14:04</a> 委内瑞拉糟糕的治安环境：接近千分之一的谋杀率</span><br><span><a class="timestamp" data-timestamp="1464">24:24</a> 美食：超好吃的牛肉</span><br><span><a class="timestamp" data-timestamp="2070">34:30</a> 工人的收入水平</span></p><span></span><p><br><span>相关资料：</span><br><span></span><a href="https://movie.douban.com/subject/25850640/" data-url="https://movie.douban.com/subject/25850640/"><span>毒枭 第一季 (豆瓣) </span></a><br><span></span><a href="https://movie.douban.com/subject/35224988/" data-url="https://movie.douban.com/subject/35224988/"><span>一名母亲的三重死亡 (豆瓣)&nbsp;</span></a></p><span></span><p><br><span></span></p><span></span><p><br><span></span></p><span></span><p><br><span> </span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhU87Uvdpa494RH9-1NL3Dvlt0As.m4a" length="54413333" type="audio/mp4"/>
+    <itunes:duration>00:37:29</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwZ253aHU0LVcyaDRZb3pndms2MlpuS2hiY1cucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

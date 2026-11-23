@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>字言自语</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6370ad6450e04380dc733db6</link>
+  <description><![CDATA[CodeSwitch Lab
+
+一个语言和科技产生化学反应的地方]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:55:28 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6370ad6450e04380dc733db6.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Gary_YbYB</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhzXZNMW0s6FDQH6W1UnIZbvq3RN.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhzXZNMW0s6FDQH6W1UnIZbvq3RN.png</url>
+    <title>字言自语</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6370ad6450e04380dc733db6</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Notion 产品经理与用户面对面对话：解读Notion全球本地化</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ae2d4433ddcbb53c0e2f8e</link>
+    <guid isPermaLink="false">66ae2d4433ddcbb53c0e2f8e</guid>
+    <pubDate>Sat, 03 Aug 2024 13:14:43 +0000</pubDate>
+    <description><![CDATA[<p><span>Stephanie Chin - Notion全球增长负责人</span></p><span></span><p><span>Ray Fu - Notion 内容创作者，小红书@人生管理指南-Ray</span></p><span></span><ul><span>  </span><li><span>自己和Notion的故事 <a class="timestamp" data-timestamp="0">00:00</a></span></li><span>  </span><li><span>Notion如何选择国家和市场？<a class="timestamp" data-timestamp="247">4:07</a></span></li><span>  </span><li><span>为什么日韩用户多于中国用户？<a class="timestamp" data-timestamp="247">4:07</a></span></li><span>  </span><li><span>Notion在中国增长的瓶颈 <a class="timestamp" data-timestamp="399">6:39</a></span></li><span>  </span><li><span>Notion在日本的本地化实践 <a class="timestamp" data-timestamp="429">7:09</a></span></li><span>  </span><li><span>Notion在法国的营销本地化 <a class="timestamp" data-timestamp="429">7:09</a></span></li><span>  </span><li><span>Notion对德日用户的特别关照 <a class="timestamp" data-timestamp="607">10:07</a></span></li><span>  </span><li><span>中国用户的独特使用方式 <a class="timestamp" data-timestamp="751">12:31</a></span></li><span>  </span><li><span>Notion管理全球用户社区的三种方式 <a class="timestamp" data-timestamp="826">13:46</a></span></li><span>  </span><li><span>团队复盘本地化成功的三大因素 <a class="timestamp" data-timestamp="1244">20:44</a></span></li><span>  </span><li><span>三因素是否保证本地化成功？<a class="timestamp" data-timestamp="1404">23:24</a></span></li><span>  </span><li><span>没有Notion，你的生活会怎样？<a class="timestamp" data-timestamp="1490">24:50</a></span></li><span>  </span><li><span>夏威夷等小众地区的本地化理念 <a class="timestamp" data-timestamp="1613">26:53</a></span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj0DFb9ysH8UwOxixfuHfjHRoLCS.m4a" length="20520300" type="audio/mp4"/>
+    <itunes:duration>00:28:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FplyvyPEjwlPvusZxVsyNdm3pEfZ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>7. 🇷🇺 对话创始人：Google, Insight Partners 联投, 这家公司始于斯坦福，用AI矫正口音</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64883b756752b5f9dea242a9</link>
+    <guid isPermaLink="false">64883b756752b5f9dea242a9</guid>
+    <pubDate>Tue, 13 Jun 2023 09:48:36 +0000</pubDate>
+    <description><![CDATA[<p><span>本期嘉宾：Maxim Serebryakov，Sanas CEO和创始人。Sanas是一家AI语音技术公司，通过AI矫正口音，帮助多语言使用者进行清晰的交流，目前有Google Venture, Insight Partners, General Catalyst等VC参投。</span></p><span></span><p><span><a class="timestamp" data-timestamp="62">01:02</a>：Sanas的起源 - 被客服中心解雇的斯坦福学生</span></p><span></span><p><span><a class="timestamp" data-timestamp="273">04:33</a>：Sanas 创始人在早期面临的弯路、困惑、和选择</span></p><span></span><p><span><a class="timestamp" data-timestamp="546">09:06</a>：关于早期团队的搭建</span></p><span></span><p><span><a class="timestamp" data-timestamp="620">10:20</a>：关于投资人的选择</span></p><span></span><p><span><a class="timestamp" data-timestamp="736">12:16</a>：搭建围绕科技和人搭建一家AI驱动的初创公司</span></p><span></span><p><span><a class="timestamp" data-timestamp="1039">17:19</a>：Max 推荐的一本书</span></p><span></span><p><span>相关链接：</span></p><span></span><p><span>Sanas - <a data-url="https://sanas.ai" href="https://sanas.ai">sanas.ai</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmJMf9dQYVuKHg5rGB9iM1gk4FPI.m4a" length="17329857" type="audio/mp4"/>
+    <itunes:duration>00:17:50</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zoczd6MkpkdnRqNGZON1lxeGtmcjZ6NjQzVmwucG5n.png"/>
+    <itunes:episode>7</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>6. 🇨🇳 冷邮件也可以很温暖 - Coldreach, Y Combinator W23</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/644fdf5e306513184cd6eb7b</link>
+    <guid isPermaLink="false">644fdf5e306513184cd6eb7b</guid>
+    <pubDate>Mon, 01 May 2023 15:48:45 +0000</pubDate>
+    <description><![CDATA[<p><span>本期嘉宾：Xiaohan Shen, CEO@Coldreach, Y Combinator W23.</span></p><span></span><p><span>Xiaohan Shen 在大学期间就开始创业，目前的公司Coldreach 用AI去帮助企业定制营销邮件。</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> ：如何在学业和创业之间做出选择的？</span></p><span></span><p><span><a class="timestamp" data-timestamp="113">01:53</a> ：Easy Job: 大学第一次产品创业的经历，</span></p><span></span><p><span><a class="timestamp" data-timestamp="283">04:43</a> ：Coldreach: 大学第二次产品创业的经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="502">08:22</a> ：第一段经历的经验总结 &amp; 如何运用经验到第二段经历中</span></p><span></span><p><span><a class="timestamp" data-timestamp="660">11:00</a>：如何和用户去交流</span></p><span></span><p><span><a class="timestamp" data-timestamp="811">13:31</a>：Coldreach如何试用自己的产品？</span></p><span></span><p><span><a class="timestamp" data-timestamp="937">15:37</a>：AICG邮件营销赛道上就竞争对手的思考</span></p><span></span><p><span><a class="timestamp" data-timestamp="1056">17:36</a>：Coldreach 怎么用AI生成营销冷邮件？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1238">20:38</a>：在YC孵化器中收到最有帮助的建议</span></p><span></span><p><span><a class="timestamp" data-timestamp="1363">22:43</a>：YC录取Coldreach的一些因素</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liEJGtx30pIoF-nkRW0syEMIpuVE.m4a" length="27036113" type="audio/mp4"/>
+    <itunes:duration>00:27:49</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1ZVBYc3VJU2kwemwxeURQYmp5VUNPcm03RkgucG5n.png"/>
+    <itunes:episode>6</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>5. 🇺🇦 战争下的乌克兰科技圈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/641922fa8aca9099d7e2b69d</link>
+    <guid isPermaLink="false">641922fa8aca9099d7e2b69d</guid>
+    <pubDate>Tue, 21 Mar 2023 03:22:33 +0000</pubDate>
+    <description><![CDATA[<p><span>本期节目邀请到了来自乌克兰的同学 Marichka Dodbo，了解战争对乌克兰科技圈的影响。</span></p><span></span><p><span>本期嘉宾：Marichka Dodbo@康奈尔大学，医疗科技方向</span></p><span></span><p><span><a class="timestamp" data-timestamp="18">00:18</a>: 计算机和乌克兰利沃夫的女孩</span></p><span></span><p><span><a class="timestamp" data-timestamp="105">01:45</a>: 乌克兰和美国科技之间的异同</span></p><span></span><p><span><a class="timestamp" data-timestamp="259">04:19</a>: 战争下的乌克兰科技圈和创业者</span></p><span></span><p><span><a class="timestamp" data-timestamp="463">07:43</a>: 战争对乌克兰科技创业投资的影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="609">10:09</a>: 乌克兰的科技公司正在如何帮助国家抗战</span></p><span></span><p><span><a class="timestamp" data-timestamp="791">13:11</a>: 作为科技方向学生，Marichka在当前国家局势下的应对方式</span></p><span></span><p><span><a class="timestamp" data-timestamp="958">15:58</a>：Marichka 对乌克兰外地地区想说的话</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/noh5xv_tSpDmZikgsPrFsTXdW5Wt.mp3" length="17694065" type="audio/mpeg"/>
+    <itunes:duration>00:18:25</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtblpBSjJYaDNZd3UyMzIwVU9XRFRCZmJPMVUucG5n.png"/>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>4. 🇺🇸 🇰🇷 OpenAI 押注 $30M 的口语产品 - Speak</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/641266e4d94bb094db9e662e</link>
+    <guid isPermaLink="false">641266e4d94bb094db9e662e</guid>
+    <pubDate>Thu, 16 Mar 2023 00:46:24 +0000</pubDate>
+    <description><![CDATA[<p><span>本期访谈客：</span></p><span></span><p><span>Conner Zwick - CEO@Speak</span><br><span>Andrew Hsu - CTO@Speak</span><br><span>Sean Cha - VP of Operation@Speak</span></p><span></span><p><span><a class="timestamp" data-timestamp="86">01:26</a>: Conner在本科期间创业出售的第一家公司</span></p><span></span><p><span><a class="timestamp" data-timestamp="120">02:00</a>: Conner 和 Andrew 分别从哈佛和斯坦福辍学的经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="291">04:51</a>: 为什么要进入语言学习的赛道？</span></p><span></span><p><span><a class="timestamp" data-timestamp="377">06:17</a>: Speak初期遇到的挑战</span></p><span></span><p><span><a class="timestamp" data-timestamp="449">07:29</a>: 如何判断市场和用户的？为什么进入韩国市场？</span></p><span></span><p><span><a class="timestamp" data-timestamp="534">08:54</a>: 寻找Product Market Fit 的过程</span></p><span></span><p><span><a class="timestamp" data-timestamp="677">11:17</a>: Speak 在语言学习赛道保持竞争优势的策略和护城河</span></p><span></span><p><span><a class="timestamp" data-timestamp="684">11:24</a>: 作为一家AI技术加产品驱动公司的CTO，Andrew的收获</span></p><span></span><p><span><a class="timestamp" data-timestamp="843">14:03</a>: 如何评价Speak现在状况和公司未来长远的目标</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgDbBLGr82nIzmmY92CAMKvDStRF.m4a" length="15346652" type="audio/mp4"/>
+    <itunes:duration>00:15:47</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrbVZnQVB4SDFXWWk2QlVkbjA4TG9ZZU5xSVkucG5n.png"/>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>3. 🇨🇭 甩多领国10条街 - Quazel, Y Combinator Winter 23</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63b29df4e7ab859986035ca5</link>
+    <guid isPermaLink="false">63b29df4e7ab859986035ca5</guid>
+    <pubDate>Mon, 02 Jan 2023 09:03:47 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期嘉宾：Philipp Hadjimina, Founder @ Quazel, 入选 Y Combinator W23，来自瑞士苏黎世。</span></strong></p><span></span><p><strong><span>很少有像Quazel一样惊艳的语言学习产品。没有尝试它是语言学习者的损失。对比Duolingo，Quazel 目前在线上的MVP已经是一个 10x Product。本期节目我们将和这款背后的builder 聊聊他创造Quazel的经历。</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="101">01:41</a>：为什么要选择Language Learning 语言学习这个赛道？</span></p><span></span><p><span><a class="timestamp" data-timestamp="477">07:57</a>：在Hacker News上发布产品的意外结果</span></p><span></span><p><span><a class="timestamp" data-timestamp="704">11:44</a>：申请Y Combinator 的经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="822">13:42</a>：如何找到现在的联合创始人的？</span></p><span></span><p><span><a class="timestamp" data-timestamp="963">16:03</a>：Quazel 现在的发展优先级和主要任务</span></p><span></span><p><span><a class="timestamp" data-timestamp="1188">19:48</a>：团队在摸索Product Market Fit 路上的思考</span></p><span></span><p><span><a class="timestamp" data-timestamp="1529">25:29</a>: 如何看待创业路上的风险和应对机制</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltkwORjjVUIxIDP25NHOJ8Y4mytA.m4a" length="28626854" type="audio/mp4"/>
+    <itunes:duration>00:29:30</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zqa1lCam9fTGdqN2Q1QlM2Z1JkWkoyblVZeHMucG5n.png"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2. 🇺🇸 用语音分析，提高人的沟通能力(with Esha Joshi @ Yoodli)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63774fd70524abe41199ff6b</link>
+    <guid isPermaLink="false">63774fd70524abe41199ff6b</guid>
+    <pubDate>Fri, 18 Nov 2022 09:26:46 +0000</pubDate>
+    <description><![CDATA[<p><span>本期嘉宾：Esha Joshi, Founder @ Yoodli</span></p><span></span><p><span>Esha 一直对公共演讲保持恐惧。加入苹果后，Esha 发现在硅谷，还有很多像她一样的人，不知道或者不敢表达自己的想法。离开Apple之后，Esha 创立了Yoodli，通过语音分析提供改善沟通技巧的建议。</span></p><span></span><p><span>Yoodli 种子轮由 Madrona 领投。</span></p><span></span><p><span><a class="timestamp" data-timestamp="67">1:07</a>: Yoodli的起源</span></p><span></span><p><span><a class="timestamp" data-timestamp="241">4:01</a>: Yoodli 现在产品的使用情况</span></p><span></span><p><span><a class="timestamp" data-timestamp="385">6:25</a>: Esha 自己是如何使用Yoodli？</span></p><span></span><p><span><a class="timestamp" data-timestamp="493">8:13</a>: 对Yoodli用户早期的假设？如何验证这些假设的？</span></p><span></span><p><span><a class="timestamp" data-timestamp="655">10:55</a>: 用户在Yoodli上其他的用法</span></p><span></span><p><span><a class="timestamp" data-timestamp="747">12:27</a>: Yoodli 未来的产品 Roadmap</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loRr6ux6QwDA0O3J-oXKjp2qDTTw.m4a" length="11270913" type="audio/mp4"/>
+    <itunes:duration>00:15:25</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvQUdFMXdPNkxLMlJHWFZfR2hNRTRkdTB6bkgucG5n.png"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>1. 🇮🇱 捣腾 38 个产品后，去做了自己最害怕的事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6370b560a5004aa3aa5714d5</link>
+    <guid isPermaLink="false">6370b560a5004aa3aa5714d5</guid>
+    <pubDate>Sun, 13 Nov 2022 09:14:07 +0000</pubDate>
+    <description><![CDATA[<p><em><span>本期嘉宾：</span></em><a href="https://speechify.com/about/?landing_url=https%3A%2F%2Fspeechify.com%2Fabout%2F" data-url="https://speechify.com/about/?landing_url=https%3A%2F%2Fspeechify.com%2Fabout%2F"><em><span>Cliff Weitzman</span></em></a><em><span>, CEO &amp; Founder @ Speechify</span></em></p><span></span><p><span>Cliff 从小患有失读症，无法阅读。</span></p><span></span><p><span>在布朗念书时，他自学编程，写了一款文字转语音软件，来辅助自己阅读理解。毕业后，持续优化成品，发布了 Speechify，一款目前ARR千万美金的语音阅读器。</span></p><span></span><p><span>在创业赛道选择，不少人都会迷茫。面对迷茫，Cliff的回答是：做你小时候最让你害怕的事。</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="102">1:42</a>: 在布朗大学念书时捣腾38个产品</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="202">3:22</a>: Speechify的起源</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="353">5:53</a>: 如何验证Speechify的市场需求</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="446">7:26</a>: 为自己代言，Cliff自制的13M播放量的油管广告</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="535">8:55</a>: 为什么坚持做这个不“性感”的产品？Speechify早期困难</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="869">14:29</a>: Speechify 如何帮 Cliff 寻找人生意义</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="980">16:20</a>: 管理恐惧和不确定性</span></strong></p><span></span><p><strong><span><a class="timestamp" data-timestamp="1073">17:53</a>: 如何把Speechify打造一支不受地域限制的全球团队</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsrgliOJaRMwgu8QO1Jxwi9hgEc7.m4a" length="15648543" type="audio/mp4"/>
+    <itunes:duration>00:21:25</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRFhCVm9feVI4WEY2NHVEemRTaFo4enBuWG0ucG5n.png"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

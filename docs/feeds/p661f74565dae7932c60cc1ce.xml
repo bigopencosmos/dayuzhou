@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>《收获日》魔幻游戏与真实劫案</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/661f74565dae7932c60cc1ce</link>
+  <description><![CDATA[PAYDAY系列游戏的剧情故事和真实世界的抢劫罪案
+三期节目为你揭开系列故事发展，三个罪案故事更是令人不禁唏嘘……]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:37:53 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p661f74565dae7932c60cc1ce.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>播客公社操作员</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhBJXhf1BQJRoVPLkVtr6yHskZa_.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhBJXhf1BQJRoVPLkVtr6yHskZa_.jpg</url>
+    <title>《收获日》魔幻游戏与真实劫案</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/661f74565dae7932c60cc1ce</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

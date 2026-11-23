@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>李淼谈奇案</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61974e7309a25ee35a944cca</link>
+  <description><![CDATA[日谈公园人气主播李淼
+抽丝剥茧解密十大奇案
+探究人性的阴暗面，淼叔带你凝视深渊]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:16:03 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61974e7309a25ee35a944cca.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>小宇宙节目管理员</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2NWdpbXlKTC1sQjQ5Ym43M1cwcGdDd0VaT2YuanBn.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2NWdpbXlKTC1sQjQ5Ym43M1cwcGdDd0VaT2YuanBn.jpg</url>
+    <title>李淼谈奇案</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61974e7309a25ee35a944cca</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>日本宰相列传（第1季）</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6588802f20d779b49ddb51ed</link>
+  <description><![CDATA[《日本首相列传》由番薯剥壳工作室出品、制作，由《东亚观察局》主播梵一如、沙青青倾情呈现，第1季共5集，每期针对一位日本二战战败后的首相进行评说，在这里能听到日本二战以后的历史、政经、社会、文化等多方面的知识，同时跟随主播的视角，对日本战后历史从进行再认识。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:07:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6588802f20d779b49ddb51ed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>梵一如本人</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FjlY04bgoA2uBSeIojwTKNX00k0i.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FjlY04bgoA2uBSeIojwTKNX00k0i.jpg</url>
+    <title>日本宰相列传（第1季）</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6588802f20d779b49ddb51ed</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

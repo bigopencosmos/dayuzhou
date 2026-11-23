@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>小数据和旋</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6152a0a071d2e34ddb48e608</link>
+  <description><![CDATA[从小数据，看大世界! 每期节目由一个小数据引入，发现当下世界正在发生的变化，探讨变化背后的原因。行业趋势、政策方向、商业模型、社会文化，都是我们好奇的问题。我们制作这个节目就是出于对世界的好奇。声明：本节目“用小数据引出故事”的形式借鉴了美国全国公共广播电台（NPR）的一档节目，the indicator。这是两位主播都很喜爱的一档节目，如果你有兴趣收听英文版的“小数据”，也可以去搜索the indicator试试哦~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:43:59 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6152a0a071d2e34ddb48e608.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>He-Xuan</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL3NrN3hvNnkzeHB1MDAxdmtsZWU0N3RubmJqYWQ_LmpwZw=="/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL3NrN3hvNnkzeHB1MDAxdmtsZWU0N3RubmJqYWQ_LmpwZw==</url>
+    <title>小数据和旋</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6152a0a071d2e34ddb48e608</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

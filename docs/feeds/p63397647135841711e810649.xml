@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>lbb碎碎念</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63397647135841711e810649</link>
+  <description><![CDATA[想到哪里说到哪里！没有稿子的碎碎念]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:07:40 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63397647135841711e810649.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>知识女性_lkYT</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fl_qpjbdB04tJQVMRukIeX7vxqzG.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fl_qpjbdB04tJQVMRukIeX7vxqzG.jpg</url>
+    <title>lbb碎碎念</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63397647135841711e810649</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>001 发生了什么/关于归属感的一些探讨</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68ccdf7ba56ca3e0c4343865</link>
+    <guid isPermaLink="false">68ccdf7ba56ca3e0c4343865</guid>
+    <pubDate>Fri, 19 Sep 2025 04:48:48 +0000</pubDate>
+    <description><![CDATA[<p><span>在滑跪了</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63397647135841711e810649/ltEhMph-WmA72bKjytbEHJ-Q_ITV.m4a" length="44392162" type="audio/mp4"/>
+    <itunes:duration>00:25:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl_qpjbdB04tJQVMRukIeX7vxqzG.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>000“重新开始”是一件难事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6725ef0833c798676fdfc4d4</link>
+    <guid isPermaLink="false">6725ef0833c798676fdfc4d4</guid>
+    <pubDate>Sat, 02 Nov 2024 09:22:59 +0000</pubDate>
+    <description><![CDATA[<p><span>重新开始（2.0版本）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luwYcrQPMemOqOZX4YsC6Z0Z4RuX.m4a" length="37080437" type="audio/mp4"/>
+    <itunes:duration>00:25:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl_qpjbdB04tJQVMRukIeX7vxqzG.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

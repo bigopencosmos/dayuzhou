@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>攻梦MindHacker</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6530ae4a6c3e90978f56e6d6</link>
+  <description><![CDATA[独立开发 / AI 全栈出海中
+记录把agent推到极限的实战
+每周分享 3篇]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:51:38 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6530ae4a6c3e90978f56e6d6.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg</url>
+    <title>攻梦MindHacker</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6530ae4a6c3e90978f56e6d6</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>21. 试了两个Ai 插件后，我觉得这个方向还有机会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8fef8cef65145dfcc6417f</link>
+    <guid isPermaLink="false">6a8fef8cef65145dfcc6417f</guid>
+    <pubDate>Thu, 27 Aug 2026 08:36:39 +0000</pubDate>
+    <description><![CDATA[<p><span>辅助类轻量化工具，一个看起来像是被做满了，很多竞争者的领域，其实还有机会。如果你去试试商店排前列的一些应用，实际上体验都不算太好，摩擦感很强。</span></p><p><span>鉴于和ai聊天的人越来越多，围绕chat 继续做辅助配套tool 还有增量机会。</span></p><p><span>这一期分享的就是我的体验和思路希望对你有帮助</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lnJVg5rlXQu7H1Iafpu0kP5DeQUx.m4a" length="4962975" type="audio/mp4"/>
+    <itunes:duration>00:05:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>21</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>20. Ai一出原型，我就开始挑字体</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8e48a5ef65145dfcc56e17</link>
+    <guid isPermaLink="false">6a8e48a5ef65145dfcc56e17</guid>
+    <pubDate>Wed, 26 Aug 2026 02:01:25 +0000</pubDate>
+    <description><![CDATA[<p><span>AI 秒出原型之后，我发现自己反而做不下去了。</span></p><p><span>开始挑登录页、挑字体、挑配色——从使用者变成了作者，创作的张力一下就卸掉了。</span></p><p><span>举了个我自己的例子：一个只需要把 API 丢给 agent 就能出结果的工具，我非要把它封装成一个页面。</span></p><p><span>4 分钟，讲我现在的做法：先问一句这事 agent 在窗口里能不能直接给我结果。能的话，html 就先别做</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/FvGZmVdw6YCmYy2aOYyHa_lrzRE1.m4a" length="4038055" type="audio/mp4"/>
+    <itunes:duration>00:04:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>20</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>19. 用ai agent 做营销自动化的实战初体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8d965c1352af56ff3be3cc</link>
+    <guid isPermaLink="false">6a8d965c1352af56ff3be3cc</guid>
+    <pubDate>Tue, 25 Aug 2026 13:20:49 +0000</pubDate>
+    <description><![CDATA[<p><span>尝试用agent 啃最让人烦恼的Seo</span></p><p><span>刚好用了Claude code 和codex</span></p><p><span>简单分享两者在代码之外的能力区别</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lgViQWs33rYao4zLQisfWRzQM-Ne.m4a" length="6285546" type="audio/mp4"/>
+    <itunes:duration>00:06:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>18. Ai copilot是“决策疲劳症”的最佳良药</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/693795fb3fec3166cf04f640</link>
+    <guid isPermaLink="false">693795fb3fec3166cf04f640</guid>
+    <pubDate>Tue, 09 Dec 2025 03:23:30 +0000</pubDate>
+    <description><![CDATA[<p><span>亲测有效</span></p><span></span><figure><img src="https://image.xyzcdn.net/FqnCb2k5Rbjkk-paWFj9UADrDEKJ.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lou-zbpfI4YOykFZOmdSmK67S0dx.m4a" length="8275431" type="audio/mp4"/>
+    <itunes:duration>00:08:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>17. 用完豆包agent手机，所有app账号都废了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69369eb33fec3166cfe5c9ed</link>
+    <guid isPermaLink="false">69369eb33fec3166cfe5c9ed</guid>
+    <pubDate>Mon, 08 Dec 2025 10:00:17 +0000</pubDate>
+    <description><![CDATA[<p><span>本质上这是Agent和所有应用之间的时间之战、入口之战</span></p><span></span><p><span>以及：agent对于个体开发是否一个好方向</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lhJR1_GK7Q9sx7KlfVNBJYxjrSC3.m4a" length="10460961" type="audio/mp4"/>
+    <itunes:duration>00:10:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>16. 用极简创造法，在“倦怠社会”生存</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69356de23fec3166cfb94eec</link>
+    <guid isPermaLink="false">69356de23fec3166cfb94eec</guid>
+    <pubDate>Sun, 07 Dec 2025 12:09:35 +0000</pubDate>
+    <description><![CDATA[<p><span>如果没有“极简”，我甚至10分钟的播客都无法录制完成</span></p><span></span><p><span>此前试过和朋友远程播客录制，最后要剪2条音轨，还要不断对齐，反复试听，再剪辑</span></p><span></span><p><span>最后看到“播放量30”，着实有点崩溃，这种失落情绪，在创造领域很真实</span></p><span></span><p><span>后来我发现，不管是产品创造还是内容创造，它都需要两样东西</span></p><span></span><p><span>1、启动能量。</span></p><span></span><p><span>2、创作飞轮。</span></p><span></span><p><span>启动能量是指，如果你创造了东西（而不是抄袭），你会得到一股能量，它能驱动你做第二次创作。</span></p><span></span><p><span>飞轮指的是你不断重复以上，</span><em><strong><span>最后创造成了你生活里自然而然的东西，而不是计划到某个时间点，在电脑前的一次工作。</span></strong></em></p><span></span><p><span>极简的意义：</span></p><span></span><p><span>1、让你快速拥有第一波能量</span></p><span></span><p><span>2、不过度期待</span></p><span></span><p><span>3、对齐创造之物和自我，不要尝试给自己的大脑安装别人的程序，然后去输出不属于自己的东西</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/ltaPeh7p_C7K0gzgPFbhEaG-WS9_.m4a" length="11043778" type="audio/mp4"/>
+    <itunes:duration>00:11:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>15. Monk Mode：数字排毒与多巴胺戒断体会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/693560303fec3166cfb7619a</link>
+    <guid isPermaLink="false">693560303fec3166cfb7619a</guid>
+    <pubDate>Sun, 07 Dec 2025 11:12:54 +0000</pubDate>
+    <description><![CDATA[<p><span>就自由职业者的精神状态而言，我更推崇激进的“一网打尽”，而不是“逐个击破”。</span></p><span></span><p><span>我们是现代人，有很多问题：注意力涣散，毫无意志力，对多巴胺贪得无厌。</span></p><span></span><p><span>如果一个个去逐个击破，实际上永远破不了，你怎么可能慢慢撕开一张柔性的网？</span></p><span></span><p><span>实际上这些问题很适合批量处理，很适合“一网打尽”。</span><strong><span>或许这和李小龙的哲学有些相似——</span></strong><em><strong><span>“禅宗的本质是直击要害，直捣黄龙”</span></strong></em></p><span></span><p><span>尝试僧侣模式的有代价的，实际上这是比工作本身更难的事情。</span></p><span></span><p><span>如果我可以hack产品工程，也可以hack用户心智，但却无法hack自己的脑神经，只能任由它不受控制地四处游走，那事情就一点都不酷了。仅仅从这个角度出发，monk mode也是值得被践行的。</span></p><span></span><p><span>想了解更多，可以搜索关键词：</span></p><span></span><p><span>多巴胺戒断/数字排毒/痛苦守恒定律/僧侣模式</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lrWBx54QSG-ciHABW68UzopAmfJ8.m4a" length="8228866" type="audio/mp4"/>
+    <itunes:duration>00:08:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>14. “先服务后产品”为何朴素而有效？以及如何阻断“过度刺激”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/693500013fec3166cfaab598</link>
+    <guid isPermaLink="false">693500013fec3166cfaab598</guid>
+    <pubDate>Sun, 07 Dec 2025 04:20:44 +0000</pubDate>
+    <description><![CDATA[<p><span>大多数人说“产品开发”的意思就是：他要做一个app了。</span></p><span></span><p><span>其实这是失败率最高的一种模式。最简洁有效的是：先尝试做不可规模的东西，比如先提供1对1的服务，从很多1对1服务里找到共同点，然后才考虑自动化，考虑app模式。</span></p><span></span><p><span>如今50000美金月收入的Sales.co就是这么走过来的。</span></p><span></span><p><span>创始人文章：<a data-url="https://www.indiehackers.com/post/services/pivoting-from-product-to-tech-enabled-productized-service-and-growing-to-50k-mo-CNrdPsCe6FC0ikuDAK1g" href="https://www.indiehackers.com/post/services/pivoting-from-product-to-tech-enabled-productized-service-and-growing-to-50k-mo-CNrdPsCe6FC0ikuDAK1g">www.indiehackers.com</a></span></p><span></span><p><span>一条推特告诉你，如何打破那种永无休止的“内耗”和“拖延”地狱循环。</span></p><span></span><p><span>（自身体验过，这个方式对我100%有效，反正就7天，你也可以试试）</span></p><span></span><p><span><a data-url="https://x.com/RainbowBodied/status/1996719602920047018" href="https://x.com/RainbowBodied/status/1996719602920047018">x.com</a></span></p><span></span><figure><img src="https://image.xyzcdn.net/FsWwFDNvZZ1qRkQ7wizpRr4u5vCx.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lnO7ZzHGnOA3pgYVThjcs8qYCGmF.m4a" length="10537966" type="audio/mp4"/>
+    <itunes:duration>00:10:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>14</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>十年停滞，却最终突破30000美金月收入，梦幻却也真实</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6932a8523fec3166cf70018d</link>
+    <guid isPermaLink="false">6932a8523fec3166cf70018d</guid>
+    <pubDate>Fri, 05 Dec 2025 09:45:52 +0000</pubDate>
+    <description><![CDATA[<p><span>好久没更新了，今天收到indiehacker的邮件，里面讲分享了一个设计师如何赚钱的故事。很朴素，但里面一段话让我有共鸣：</span></p><span></span><p><span>“记住，进步很少是一帆风顺的。</span><u><strong><span>将近十年，</span></strong></u><strong><span>我感觉自己完全停滞不前</span></strong><span>：收入每月徘徊在2000美元左右，而且我从未对自己的工作感到自豪。我相信自己有能力开创属于自己的事业，但每次尝试迈出那一步时，</span><strong><span>总有什么东西阻碍着我</span></strong><span>。”</span></p><span></span><p><span>我看到这句话，就把案例放到flomo里了。</span></p><span></span><p><span>太真实了，就是普通人会经历的东西。不是半个月，不是一年，而是十年。</span></p><span></span><p><span>这故事回答了一个问题：如何在岁月面前保持活力，持续前进并最终爆发。</span></p><span></span><p><span>Note：</span></p><span></span><p><span>我的节奏依然是做海外的ai产品。很多信息、体会或者案例会逐步放到小宇宙这边来。</span></p><span></span><p><span>每期保持10-15分钟之间快速分享。如果你厌倦了烂大街的创业故事和名人名言，这里适合你，</span></p><span></span><p><span>欢迎订阅“Mindhacker攻梦”</span></p><span></span><p><span>文章原链接：</span><a href="https://www.indiehackers.com/post/creators/growing-a-template-portfolio-to-30k-mo-xPLu5JJpLVosWRaTovXr" data-url="https://www.indiehackers.com/post/creators/growing-a-template-portfolio-to-30k-mo-xPLu5JJpLVosWRaTovXr"><span>Growing a template portfolio to $30k/mo</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lj1YrAKWgiLAVUBsg9r2R4kIh8_Y.m4a" length="5162731" type="audio/mp4"/>
+    <itunes:duration>00:10:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>据说Ai 创业者们被Manus 吓到了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67c94c160766616acd00e231</link>
+    <guid isPermaLink="false">67c94c160766616acd00e231</guid>
+    <pubDate>Thu, 06 Mar 2025 08:10:05 +0000</pubDate>
+    <description><![CDATA[<p><span>让注意力回归当下，集中具体业务，不要热点带偏。Ai 玩家们，继续往前捣腾吧</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6530ae4a6c3e90978f56e6d6/lh-8isMuBAs2EXk53D3XDt8JdkIN.m4a" length="16062000" type="audio/mp4"/>
+    <itunes:duration>00:09:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11. 聊聊反Ai 且速攀 30 万用户的产品Cara</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6675322cb6a8412729579243</link>
+    <guid isPermaLink="false">6675322cb6a8412729579243</guid>
+    <pubDate>Fri, 21 Jun 2024 07:56:28 +0000</pubDate>
+    <description><![CDATA[<p><span>以及背后更深层的问题：</span></p><p><span>01.Ai 会杀死艺术吗？</span></p><p><span>02. 如果没有，什么时候会杀死？</span></p><p><span>03. 我们到底应该关注视觉艺术的哪些点？是审美价值，还是叙事价值？</span></p><p><span>04. 什么样的视觉 ai 交互界面才是理想的？</span></p><p><span>感兴趣的朋友欢迎去看我文章《</span><strong><span>从速攀30万用户的Cara聊一个经典问题——Ai kills art?</span></strong><span>》</span></p><p><a href="https://mp.weixin.qq.com/s/OXczOMdPdvsVrxHvXRG53Q" data-url="https://mp.weixin.qq.com/s/OXczOMdPdvsVrxHvXRG53Q"><span>mp.weixin.qq.com</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luQEuT8Hl9rA7xYJTRFZKMc6UPUU.m4a" length="32416233" type="audio/mp4"/>
+    <itunes:duration>00:18:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>10. 社媒增长的秘诀，全都写在slogan 里</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66727dc0b6a8412729d405c6</link>
+    <guid isPermaLink="false">66727dc0b6a8412729d405c6</guid>
+    <pubDate>Wed, 19 Jun 2024 06:42:08 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊个人或者微型团队做社交媒体增长的一种方式。当然，这只是其中一种增长方式，一种不那么内耗的模式，是否有用取决于你。</span></p><p><span>几个点</span></p><p><span>01 不要太不在意“公式套路”这些术，要看重社媒公司藏在slogan 里的“道”</span></p><p><span>02 做社交媒体，你最好“有矿”，一种自然的且成本低的输出机制</span></p><p><span>03 放平心态应对做社交媒体的“疲劳期”</span></p><p><span>之后准备组个社群，集结立志于通过产品或内容创业的个体，感兴趣的可提前➕个v：neumamn，添加时告知小宇宙，谢谢。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lt8jvEOJ35bDiExyECzrEToXKOv2.m4a" length="27760724" type="audio/mp4"/>
+    <itunes:duration>00:16:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>10</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>09. 灾难级的Ai 模型 stable diffusion 3，开源图像模型公司走到尽头了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666a6836c26e396a366e6d9f</link>
+    <guid isPermaLink="false">666a6836c26e396a366e6d9f</guid>
+    <pubDate>Thu, 13 Jun 2024 03:32:06 +0000</pubDate>
+    <description><![CDATA[<p><span>如果你的产品或者你想做的产品，需要高度依赖stable diffusion 模型，建议再让子弹飞一会。stability 这家公司已完全迷失🫥</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lle1oes4jwHDHgsX8rstz49QmZ29.m4a" length="15772710" type="audio/mp4"/>
+    <itunes:duration>00:09:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>9</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>08. 产品冷启动/一些故事一些想法</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6667b41363c334a2fba4ae1e</link>
+    <guid isPermaLink="false">6667b41363c334a2fba4ae1e</guid>
+    <pubDate>Tue, 11 Jun 2024 02:18:59 +0000</pubDate>
+    <description><![CDATA[<p><span>从Pinterest（早期小红书的对标）的增长故事聊聊，如何找到那些具体到不能再具体，甚至狭窄到近乎荒谬的核心用户。</span></p><p><span>之后我会选一期聊聊自己找核心用户的经历。</span></p><p></p><p><span>一些言论:</span></p><p><span>Benchmark 联合创始人Andy Rachleff表示：</span></p><p><span>“如果你想建立一家大公司，你首先不要追逐大市场，因为那些人​​只会根据参考来购买，而你没有参考。你需要建立一个滩头阵地，一个你可以主宰的利基市场。通过参考，你可以从早期采用者的利基市场中成长起来。”</span></p><p></p><p><span>Paul Graham也这么说：</span></p><p><span>“通常你的初始用户群很小，原因很简单，如果存在大量人迫切需要的东西，并且可以用初创公司在第一版本中投入的努力来构建，那么它可能已经存在了。”</span></p><p></p><p><span>Netflix 之所以瞄准在线 DVD 爱好者，是因为他们怀疑这些人将从无限制 DVD 租赁中获益最多：</span></p><p><span>“我们很早就意识到，找到 DVD 拥有者的唯一方法是在互联网的边缘社区：用户组、公告板、网络论坛以及爱好者聚集的所有其他数字场所。”</span></p><p><span>—&nbsp;Netflix 联合创始人&nbsp;马克·伦道夫，摘自《&nbsp;That Will Never Work》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkuH_nDXlJlbMPEdyCok1htjFESU.m4a" length="29391783" type="audio/mp4"/>
+    <itunes:duration>00:17:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>8</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>07. 如何确定自己要做什么ai 产品？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6652da8a4efbc0c3dc19c7ac</link>
+    <guid isPermaLink="false">6652da8a4efbc0c3dc19c7ac</guid>
+    <pubDate>Sun, 26 May 2024 06:45:30 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="289">04:49</a> Paul graham 的一个方法论</span></p><p><span><a class="timestamp" data-timestamp="812">13:32</a> 推翻旧版本重新开发的必要性</span></p><p><span><a class="timestamp" data-timestamp="1160">19:20</a> 产品选择最朴素的道理：摸清自己是谁</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqSeQosYQugTtSslCtqFjWteG3VB.m4a" length="36602349" type="audio/mp4"/>
+    <itunes:duration>00:21:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtJpXmmeqGQa7ax2f_WBcuuFq_VI.jpg"/>
+    <itunes:episode>7</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

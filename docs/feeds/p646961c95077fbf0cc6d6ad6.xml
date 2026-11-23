@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>漂浮绿洲FloatingOasis</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/646961c95077fbf0cc6d6ad6</link>
+  <description><![CDATA[透析时事热点，剖解性别迷思。
+
+漂浮绿洲是一场自由奔放的社会文化沙龙，致力于打造不受外界干扰的思考空间。三位主播从女性的视角和经验出发，邀请各行各业的朋友，探讨政治、经济、心理、性别的方方面面。
+
+周四更新，每月3更，随时掉落加更。
+
+商务合作&投稿：floatingoasis2023@163.com
+
+
+【三位主播】
+
+十七：国际政治经济学研究者，无法遏制渴望自由的灵魂所以四处游走。
+
+小叶：科研搬砖人，亚文化圈潜伏者，目前正走在结合性别研究和社会心理学的道路上。
+
+晓昕：性别&政治社会学人，将保持精神稳定作为第一要务。
+
+
+【更多平台】
+Apple Podcast、Spotify、Bilibili、荔枝FM、喜马拉雅、网易云音乐、QQ音乐、微博、豆瓣
+
+
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:50:05 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p646961c95077fbf0cc6d6ad6.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Jupiter-E</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FlMbA7iFDTgpNQm5l5nLNqRFCiN6.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FlMbA7iFDTgpNQm5l5nLNqRFCiN6.png</url>
+    <title>漂浮绿洲FloatingOasis</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/646961c95077fbf0cc6d6ad6</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>98. 奥德赛之后，命运线收束了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9dbeeaa0210c197dce7c56</link>
+    <guid isPermaLink="false">6a9dbeeaa0210c197dce7c56</guid>
+    <pubDate>Sun, 06 Sep 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>一期闲聊盘点下浪子收心的心路历程。</span></p><p><strong><span>【本期主播】</span></strong></p><p><span>晓昕</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lus1IQml9S5yrMWNV2aLUp3kzZXw.m4a" length="8373810" type="audio/mp4"/>
+    <itunes:duration>00:16:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ftu6jw-kLwC-hjmKeDKazxA4a67v.png"/>
+    <itunes:episode>98</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>97. 如何用ABM理解结婚和生育决策？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a1a41c2ac7bdb080c330027</link>
+    <guid isPermaLink="false">6a1a41c2ac7bdb080c330027</guid>
+    <pubDate>Sat, 30 May 2026 01:51:59 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客介绍了Agent-based Modeling基于主体建模的方法，以及如何用ABM来理解结婚和生育决策。</span></p><p><strong><span>【本期主播】</span></strong></p><p><span>晓昕</span></p><p><strong><span>【收听指南】</span></strong></p><p><span><a class="timestamp" data-timestamp="60">01:00</a> ABM的定义</span></p><p><span><a class="timestamp" data-timestamp="105">01:45</a> 谢林隔离模型</span></p><p><span><a class="timestamp" data-timestamp="318">05:18</a> 设计效用函数</span></p><p><span><a class="timestamp" data-timestamp="488">08:08</a> LLM+ABM</span></p><p><span><a class="timestamp" data-timestamp="668">11:08</a> 婚育决策模型</span></p><p><strong><span>【参考文献】</span></strong></p><p><span>Bertrand, M., Goldin, C., &amp; Katz, L. F. (2010). Dynamics of the gender gap for young professionals in the financial and corporate sectors. </span><em><span>American Economic Journal: Applied Economics</span></em><span>, </span><em><span>2</span></em><span>(3), 228–255.</span></p><p><span>Gao, C., et al. (2024). Large language models empowered agent-based modeling and simulation: A survey and perspectives. </span><em><span>Humanities and Social Sciences Communications</span></em><span>, </span><em><span>11</span></em><span>, 1259.</span></p><p><span>Goldin, C. (2014). A grand gender convergence: Its last chapter. </span><em><span>American Economic Review</span></em><span>, </span><em><span>104</span></em><span>(4), 1091–1119.</span></p><p><span>Kazil, J., Masad, D., &amp; Crooks, A. (2020). Utilizing Python for agent-based modeling: The Mesa framework. In R. Thomson et al. (Eds.), </span><em><span>Social, cultural, and behavioral modeling</span></em><span> (Lecture Notes in Computer Science, pp. 308–317). Springer International Publishing.</span></p><p><span>Kleven, H., Landais, C., &amp; Søgaard, J. E. (2019). Children and gender inequality: Evidence from Denmark. </span><em><span>American Economic Journal: Applied Economics</span></em><span>, </span><em><span>11</span></em><span>(4), 181–209.</span></p><p><span>Marwal, A., &amp; Silva, E. A. (2023). City affordability and residential location choice: A demonstration using agent-based model. </span><em><span>Habitat International</span></em><span>, </span><em><span>136</span></em><span>, 1–9.</span></p><p><span>O'Gara, D., et al. (2023). TRACE-Omicron: Policy counterfactuals to inform mitigation of COVID-19 spread in the United States. </span><em><span>Advanced Theory and Simulation</span></em><span>, </span><em><span>6</span></em><span>(7).</span></p><p><span>Park, J. S., O'Brien, J., Cai, C. J., Morris, M. R., Liang, P., &amp; Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. In </span><em><span>Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology</span></em><span> (pp. 1–22). ACM.</span></p><p><span>Schelling, T. C. (1969). Models of segregation. </span><em><span>American Economic Review</span></em><span>, </span><em><span>59</span></em><span>(2), 488–493.</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lobFFVQ34Zucx6w1p1r_LhT7K-mf.m4a" length="25285847" type="audio/mp4"/>
+    <itunes:duration>00:26:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fpnkjh1Aw4wLVk8hX_TJb0dqfqcf.png"/>
+    <itunes:episode>97</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>96. 谈谈我如何被情感博主切片动摇道心</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69b7c8d4f8b8079bfaa13f53</link>
+    <guid isPermaLink="false">69b7c8d4f8b8079bfaa13f53</guid>
+    <pubDate>Mon, 16 Mar 2026 09:11:36 +0000</pubDate>
+    <description><![CDATA[<p><span>由曲曲年入过亿、周媛千万课程引发的对女性利益共同体、雌竞、风险社会与左翼思想的未来的思考。</span></p><span></span><p><span>【本期主播】</span></p><span></span><p><span>晓昕</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lj7gjrc8XyPJu1ynIud33CfasOyQ.m4a" length="10644383" type="audio/mp4"/>
+    <itunes:duration>00:10:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FprLmtgcVbVboka-cXUHa39RYlQ5.png"/>
+    <itunes:episode>96</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>95. “文化体力”告急：当代青年的精神能量保卫战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68ea7268224325ea70bcd62c</link>
+    <guid isPermaLink="false">68ea7268224325ea70bcd62c</guid>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>下班回家，只想躺着刷短视频，看不进书、看不完电影、连玩游戏都嫌费劲……这种“精神懒惰”真的是我们的问题吗？</span></p><span></span><p><span>《花束般的恋爱》中男主山音麦因为上班的疲惫，无法再沉浸于曾喜欢的电影和小说，只能看成功学书籍，玩消消乐，这样的变化，会出现在我们每一个人身上吗？</span></p><span></span><p><span>这一期，我们来聊一聊一个近期频繁被提起的词——“文化体力”。</span></p><span></span><p><strong><span>【本期主播】</span></strong></p><span></span><p><span>十七</span></p><span></span><p><strong><span>【收听指南】</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="9">00:09</a>“文化体力”丧失的典型症状</span></p><span></span><p><span><a class="timestamp" data-timestamp="181">03:01</a> 重新审视“文化体力”：是现代病，还是被概念绑架？</span></p><span></span><p><span><a class="timestamp" data-timestamp="518">08:38</a>“文化体力”下降的社会根源</span></p><span></span><p><span><a class="timestamp" data-timestamp="903">15:03</a> 深层需求：核心自体（nuclear self）的构建</span></p><span></span><p><span><a class="timestamp" data-timestamp="1071">17:51</a> 如何重建文化体力</span></p><span></span><p><strong><span>【推荐阅读】</span></strong></p><span></span><ul><span>  </span><li><span>尼尔·波兹曼《娱乐至死》</span></li><span>  </span><li><span>韩炳哲《倦怠社会》</span></li><span>  </span><li><span>科胡特《自体的分析》《自体的重建》</span></li><span>  </span><li><span>罗素《赞美闲散》</span></li><span>  </span><li><span>叔本华《人生的智慧》</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lu_jpoLtoPbmdaEVM0-TZ81XNiqp.m4a" length="27562956" type="audio/mp4"/>
+    <itunes:duration>00:29:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnSYUbUQLHG1XhnxHG1qPR6RbSR-.png"/>
+    <itunes:episode>95</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>94. 别做二手货</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68badfb15faf3686593541d6</link>
+    <guid isPermaLink="false">68badfb15faf3686593541d6</guid>
+    <pubDate>Fri, 05 Sep 2025 13:05:02 +0000</pubDate>
+    <description><![CDATA[<p><span>基于安·兰德的《源泉》来聊聊什么是创作者和二手货。</span></p><span></span><p><span>【本期主播】</span></p><span></span><p><span>晓昕</span></p><span></span><p><span>【收听指南】</span></p><span></span><p><span><a class="timestamp" data-timestamp="29">00:29</a> 建筑师 霍华德·洛克</span></p><span></span><p><span><a class="timestamp" data-timestamp="163">02:43</a> 建筑师 彼得·吉丁</span></p><span></span><p><span><a class="timestamp" data-timestamp="338">05:38</a> “做我们想做的事情，那需要付出最大的勇气。”</span></p><span></span><p><span><a class="timestamp" data-timestamp="391">06:31</a> 报业集团总裁 盖尔·华纳德</span></p><span></span><p><span><a class="timestamp" data-timestamp="609">10:09</a> 面对高薪诱惑，理想还长存吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="707">11:47</a> 评论家 埃尔沃斯·托黑</span></p><span></span><p><span><a class="timestamp" data-timestamp="737">12:17</a> 这是没有私欲的圣人，还是没有是非观的操纵者？</span></p><span></span><p><span><a class="timestamp" data-timestamp="848">14:08</a> 评论家 多米尼克·弗兰肯</span></p><span></span><p><span><a class="timestamp" data-timestamp="955">15:55</a> 什么样的人是二手货？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1035">17:15</a> 轻易放弃自我和工作的人，是最大的二手货</span></p><span></span><p><span><a class="timestamp" data-timestamp="1066">17:46</a> 坚持做创作者，需要付出高昂的代价</span></p><span></span><p><span><a class="timestamp" data-timestamp="1216">20:16</a> “创造者并非是无私的，他们力量的全部秘密在于，他是自给自足的，自我驱使的，自我激发的。”</span></p><span></span><p><span><a class="timestamp" data-timestamp="1290">21:30</a> “创造者所关心的是征服自然，而寄生虫所关心的则是征服他人。”</span></p><span></span><p><span><a class="timestamp" data-timestamp="1313">21:53</a> “创造者最基本的需要就是独立。”</span></p><span></span><p><span><a class="timestamp" data-timestamp="1354">22:34</a> “利他主义就是要求人为了他人而活，并且将他人置于自我之上的一种学说。”</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lrOXHiiDgMzNs_WJDvgGfhYPYb1e.m4a" length="36177062" type="audio/mp4"/>
+    <itunes:duration>00:24:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmWKaKY5U0VM6LjUNVb9dnUC8ywm.png"/>
+    <itunes:episode>94</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>93. 潜规则、性骚扰与取消文化：从一个黄色笑话说起（下）｜串台</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6898f87020a2906a4dddefaa</link>
+    <guid isPermaLink="false">6898f87020a2906a4dddefaa</guid>
+    <pubDate>Wed, 13 Aug 2025 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这是漂浮绿洲与Womansplaining请让我讲话的第二次串台节目，我们一起聊了聊《道格拉斯被取消了》这部英剧里的潜规则与性骚扰、取消文化与政治正确，以及其中对于女权主义的讨论。</span></p><span></span><p><strong><span>【本期主播】</span></strong></p><span></span><p><span>晓昕、小叶、十七、粒粒、韭菜、五花肉</span></p><span></span><p><strong><span>【收听指南】</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="10">00:10</a> 男人有资格对妻子和红颜知己进行功能性区分吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="336">05:36</a> 为什么玛德琳说这是她自己的胜利，而不是女人的胜利？</span></p><span></span><p><span><a class="timestamp" data-timestamp="448">07:28</a> 为什么仅仅强调人权是不够的，为什么必须强调女权</span></p><span></span><p><span><a class="timestamp" data-timestamp="701">11:41</a> 玛德琳身上的操纵与反操纵的特质</span></p><span></span><p><span><a class="timestamp" data-timestamp="845">14:05</a> 希拉和玛德琳这两位女性角色的对比</span></p><span></span><p><span><a class="timestamp" data-timestamp="1086">18:06</a> 不同的女性领导风格有优劣之分吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1321">22:01</a> 政治正确与取消文化能解决问题吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lpOtnImXwofgShJkGWnBzEgblyBh.m4a" length="47967197" type="audio/mp4"/>
+    <itunes:duration>00:33:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fs_2-0pD5oA4v0wImsoKo_qrfAnf.png"/>
+    <itunes:episode>93</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>92. 潜规则、性骚扰与取消文化：从一个黄色笑话说起（上）｜串台</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6898f7fb032793b18ab58234</link>
+    <guid isPermaLink="false">6898f7fb032793b18ab58234</guid>
+    <pubDate>Wed, 13 Aug 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这是漂浮绿洲与Womansplaining请让我讲话的第二次串台节目，我们一起聊了聊《道格拉斯被取消了》这部英剧里的潜规则与性骚扰、取消文化与政治正确，以及其中对于女权主义的讨论。</span></p><span></span><p><strong><span>【本期主播】</span></strong></p><span></span><p><span>晓昕、小叶、十七、粒粒、韭菜、五花肉</span></p><span></span><p><strong><span>【收听指南】</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="21">00:21</a> 主要剧情与核心角色</span></p><span></span><p><span><a class="timestamp" data-timestamp="182">03:02</a> 道格拉斯真的说了这个黄色笑话吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="362">06:02</a> 道格拉斯和玛德琳之间有chemistry吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="604">10:04</a> 为什么男人总是试图取悦男性同性社会性同盟？</span></p><span></span><p><span><a class="timestamp" data-timestamp="634">10:34</a> N号房和Maskpark里把妻子、女儿、母亲和陌生女性的私密照片给“兄弟们”分享的男人们</span></p><span></span><p><span><a class="timestamp" data-timestamp="721">12:01</a> 女人约等于豪车？那些被非人化客体化的女人们</span></p><span></span><p><span><a class="timestamp" data-timestamp="770">12:50</a> 男人的对话对象永远是“兄弟们”/“bro”</span></p><span></span><p><span><a class="timestamp" data-timestamp="815">13:35</a> 男人通过占有女人来确认其主体性</span></p><span></span><p><span><a class="timestamp" data-timestamp="870">14:30</a> 被偷拍女性的尊严在偷拍者的考虑范围内吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="909">15:09</a> 被偷拍者不需要感到羞耻</span></p><span></span><p><span><a class="timestamp" data-timestamp="1107">18:27</a> 淫秽性团结是必要的恶吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1525">25:25</a> 传播与性相关的流言是男人用于攻击事业女性的常见手段</span></p><span></span><p><span><a class="timestamp" data-timestamp="1706">28:26</a> 男人有可能从男性同性社会性同盟中脱离出来吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2034">33:54</a> 当女性反向为男人设立等级</span></p><span></span><p><span><a class="timestamp" data-timestamp="2575">42:55</a> 当自称为女权主义者成为男人的时尚单品</span></p><span></span><p><span><a class="timestamp" data-timestamp="2607">43:27</a> 喜剧编剧是新闻界中的女人？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2782">46:22</a> 从哪一步开始是性骚扰？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3075">51:15</a> 面对性骚扰，离开是好的选择吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3585">59:45</a> 当上司发怒下属逃避，这是职场霸凌吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="4028">01:07:08</a> 为什么道格拉斯听玛德琳的话，而不听希拉的话？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lnEUudMcAlwWzHxW1DIMw42p_qN0.m4a" length="101676125" type="audio/mp4"/>
+    <itunes:duration>01:10:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqb8Wl574m5a3n8Lr5Fo2ly5wQRs.png"/>
+    <itunes:episode>92</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>91. 第二性II｜1-1:童年</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6897c4e1032793b18a939036</link>
+    <guid isPermaLink="false">6897c4e1032793b18a939036</guid>
+    <pubDate>Sat, 09 Aug 2025 22:08:56 +0000</pubDate>
+    <description><![CDATA[<p><span>从今天开始，和大家一起重读《第二性II：实际体验》，致敬西蒙娜·德·波伏瓦女士。</span></p><p><strong><span>【本期主播】</span></strong></p><p><span>晓昕</span></p><p><span>【收听指南】</span></p><p><span><a class="timestamp" data-timestamp="363">06:03</a> 女人不是天生的，而是后天形成的</span></p><p><span><a class="timestamp" data-timestamp="397">06:37</a> 核心概念：主体与客体、主动与被动、存在与行动、内在性/封闭性与超越性</span></p><p><span><a class="timestamp" data-timestamp="474">07:54</a> 男孩与女孩之间本没有性别气质的分化，而是社会环境强加的</span></p><p><span><a class="timestamp" data-timestamp="634">10:34</a> 当自恋在小女孩身上首次出现</span></p><p><span><a class="timestamp" data-timestamp="724">12:04</a> 身体作为征服世界的工具 vs 身体作为被观赏的对象</span></p><p><span><a class="timestamp" data-timestamp="755">12:35</a> 成为自己与讨人喜欢之间的矛盾</span></p><p><span><a class="timestamp" data-timestamp="760">12:40</a> “当她越是少运用自由去理解、把握和发现周围的世界，她就越是在世界上找不到资源，她就越不敢确认自己是主体。”</span></p><p><span><a class="timestamp" data-timestamp="1331">22:11</a> 面对登高禁令，我们要问的是为什么必须穿裙子</span></p><p><span><a class="timestamp" data-timestamp="1458">24:18</a> 女孩成为“小主妇”来料理家务，是为了在弟弟妹妹面前获得权威感和支配感，这和男孩对通过登高获得支配感的渴望没有本质差异</span></p><p><span><a class="timestamp" data-timestamp="1677">27:57</a> “主体同意在顺从和赞赏中成为客体的深度退让”</span></p><p><span><a class="timestamp" data-timestamp="2042">34:02</a> “对于自为确立为主体的人来说，发现自己显示出他性是一种古怪的体验。”</span></p><p><span><a class="timestamp" data-timestamp="2110">35:10</a> “在期望成为至高无上的自由的主体的本真要求旁边，有着生存者对放弃和逃遁的非本真愿望。”</span></p><p><span><a class="timestamp" data-timestamp="2368">39:28</a> 压在少女的性上的最可憎的束缚是虚伪</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lhrwUILuYOCMBZOA07jizcxuCBiY.m4a" length="58004033" type="audio/mp4"/>
+    <itunes:duration>00:39:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fpknjlnw8bhBYlFGGm98QfprAn1j.png"/>
+    <itunes:episode>91</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>90. 夜猫子自救指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/687597b260f8f77d4084c702</link>
+    <guid isPermaLink="false">687597b260f8f77d4084c702</guid>
+    <pubDate>Tue, 15 Jul 2025 00:13:56 +0000</pubDate>
+    <description><![CDATA[<p><span>本期，夜猫子小叶将和大家聊一聊有关生物钟 （Chronotype，或睡眠时型）的话题：哪些因素将决定我们是夜猫子？8h睡眠是最完美作息吗？为什么我们迟迟无法入睡？夜猫子如何调整作息？晚睡、咖啡和偏头痛又有什么关系？</span></p><span></span><p><span>如果你也有类似的困扰，可不要错过这一期哦！</span></p><span></span><p><span>封面来自网络，侵删</span></p><span></span><p><span>欢迎投稿与合作&nbsp;</span></p><span></span><p><span>【本期主播】</span></p><span></span><p><span>小叶</span></p><span></span><p><span>【收听指南】</span></p><span></span><p><span><a class="timestamp" data-timestamp="24">00:24</a> 什么是生物钟？都有哪些类型？</span></p><span></span><p><span><a class="timestamp" data-timestamp="109">01:49</a> 遗传还是生活习惯：哪些因素影响着我们的生物钟？</span></p><span></span><p><span><a class="timestamp" data-timestamp="241">04:01</a> 那些我们睡前放不下的手机</span></p><span></span><p><span><a class="timestamp" data-timestamp="335">05:35</a> 生物钟与文化：生错时区可能比生错星座还惨！</span></p><span></span><p><span><a class="timestamp" data-timestamp="458">07:38</a> 调整作息的实用小tips</span></p><span></span><p><span><a class="timestamp" data-timestamp="537">08:57</a> 咖啡是救命稻草，还是偏头痛的导火索？</span></p><span></span><p><span>【部分参考文献】</span></p><span></span><p><span>Jones, S. E., Lane, J. M., Wood, A. R., et al. (2019). Genome-wide association analyses of chronotype in 697,828 individuals provides insights into circadian rhythms. </span><em><span>Nature Communications, 10</span></em><span>(1), 343.</span></p><span></span><p><span>Nehlig, A. (2016). Effects of coffee/caffeine on brain health and disease: What should I tell my patients? </span><em><span>Practical Neurology, 16</span></em><span>(2), 89–95.</span></p><span></span><p><span>Ou, C., Lou, N. M., Maheshka, C., Shi, M., Takemura, K., Cheung, B., &amp; Heine, S. J. (2025). Healthy sleep durations appear to vary across cultures. </span><em><span>Proceedings of the National Academy of Sciences, 122</span></em><span>(19), e2419269122. </span><a href="https://doi.org/10.1073/pnas.2419269122" data-url="https://doi.org/10.1073/pnas.2419269122"><span>doi.org</span></a></p><span></span><p><span>Roenneberg, T., Wirz-Justice, A., &amp; Merrow, M. (2003). Life between clocks: Daily temporal patterns of human chronotypes. </span><em><span>Chronobiology International, 20</span></em><span>(5), 731–750.</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lmf50paQz8QQpxCZtUO6ho4XIayu.m4a" length="26740426" type="audio/mp4"/>
+    <itunes:duration>00:13:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FraBuhVHRwr0CQwWTctjBsAOzsel.png"/>
+    <itunes:episode>90</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>89. 断舍离：我的极简主义实践</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6867cbbf60f8f77d40dda085</link>
+    <guid isPermaLink="false">6867cbbf60f8f77d40dda085</guid>
+    <pubDate>Fri, 04 Jul 2025 12:40:54 +0000</pubDate>
+    <description><![CDATA[<p><span>闲聊一下我最近一周的极简主义实践，即我是如何把switch、kindle，多出来的相机、电脑、平板以及几大箱书、衣服和皮包都断舍离掉的。从深陷消费主义的虚荣小女孩到手提行李箱*1+登山包*1+背包*1出国的独立大女人，我算是从过去的自己身上小赚一笔（同时倒亏给了一二手商家555）。</span></p><span></span><p><strong><span>【本期主播】</span></strong></p><span></span><p><span>晓昕</span></p><span></span><p><strong><span>【推荐作品】</span></strong></p><span></span><p><span>《极简主义》</span></p><span></span><p><span>《我的家里空无一物》</span></p><span></span><p><span>《我的物品：一无所有的生活实验》</span></p><span></span><p><span>《麻理惠的整理秘诀》</span></p><span></span><p><span>《无节制消费的元凶》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lu7wK20LzlVlbyGnZrq2XKoEW4or.m4a" length="24274233" type="audio/mp4"/>
+    <itunes:duration>00:16:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp1RBSKosl2bFIQQmv00SLNNRsXd.png"/>
+    <itunes:episode>89</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>88. 从优绩主义到家长主义：个人努力不再重要了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68580d6e4abe6e29cb6a7592</link>
+    <guid isPermaLink="false">68580d6e4abe6e29cb6a7592</guid>
+    <pubDate>Sun, 22 Jun 2025 14:05:04 +0000</pubDate>
+    <description><![CDATA[<p><span>为什么寒门越来越难出贵子？为什么家庭在个人最终的受教育程度和学术成就上起到越来越重要的作用？阶层是如何通过教育和文化资本进行再生产的？为什么说优绩主义正渐渐被家长主义所取代？</span></p><span></span><p><strong><span>【本期主播】</span></strong></p><span></span><p><span>晓昕</span></p><span></span><p><strong><span>【收听指南】</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="69">01:09</a> 为什么寒门越来越难出贵子？</span></p><span></span><p><span><a class="timestamp" data-timestamp="115">01:55</a> 不需要遵循优绩主义的天龙人</span></p><span></span><p><span><a class="timestamp" data-timestamp="166">02:46</a> 许玲玲《时间继承者》</span></p><span></span><p><span><a class="timestamp" data-timestamp="206">03:26</a> 时间不平等是阶层不平等在教育上的表现</span></p><span></span><p><span><a class="timestamp" data-timestamp="362">06:02</a> 志水宏吉《父母格差：“拼家长时代”的到来》</span></p><span></span><p><span><a class="timestamp" data-timestamp="390">06:30</a> 教育的阶段性转变：贵族制度-优绩主义-家长主义</span></p><span></span><p><span><a class="timestamp" data-timestamp="420">07:00</a> 父母的财富和期待决定了孩子能接受怎样的教育</span></p><span></span><p><span><a class="timestamp" data-timestamp="448">07:28</a> 布迪厄：文化资本的三种形式</span></p><span></span><p><span><a class="timestamp" data-timestamp="567">09:27</a> 保罗·威利斯《学做工》</span></p><span></span><p><span><a class="timestamp" data-timestamp="610">10:10</a> 反学校文化与车间文化的相似性</span></p><span></span><p><span><a class="timestamp" data-timestamp="665">11:05</a> 安妮特·拉鲁《不平等的童年》</span></p><span></span><p><span><a class="timestamp" data-timestamp="683">11:23</a> 中产阶级的协作培养与工人阶级的自然成长</span></p><span></span><p><span><a class="timestamp" data-timestamp="819">13:39</a> 中产阶级的育儿方式让孩子能更自如地与学校、医院、公司等正式机构交涉</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/ls4fSzzcNd9CVarvZU4Vu1oHzAHP.m4a" length="25466705" type="audio/mp4"/>
+    <itunes:duration>00:17:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvQR9h7jRWOKjRW8-eeQTIHtPFDC.png"/>
+    <itunes:episode>88</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>87. 滤镜破碎：为何中国民众对藤校精英逐渐祛魅？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6853459d4abe6e29cbd930fb</link>
+    <guid isPermaLink="false">6853459d4abe6e29cbd930fb</guid>
+    <pubDate>Wed, 18 Jun 2025 23:22:07 +0000</pubDate>
+    <description><![CDATA[<p><span>最近，一位中国女生在哈佛毕业典礼上的演讲在国内引发巨大争议。与此同时，以哈佛为代表的常春藤名校，似乎正在失去曾经在中国互联网上的“神话光环”。</span></p><span></span><p><span>本期节目，我们从这场舆论风波聊起，结合《优秀的绵羊》一书，深入探讨以下问题：</span></p><span></span><ul><span>  </span><li><span>美国名校的录取标准到底在筛选什么？</span></li><span>  </span><li><span>为什么许多“好学生”走上了“轨道化人生”？</span></li><span>  </span><li><span>在剧烈变化的时代，什么样的技能才能帮助我们脱颖而出？</span></li><span></span></ul><span></span><p><span>欢迎任何提问、建议和意见；</span></p><span></span><p><span>接受听众来稿，期待听到你的故事。</span></p><span></span><p><span>互动&amp;商务合作：微博小红书同名，邮箱floatingoasis2023@163.com</span></p><span></span><p><span>【</span><strong><span>本期主播</span></strong><span>】</span></p><span></span><p><span>十七、小叶</span></p><span></span><p><span>【</span><strong><span>收听指南</span></strong><span>】</span></p><span></span><p><span><a class="timestamp" data-timestamp="70">01:10</a> 为什么中国女生在哈佛毕业典礼上的致辞在国内引发了负面舆论？</span></p><span></span><p><span><a class="timestamp" data-timestamp="280">04:40</a> 特朗普政府和哈佛之间的矛盾是怎么回事？</span></p><span></span><p><span><a class="timestamp" data-timestamp="572">09:32</a> 中国网友对哈佛滤镜的破碎过程</span></p><span></span><p><span><a class="timestamp" data-timestamp="785">13:05</a> 《优秀的绵羊》：常春藤名校究竟在筛选什么样的人？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1520">25:20</a> 通向名校的教育真的是“素质教育”吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2042">34:02</a> “人生是轨道而不是旷野”：名校学生的困境</span></p><span></span><p><span><a class="timestamp" data-timestamp="2800">46:40</a> 教育是为了选拔，还是为了培养？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3002">50:02</a> “听从内心” vs “顺应潮流”：什么样的专业才算“好专业”？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3601">1:00:01</a> 在AI纪元，“文科无用论”还成立吗？</span></p><span></span><p><strong><span>【参考资料】</span></strong></p><span></span><p><span>《优秀的绵羊》威廉·德雷谢维奇</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/ls7FhLDomJ5Ye4RB_covqHfZkGNd.m4a" length="66087945" type="audio/mp4"/>
+    <itunes:duration>01:08:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fs8ZYDZdof-Zb5rRvjqiVtxI08Y4.png"/>
+    <itunes:episode>87</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>86. 如何用产品经理的思维在人际关系中提需求</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/683f8e5c38dcc57c6469f3d9</link>
+    <guid isPermaLink="false">683f8e5c38dcc57c6469f3d9</guid>
+    <pubDate>Thu, 05 Jun 2025 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>产品经理的日常工作就是在挖掘需求-明确需求-给需求排优先级-计算需求实现的成本-交给研发实现需求的环节中循环。可以说，产品经理天然地就是需求专家。面对人们在亲密关系中难以谈论需求的现状，能否将产品经理的思维运用到亲密关系中来提需求呢？</span></p><span></span><p><span>【本期主播】</span></p><span></span><p><span>晓昕</span></p><span></span><p><span>【收听指南】</span></p><span></span><p><span><a class="timestamp" data-timestamp="103">01:43</a> 为什么人们在亲密关系中耻于谈论需求？</span></p><span></span><p><span><a class="timestamp" data-timestamp="124">02:04</a> 例子：为什么在恋爱中难以谈AA制的问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="197">03:17</a> 含蓄内敛、充满暗示和潜台词的表达的好处和弊端</span></p><span></span><p><span><a class="timestamp" data-timestamp="307">05:07</a> 用产品经理的思维在亲密关系中提需求：需求思维与迭代思维</span></p><span></span><p><span><a class="timestamp" data-timestamp="423">07:03</a> 例子：小宇宙中三个新功能点所反映的需求</span></p><span></span><p><span><a class="timestamp" data-timestamp="549">09:09</a> 需求来源于用户和市场，由产品经理挖掘和汇总，并交给研发开发实现</span></p><span></span><p><span><a class="timestamp" data-timestamp="605">10:05</a> 基本方针：</span></p><span></span><p><span>需求是需要挖掘的，需求必须要被明确表达，需求必须要具体落实到细节，需求不是一成不变的，需求是需要迭代的，需求是需要排优先级的，需求是可以谈判的，需求的实现是有成本的，是需要动用足够的资源才能达成的。</span></p><span></span><p><span><a class="timestamp" data-timestamp="640">10:40</a> 亲密关系的本质也是一种供需关系，这其中的需求是高度个性化的</span></p><span></span><p><span><a class="timestamp" data-timestamp="670">11:10</a> 爱情中的需求：1V1、关系类型、未来发展规划……</span></p><span></span><p><span><a class="timestamp" data-timestamp="802">13:22</a> 友情中的需求：1V1、嫉妒、雷点……</span></p><span></span><p><span><a class="timestamp" data-timestamp="883">14:43</a> 例子：《甄嬛传》中的浮光锦事件是可以避免的吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1015">16:55</a> 亲情中的需求：资源分配、亲戚社交、礼物选择、交家用……</span></p><span></span><p><span><a class="timestamp" data-timestamp="1115">18:35</a> 越是重男轻女的家庭，越需要表达需求、谈判需求，哪怕最后需求得不到满足</span></p><span></span><p><span><a class="timestamp" data-timestamp="1212">20:12</a> 在亲密关系中不沟通需求可能造成的后果</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、双方需求不匹配，造成时间、精力、资源的浪费</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、不明确表达需求或者回避沟通会造成严重内耗甚至恶意揣测，破坏关系中的信任感</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例子：为什么在伴侣哭泣的时候说“你作弊”是有问题的</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、不沟通需求会造成一方傲慢，一方“揣测上意”，付出情绪劳动，不对等关系无法持久</span></p><span></span><p><span><a class="timestamp" data-timestamp="1370">22:50</a> 将产品经理的思维运用到亲密关系中的注意事项</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大前提：双方扮演提出需求和实现需求的角色，且角色时时调换</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、人的需求时时在变化，我们要接受变化，也要允许重要他人的需求变化，需要建立定期的沟通机制对齐需求</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例子：《无问西东》中多年施加和承受冷暴力的一对怨偶</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、需求是可以被挑战、被调整的。同一个需求，是可以允许有多种实现方案的</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、项目管理是有必要的，不同的需求之间的优先级是怎样的，哪些是阶段性目标，希望在什么时候达成，都需要提前计划并控制进程</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、形成迭代思维，不要期望在一次沟通中解决所有问题，先拿出最小可行性产品</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、建立信任账户，每一次从提出需求到实现需求的闭环，都是在往信任账户中存钱</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、产品和研发之所以愿意相互配合，是因为双方都属于同一个有共同目标的团队</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/loxquyS9dotXhJT1RDROxGzpr2ZT.m4a" length="42005201" type="audio/mp4"/>
+    <itunes:duration>00:28:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiVBKLzmz7oDW3T8vJC5MwfHSPIl.png"/>
+    <itunes:episode>86</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>85. “脆皮年轻人”的健康饮食指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/683e0eed31215eb506f93cdf</link>
+    <guid isPermaLink="false">683e0eed31215eb506f93cdf</guid>
+    <pubDate>Tue, 03 Jun 2025 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>当代的“脆皮年轻人”，年纪轻轻便有了自己的“慢病”：脱发、鼻炎、爆痘、溃疡、胃炎、便秘、腰突、失眠……靠外卖和保健品续命；一边熬夜，一边护肝；想健康饮食，却总在“假养生”里打转。</span></p><span></span><p><span>癌症年轻化不是吓唬人，真正的健康也不是靠一瓶复合维生素解决。</span><br><span></span><br><span>本期聊聊：</span></p><span></span><ul><span>  </span><li><span>癌症为什么年轻化？</span></li><span>  </span><li><span>年轻人为什么热衷养生？</span></li><span>  </span><li><span>保健品真能防病抗老？</span></li><span>  </span><li><span>到底该怎么“好好吃饭”？</span></li><span></span></ul><span></span><p><span>帮你在吃得开心的同时，活得更久一点。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FvTsTeB96HHX0m0iMOkj4l2h-NGD.PNG"></figure><span></span><p><span>【</span><strong><span>本期主播</span></strong><span>】</span></p><span></span><ul><span>  </span><li><span>十七</span></li><span></span></ul><span></span><p><span>【</span><strong><span>收听指南</span></strong><span>】</span></p><span></span><p><span><a class="timestamp" data-timestamp="8">00:08</a> 癌症离年轻人并不遥远：演员朱媛媛、摄影师黄冰玲因癌离世</span></p><span></span><p><span><a class="timestamp" data-timestamp="95">01:35</a> 为什么癌症年轻化</span></p><span></span><p><span><a class="timestamp" data-timestamp="166">02:46</a> “脆皮”年轻人的健康焦虑</span></p><span></span><p><span><a class="timestamp" data-timestamp="262">04:22</a> 保健品依赖与迷思</span></p><span></span><p><span><a class="timestamp" data-timestamp="412">06:52</a> &nbsp;致命饮食误区</span></p><span></span><p><span><a class="timestamp" data-timestamp="497">08:17</a> 科学饮食三原则</span></p><span></span><ul><span>  </span><li><span>吃全食（Whole Foods）</span></li><span>  </span><li><span>弃补剂，优先食补</span></li><span>  </span><li><span>极简法则：多样化食材 + 少精加工 + 享受进食过程</span></li><span></span></ul><span></span><p><strong><span>【参考资料】</span></strong></p><span></span><ul><span>  </span><li><span>柯林·坎贝尔，《救命饮食：中国健康调查报告》&amp;《救命饮食：全营养与全健康从哪里来》</span></li><span>  </span><li><span>Vitamania: The Sense and Nonsense of Vitamins（纪录片《维生素狂热》）</span></li><span>  </span><li><span>Institute for Health Metrics and Evaluation (IHME).</span><strong><span> Global Burden of Disease 2021: Findings from the GBD 2021 Study. </span></strong><span>Seattle, WA: IHME, 2024.</span></li><span>  </span><li><span>GBD 2017 Diet Collaborators. </span><strong><span>Health effects of dietary risks in 195 countries, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017</span></strong><span>. </span><em><span>The Lancet</span></em><span>. 2 April 2019. doi: 10.1016/S0140-6736(19)30041-8.</span></li><span>  </span><li><span>郑荣寿, 陈茹, 韩冰峰, 等. &nbsp;2022年中国恶性肿瘤流行情况分析 [J] . 中华肿瘤杂志, 2024, 46(3) : 221-231. DOI: 10.3760/cma.j.cn112152-20240119-00035.</span></li><span>  </span><li><span>Ledford, H. (2024). Why are so many young people getting cancer? What the data say. </span><em><span>Nature</span></em><span>, </span><em><span>627</span></em><span>(8003), 258–260. </span><a href="https://doi.org/10.1038/d41586-024-00720-6" data-url="https://doi.org/10.1038/d41586-024-00720-6"><span>doi.org</span></a></li><span>  </span><li><span>《那些天天吃营养补剂的年轻人，都怎么样了？》</span><a href="https://dxy.com/article/186013" data-url="https://dxy.com/article/186013"><span>dxy.com</span></a></li><span>  </span><li><span>中国保健品行业发展现状研究与投资前景分析报告（2025-2032年）</span></li><span>  </span><li><span>《2024年中国膳食营养补充剂行业市场深度分析及投资战略咨询报告》</span><a href="https://xueqiu.com/1973934190/274814292?md5__1038=110279f682e-S9C9QDwoaDLoaBLDoaSaykGkCss9XmXv%2FHamDGGDjXtDY%2FkNH%2FGvPW4zKaYefEYJadl0a7kaBJCa%2Bx3apkwBaZWQc8aYkYBabkXRaxbaLpaccoLzaECaFadykJa49aJBa4Qyi5g23%2FaXaaPazGPa%3DhySnv76JY4mZ%2Fz74YkWZcxCEksoRXP9Ywa" data-url="https://xueqiu.com/1973934190/274814292?md5__1038=110279f682e-S9C9QDwoaDLoaBLDoaSaykGkCss9XmXv%2FHamDGGDjXtDY%2FkNH%2FGvPW4zKaYefEYJadl0a7kaBJCa%2Bx3apkwBaZWQc8aYkYBabkXRaxbaLpaccoLzaECaFadykJa49aJBa4Qyi5g23%2FaXaaPazGPa%3DhySnv76JY4mZ%2Fz74YkWZcxCEksoRXP9Ywa"><span>xueqiu.com</span></a></li><span>  </span><li><span>《2023年中国膳食营养补充剂(VDS)行业现状及竞争格局分析，市场将进一步细分和个性化》</span><a href="https://www.huaon.com/channel/trend/955029.html" data-url="https://www.huaon.com/channel/trend/955029.html"><span>www.huaon.com</span></a></li><span>  </span><li><span>《全球营养膳食补充剂市场研究报告》</span><a href="https://www.wiseguyreports.com/cn/reports/nutrition-dietary-supplements-market" data-url="https://www.wiseguyreports.com/cn/reports/nutrition-dietary-supplements-market"><span>www.wiseguyreports.com</span></a></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/lr7vo5Y66FDL-hVPFq-siJVKolq9.m4a" length="15909785" type="audio/mp4"/>
+    <itunes:duration>00:16:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrZHm9HX-PMOGf43FZJGg7o1MRK8.png"/>
+    <itunes:episode>85</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>84. 我就是我：为什么伴侣间的让步越来越不可能</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6838f72f31215eb506719200</link>
+    <guid isPermaLink="false">6838f72f31215eb506719200</guid>
+    <pubDate>Fri, 30 May 2025 00:11:30 +0000</pubDate>
+    <description><![CDATA[<p><span>近期，清华本硕毕业的情侣博主可爸可妈在网络上引发了不少讨论。毕业五年都做幕后工作、放弃创业、做家庭煮夫的可爸，在30岁之际选择远离北京，去深圳读博，将养育二孩的责任都交给可妈，到底是为家庭付出后再度找回自我，还是抛妻弃子对家庭不负责任的行为？这个案例奇妙地和我之前播客中谈论过的为家庭而在事业上让步的高知女性们形成对照。</span></p><p><span>通过共读《风险社会：新的现代性之路》中的第四章《“我就是我”：性别空间与家庭内外的冲突》的片段，来思考为什么随着个体化进程的加速，性别平等的战争在私人领域不断上演，而伴侣之间在生育养育、职业流动等方面的让步越来越不可能。</span></p><p><strong><span>【本期主播】</span></strong></p><p><span>晓昕</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/646961c95077fbf0cc6d6ad6/ljD8TMkZCINAMvdtaYQpDQ05AQFA.m4a" length="47251969" type="audio/mp4"/>
+    <itunes:duration>00:32:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrUCbCp85rW29mjEmykbSWsonXJW.png"/>
+    <itunes:episode>84</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

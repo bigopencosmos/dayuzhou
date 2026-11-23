@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>打工人心路历程</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6542f713f0a30901bf0c828f</link>
+  <description><![CDATA[打工人日常]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:30:43 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6542f713f0a30901bf0c828f.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>打工美女茶水间</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmcaedSAm59LhA8Ns7eU1W6h9vV7.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmcaedSAm59LhA8Ns7eU1W6h9vV7.jpg</url>
+    <title>打工人心路历程</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6542f713f0a30901bf0c828f</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Ep.3 幸福感很强的人通常都很会苦中作乐</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6545bd372e4c3cf8654bcf48</link>
+    <guid isPermaLink="false">6545bd372e4c3cf8654bcf48</guid>
+    <pubDate>Sat, 04 Nov 2023 03:40:39 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊自己人生比较低谷的时候，再聊聊婆婆。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loGQGyM2oJt3_KR3jEiIxP299dLW.m4a" length="14074831" type="audio/mp4"/>
+    <itunes:duration>00:08:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcaedSAm59LhA8Ns7eU1W6h9vV7.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.2听说你们想听我聊相亲和选男人技巧（纯聊天，无干货）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65444e002e4c3cf8653de6fb</link>
+    <guid isPermaLink="false">65444e002e4c3cf8653de6fb</guid>
+    <pubDate>Fri, 03 Nov 2023 01:33:52 +0000</pubDate>
+    <description><![CDATA[<p><span>聊一点跟主流观点不一样的故事</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liGvSbog7Uxl41xLncwjgpS5_edC.m4a" length="11113381" type="audio/mp4"/>
+    <itunes:duration>00:06:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcaedSAm59LhA8Ns7eU1W6h9vV7.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep.1那些资本家无法收割我的瞬间</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/654303e99cb67569a20b6359</link>
+    <guid isPermaLink="false">654303e99cb67569a20b6359</guid>
+    <pubDate>Thu, 02 Nov 2023 02:05:29 +0000</pubDate>
+    <description><![CDATA[<p><span>抠门的我聊省钱</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvWIop0jnlr5SoCjlrpW_78oTKWL.m4a" length="7731152" type="audio/mp4"/>
+    <itunes:duration>00:04:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmcaedSAm59LhA8Ns7eU1W6h9vV7.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

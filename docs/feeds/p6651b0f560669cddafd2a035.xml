@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>具身智能一百零八讲</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6651b0f560669cddafd2a035</link>
+  <description><![CDATA[具身智能和人形机器人领域知名技术专家的系列深度公开课。主讲人刘智勇，机器姬公司首席技术官，真机智能首席代表科学家，具身智能方向技术专家和科学家，机器人领域青年领导者之一，7年知名机器人公司首席技术官经历。研究包括具身智能、机器人学习、人形机器人。他是JI Agent的原作者，ZROS核心作者，中国服务机机器人及特种机器人联盟专家委员会委员。具身智能一百零八讲主讲人。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:44:54 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6651b0f560669cddafd2a035.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>具身智能智勇说</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrNFwA7EMYPNyY275TAXiZlgeYTo.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrNFwA7EMYPNyY275TAXiZlgeYTo.png</url>
+    <title>具身智能一百零八讲</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6651b0f560669cddafd2a035</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>从交互的角度看人形机器人的发展需求</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668797640bc5d7cc7003a3ec</link>
+    <guid isPermaLink="false">668797640bc5d7cc7003a3ec</guid>
+    <pubDate>Fri, 05 Jul 2024 06:49:07 +0000</pubDate>
+    <description><![CDATA[<p><span>具身智能一百零八讲之五，从交互的角度看人形机器人的发展需求。大模型给交互带来了什么革命性的变革？人形机器人对于交互有什么独特的需求？gpt-4的时延为5.4秒，而gpt-4o的平均时延320毫秒，与人类对话中的相应时间相似。这个时延的降低得益于端到端的模式，多模态的输入和输出都是同一神经网络处理。而在gpt-4为核心的的架构中，语音模式由三个独立模型构成，分别负责将音频转录为文本，接收文本并输出文本，将文本转换为音频。无法直接观察语音语调，无法输出笑声和情感。gpt-4o在人机交互上有以下特点，1）通过用户的语音和表情识别用户情感，2）模型调整后重新输出，而没有交流过程中的停顿。3）不同情感风格生成语音。一句话总结，gpt-4o为核心的交互系统，具备了低时延和多模态的特性。</span></p><span></span><p><span>除了声音交互的低延迟感需求，外观颜值更加重要，什么是恐怖谷效应？如何破解恐怖谷效应？半个世纪前的1970年，日本机器人学家森政弘（Mori Masahiro）发表了《恐惑谷》一文。直到美国机器人学家卡尔·麦克多曼(KarlMacDorman)，在2005年和2012年两次将这篇随笔译成英文后，引发了国际学术界“迟来”的关注。恐怖谷理论是指随着仿真物（如机器人、玩偶）模拟真实性程度的变化，人们对其亲和力也发生变化，一般规律是亲和力随着仿真程度增高而增高，而当仿真程度到达一个较高临界点时，人的亲和反应会陡然跌入谷底，突然会产生对这个仿真物的排斥、恐惧、困惑等反向心理。与其远离恐怖谷，站立在恐怖谷的两侧也是不错的选择。就是一种接收度比较高的组合，即明显机器人特征部件和高度仿生部件组合。这种组合可以使得该机器人同时站立在恐怖谷的两侧，可能是未来主要的工作模式。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FgohcsaOgADWMQ_lxFJoetYIsT4p.m4a" length="2321954" type="audio/mp4"/>
+    <itunes:duration>00:02:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsVTBKL2qgFkhED9UTH2DqNoKoTx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>具身智能机器人的最佳形态和终极形态</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6662bbd163c334a2fb024c7f</link>
+    <guid isPermaLink="false">6662bbd163c334a2fb024c7f</guid>
+    <pubDate>Fri, 07 Jun 2024 07:50:40 +0000</pubDate>
+    <description><![CDATA[<p><span>具身智能一百零八讲之四，具身智能机器人的最佳形态和终极形态是什么</span></p><span></span><p><span>具身智能机器人的最佳形态和终极形态是什么？是否一定需要人形机器人？从长期来看，人形机器人的最大优势是什么？美国著名的科普作家阿西莫夫，在科幻小说洞穴中提出在管理一座农场的时候，相比于在所有机械上装上电子脑，不如使用一个拥有电子脑的机器人去管理。阿西莫其实只讲了其中一个和效率相关需求，还有两个很重要的需求。人形机器人的形态同时满足了这三个方面的需求，第一个是资源效率最大化。是否可以最大程度的匹配人类环境，最大化利用人类社会的现有基础设施，实现资源效率最大化。第二个是数据可得性。人形机器人的训练数据具有可得性，可以从人类本体进行数据提取和学习，更快完成数据的积累。第三是用户交互性、人形机器人可以满足人类情感和审美要求，用户交互性好。从长期来看，基于第一性原理，在上述三个要素中，用户交互性是人形机器人普及的最重要的要素。在高度结构化的环境中，轮式+拟人形手臂的机器人也可以满足上述三个要求，并且还具备经济优势。因此，在部分高度结构化环境下，人形机器人可以简化为轮式底盘加拟人臂的类人形态。所以总结起来，轮臂机器人和人形机器人均是具身智能机器人最佳承载形态和终极形态。</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fk9qa5qE_4xHGO_y2a5HTXOKiB_4.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FvUT7cTulMTslMA1WMWsg38m-KTf.m4a" length="1381475" type="audio/mp4"/>
+    <itunes:duration>00:01:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsRvRpmbaI0R5KO3KXmjbdB4nD9U.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>视觉语言模型如何与人形机器人进行深度的结合</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6651bcdfc59d1e5757985734</link>
+    <guid isPermaLink="false">6651bcdfc59d1e5757985734</guid>
+    <pubDate>Sat, 25 May 2024 10:26:38 +0000</pubDate>
+    <description><![CDATA[<p><span>具身智能一百零八讲之三，视觉语言模型如何与人形机器人进行深度的结合.</span><br><span></span><br><span>大模型和智能体的区别是什么？具身智能体的核心特点是什么？多模态模型如何与人形机器人深度结合？今天重点给大家简要介绍这三个问题。我们都已经很习惯于使用大语言模型的chatbot,与大语言模型的零样本提示词（Zero-shot的Prompting)的范式相比，具身Agent系统内置了规划、循环和反思的控制机制，这些机制充分利用了模型的内在推理能力，实现从任务开始到结束的全流程处理，此外具身Agent还能够调用工具、插件、执行函数和机器人的行为库。由于物理世界的复杂性，具身智能体往往采用多智能体的架构，因为需要多个单智能体的协作，并采取多条执行路径。这里呢，在具身智能体系下，我给出四个子智能体定义，即感知智能体、规划智能体、评估智能体和行动智能体，这些组成理解、推理、行动，并进行评判的最低要求。多智能体分为两个类别，垂直架构和水平架构。在具身智能中，感知智能体、规划智能体和评估智能体本质是平等架构，上述三个智能体与行动智能体是垂直架构。智能体之间的通信发生在一个共享的线程中，每个智能体都可以看到其它智能体的所有消息。评估智能体的反馈机制，有助于帮助其它智能体纠正自己的方向，避免雪球效应，达到目标。多模态模型与人形机器人进行深度的结合，需要有三个要求。第一是与自身限制的对齐，对齐时间限制和金钱消耗。第二是与人类意图的对齐，对齐人类意图的二义性和潜在偏好。第三是与环境的对齐，对齐环境规律、动态性和随机性。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fi-FTUv8L86I3BC6-9Q_38PqhdkT.m4a" length="2074220" type="audio/mp4"/>
+    <itunes:duration>00:02:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp-Xjr70w66GHD0hyZ06a2kJexlR.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>人形机器人的起源到现世，经历了哪三个发展阶段</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6651bbcf4efbc0c3dcf830f1</link>
+    <guid isPermaLink="false">6651bbcf4efbc0c3dcf830f1</guid>
+    <pubDate>Sat, 25 May 2024 10:22:05 +0000</pubDate>
+    <description><![CDATA[<p><span>具身智能一百零八讲之二，人形机器人的起源到现世，经历了哪三个发展阶段。</span><br><span> </span><br><span>Robot（机器人）这个词呢首先出现在捷克著名剧作家卡雷尔恰佩克的话剧《罗素姆的万能机器人》中，这是一个源于捷克文“Robota”和波兰文“Robotnik”的新造词，从诞生到现在，机器人已经经历了三个重要的发展阶段。第一阶段呢，称之为技术起步期，是从1973年到2000年，1973年，加藤一郎团队研发出第一台人形智能机器人WABOT-1，该机器人实现了双足行走，但动作缓慢。第二阶段是技术突破期，从2001年到2015年，代表性的工作是2005年本田发布奔跑速度达到7km/h的人形机器人ASIMO，体现出系统高度集成的能力。2016年，美国波士顿动力发布的双足机器人Atlas,采用液压的方案，具备极强的平衡性和越障能力。在第三阶段进入产业化初试期，从2016年到现在。以下是几个代表性的工作。2020年，美国敏捷机器人公司推出第一台商业化出售的Digit机器人，适用于物流场景，利用casual transformer模型采用自回归的方式预测运动轨迹。2022年，特斯拉推出人形机器人Optimus。拟人态行走算法或采用模仿学习+强化学习的方法，感知层使用端到端FSD占用网络算法。2023年，特斯拉人形机器人Optimus的运控和AI能力大幅提升，控制端到端：2D摄像头 手部触觉及压力传感器，端到端预测关节控制序列。2023年，美国Figure和OpenAI合作完成基于视觉语言模型的Figure 01，感知和规划使用视觉语言模型和大语言模型，操作使用基于transformer的具身控制网络。2024年，宇树科技发布Unitree G1 基于膝部和胯步的四个电机模组完成原地起身。拥有了反关节逆向折叠操作的手臂和力位混合控制技术的灵巧手。从技术验证期到商业试水期，人形机器人风起，量产在即，你准备好了么。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FiPC6hAXk_paBnQtHXRvQc3Ii2av.m4a" length="2839466" type="audio/mp4"/>
+    <itunes:duration>00:02:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqjBnJn6S6_RypA-QuibIE5AIe72.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>具身智能和人形机器人浪潮，为什么是现在</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6651baa94efbc0c3dcf80e8a</link>
+    <guid isPermaLink="false">6651baa94efbc0c3dcf80e8a</guid>
+    <pubDate>Sat, 25 May 2024 10:17:12 +0000</pubDate>
+    <description><![CDATA[<p><span>具身智能一百零八讲之一，具身智能和人形机器人浪潮，为什么是现在。</span><br><span> </span><br><span>最近具身智能和人形机器人的提出已经有几十年的历史了，但最近异常火爆，为什么是现在？今天我给大家梳理一下背后的技术脉络。首先在2017年以前，深度学习基本是以CNN和LSTM为代表的传统神经网络为主。但在2017年12月份，在文本向量化技术成熟的基础之上，8位谷歌的研究人员发现了自注意机制，并基于此构建了transformer模型.我们称之为Transformer时刻。OpenAI的首席科学家llya Sutskeveryy意识到attention is all your need,在数据和算力的加持下，陆续推出了chatgpt3.5和chatgpt 4.0和gpt4v等基础语言模型和视觉语言模型。这些基础模型表现出一定程度的涌现能力，世界一起见证了chatgpt时刻。</span><br><span> </span><br><span>自此以后，文本世界、数字世界和物理世界均开展了走向通用AGI的路程。在具身智能领域，谷歌先后研发了机器人数据的Transoformer模型，RT1，具身视觉语言模型PalME，视觉语言动作模型RT2 RTH，等，特别figure机器人的操作模型也是基于Transformer架构的具身控制模型，表现非常精彩，我们统称为机器人的transoformer时刻。那么接下来呢，在机器人本体、数据和算力的三者迭代加持下，我们有理由相信，通用具身智能在几年内到来的可能行，正在期待机器人的chatgpt时刻的诞生。而这也是为什么具身智能和人形机器人最近异常火爆的底层原因。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FvAAu9riAi8XfrM4tI7J2hUOPly3.m4a" length="1924832" type="audio/mp4"/>
+    <itunes:duration>00:02:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpivvyKOwi4pZ9JdrczaGezcTBzo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

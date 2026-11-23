@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>哥俩聊米兰</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/678469b1692aa0f1b07b7644</link>
+  <description><![CDATA[知名足球解说员石庆圣和生活在米兰十几年的米兰球迷范雷闲聊米兰。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:54:35 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p678469b1692aa0f1b07b7644.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>解说员石庆圣</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FiA_nKmV8WyrwtXGTAA7xp35xNhk.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FiA_nKmV8WyrwtXGTAA7xp35xNhk.jpg</url>
+    <title>哥俩聊米兰</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/678469b1692aa0f1b07b7644</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>第10期 都灵2-1米兰 不能为了菲利克斯失去平衡</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67bdde3a05a90dfd0dd452b3</link>
+    <guid isPermaLink="false">67bdde3a05a90dfd0dd452b3</guid>
+    <pubDate>Tue, 25 Feb 2025 16:07:36 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lsFmqFb93cWUjVjLwbKVXTxMeYQG.m4a" length="180348756" type="audio/mp4"/>
+    <itunes:duration>03:05:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjLF9sWncDnTDL-lvgcePrK2reP5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第9期 米兰1-1费耶诺德 特奥愚蠢 四重奏再失败</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b6fa7e606e5c5940b98b8e</link>
+    <guid isPermaLink="false">67b6fa7e606e5c5940b98b8e</guid>
+    <pubDate>Thu, 20 Feb 2025 10:33:14 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/luIyYbrg4nk1tjy50sq4fudx3hMw.m4a" length="197688966" type="audio/mp4"/>
+    <itunes:duration>03:23:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp1CpONeegnGbD7PloLPyO4Lo9-B.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第8期 米兰1-0维罗纳 老孔欧冠一定要放弃“四重奏”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b35424606e5c594014fb60</link>
+    <guid isPermaLink="false">67b35424606e5c594014fb60</guid>
+    <pubDate>Mon, 17 Feb 2025 15:45:04 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lpezz7pGagUx44fPJr5AYPyLjRzq.m4a" length="125129349" type="audio/mp4"/>
+    <itunes:duration>02:08:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvGmQ2se8rUC1p3OvD7EbMwPGhUG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第7期 恩波利0-2米兰 我们又活过来了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ab6e3c2faa72d7a8ecb740</link>
+    <guid isPermaLink="false">67ab6e3c2faa72d7a8ecb740</guid>
+    <pubDate>Tue, 11 Feb 2025 16:03:06 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lpnD1Bf1KEav7oE-1rqjaCO89BJc.m4a" length="150028502" type="audio/mp4"/>
+    <itunes:duration>02:34:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpSMsjT6lSy6h9JFWFNk-tNJNVrh.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第6期 米兰1-1国米 要做国米这赛季的绊脚石</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a2189e247d51713c95386c</link>
+    <guid isPermaLink="false">67a2189e247d51713c95386c</guid>
+    <pubDate>Tue, 04 Feb 2025 14:05:15 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lr468gyLceX3PjjrL7JIEKjoxyHY.m4a" length="129038165" type="audio/mp4"/>
+    <itunes:duration>02:12:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FglJ4VnpNXUZM7u4F79RNQt96mgw.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第5期 萨格勒布2-1米兰 可能要崩了 不得以需要放弃欧冠</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/679e51cfd74435e4a3aec475</link>
+    <guid isPermaLink="false">679e51cfd74435e4a3aec475</guid>
+    <pubDate>Sat, 01 Feb 2025 18:08:59 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lsFx75PZkOPM1XWRaVSXbic7ViJp.m4a" length="185561794" type="audio/mp4"/>
+    <itunes:duration>03:11:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fr-SPOC4ZiRrv495qjM43lWi7OYl.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第4期 尤文2-0米兰 管理层毫无作为 只知道“平账”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678efdb49420ede9d178c09e</link>
+    <guid isPermaLink="false">678efdb49420ede9d178c09e</guid>
+    <pubDate>Tue, 21 Jan 2025 02:04:17 +0000</pubDate>
+    <description><![CDATA[<blockquote><span>知名足球解说员石庆圣直和米兰生活十几年米兰死忠范雷，一起聊聊米兰，音频回放。</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lg8xog2vIvzBjUc58wgO_fWqdZKA.m4a" length="171648545" type="audio/mp4"/>
+    <itunes:duration>02:56:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj2kFtkGZxaqH_CMoOs8dsUW9NEY.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第3期 科莫1-2米兰 我给老孔鸡蛋里挑点骨头</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6788521af787119b3d860a99</link>
+    <guid isPermaLink="false">6788521af787119b3d860a99</guid>
+    <pubDate>Thu, 16 Jan 2025 00:47:45 +0000</pubDate>
+    <description><![CDATA[<blockquote><strong><span>知名足球解说员石庆圣直和米兰生活十几年米兰死忠范雷，一起聊聊米兰，音频回放。</span></strong></blockquote><span></span><p><span>很艰难的胜利，这场逆转的难度也非常大，主要是现在球队身体情况不好人员不足，这些客观事实摆在这里，而是现阶段除了球队本身困难外，管理层太差了月中了还没个准信儿，毫无来人的希望，的确意甲除了科莫其他队也没怎么花钱，但是每个队处境不一样呀，米兰是争欧冠资格同时，要争欧冠小组赛前八名的呀，还有意大利杯二月份就来了，和你阵容问题一样大的，多线作战的只有尤文，人家已经“黑喂狗”两个加上准备5000万砸阿劳霍了，咱们米兰管理层还端个架子不知道琢磨啥呢？</span><br><span></span><br><span>本来今天赢这么场比赛，我应该是挺高兴的，但是我今天可能会说点“扫兴”或者“高要求”的话题，不代表我对孔塞桑不满意，而是现在的米兰阵容紧张 体能不足 管理层不作为，只能指望孔塞桑，所以我对他可能得鸡蛋里挑点骨头。</span><br><span></span><br><span>首先肯定的是，这个比赛没有孔塞桑大概率赢不下来，孔塞桑所有换人很有勇气都是奔着赢去的，而且思路也很清楚临场换人都在点上，说实话这场赢还是赢在临场调整上。</span><br><span></span><br><span>接下来我要说我不满意的地方了，只代表我自己。</span><br><span></span><br><span>第一，就是我觉得这场比赛应该是打“后手”的比赛，我觉得首发应该先轮换一下，如果是我我会有几点选择——莫拉塔和佛法纳我不会一起上因为他俩都是4黄，莱奥和普利西奇休一个，我倾向于普利西奇休息一下，莱茵德斯和佛法纳我会轮休一个，加比亚我会首发。我认为以米兰现在的比赛强度和孔塞桑的严格要求，我觉得替补应该也有机会稳住局面，如果替补拿下就游刃有余，如果拿不下下半场再打后手，如果落后一个临场调整也来得及，这比赛也是落后一个打回来的。</span><br><span></span><br><span>第二，我就是现阶段米兰踢的太快，只会快，缺节拍器，在米兰管理层没有能力带来节拍器的前提下，孔塞桑后续得自己想办法适时的慢下来或者学会变速。现在米兰属于实况足球新手，只会按着加速键，一味的快容易受伤 消耗大 失误多，快慢结合 变速能力需要孔塞桑尽快提上日程。</span><br><span></span><br><span>第三，就是这场比赛赢得代价不算小，莫拉塔停赛，普利西奇受伤，而且米兰用大量黄牌来破坏科莫进攻，原因就是球员大多数身体损耗很大了，球员伤病的风险就会增大，这一点必须得意识到提前预防。再就是不幸中的万幸，佛法纳没吃牌这场，佛法纳黄牌停赛的风险打尤文就别琢磨了全力以赴，甚至打尤文不吃牌，也争取吃一张，打帕尔马洗掉吧，再往后就是米兰德比了，而且背着这个牌一直畏手畏脚也不是个事。</span><br><span></span><br><span>第四，现阶段老孔最好是琢磨一下首发就3中卫吧，343或者352都可以。加比亚和帕夫闲着太浪费了，现在中卫多，边后卫多，三中卫能把这些人利用起来。然后三中卫还可以更好的释放特奥和希门尼斯的攻击力，埃摩森踢边中卫明显比踢边后卫强，再就是三中卫也能缓解中前场人手不足的压力，我认为三中卫是目前引援不力的情况下，人员最合理最高效利用的方式，而且实际上孔塞桑上任以后几次下半场变阵三中卫或者类似4.5后卫效果都不错都逆转了比赛。</span><br><span></span><br><span>我再说一遍我觉得现在谁也指望不上帮米兰，只有指望孔塞桑。我说的这些也许要求有点高，但是我对丰塞卡 皮奥利也是这么要求，那俩不争气没这能力，孔塞桑时间段任务重，但是我觉得脑子够用有这个能力，现在孔塞桑脑子必须清清楚楚看的长远一些不能犯一点错误，再加上米兰球员齐心协力才能度过现在的困境，管理层是一点指望不上了，加油吧，FORZA MILAN！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/ltx-00KRKj1Bbyg1_LbkhCzEzs2K.m4a" length="126889384" type="audio/mp4"/>
+    <itunes:duration>02:10:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtfaPfAsPJy0b0D6Z7TCu1lIo27f.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第2期 米兰1-1卡利亚里 最遗憾的平局</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67856ca8d6a4b57e14e32ece</link>
+    <guid isPermaLink="false">67856ca8d6a4b57e14e32ece</guid>
+    <pubDate>Mon, 13 Jan 2025 20:12:53 +0000</pubDate>
+    <description><![CDATA[<blockquote><strong><span>知名足球解说员石庆圣直和米兰生活十几年米兰死忠范雷，一起聊聊米兰，音频回放。</span></strong></blockquote><span></span><p><span>挺遗憾的一场平局，从我个人角度说实话是出乎意料的，现阶段这个形式丢的这2分太遗憾了。但是生活就是这样，当你风光无限之后也许就会有一盆冷水，当你上一场45分钟转化3个进球后，这一场效率就会下降，转化率似乎被稀释了。这也可以说是玄学。</span><br><span> </span><br><span>冠军庆祝过后就过去了，包括球员和教练下半赛季是对球队新一轮的评判的开始，从这场比赛内容来看，我觉得米兰心态和重视程度调整的可以并没有松懈。但是机会转化率，和定位球利用的不好，主教练负责制造机会，但是不负责把握机会。另外就是防守还是需要优化，连续3场丢球说明防守肯定存在问题，加比亚可以提供不同的防守策略和方式思考，我希望孔塞桑能认识到这一点，如果打科莫中卫还不轮换给加比亚机会，那我觉得他可能还没意识到加比亚在防线的价值，防守一定不是只靠身体，还需要靠脑子，佳夫 托莫里的身体都不错，但是防守智商都没有加比亚高。</span><br><span> </span><br><span>再就是定位球今天很多，卡利亚里本场之前32个丢球14个是定位球丢的，所以定位球一定是至关重要也是僵局的破窗锤，虽然看到一些变化，但是效果不好，还需要加强。另外一点是追求比赛速度强度的同时，不能过于着急，不能70分钟就放高射炮，我不是说不应该踢快，而是要更精确，俗话说欲速则不达。</span><br><span> </span><br><span>亚伯拉罕 普利西奇浪费机会我觉得很正常，麦尼昂失误也不是不能接受，毕竟人不是机器，不可能做到万无一失。但是佛法纳传丢球之后的抱怨，忌惮累计黄牌停塞没适时战术犯规，之后再次抱怨，连续3次的这种非技术错误是坚决不能再犯的。这不是一次错误，这是连续的3个错误，佛法纳如果这三个错误有一个正确，可能都不会丢这个球。</span><br><span> </span><br><span>说了一些不积极的东西，再说点积极。我说的这些积极的东西前提是你看了比赛，从这三场比赛内容来看无疑是积极的，米兰的杀伤力是有的，需要优化的是细节，也可能是需要补点人，但是绝对是可以看到希望的。全欧洲有哪个队敢说三五天内连续打尤文和国米能连胜？谁敢说？别听有些人说什么商业比赛，看了比赛的你就说尤文国米拼命没拼命就完了，德比永远都是德比，不存在不想赢。如果说商业赛，欧冠和世界杯是商业化最浓的比赛，小因扎吉6个在国米拿的冠军里3个是商业赛冠军，你不能说你赢了就是货真价实的冠军，你输了就是商业赛冠军，这也聊天纯纯不要脸。所以米兰连胜尤文国米是极具含金量的，可以看到米兰的上限，现在需要解决的问题是提高下限。退一万步说，从我作为球迷角度来看，这赛季不是四大皆空已经踩着国米拿了个冠军了，而且双杀国米干了皇马，要求低的话也不是不能接受。但是我内心通过这三场比赛的内容，认真看的朋友和我有同感，我真心觉得能看到希望的，我个人是一点都不愁欧冠资格，孔塞桑时间紧任务重三场比赛有这些变化我是愿意再给点时间的，我相信米兰能行。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/lqSLcY6y-Gsj-ReMNNCQOZZ0uTQf.m4a" length="159451839" type="audio/mp4"/>
+    <itunes:duration>02:44:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkjeI1GmwnSF9n3ELvOuHlZUK4-A.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第1期 米兰是冠军 换个教练就能干国米</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678558b51bf3f0ab2beabaec</link>
+    <guid isPermaLink="false">678558b51bf3f0ab2beabaec</guid>
+    <pubDate>Mon, 13 Jan 2025 20:03:15 +0000</pubDate>
+    <description><![CDATA[<blockquote><strong><span>知名足球解说员石庆圣直和米兰生活十几年米兰死忠范雷，一起聊聊米兰，音频回放。</span></strong></blockquote><span></span><p><span>心情久久不能平复，突然不知从何说起，实话实说赛前我对这个比赛挺有信心，赛前我和李指导拍了这个照片，预测比分就是3-2。其实如果你看了半决赛对尤文，你应该知道我信心的来源，球队比赛气质的改变，教练临场调整的果断准确都能成为这场比赛的信心。而且不仅仅是因为夺冠，就算是今天的比赛没夺冠，从今天呈现的内容来看，米兰下半赛季一定是大有希望大有可为的，说实话我现在一点都不为欧冠资格发愁，看了直播的一定感同身受，起来看集锦看比分的就别发表意见了。</span><br><span> </span><br><span>当然比赛肯定有瑕疵，但是今天大喜的日子我认为不是找瑕疵的时候，而是享受胜利的时候庆祝的时候，因为一路走来不容易，这个赛季不容易。从被六杀送给死敌第二颗星，到踩着死敌拿下超级杯，这其中的感受只有真正的罗森内里才能体会。</span><br><span> </span><br><span>说说今天比赛，其实哪怕0-2的时候米兰大多数的表现都很不错，和之前6杀时候绝对不是一个队，之前是完全看不到希望，0-1时候我是感觉肯定能踢回来，0-2的时候我是觉得希望渺茫，但是我仍然坚信有一个就有两个，看了比赛的应该懂那种感觉。今天孔塞桑又是神级用人，希门尼斯和普利西奇的换位是为了4后卫和5后卫丝滑切换，因为希门尼斯可以踢右后卫，埃莫松可以踢边中卫。第二就是果断换上莱奥提升进攻压力，第三就是75分钟加柴火上齐克和亚伯拉罕为什么？你可以去看看国米这赛季75分钟之后丢了多少球。这赛季国米75分钟之前还是世界级，但是75分钟之后经常丢球，这就是为什么孔塞桑77分钟上亚伯拉罕和齐克的原因。第四就是三中卫的弱点就是肋部，就是需要持续击打三中卫让其松动，最后绝杀恰恰体现这两点。这就是孔塞桑的牛逼。</span><br><span> </span><br><span>最后我和部分国米球迷和爱招魂皮奥利的人说几句，</span><br><span>我并非不知道国米的强大，我也一直肯定国米的强大，国米欧冠决赛的历练，熟悉稳定的打法套路，球员的能力，但是这并不代表米兰打国米就没机会，实话实说6杀时候我一点都不讨厌国米，我就恨皮奥利，因为我知道米兰纵然有不如国米的地方（比如经验 硬度），但是米兰一定是不应该被6杀，我坚定认为只要技战术对路，米兰有实力掰掰手腕赢国米的。这个赛季，两个教练双杀国米足以证明这一点，丰塞卡联赛第八的水平都能赢国米，孔塞桑刚上任第二场就踩着国米夺冠，今天看到了一句话特别好，送给那些整天千古奇冤皮奥利的，你们总说皮奥利把米兰带到不应该的高度，今天你们应该认识到是皮奥利把国米捧到了不应该的高度。</span><br><span> </span><br><span>你们有些人“赛前开香槟，赛后酸裁判”，回头看看部分国米球迷觉得首回合是意外，别管哪个平台里面米兰新闻下面，都是部分国米球迷群魔乱舞，还有没出息的部分米兰球迷自甘下贱说自己球员是臭鱼烂虾本来就踢不过，就是你们这群口贩子把氛围搞得乌烟瘴气，本来其实德比相爱相杀胜胜负负很正常，但是我赛后就是狂给你们这帮人口贩子看的。</span><br><span> </span><br><span>一个超级杯我其实根本看不上，因为我知道米兰真正的舞台在欧洲，之所以高兴除了德比的胜利之外，更让我高兴的是看到球队的成长，看到未来的希望，要不是你们部分人经常来恶心我，窝里斗这点逼事我都不会拿出来说浪费唾沫。FORZA MILAN。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/678469b1692aa0f1b07b7644/ljMET9O6qgsbY17GfldZxI7nwE3c.m4a" length="325330677" type="audio/mp4"/>
+    <itunes:duration>02:48:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgVDAeiJtPnGhB3_aMafS6styvEC.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

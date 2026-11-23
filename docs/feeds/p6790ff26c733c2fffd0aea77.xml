@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>降噪</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6790ff26c733c2fffd0aea77</link>
+  <description><![CDATA[每天3个关键资讯，祝你远离噪音
+
+感谢MiniMax赞助API，本播客内容由黄叔精选。
+
+AI播客脚本生成（使用MiniMax text-01长文本）
+AI播客声音生成（使用MiniMax speech-01-hd）
+克隆了黄叔本人的音色，1.2倍速率生成]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:55:44 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6790ff26c733c2fffd0aea77.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png</url>
+    <title>降噪</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6790ff26c733c2fffd0aea77</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>0216-AI每周关键词Top50/2024年Product Hunt产品榜/普通人怎么和 AI 玩起来?</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b12758606e5c5940b1a036</link>
+    <guid isPermaLink="false">67b12758606e5c5940b1a036</guid>
+    <pubDate>Sat, 15 Feb 2025 23:53:13 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://mp.weixin.qq.com/s/3OKs1J9hXUYJlB5xD710ZQ" data-url="https://mp.weixin.qq.com/s/3OKs1J9hXUYJlB5xD710ZQ"><span>腾讯研究院AI每周关键词Top50</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/1XLHBru4TfjFOBkKoeOXow" data-url="https://mp.weixin.qq.com/s/1XLHBru4TfjFOBkKoeOXow"><span>2024年Product Hunt产品榜:Cursor年度最佳，众多AI产品上榜</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/9YlD4m6XlM1lFlgZKga5bg" data-url="https://mp.weixin.qq.com/s/9YlD4m6XlM1lFlgZKga5bg"><span>普通人怎么和 AI 玩起来?</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lnj3Vu2_D-vN5W0JoPmsowKy8dhl.m4a" length="5077265" type="audio/mp4"/>
+    <itunes:duration>00:05:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>216</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0224-OpenAI推迟了o3模型/AI应用生成产品应该怎么做?/DeepSeek-R1超高幻觉率解析</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ae7b1905a90dfd0d5854d7</link>
+    <guid isPermaLink="false">67ae7b1905a90dfd0d5854d7</guid>
+    <pubDate>Thu, 13 Feb 2025 23:08:14 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://mp.weixin.qq.com/s/oH2aUeyUUJrJE3TeojqDpg" data-url="https://mp.weixin.qq.com/s/oH2aUeyUUJrJE3TeojqDpg"><span>速递|OpenAI推迟了o3模型，预计未来发布“统一”的新版本</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/Fo0CRynzzeImjXf46ajSmg" data-url="https://mp.weixin.qq.com/s/Fo0CRynzzeImjXf46ajSmg"><span>a16z:从提示词到产品，AI应用生成产品应该怎么做?</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/mVaOCzBZbBOVU4sanymgLg" data-url="https://mp.weixin.qq.com/s/mVaOCzBZbBOVU4sanymgLg"><span>DeepSeek-R1超高幻觉率解析:为何大模型总“胡说八道”?</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/ln8FIzTcLm7v4NGgPBdIVL6P3eYe.m4a" length="4290857" type="audio/mp4"/>
+    <itunes:duration>00:04:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>224</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0212-语音模型公司估值数亿美元/Agent还不够智能？/重新理解推理模型</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ac042c5e6f58876dcba233</link>
+    <guid isPermaLink="false">67ac042c5e6f58876dcba233</guid>
+    <pubDate>Wed, 12 Feb 2025 02:35:02 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://mp.weixin.qq.com/s/0QDCbROoZIRe2tQ2fQALQg" data-url="https://mp.weixin.qq.com/s/0QDCbROoZIRe2tQ2fQALQg"><span>Z Product|ChatGPT Voice之父离职创办语音模型公司，种子轮即获a16z 4000万美金，估值数亿美元</span></a></p><span></span><p><span>Z </span><a href="https://mp.weixin.qq.com/s/aBOd1UubNRdU-bqGsS8T2Q" data-url="https://mp.weixin.qq.com/s/aBOd1UubNRdU-bqGsS8T2Q"><span>Potentials|朱哲清，从Meta走出的AI实战派，为什么说现在的Agent还都不够智能?让RL理论走进现实的破局之道</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/gMOvQUR8W3GGDBJvCL5KZw" data-url="https://mp.weixin.qq.com/s/gMOvQUR8W3GGDBJvCL5KZw"><span>重新理解推理模型(o1/o3、DeepSeek R1)|Z 编译</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/Fo8PSXeWQ1EFk_EMd97tYRfDPBsJ.m4a" length="2653585" type="audio/mp4"/>
+    <itunes:duration>00:02:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>212</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0211-王小川要做AI医生/奥特曼继续看好未来/AK力挺DeepSeek</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67aa7eb4247d51713cdeddb9</link>
+    <guid isPermaLink="false">67aa7eb4247d51713cdeddb9</guid>
+    <pubDate>Mon, 10 Feb 2025 22:36:56 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://mp.weixin.qq.com/s/o7wg-YavNVPm-KJxFpJ9uA" data-url="https://mp.weixin.qq.com/s/o7wg-YavNVPm-KJxFpJ9uA"><span>晚点对话王小川丨不是文本创作、不是物理模型，AGI 的尽头是生命科学</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/4Zn7B4scDuXKhxrLbWPZGg" data-url="https://mp.weixin.qq.com/s/4Zn7B4scDuXKhxrLbWPZGg"><span>Sam Altman:AI 投资的指数级增长短期内不会停止</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/IFoTeKAJTMWntP6hAizj1w" data-url="https://mp.weixin.qq.com/s/IFoTeKAJTMWntP6hAizj1w"><span>AK 最新视频盛赞 DeepSeek:R1 正在发现人类思考的逻辑并进行复现</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lhyIgCbbV9w2ctYQTbr353SMYT9K.m4a" length="6247569" type="audio/mp4"/>
+    <itunes:duration>00:06:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>211</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0210-苹果 AI 台灯 ELEGNT/DeepSeek科学家揭秘/Meta正在研究人和机器人如何在家务上合作</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a92479d74435e4a31f041f</link>
+    <guid isPermaLink="false">67a92479d74435e4a31f041f</guid>
+    <pubDate>Sun, 09 Feb 2025 21:57:11 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://mp.weixin.qq.com/s/d0yix995CZyEnOnJbnPVng" data-url="https://mp.weixin.qq.com/s/d0yix995CZyEnOnJbnPVng"><span>苹果 AI 台灯 ELEGNT:让机器人动起来，更自然、更富表现力</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/J2n_ZOdSQzIiYwQVn2eq3g" data-url="https://mp.weixin.qq.com/s/J2n_ZOdSQzIiYwQVn2eq3g"><span>Z Tech|前DeepSeek科学家万字大揭秘，RL与MoE如何点燃大模型革命</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/ReaJrVw-ZwjzT__ysmMIzw" data-url="https://mp.weixin.qq.com/s/ReaJrVw-ZwjzT__ysmMIzw"><span>速递|Meta正在研究人和机器人如何在家务上合作</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lvSOszyUtM1Cyo5tUpurslVzXHo8.m4a" length="6711973" type="audio/mp4"/>
+    <itunes:duration>00:06:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>210</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0209- Deepseek是国运？1月AI圈大事纪要</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a86ad2247d51713c8aa3c0</link>
+    <guid isPermaLink="false">67a86ad2247d51713c8aa3c0</guid>
+    <pubDate>Sun, 09 Feb 2025 08:45:35 +0000</pubDate>
+    <description><![CDATA[<p><span>从春节长假回归啦！继续日更，欢迎大家分享</span></p><span></span><h1><a href="https://mp.weixin.qq.com/s/p5CPfiXYYrzzbie1qF6P-Q" data-url="https://mp.weixin.qq.com/s/p5CPfiXYYrzzbie1qF6P-Q"><span>拾象科技李广密：对 DeepSeek 和智能下半场的几条判断</span></a></h1><span></span><h1><a href="https://mp.weixin.qq.com/s/eU7ISWJ-xXOyCWfjz3dtWQ" data-url="https://mp.weixin.qq.com/s/eU7ISWJ-xXOyCWfjz3dtWQ"><span>AIGC月刊：DeepSeek成绝对主角；小红书AI翻译打通地球村（25.1）</span></a></h1>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lo9JAVBuR8ih0jKgDZl3kaKNiUae.m4a" length="6431761" type="audio/mp4"/>
+    <itunes:duration>00:06:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>209</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0126-Deepseek的用人观/图像生成的CoT时刻/Grok3赢了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67962aec247d51713c691231</link>
+    <guid isPermaLink="false">67962aec247d51713c691231</guid>
+    <pubDate>Sun, 26 Jan 2025 12:34:05 +0000</pubDate>
+    <description><![CDATA[<p><span>每天3条，今天照常，春节请假！现在还没做到全自动化流程，希望春节后能实现。</span></p><span></span><p><span>1. </span><a href="https://mp.weixin.qq.com/s/UPZRk48cTlqxskscjBlguA" data-url="https://mp.weixin.qq.com/s/UPZRk48cTlqxskscjBlguA"><span>DeepSeek的用人观:学霸、年轻人、禁止赛马|焦点分析</span></a></p><span></span><p><span>2.</span><a href="https://mp.weixin.qq.com/s/nSR5CalpNW0dN8gQEmo_YQ" data-url="https://mp.weixin.qq.com/s/nSR5CalpNW0dN8gQEmo_YQ"><span>Z Tech|图像生成迎来CoT时刻，港中文首次提出文生图o1推理及Inference Scaling新范式</span></a></p><span></span><p><span>3. </span><a href="https://mp.weixin.qq.com/s/kiLMdAHy2RcrOsXnsZXoqA" data-url="https://mp.weixin.qq.com/s/kiLMdAHy2RcrOsXnsZXoqA"><span>DeepSeek-R1 vs o1-pro，Grok 3竟成幕后赢家?!</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/FsZ6st59jlbagWCwdEfZIBSf8oo1.m4a" length="4175293" type="audio/mp4"/>
+    <itunes:duration>00:04:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>126</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0125-Deepseek震惊世界/Karpathy泼冷水/ElevenLabs完成2.5亿美元C轮融资</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6794e27cd74435e4a3b939a6</link>
+    <guid isPermaLink="false">6794e27cd74435e4a3b939a6</guid>
+    <pubDate>Sat, 25 Jan 2025 13:20:32 +0000</pubDate>
+    <description><![CDATA[<p><span>继续三条新闻</span></p><span></span><p><span>1. </span><a href="https://mp.weixin.qq.com/s/0JQEJJQRiX_bgWofPuWmVA" data-url="https://mp.weixin.qq.com/s/0JQEJJQRiX_bgWofPuWmVA"><span>深度|外媒评DeepSeek以小博大，震惊硅谷，是中国的DeepMind</span></a></p><span></span><p><span>2. </span><a href="https://mp.weixin.qq.com/s/MrTlpLXDM_I3xDJICvRS7A" data-url="https://mp.weixin.qq.com/s/MrTlpLXDM_I3xDJICvRS7A"><span>Andrej Karpathy泼冷水:智能体爆发并非近在眼前，还需十年</span></a></p><span></span><p><span>3. </span><a href="https://mp.weixin.qq.com/s/nyDyZqFziF-Utj2JIaWJIA" data-url="https://mp.weixin.qq.com/s/nyDyZqFziF-Utj2JIaWJIA"><span>速递|AI语音独角兽ElevenLabs以超30亿美元估值完成新一轮融资</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lqICXF8t3al76ZlAsZ3AigKvWIoe.m4a" length="6671713" type="audio/mp4"/>
+    <itunes:duration>00:06:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>125</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0124-李飞飞分享视觉智能/现在的AI保质期不长啦？/OpenAI放大招！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67936a36d74435e4a389a7c2</link>
+    <guid isPermaLink="false">67936a36d74435e4a389a7c2</guid>
+    <pubDate>Fri, 24 Jan 2025 10:28:10 +0000</pubDate>
+    <description><![CDATA[<p><span>继续每天3条！</span></p><span></span><p><a href="https://mp.weixin.qq.com/s/bZ8LZajQ_DIXV2YVeFMjXw" data-url="https://mp.weixin.qq.com/s/bZ8LZajQ_DIXV2YVeFMjXw"><span>深度|AI教母李飞飞:我们希望把AI作为一种工具，来增强人类的能力，而非取代</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/u52FpklleAQY14ENmQO1DA" data-url="https://mp.weixin.qq.com/s/u52FpklleAQY14ENmQO1DA"><span>速递|Meta首席科学家预测5年内会出现“新AI架构范式”和“机器人时代”</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/k1mPZq7ZmcwleBOn6hs8AQ" data-url="https://mp.weixin.qq.com/s/k1mPZq7ZmcwleBOn6hs8AQ"><span>OpenAI正式发布Operator，一款能操作浏览器的AI，打响2025智能体大战第一枪!</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/FkpeufnO4ymZaF6XRBS5SUxSjF3C.m4a" length="3082893" type="audio/mp4"/>
+    <itunes:duration>00:03:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>124</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0123-字节启动 Seed Edge/硅谷核心AI公司60条洞察/谷歌新推理模型</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67924e75d74435e4a35ddf1c</link>
+    <guid isPermaLink="false">67924e75d74435e4a35ddf1c</guid>
+    <pubDate>Thu, 23 Jan 2025 14:26:53 +0000</pubDate>
+    <description><![CDATA[<p><span>每天3个AI关键资讯，祝你远离噪音</span></p><span></span><p><a href="https://mp.weixin.qq.com/s/6Epg3iRvzEczGuSSQdBzEA" data-url="https://mp.weixin.qq.com/s/6Epg3iRvzEczGuSSQdBzEA"><span>晚点独家丨字节启动 Seed Edge，加码 AGI 研究</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/Brb_IrqoJtzr9qnZ5wa5Ug" data-url="https://mp.weixin.qq.com/s/Brb_IrqoJtzr9qnZ5wa5Ug"><span>跟硅谷的核心AI公司聊完后，得到了这 60 条关键洞察</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/sLuB4AX_13_vypr1nqNl3A" data-url="https://mp.weixin.qq.com/s/sLuB4AX_13_vypr1nqNl3A"><span>谷歌新推理模型重磅来袭:百万上下文，代码执行，推理能力飙升!</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lvGQpc7Ny5vF2rEPFbYIcYzAnCZG.m4a" length="4867253" type="audio/mp4"/>
+    <itunes:duration>00:05:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>123</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>0122-MiniMax CEO闫俊杰：别用移动互联网思维做AI！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67910074a2c8d144a7d74765</link>
+    <guid isPermaLink="false">67910074a2c8d144a7d74765</guid>
+    <pubDate>Wed, 22 Jan 2025 14:54:58 +0000</pubDate>
+    <description><![CDATA[<p><span>每天3个AI关键资讯，祝你远离噪音</span></p><span></span><p><span>1. </span><a href="https://mp.weixin.qq.com/s/C04fCo2X4zhPFNrh3lDU7g" data-url="https://mp.weixin.qq.com/s/C04fCo2X4zhPFNrh3lDU7g"><span>Anthropic CEO 专访：Claude 2025 新功能全剧透，不会推出单一的推理模型</span></a></p><span></span><p><span>2. </span><a href="https://mp.weixin.qq.com/s/XGnHruXL3P0s-2TNss0LIg" data-url="https://mp.weixin.qq.com/s/XGnHruXL3P0s-2TNss0LIg"><span>晚点对话 MiniMax 闫俊杰:千万别套用移动互联网的逻辑来做 AI</span></a></p><span></span><p><span>3. </span><a href="https://mp.weixin.qq.com/s/ye-Jgr1Ow3AsnTEn1HIQjw" data-url="https://mp.weixin.qq.com/s/ye-Jgr1Ow3AsnTEn1HIQjw"><span>阿里达摩院2025预测:底层架构会统一，Scaling Law进入2.0阶段</span></a></p><span></span><p><span>感谢MiniMax赞助，使用的模型：</span></p><span></span><p><span>AI播客声音生成（使用MiniMax speech-01-hd）</span></p><span></span><p><span>克隆黄叔自己的音色，1.2倍速率生成，效果绝绝子！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6790ff26c733c2fffd0aea77/lh7hFA3IJZzZ6wbFq63oIHs44pxT.m4a" length="7591229" type="audio/mp4"/>
+    <itunes:duration>00:07:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi_mD7bBOa4AGiaZID878vjMFNif.png"/>
+    <itunes:episode>122</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

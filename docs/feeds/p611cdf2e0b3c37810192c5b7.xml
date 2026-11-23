@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>戏剧时间</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/611cdf2e0b3c37810192c5b7</link>
+  <description><![CDATA[我们讨论经典戏剧，从文本出发，尝试寻找一种面对当下的态度。
+
+我们关注魔都好戏，只推荐值得n刷的剧目。
+
+同时，从戏剧衍生，与生活中的人物对话，重新审视文本与现实的映射关系。
+
+双周更新。
+
+主播：和月、小戈]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:31:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p611cdf2e0b3c37810192c5b7.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>和月、小戈</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9lMjk5LWF1ZGlvZnJlZWhpZ2hxcHMvNTUvNTMvQ0t3Uklhc0U4cC1yQUFHcUZRRFpQZHkyLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9lMjk5LWF1ZGlvZnJlZWhpZ2hxcHMvNTUvNTMvQ0t3Uklhc0U4cC1yQUFHcUZRRFpQZHkyLmpwZWc=.jpeg</url>
+    <title>戏剧时间</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/611cdf2e0b3c37810192c5b7</link>
+  </image>
+  <itunes:category text="Arts"/>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>迷影圆桌派</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6417fb561b212006dc1f129a</link>
+  <description><![CDATA[知无不言言无不尽，每月陪大家唠唠嗑。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:32:21 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6417fb561b212006dc1f129a.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>发条张</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fng3r3KaaKz0evmaPmW8UZwNVECg.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fng3r3KaaKz0evmaPmW8UZwNVECg.jpg</url>
+    <title>迷影圆桌派</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6417fb561b212006dc1f129a</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>【张罗】中日关系漫谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68ca95faa56ca3e0c4e893ac</link>
+    <guid isPermaLink="false">68ca95faa56ca3e0c4e893ac</guid>
+    <pubDate>Wed, 17 Sep 2025 12:50:16 +0000</pubDate>
+    <description><![CDATA[<p><span>嘉宾：老罗、田田、悠悠、发条张</span></p><span></span><p><span>【张罗】是我跟嘉宾老罗弄的一档新节目，每期一个话题，时长1个小时左右（也可能超），今年恰逢反法西斯胜利80周年，第一期就从古代交往、近现代冲突、个人观感等方面聊聊中日关系。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6417fb561b212006dc1f129a/lgZyWEdoanM7nTLiFhxY8atEmimk.m4a" length="169200969" type="audio/mp4"/>
+    <itunes:duration>01:27:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpFnUw75w-WNH9GAi7ahDqNuZgS7.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

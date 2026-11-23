@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>邦尼职场真心话大冒险</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/5eb7c754418a84a046ab0906</link>
+  <description><![CDATA[资深职场人邦尼讲职场，每周四准时更新。 The truth about the workplace revealed.]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:03:34 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p5eb7c754418a84a046ab0906.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>BunBunBunBunBunny</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDc5L00wMC82QS9DNy93S2dQQzE2NExXX0NWYTJQQUFWb1VPN1BFbXM0NjUuanBn.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDc5L00wMC82QS9DNy93S2dQQzE2NExXX0NWYTJQQUFWb1VPN1BFbXM0NjUuanBn.jpg</url>
+    <title>邦尼职场真心话大冒险</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/5eb7c754418a84a046ab0906</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>还 OK 的生活</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/683de1241ebb8071ccb4bf60</link>
+  <description><![CDATA[聊聊交易，聊聊生活。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:14:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p683de1241ebb8071ccb4bf60.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>加密姐妹说</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg</url>
+    <title>还 OK 的生活</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/683de1241ebb8071ccb4bf60</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>AI让黑客成本暴跌，Web3安全怎么守？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6affcb1ca4a79edf137c183f</link>
+    <guid isPermaLink="false">6affcb1ca4a79edf137c183f</guid>
+    <pubDate>Fri, 20 Nov 2026 04:26:12 +0000</pubDate>
+    <description><![CDATA[<p><span>开会前 3 分钟，“投资人”才发来会议链接，要周亚金下载一个假 Zoom。他没有进会议。事后分析，那是一个可能拿走电脑里私钥的恶意软件。</span></p><p><span>链上留给防守者的时间更短：BlockSec 团队曾在 12 秒内抢先上链，拦下一笔可能造成约 500 万美元损失的攻击。</span></p><p><span>AI 让攻击更便宜、更自动化，防守也得靠 AI 实时识别异常、自动阻断。但周亚金的原则是：AI 可以拉黑可疑流量，却不能自己决定放过谁。</span></p><p><span>本期，OKX 佳佳对话香港中文大学副教授、BlockSec 联合创始人周亚金，聊地址投毒、定向骗局、被盗后的第一步，以及 AI 对抗 AI 时的边界</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/ln8sNZopPbJvC8sKaVVCqlISWjLU.m4a" length="29016559" type="audio/mp4"/>
+    <itunes:duration>00:29:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnSF6-aVD71vqmo9zofWKMrayl6n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>大厂码农转行，他靠找 BUG 让资产过亿</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6abc8e79e742e36efcbd0045</link>
+    <guid isPermaLink="false">6abc8e79e742e36efcbd0045</guid>
+    <pubDate>Wed, 30 Sep 2026 04:28:15 +0000</pubDate>
+    <description><![CDATA[<p><span>从城中村 750 元出租屋的北漂码农，到靠找系统“漏洞”资产过亿的职业交易员，BTC_Dou 的逆袭靠的不是虚幻神话，而是一套极致理性的生存逻辑。</span></p><p><span>2019 年，他绕过卡顿页面抢下额度将 3 万变成 50 万；LUNA 崩盘夜，他靠监控充提单夜套利超 200 万美元。但他也曾因抗单回撤 700 万美元引发惊恐发作送医，才逼他在生死边缘学会决绝止损。</span></p><p><span>本期，OKX Mia 对话 BTC_Dou：聊他如何把找 BUG 思维融入交易，聊账户一夜破亿的实操，也聊极端专注后如何重夺生活掌控权。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lsXZcPL6Rbkl7EgKKNkkcOGS-fu0.m4a" length="49365765" type="audio/mp4"/>
+    <itunes:duration>00:50:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>母亲劝告别再走错路，他用九年走到 1.3 亿</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a89e4b5ef65145dfcc3bce5</link>
+    <guid isPermaLink="false">6a89e4b5ef65145dfcc3bce5</guid>
+    <pubDate>Mon, 24 Aug 2026 02:23:39 +0000</pubDate>
+    <description><![CDATA[<p><span>2017 年，十老板因网赌和网贷负债 3 万，卡里只剩 50 多元。父亲多年沉迷赌博，母亲最怕他重走旧路：“咱家要是真出两个赌徒，我估计我也活不下去了。”带着这句话，他用一笔下个月就要归还的 1 万元进入币圈。</span></p><p><span>九年里，他曾从 20 万亏回 1 万，百万账户走到爆仓边缘；也把公开实盘从 1000 万做到 1.3 亿元，位列 OKX 星球 365 天盈利榜第一。让他留下来的，不是次次押对，而是认错、止损，再站起来。</span></p><p><span>本期，OKX Mia 对话十老板：聊他如何把“不输”练成本能，聊交易与赌博之间，到底差着什么；也聊九年牛熊中，怎样在机会与风险之间守住自己。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lnleePyj4n2y3mwE0fZe9ibJ9JW-.m4a" length="64714987" type="audio/mp4"/>
+    <itunes:duration>01:06:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>TG 生态杠杆高手：两万美元撬百万用户</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7d3eec17676351c5712912</link>
+    <guid isPermaLink="false">6a7d3eec17676351c5712912</guid>
+    <pubDate>Thu, 13 Aug 2026 07:31:28 +0000</pubDate>
+    <description><![CDATA[<p><span>21 岁，公司年纳税 300 多万；后来，却背上百万债务，借高利贷给员工发工资。事业顶峰时，George 嫌估值太低，拒绝了投资人。直到客户资金链断裂，他才明白：杠杆放大的不只有结果，还有代价。</span></p><p><span>为还债，他进入 Web3，用“概率＋数据＋情绪”抓住多个百倍 Meme；又带着 Conso 团队，用 2 万美元撬动海外百万用户。从创业、交易到增长，他从未停止寻找下一个支点。</span></p><p><span>本期，OKX 佳佳对话 Conso George：聊一场不断寻找新支点的“杠杆人生”，也聊 Conso 与 OKX 的交易闭环。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lm3g9CWJWYhPBi1vQjfYNWffcf5f.m4a" length="33686069" type="audio/mp4"/>
+    <itunes:duration>00:34:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI 没有帮他暴富，却救了他的交易纪律</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a79b0fd17676351c56fac07</link>
+    <guid isPermaLink="false">6a79b0fd17676351c56fac07</guid>
+    <pubDate>Mon, 10 Aug 2026 11:11:00 +0000</pubDate>
+    <description><![CDATA[<p><span>没有金融背景的 00 后阿乐，喜欢新东西，愿意直接上手。第一次做合约，他就开了 100 倍杠杆；爆仓后急着回本，又开出 50 倍过夜多单，醒来再次归零。</span></p><p><span>后来，他用自然语言搭起 AI 交易系统。系统有赚有亏，却会止盈止损、连亏后暂停开仓，条件不满足就不交易。在 OKX AI 交易赛中，他一度取得百分之十几的收益，却因手动介入开仓，一次回撤后，收益转负。赛后，他体验 </span><strong><span>OKX Agent Trade Kit</span></strong><span>，用多个 Skill 补充数据、完善决策。</span></p><p><span>本期，OKX Mercy 对话阿乐：聊 AI 如何给人类补上交易纪律，也聊普通人如何在试错中理解工具、控制风险。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lhseHOXPA1Jk2EBULHbcwDzIr6lS.m4a" length="23454008" type="audio/mp4"/>
+    <itunes:duration>00:24:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>生意黄了又黄，欧洲电商老兵的绝地自救</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a578c54016dcc7e0542b809</link>
+    <guid isPermaLink="false">6a578c54016dcc7e0542b809</guid>
+    <pubDate>Wed, 15 Jul 2026 13:37:05 +0000</pubDate>
+    <description><![CDATA[<p><span>"这事你得自救，没人会救你。"流动性危机爆发那一夜，他自己还有几十万美金无法提取，这句话是他给自己下的死命令。他是深耕欧洲市场多年的电商主理人"会所"，法郎、英镑等本地货币换算损耗重、银行换汇周期长的痛点，逼得他早年间就开始用比特币结汇——如今 OKX 已是首家获得 MiCA 许可的全球交易所，为超过 4 亿欧洲用户提供本地化的加密服务。</span><br><br><span>生意黄了又黄，网赚断供、减肥药站被封、美容产品也没能扛住，“会所”的商业史就是一部“拥抱不确定性”的进化史，一次次推倒重来才活成现在的样子。本期，OKX Mercy 与"会所"深度对话：聊聊生意"黄了又黄”又如何推倒重来，和撑起他不断自救的周期性思维。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lm1kUHJhO_aJZyIAQb-c8kebHBf6.m4a" length="29519956" type="audio/mp4"/>
+    <itunes:duration>00:30:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>亲爹一句&quot;截图持仓&quot;，想买包的她买了 BTC</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a3899b175ba9e0c533708f4</link>
+    <guid isPermaLink="false">6a3899b175ba9e0c533708f4</guid>
+    <pubDate>Mon, 22 Jun 2026 02:14:54 +0000</pubDate>
+    <description><![CDATA[<p><span>"你可以拧巴，对方也能感受到你拧巴，但他一定会感受到你对他的爱。"——这是王不爱送给所有"不善于表达爱"的人的话。她是一个被沉默寡言的爸爸一把推进币圈的美术生，本想拿着老爸给的钱去买包，结果大晚上被一通跨国电话无情抽查：“现在，立刻给我截图你的交易所持仓！” 慌乱之中，王不爱一把把法币全换成了 BTC 和 ETH，从此一脚踏入数字与 K 线的加密世界。</span></p><p><span>本期，OKX 佳佳对话王不爱，聊聊那一通让她"慌得一批"的凌晨来电，聊聊她为什么会在采访中提到爸爸时突然红了眼眶，也聊聊怎么管 3500 万、怎么管好情绪、怎么做到"做交易不要像谈恋爱一样上头"。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lqtLF8gYj6YNEcA3S0lVn2iKYLDa.m4a" length="32556961" type="audio/mp4"/>
+    <itunes:duration>00:34:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>他人肉死磕每条 TX , 逆向破解空投赚千万</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a1ecf02b30e1571ae9f833e</link>
+    <guid isPermaLink="false">6a1ecf02b30e1571ae9f833e</guid>
+    <pubDate>Tue, 02 Jun 2026 12:49:18 +0000</pubDate>
+    <description><![CDATA[<p><span>他是 Web2 高管，刚毕业就年入 50 万；他也是 Web3 小编，账户却已上千万。做到这件事，他靠的不是聪明、不是天才，而是把链上的每一条 TX 啃下来，把算法反推出来，再上重仓。也一个月亏掉两次百万却"吃顿饭就好"。</span><br><br><span>本期 OKX Mia 米粒儿和深大对话：聊聊一个用最笨的方法在 Web3 拿到千万的男人，为什么把"钝感力"当成自己最大的交易优势，又为什么相信"钱不是终点"。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/liB7w55_ubh-Q7dvj0_IhvaWjI52.m4a" length="31669997" type="audio/mp4"/>
+    <itunes:duration>00:32:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>05 后集体逃离宿舍，“打土狗”换不坐班的自由</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a089940e1eb34a939876a96</link>
+    <guid isPermaLink="false">6a089940e1eb34a939876a96</guid>
+    <pubDate>Sat, 16 May 2026 16:56:58 +0000</pubDate>
+    <description><![CDATA[<p><span>凌晨十一点，他在父亲的酒局上发了一条推文："比起 KTV，我觉得 K 线更美丽。"</span><br><span>发推的是 05 后 Max，大三在读。一年多前他还只有几百粉丝，如今他和五位校友 AA 租金住进一间工作室，熬到凌晨四点互相摇起来抢"金狗"，吃过 300 倍，也曾上头亏掉 6-7 万美金，写过一份"绝不梭哈、不追高"的 Not-to-do list。</span><br><br><span>本期是 OKX Mercy 首次一对三深度采访 P 小将 Max 和他的"战友们"，聊家教攒下的第一桶启动金、聊"战壕"里的六个人、聊一辈子不想坐班的底层逻辑。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lr6_Lj26kwZ_kbcyEMN4zqF_GrMP.m4a" length="33733741" type="audio/mp4"/>
+    <itunes:duration>00:34:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>投资人戒掉“母爱泛滥”，终把决定权交还创始人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ccc345b977fb2c47d1b597</link>
+    <guid isPermaLink="false">69ccc345b977fb2c47d1b597</guid>
+    <pubDate>Wed, 01 Apr 2026 07:18:28 +0000</pubDate>
+    <description><![CDATA[<p><span>习惯给创始人“喂饭”的 VC，往往会被市场狠狠打脸。Primitive Ventures 投资合伙人 Yetta 亲历三个周期，深谙风投圈的生存法则：投资人必须戒掉“母爱泛滥”，把方向盘和决定权彻底交还给创始人 。她直面当下的 AI 吸走流动性的残酷现实，依然坚定押注 PayFi 和 CeDeFi，并笃定 AI 与稳定币的结合才刚刚开始。</span></p><span></span><p><span>本期，OKX Mercy 对话 Yetta，深度复盘风投圈的“不当妈”铁律，并寻找 AI 阴影下 Crypto 的结构性机会——“只要还有人在 AI 里赚钱，流动性就一定会轮动回来” 。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/ltpnCVus_W133UnV-_c4mKt1VlpN.m4a" length="45998540" type="audio/mp4"/>
+    <itunes:duration>00:47:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>胜率不到10%，他凭什么还能赢得漂亮</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69bce1d22d318777c9d919bc</link>
+    <guid isPermaLink="false">69bce1d22d318777c9d919bc</guid>
+    <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>你有没有想过，一个胜率不到10%的人，是怎么赢得漂亮的？他说，交易不是热血搏杀，更多时候是忍受低胜率的枯燥，和对人性的管理。怕亏、怕错、怕踏空——这些情绪，才是最大的敌人。他存了几十 T 的链上历史数据，正在持续喂给 AI，训练它学会识别市场节奏，未来用来辅助甚至替代他的二级交易判断。</span></p><span></span><p><span>本期，OKX Mia 对话棍哥，聊链上、聊 AI、聊那个胜率10%也能赢得漂亮的故事。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lgf2kOott-3Fk4j_uFselldb7peV.m4a" length="63041805" type="audio/mp4"/>
+    <itunes:duration>01:05:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>3.12 一夜亏光千万，他靠网友的车仔面续命</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ba4bf7f8b8079bfaf4b06f</link>
+    <guid isPermaLink="false">69ba4bf7f8b8079bfaf4b06f</guid>
+    <pubDate>Wed, 18 Mar 2026 07:01:52 +0000</pubDate>
+    <description><![CDATA[<p><span>“只要干不死我，我都愿意去试试。” 这是币毒现在的信条。但在成为那个“什么都敢试”的人之前，他经历过一次彻底的破碎。</span></p><span></span><p><span>本期，OKX 首次与老朋友币毒深度对话：剥离 KOL 标签，还原一个西北少年从暴富 A8 到一夜归零的真实故事。3.12 爆仓夜，当他因愧疚推开女友，现实无人能懂自己时，是网友的红包和车仔面把他拉了回来。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/ljFnPGazH7gbLrMyTLUhUjdeEJiz.m4a" length="41005404" type="audio/mp4"/>
+    <itunes:duration>00:42:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>下个十年！看 00 后 Web3 建设者带领干人破局</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69a8f0224ed07e226442c900</link>
+    <guid isPermaLink="false">69a8f0224ed07e226442c900</guid>
+    <pubDate>Fri, 06 Mar 2026 06:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>统领两千人区块链社团的 00 后会长，也是活跃在新周期的年轻创业者 。但在这些光环背后，0xU JianAn 也有过一段交学费的岁月——见证过炒鞋市场的疯狂与回归，买数藏遭遇过崩盘归零 ，甚至玩合约单日爆仓到仅剩 3 美元 。</span></p><span></span><p><span>本期，OKX Shea 首次与 0xU JianAn 深度对话：聊聊这位 00 后区块链协会会长从被割韭菜到拥抱建设的蜕变之路 。Fake it until you make it，这是一个关于青年建设者担当的故事，也祝所有在这个行业里坚守的人都能“年轻且自由” 。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/loYXVBsDuhpOexgu6s4a6y_SNqTH.m4a" length="53200254" type="audio/mp4"/>
+    <itunes:duration>00:54:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>不再靠性感“上位”，币圈恶女翻身实录</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69a0fec3de29766da9b38585</link>
+    <guid isPermaLink="false">69a0fec3de29766da9b38585</guid>
+    <pubDate>Fri, 27 Feb 2026 02:28:01 +0000</pubDate>
+    <description><![CDATA[<p><span>大家眼里的 JY：身材火辣的 KOL；真实的 JY：记者出身、连续创业、每晚逼自己进化的“狠人”。</span></p><span></span><p><span>本期，OKX Mercy 首次与好姐妹 JY 深度对话：聊了聊从家道中落被迫独立的“千金”，到甚至为了搞钱自制手机壳、做过带货主播 ，再到如今在这个充满偏见的行业里，决定“用脑子定义性感” 。这不仅是一位 KOL 的成长史，更是一位“恶女”的野心“上位”实录。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lv7-GbV8m0DD9s66iocYLr3MdYO8.m4a" length="50363004" type="audio/mp4"/>
+    <itunes:duration>00:51:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fke2uu0QYaM-t39Fad0zMW7Tbhao.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>那个在学校打架的“坏女孩”，赚了两个亿（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/697b18eb073030367a534191</link>
+    <guid isPermaLink="false">697b18eb073030367a534191</guid>
+    <pubDate>Thu, 29 Jan 2026 08:26:11 +0000</pubDate>
+    <description><![CDATA[<p><span>她是实盘盈利 $40M+ 的00 后交易员黄瓜猫，她说：“2026 年充满了战略性机会。与其盲目折腾，不如像猎人一样耐心潜伏。“。对于她的2026如何规划，她认为要保住Alpha的秘诀，拼的是谁能“坐得住”、谁能追到Q1 的关键信号、谁能把子弹留到 Q4、谁能开启有准备的调整期。</span></p><span></span><p><span>这是 OKX Mia 与黄瓜猫深度对话的第二期：“2026 年：聪明钱都在玩‘等待’的游戏 ，只要你还在牌桌上，机会就永远属于你。”。希望各位能从中收获启发，我们相信，真正有信仰的人，会拿到更便宜的筹码。</span></p><span></span><p><span>节目相关讨论与建议，欢迎加入听友群～</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ft0RDM2I5-yuFvjh4h3-8EbYU1Dz.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/683de1241ebb8071ccb4bf60/lr4xjV418W_K7C1wzOFF1s_GvfXM.m4a" length="22836933" type="audio/mp4"/>
+    <itunes:duration>00:23:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoSdYlEKa61X9rHuWiqHAYEwfneq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

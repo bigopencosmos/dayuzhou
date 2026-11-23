@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>闲话物理</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64bfeaa23158e716dadca3de</link>
+  <description><![CDATA[物理是迷人的，物理是好玩的，物理是伟大的。
+每个科普作者眼中的物理世界都略有不同，我眼中的世界是这样的。
+
+科普与闲聊，听我来聊一聊多姿多彩的物理世界～
+
+一些知识和一点故事，
+一些科学文化和一点吐槽八卦，
+一些书本之外的想法和一点脑边萦绕的迷思。
+
+主播介绍：就我一个人！
+一个物理系毕业的学生，一个爱好收集故事与八卦的科研工作者，一个传统的科普主播。
+
+别光听啊，留两句评论！你不说我怎么知道你想听什么]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:51:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64bfeaa23158e716dadca3de.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Hydrogen_H</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png</url>
+    <title>闲话物理</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64bfeaa23158e716dadca3de</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>24.世界是左右对称的吗？——宇称不守恒定律的光辉故事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6774800e1e823e72d3525fa6</link>
+    <guid isPermaLink="false">6774800e1e823e72d3525fa6</guid>
+    <pubDate>Wed, 01 Jan 2025 00:13:18 +0000</pubDate>
+    <description><![CDATA[<p><span>谨以此期纪念我的偶像李政道先生（1926-2024）</span></p><p><span>物理规律在镜面反射和空间反演下保持不变吗？物理学家们一度认为这是不言自明的，直到三位华人物理学家——李政道、杨振宁、吴健雄，率先揭示了弱相互作用中宇称不守恒，打破了基本物理定律的左右对称性，震惊了物理学界。</span></p><p><span>宇称不守恒定律意味着，世界和它的镜像并不是完全对称的，物理规律中存在着绝对的左和右。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqH9d8Bu1fh3sf-IRPj_K1gomhP9.m4a" length="96178480" type="audio/mp4"/>
+    <itunes:duration>00:56:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>24</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>23.杂谈：诺贝尔奖“AI元年”&amp;一位物理学家的迷茫</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/670b0c3f0d2f24f289a655d1</link>
+    <guid isPermaLink="false">670b0c3f0d2f24f289a655d1</guid>
+    <pubDate>Sat, 12 Oct 2024 23:54:39 +0000</pubDate>
+    <description><![CDATA[<p><span>本期不是科普，是一位物理学从业者的碎碎念闲聊。</span></p><p><span>2024年诺贝尔物理学奖和化学奖连续颁给AI相关的研究，为何引人争议和思考？</span></p><p><span>人工神经网络属于物理学的研究对象吗？</span></p><p><span>聊聊作为一名物理学学生和从业者，我经历的想法变化和迷惘——如今的物理学研究与从前有什么不同、与我的初心有什么不同</span></p><p><span>人工智能能否接过人类的接力棒？未来的物理学何去何从？未来的我们何去何从？</span></p><p><span>希尔伯特说“我们必须知道，我们必将知道”。在这个AI驱动的时代，这个问题愈显珍贵。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lghZaB3URFOfr0BS8K4HZBKQOTXY.m4a" length="96238560" type="audio/mp4"/>
+    <itunes:duration>00:56:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>23</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>22.神秘的叠加态与薛定谔的猫</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6700f1a66c7f817786e5ee82</link>
+    <guid isPermaLink="false">6700f1a66c7f817786e5ee82</guid>
+    <pubDate>Sat, 05 Oct 2024 07:58:30 +0000</pubDate>
+    <description><![CDATA[<p><span>物理学“四大神兽”之首，最出圈的网红词之一：薛定谔的猫，究竟是什么意思？</span></p><p><span>神秘的量子叠加态，具体有哪些性质？</span></p><p><span>量子状态和经典状态之间的联系是什么？</span></p><p><span>为什么说波函数是一种叠加态？</span></p><p><span>为什么量子世界必须要有叠加态呢？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llqklp--vHKPbpgA6Aqa8ftQqBFB.m4a" length="94729462" type="audio/mp4"/>
+    <itunes:duration>00:55:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>22</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>21.从波函数到量子态——量子世界的初邂逅</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66da918cee04007d888d56aa</link>
+    <guid isPermaLink="false">66da918cee04007d888d56aa</guid>
+    <pubDate>Fri, 06 Sep 2024 05:22:20 +0000</pubDate>
+    <description><![CDATA[<p><span>你听说过波函数或者量子态这两个词吗？它们指的是什么？</span></p><p><span>作为量子力学图像中的基石，本期我们来介绍波函数这一概念的诞生：</span></p><p><span>看似简单的旧量子论，为什么说玻尔是伟大的？</span></p><p><span>经典的原子模型，为什么存在问题？</span></p><p><span>德布罗意如何想到以波的视角描述电子的运动？</span></p><p><span>薛定谔方程的诞生，来源于一次愉快的度假？</span></p><p><span>欢迎持续关注量子力学系列——现代物理最宏大的基石</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lraU7HXhIU2HvoXkP4jpirFedjh8.m4a" length="65485917" type="audio/mp4"/>
+    <itunes:duration>00:38:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>21</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>20.史上最强争论！光的本性之谜</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a986fd7349f7a557b0118a</link>
+    <guid isPermaLink="false">66a986fd7349f7a557b0118a</guid>
+    <pubDate>Wed, 31 Jul 2024 00:36:13 +0000</pubDate>
+    <description><![CDATA[<p><span>对光的研究几乎伴随了整个科学发展的历程。作为量子力学系列的第一期节目，本期我们来聊一聊科学史上最激动人心的故事之一：光的本性之谜。</span></p><p><span>光是粒子还是波？都是！这个回答可能是牛顿没有想到的。那么，一代又一代的物理学家是怎么在盲人摸象中最终找到这个答案的呢？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmaKfRwcU_cwcVPUrZGlYbSD4IOH.m4a" length="93571159" type="audio/mp4"/>
+    <itunes:duration>00:54:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>20</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>19.大揭秘！量子力学的九个常见误解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66935c6e8fcadceb9028c39a</link>
+    <guid isPermaLink="false">66935c6e8fcadceb9028c39a</guid>
+    <pubDate>Sun, 14 Jul 2024 05:04:46 +0000</pubDate>
+    <description><![CDATA[<p><span>1:量子力学是一门成熟的学科</span></p><p><span>2.量子力学不是理论物理的下属学科</span></p><p><span>3.量子力学不等于粒子物理</span></p><p><span>4.“意识”不是量子力学的必要组成部分</span></p><p><span>5.量子力学不允许超光速</span></p><p><span>6.量子力学中时空不是离散的</span></p><p><span>7.量子力学不只对微观物体适用</span></p><p><span>8.量子力学与经典力学的关系</span></p><p><span>9.量子力学与量子科技的不同</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrcalswWX5w_8bg-gUjJlCRCmnci.m4a" length="81031695" type="audio/mp4"/>
+    <itunes:duration>00:47:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>18.人物志#1:天不生牛顿，万古如长夜</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668b858dae8e21859a4b3219</link>
+    <guid isPermaLink="false">668b858dae8e21859a4b3219</guid>
+    <pubDate>Mon, 08 Jul 2024 06:22:05 +0000</pubDate>
+    <description><![CDATA[<p><span>牛顿在数学、力学、光学三个方面的伟大贡献，你都知道吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luFN-pLaZeXOPWyn0vStk0Kpq3g6.m4a" length="71755830" type="audio/mp4"/>
+    <itunes:duration>00:41:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>17.星辰大海-相对论对我们的文明意味着什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6649a730251bd96e6c4a219b</link>
+    <guid isPermaLink="false">6649a730251bd96e6c4a219b</guid>
+    <pubDate>Sun, 19 May 2024 07:16:00 +0000</pubDate>
+    <description><![CDATA[<p><span>相对论系列的最后一期</span></p><p><span>你知道每天都用的GPS定位中用到了相对论效应吗？</span></p><p><span>星际通信的时间延迟能产生怎样的影响？</span></p><p><span>宇宙航行的极限是哪里？</span></p><p><span>文明的发展和扩张，会收到相对论的哪些限制？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll8d2AO7HoQdq60OAVbT--xWt-SE.m4a" length="97317800" type="audio/mp4"/>
+    <itunes:duration>00:56:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>16.聊聊相对论(四): 伟大的广义相对论</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65a3090bed29175cc35f41b4</link>
+    <guid isPermaLink="false">65a3090bed29175cc35f41b4</guid>
+    <pubDate>Sat, 13 Jan 2024 22:04:59 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lovwKm2oqSuDyg80uC7xEOELLCqB.m4a" length="99139457" type="audio/mp4"/>
+    <itunes:duration>00:58:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>15.聊聊相对论(三): 什么是弯曲时空？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65940c753583e53bc1608b61</link>
+    <guid isPermaLink="false">65940c753583e53bc1608b61</guid>
+    <pubDate>Tue, 02 Jan 2024 13:15:33 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhuliE_cctz5puEUvged9cW1yHI4.m4a" length="89322355" type="audio/mp4"/>
+    <itunes:duration>00:52:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>14.聊聊相对论(二):四维时空是什么鬼？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/658c3064b8fd2bc0601ee385</link>
+    <guid isPermaLink="false">658c3064b8fd2bc0601ee385</guid>
+    <pubDate>Wed, 27 Dec 2023 14:10:44 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljBTwwFbhtUulQcgW8IaHgQBSfJZ.m4a" length="89839005" type="audio/mp4"/>
+    <itunes:duration>00:52:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>14</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>13.聊点正经的: 相对论到底是啥？(一)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65890269cab6086ec143fbae</link>
+    <guid isPermaLink="false">65890269cab6086ec143fbae</guid>
+    <pubDate>Mon, 25 Dec 2023 04:17:45 +0000</pubDate>
+    <description><![CDATA[<p><span>聊一点历史；</span></p><p><span>狭义相对论的基本原理；</span></p><p><span>狭义相对论的主要结论：</span></p><p><span>钟慢尺缩、能量增加、其他物理量的变换</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrgaO88_8lWjJg_3bO667WhQq1V9.m4a" length="98803501" type="audio/mp4"/>
+    <itunes:duration>00:57:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>13</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>12.闲扯: 火鸡的哲学与段子</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/656308c28fb8b597a2df480b</link>
+    <guid isPermaLink="false">656308c28fb8b597a2df480b</guid>
+    <pubDate>Sun, 26 Nov 2023 08:58:42 +0000</pubDate>
+    <description><![CDATA[<p><span>《三体》中提到的射手和农场主假说在科学中有没有类似的例子？</span></p><p><span>物理学家为何喜欢研究「真空中的球形鸡」？</span></p><p><span>如何理解这个世界，你的哲学态度是什么？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnylSDCJlZC4rIgci65Lj6p9onvl.m4a" length="101455638" type="audio/mp4"/>
+    <itunes:duration>00:59:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>12</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11.聊聊今年的诺贝尔奖: 量子点、纳米器件、人工原子与超材料</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/652c1a4b50cf691d24929f2a</link>
+    <guid isPermaLink="false">652c1a4b50cf691d24929f2a</guid>
+    <pubDate>Sun, 15 Oct 2023 16:58:50 +0000</pubDate>
+    <description><![CDATA[<p><span>什么是量子点？量子点有何特殊之处？</span></p><p><span>早期的纳米技术可以追溯到一千多年前</span></p><p><span>为什么量子点叫做人工原子？</span></p><p><span>人工纳米体系还有哪些？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liXUdC-Piar03t9tRffObW-wvs5T.m4a" length="80332894" type="audio/mp4"/>
+    <itunes:duration>00:46:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>闲话物理 第10期: 色彩中的科学原理</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/651a5a8a0432a31578d27df4</link>
+    <guid isPermaLink="false">651a5a8a0432a31578d27df4</guid>
+    <pubDate>Mon, 02 Oct 2023 05:52:10 +0000</pubDate>
+    <description><![CDATA[<p><span>各种漂亮的色彩背后的科学原理有哪些？本期节目中将它们一网打尽！</span></p><p><span>如何定义物体的颜色？如何证明你看到的颜色和别人是相同的？</span></p><p><span>人的色觉系统是怎样的？为什么不存在粉色的单色光？</span></p><p><span>红绿蓝三种颜色是如何混合的？为什么颜料的三原色并不是红绿蓝？</span></p><p><span>把物体烧热就能发出红色的光吗？照明光的色温是什么？</span></p><p><span>色素与各种颜色的矿物是如何产生颜色的？</span></p><p><span>什么是结构色？蝴蝶翅膀上的漂亮颜色来源是什么？</span></p><p><span>“两种半”特殊的蓝色是怎么产生的？天空为什么是蓝色的？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lh3DrhTf_Lt1Z0Gx0iJVrbO8bv1Q.m4a" length="101740031" type="audio/mp4"/>
+    <itunes:duration>00:59:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrVbIeip0X8IL2jAZK_tt-iqrIwH.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

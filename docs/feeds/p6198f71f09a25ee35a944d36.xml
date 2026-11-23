@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>李淼谈怪谈</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6198f71f09a25ee35a944d36</link>
+  <description><![CDATA[日谈人气主播、百万粉丝的罪案研究专家李淼
+抽丝剥茧解密15个广为人知的都市传说
+那些曾迷惑你几十年的谜题都将在此一一得到解答
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:38:05 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6198f71f09a25ee35a944d36.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>小宇宙节目管理员</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqbU5rUUNCQm5LSXQtcUNjVVEtSUpTWEh0b0wuanBn.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqbU5rUUNCQm5LSXQtcUNjVVEtSUpTWEh0b0wuanBn.jpg</url>
+    <title>李淼谈怪谈</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6198f71f09a25ee35a944d36</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

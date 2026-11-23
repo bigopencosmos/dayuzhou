@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>韭菜核子北漂民工记</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66b83bbe91d5d28009aafc18</link>
+  <description><![CDATA[本节目由韭菜核子、北漂民工一起运营
+两位主理人为资深互联网那个冲浪专业户，正规金融机构从业经历，对券商、基金等前台投资研究有长达多年的从业经历和独特理解。
+
+本栏目也是，有关资产配置、投机研究的相声，金融行业虽然困难，但知识需求、心理疗愈需求成为刚需，和金融从业者心态自我管理的频道。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:46:48 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66b83bbe91d5d28009aafc18.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>韭菜核子Nuclear</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fh-OMTn9GOcERhTvaInSDyiks5iS.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fh-OMTn9GOcERhTvaInSDyiks5iS.jpg</url>
+    <title>韭菜核子北漂民工记</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66b83bbe91d5d28009aafc18</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>DeepSeek投资范式转换：别买错了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a3ac6ad74435e4a34f7b6a</link>
+    <guid isPermaLink="false">67a3ac6ad74435e4a34f7b6a</guid>
+    <pubDate>Wed, 05 Feb 2025 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期对话：</span></p><span></span><p><span>频道主理人：韭菜核子、北漂民工</span></p><span></span><p><span>嘉宾：</span></p><span></span><p><span>1.山羊：跨国科技公司的应用科学家，从事AI领域的研究和工作有十余年</span></p><span></span><p><span>2.橙橙：投资机构的投资经理，跟踪聚焦科技板块</span></p><span></span><p><span>本期分别从投资视角，以及技术视角，分别对DeepSeek这一轮热潮的进行复盘，并探讨对上下游各类产业趋势的影响，以及技术上可能的趋势，以及AI使用者如何更好的运用相关工具，改善自身工作流。</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> 开场白，解读春节前后由DeepSeek引发的AI热潮&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="129">02:09</a> 事件复盘：2023年年中，专注量化的团队突然宣布参与AI大模型竞赛→2024年年中诞生扎实的产品原型V2→2024元旦热度最高的V3→一部分人认为是不错的产品，但始料未及，仅20天后热潮出口转内销对中美股市和币圈产生巨大影响。</span></p><span></span><p><span><a class="timestamp" data-timestamp="447">07:27</a> 技术领域被广泛关注到也在1月下旬，性能接近于OpenAIo1版本，成本只有1/30左右令人震惊，并不同AI模型的区别和应用场景，包括通用大模型和垂类模型，以及多模态大模型的特点</span></p><span></span><p><span><a class="timestamp" data-timestamp="705">11:45</a> 各类大模型和DeepSeek的比较：在C端运用的过程中，没有因为成本平衡削弱体验</span></p><span></span><p><span><a class="timestamp" data-timestamp="992">16:32</a> AI基础模型公司与上下游投资前景的转变：期待已久的AI应用仍未创造出全新的场景或用途，包括程序写作领域，中国的场景与美国场景完全不同，其他大模型并未形成一个杀手级应用，买量依赖、用户留存都不尽如人意，但Deepseek打破，产品足够好，是无需买量的。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1204">20:04</a> 技术突破点和创新点简析：成本、开源性、底层硬件交互优化，技术报告详细介绍了数据准备、训练过程及消融实验，更重要的是，通过强化学习达到与人类专家相当的推理水平，无需人为干预。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1450">24:10</a> 强化学习：从2013年的打砖块、AlphaGo下围棋，到GPT3.5后展示的非常领先的推理能力，但GPT并不开源，DeepSeek的强化学习方法兼顾了开源、优雅、高效</span></p><span></span><p><span><a class="timestamp" data-timestamp="1705">28:25</a> DeepSeek模型对开源社区的影响：告诉大家一个顶级的推理模型如何实现，技术文档看出，反直觉的比喻是，可以通过提高模型的数学能力推理能力，进一步提高脱口秀能力和写作能力。开源社区和团队会紧跟着验证过的方法紧锣密鼓复现，</span></p><span></span><p><span><a class="timestamp" data-timestamp="2006">33:26</a> DeepSeek可能是具备比llama更重要的地位，后者模型参数过多，小公司难以参与，而deepseek授人以渔，即便是你是一个小尺寸模型，上了强化学习，推理能力都会迅速提高。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2194">36:34</a>开源的战争： 一种下位对行业龙头残忍的进攻手段，开源社区提供了一种持续紧张的压力感，闭源如果没有开源做的好，那就没必要存在了。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2428">40:28</a> DeepSeek为何没有诞生在互联网大厂而是在量化私募？人才储备，语料没有优势吗？可能这些并不是优势，语料+用户+平台，这种滚雪球效应，所谓的技术飞轮效应，在大模型领域可能不重要。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2567">42:47</a> “伟大是不能够被计划的”：无论是GPT诞生前、还是在DeepSeek诞生前，大家都没有预料到这样的创新方向，在不为人知的创新领域，无论是智力资源还是知识资源，都没有被大厂垄断，反而创新的人才们往往来源于不算业务核心部门的边缘部门，人生经历非常曲折。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2713">45:13</a> 语料的规模不如语料的质量，你想让大模型变得聪明，不要让他看一些特别烂的语料，应该去多看代码库，比如github，代码能力提高模型的推理能力，还会提高文学的创造力。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2806">46:46</a> 为何诞生在二级市场量化公司？事后分析量化公司的优势：万卡集群门票，量化团队的业务需求就有比较懂硬件、通信的团队，比如FPGA，互联网公司的算法人员数量和人才密度较高，但自己不做硬件，量化公司反而有一定优势。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2946">49:06</a>大模型语料污染问题何解：为何中国最好的基金经理和最差的基金经理，在大模型眼里可能是一波基金经理？可能来源于品牌部门的语料污染。最好是先让给模型罗列一个推理任务，然后做一些检索和分析，提高工作效果。 一些防伪、水印技术可以限制，但是很难完全避免。</span></p><span></span><p><span><a class="timestamp" data-timestamp="3221">53:41</a> 除了算力以外，人才来源和组织方式有何异同？DeepSeek招聘对优秀的人才、优秀的应届生有很强的吸引力，调用算力权限大、可以不管产出、允许失败，相比中国的互联网大厂，人才组织是高周转、双月OKR、两个周期看不到效果团队解散，在资源投入卷翻天，但创意性项目建树乏味。</span></p><span></span><p><span><a class="timestamp" data-timestamp="3526">58:46</a>科技竞争回到古典的天才决定论，优秀的年轻应届生、天才员工，天然不适应资源投入+行军打仗模式的公司组织模式。</span></p><span></span><p><span><a class="timestamp" data-timestamp="3686">1:01:26</a> AI相关产业链投资逻辑变化：硬件投入仍然十分重要，但紧迫性在未来24个月是否更高可能要打问号；对GPU深度优化的方向提到日程，这对相关公司估值短期影响较大；openai和anthropic由于技术的领先型和稀缺性，给了较高的估值，但如果后续看到欧洲的竞争者、印度的竞争者，这种稀缺性是否能持续？</span></p><span></span><p><span><a class="timestamp" data-timestamp="4113">1:08:33</a> AI技术的未来展望：自动化流程提高编程效率，以及强大推理模型在减少错误和增强agent决策能力方面的作用。展望未来，AI可能在工业生产和服务业中扮演重要角色，实现具身智能控制。从投资角度看，AI领域的投资逻辑可能从硬件竞争转向软件和应用层面，不要参与错。</span></p><span></span><p><span>以上内容仅为个人观点，不作为任何投资建议。</span></p><span></span><p><span>&nbsp;</span></p><span></span><p><span>&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66b83bbe91d5d28009aafc18/ljM0NLpSS0o0qx2TTGhlUrphYT4J.m4a" length="143714395" type="audio/mp4"/>
+    <itunes:duration>01:14:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiKHkgmyfYGOQBymeS-HYf2yZ568.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>请你留一辆电瓶车：2015和2019年“牛市”记忆</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6708eb9e81cdab3a934ad197</link>
+    <guid isPermaLink="false">6708eb9e81cdab3a934ad197</guid>
+    <pubDate>Fri, 11 Oct 2024 09:10:53 +0000</pubDate>
+    <description><![CDATA[<p><span>国庆前后，A股大涨大跌，本期节目是国庆节录制，旨在介绍A股运行的一般规律，不存在对未来的预测，请放心食用。以下你可以听到以下内容和段子：</span></p><span></span><p><span>1）2015年的牛市如何开始、如何结束，有哪些匪夷所思的观念和正常市场截然不同，如何牛市中亏钱比熊市更多；</span></p><span></span><p><span>2）2019年润物细无声的机构牛市塑造的基金风格、投资理念，主动权益经理的景气跟踪如何短暂的有效，又在哪些时候失去了魔力；</span></p><span></span><p><span>3）只要你涨，就自然有人为你辩经，哪些耳熟能详的主题概念如何深入人心，又如何烟消云散；</span></p><span></span><p><span>4）区分投资与投机的区别，投资是不需要特别专业，投机是一个技术工种，小赌怡情，大赌伤神</span></p><span></span><p><span>5）如果你觉得是牛市就大胆参与，但是你要股票基金在赚钱的时候可能会亏60%，不要贷款炒股，至少要留一辆电瓶车的资金</span></p><span></span><p><span><a class="timestamp" data-timestamp="47">00:47</a> 复盘过去，头头是道；预测未来，遮遮掩掩，所以专注复盘2015年与2019年两次牛市，“巴菲特也不过如此”</span></p><span></span><p><span><a class="timestamp" data-timestamp="138">02:18</a> 2015年的“涨停板敢死队”小群说起</span></p><span></span><p><span><a class="timestamp" data-timestamp="210">03:30</a> 2015年牛市如何启动的？资本市场政策奠基，货币政策放松，在2014年酝酿了一整年，到后面房地产政策的放松</span></p><span></span><p><span><a class="timestamp" data-timestamp="498">08:18</a>：涨上去，自然有人给你辩经，上涨之后大家逐步从参与水牛到相信改革牛</span></p><span></span><p><span><a class="timestamp" data-timestamp="591">09:51</a>：牛市如何结束？配资的终结,最终2014年-2015年，企业盈利也没有像样的匹配的变化</span></p><span></span><p><span><a class="timestamp" data-timestamp="762">12:42</a>：炒股看什么基本面？牛市之中和正常市场时候产生完全相反的理念，比如PBROE是个短暂产物</span></p><span></span><p><span><a class="timestamp" data-timestamp="936">15:36</a> 小散参与牛市，券商、银行，涨停后就吓得卖出</span></p><span></span><p><span><a class="timestamp" data-timestamp="1072">17:52</a> 牛市尾声的暴涨，散户已经无法赚钱，快速轮动，技术指标跳空等失效</span></p><span></span><p><span><a class="timestamp" data-timestamp="1249">20:49</a> 一轮牛熊后的经验和教训，跌太多了就涨、经济周期有他自己的规律</span></p><span></span><p><span><a class="timestamp" data-timestamp="1341">22:21</a> 市场大部分处在赔率很高，胜率很低的状态，错过百分之五的交易日就基本没有盈利，投资中等待的时间就像擦屁股纸</span></p><span></span><p><span><a class="timestamp" data-timestamp="1716">28:36</a> 2019年的温和牛市：润物细无声的机构主导的景气投资的蜜月期</span></p><span></span><p><span><a class="timestamp" data-timestamp="1889">31:29</a> 主动权益投资经理的高光时期，也是受益于市场风格</span></p><span></span><p><span><a class="timestamp" data-timestamp="2006">33:26</a> 同时也是传统互联网那个的高光时期，每个人都在享受beta</span></p><span></span><p><span><a class="timestamp" data-timestamp="2090">34:50</a> 彼得林奇和巴菲特投资的逻辑是否适合普通人？两者有何区别</span></p><span></span><p><span><a class="timestamp" data-timestamp="2160">36:00</a> 投资不需要专业能力，但是投机和打牌需要专业能力。A股和美股是两种不一样的生活方式，并不是点位和夏普比率的区别</span></p><span></span><p><span><a class="timestamp" data-timestamp="2413">40:13</a> 资金驱动市场，政策也可以驱动市场，但自己的认知也非常重要，靠谱的经理还是值得信赖的</span></p><span></span><p><span><a class="timestamp" data-timestamp="2514">41:54</a> 买股票基金会赚钱，但是也可能会亏同样的前，你是否能接受相应的亏损？熊市不是亏钱的原因，牛市才是。</span></p><span></span><p><span><a class="timestamp" data-timestamp="2643">44:03</a> 总结：变戏法是变戏法，练武功是练武功，本次相声不对未来进行任何判断</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln_8gckd2wOM1AemW6UTXnIvKlew.m4a" length="65501824" type="audio/mp4"/>
+    <itunes:duration>00:45:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvjG0glxwhnX3CWGaXJint2luafe.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>应对：泰坦尼克号上的金融行业</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6702ad3b81cdab3a931b5d65</link>
+    <guid isPermaLink="false">6702ad3b81cdab3a931b5d65</guid>
+    <pubDate>Sun, 06 Oct 2024 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期对话：韭菜核子，北漂民工</span></p><span></span><p><span>有人形容在金融行业跳槽等于在泰坦尼克号上换舱，就算从四等舱到二等舱，但实际上，各行各业都存在这个可能。</span></p><span></span><p><span>一方面，行业轮动周期很短，不仅是金融、互联网行业；另外一方面，泰坦尼克号上的不同舱位的存活率，其实也大不一样。进一步，热门行业活不过三年，基金风格也很难活过三年，如何从微观和宏观的视角理解这些问题？既然结局一样，是不是躺平就可？</span></p><span></span><p><span><a class="timestamp" data-timestamp="65">01:05</a> 金融行业跳槽：在泰坦尼克号上换仓，从四等舱到二等舱。</span></p><span></span><p><span><a class="timestamp" data-timestamp="96">01:36</a> 互联网周期尾声后，距离财务自由只差一步，一次跳槽鸡飞蛋打。</span></p><span></span><p><span><a class="timestamp" data-timestamp="305">05:05</a> 分散风险：鸡蛋都在一个篮子里面，篮子都在一辆车上</span></p><span></span><p><span><a class="timestamp" data-timestamp="366">06:06</a> 怎么你到哪，哪里大环境就不好？你是破坏大环境的人嘛？</span></p><span></span><p><span><a class="timestamp" data-timestamp="425">7:05</a> 互联网上行周期的跳槽：加油干，干好了升职加薪，干不好继续跳槽加薪，加油把公司干倒闭！</span></p><span></span><p><span><a class="timestamp" data-timestamp="691">11:31</a> 泡沫高点入行的人们有什么建议？“要不是行业有泡沫，怎么把你们放进来了”</span></p><span></span><p><span><a class="timestamp" data-timestamp="796">13:16</a> 热门行业火不过三年，大部分周期较短，择时困难</span></p><span></span><p><span><a class="timestamp" data-timestamp="1008">16:48</a> 热门基金经理风格的持续周期似乎和热门工作、热门行业的持续周期类似，偏短？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1223">20:23</a> 自下而上选股风格放弃宏观吗？聊宏观分析就像聊中医，底线超低，上线超高。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1599">26:39</a> 各行各业的35岁以后怎么办？泰坦尼克号的存活率也是不一样的，轮动既然很快，选择高收益不如选择自己的生活方式，做一个“职业仙人”</span></p><span></span><p><span>如果哪一个话题浅尝辄止，听众更像进一步听细节，可以留言下一期安排。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljH5K3DuBVd8oTcPI4ciEWD_xTP6.m4a" length="48345192" type="audio/mp4"/>
+    <itunes:duration>00:33:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh-OMTn9GOcERhTvaInSDyiks5iS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>当90后开始避险：炒股炒房不如炒债吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66efa6226920a36bfcc1911a</link>
+    <guid isPermaLink="false">66efa6226920a36bfcc1911a</guid>
+    <pubDate>Sun, 22 Sep 2024 05:07:46 +0000</pubDate>
+    <description><![CDATA[<p><span>投资，似乎是一个已经从年轻人视野中消散的词汇。中国金融市场经历过不可思议地波涛，何以如今最追逐高风险高收益的人群已经不再狂热甚至鲜有关注？答案似乎显而易见，市场如此。但在这个背景下就真的没有机会吗？回望过去十年，投资者的偏好到底集中在哪里？曾经的投资标的和投资策略是否还值得借鉴？当前市场行情下，到底该不该买房子？本期节目，两位主播用从业者的视角带我们去探索答案。</span></p><span></span><p><span><a class="timestamp" data-timestamp="79">01:19</a> 近十年投资思路的变迁：权益投资走下坡路，债权更受关注。</span></p><span></span><p><span><a class="timestamp" data-timestamp="178">02:58</a> 中国债券市场被称为“小纳斯达克”？</span></p><span></span><p><span><a class="timestamp" data-timestamp="374">06:14</a> 国内债券市场对从业人员更友好？</span></p><span></span><p><span><a class="timestamp" data-timestamp="541">09:01</a> 现在的市场行情下，到底该不该买房子？</span></p><span></span><p><span><a class="timestamp" data-timestamp="955">15:55</a> 中国房地产市场正在向日本市场现状发展？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1043">17:23</a> 主动权益基金超额收益越来越难，到底还值不值得投资？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1437">23:57</a> 投资者能力和视野不断增加，但市场的机会难寻。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1594">26:34</a> 年轻人不买股票不买房了，真的躺平了？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1989">33:09</a> &nbsp;&nbsp;分散投资VS把鸡蛋放在一个篮子里，该怎么选？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls05EP0o9-tS21k1I2W1o6M6XqXE.m4a" length="62498087" type="audio/mp4"/>
+    <itunes:duration>00:43:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqeEG9BR5m-tNVuiH3HV1gE5p_x3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

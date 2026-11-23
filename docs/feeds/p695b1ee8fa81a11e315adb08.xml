@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>硅基星期一 Silicon Monday</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/695b1ee8fa81a11e315adb08</link>
+  <description><![CDATA[听众朋友们，大家好！我是Mike，地球Online自我认证玩家，一人公司实践者，AI运用传教者，欢迎收听我的播客栏目《硅基星期一》。在这里，我每周会挑选一些全球AI大咖的最新观点，行业要点新闻和最新AI场景应用案例并将他们蒸馏提纯后投喂给大家，让你们每周只用一顿饭的时间就能掌握AI行业最新的发展动态。不论你是AI从业者，还是身处其他垂直领域的领导者，创业者亦或是普通牛马。这档栏目都能给你提供有用的信息，让你对AI的发展趋势有更好判断，以便进行及时的思维策略调整。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:36:21 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p695b1ee8fa81a11e315adb08.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Mike Guo</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg</url>
+    <title>硅基星期一 Silicon Monday</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/695b1ee8fa81a11e315adb08</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>W47｜Anthropic上市了，AI基建的账谁来还？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0315d377e5b18a333124cb</link>
+    <guid isPermaLink="false">6b0315d377e5b18a333124cb</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Anthropic 上市了。可数据中心已经在建，GPU 已经买了，长期算力合同也签了。最后，谁来付这笔账？如果客户付的钱不够，谁又会先吃亏？</span></p><p><span>本期《硅基星期一》，我们从 Anthropic 的招股书出发，顺着一笔 Claude 服务费，看看钱是怎么从终端客户流到模型公司、算力运营商和芯片厂商的。为什么 CoreWeave 营收大涨，营业利润却还不够付利息？为什么 Nebius 能让客户先垫一部分钱？再把视线拉回国内，看看杰创智能的算力收入增长之后，能不能变成足以覆盖设备投入和利息的现金。</span></p><p><span>我最想讨论的是：即使 AI 用得越来越多，也可能有算力公司先撑不住。要判断这是个别公司的问题，还是会波及芯片、光通信和数据中心，我会盯三个信号：新签合同多久能回本、新借的钱有多贵、已经投产的 GPU 到底赚回了多少钱。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/llMcycsmP-faf9_nBp3vmau4RjW3.m4a" length="17100236" type="audio/mp4"/>
+    <itunes:duration>00:17:36</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W46｜黄仁勋，他还会回来吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afb0e7aa4a79edf137a437b</link>
+    <guid isPermaLink="false">6afb0e7aa4a79edf137a437b</guid>
+    <pubDate>Mon, 16 Nov 2026 14:19:28 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>几天前，</span></strong><span>黄仁勋突然辞去英伟达CEO职务，超过17万人联名呼吁他回归，马斯克也公开表达支持。但真正值得关注的，不只是他能否重返英伟达，而是他的离开，会如何改变整个AI产业链。</span></p><p><span>英伟达的竞争力，从来不只是芯片性能。黄仁勋多年来建立的供应链关系、产业号召力和协调能力，让全球供应商愿意为尚未上市的产品提前投入数百亿美元。</span></p><p><span>如今，这套合作机制面临重新考验。</span></p><p><span>本期《硅基星期一》，我们从SK海力士的HBM扩产谈起，分析黄仁勋离开后，英伟达为何可能面临更高的合作成本、更慢的扩产决策，以及亚洲供应链可能出现的利润重新分配。</span></p><p><span>我们也会讨论，竞争对手能否借此争夺AI算力市场的份额，以及马斯克的Terafab是否可能成为黄仁勋的下一站。</span></p><p><span>最后，结合最新的回归行动、美国政府的态度和董事会的继任安排，谈谈我对黄仁勋最终能否回归，以及可能以何种形式回归的判断。</span></p><p><strong><span>黄仁勋离开，英伟达失去的究竟是一个CEO，还是让整个产业链愿意提前为未来下注的能力？</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/ljL8_evaOUcRuf_ys2H7LPzJ0Tml.m4a" length="15362462" type="audio/mp4"/>
+    <itunes:duration>00:15:49</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W45｜民主党真的能延缓美国AI建设吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af1c0dbb4a4e20202f7399f</link>
+    <guid isPermaLink="false">6af1c0dbb4a4e20202f7399f</guid>
+    <pubDate>Mon, 09 Nov 2026 12:52:42 +0000</pubDate>
+    <description><![CDATA[<p><span>科技公司愿意投入巨资建设AI，为什么一座机房还是可能迟迟无法通电？</span></p><p><span>电网扩建谁付钱？冷却用水从哪里来？政府给了税收优惠，当地居民又能得到多少好处？美国中期选举之后，这些围绕数据中心的争议，正在进入正式的政治决策，也可能改变美国算力扩张的节奏。</span></p><p><span>民主党究竟有多大能力推动这些变化？如果一座原计划2027年上线的机房晚交付半年，谁最难承受？而美国建设放慢，对中国AI产业又意味着什么？</span></p><p><span>本期《硅基星期一》，我们从美国政府不同层级的权力边界讲起，沿着各州政策、算力交付和企业经营，讨论这场变化如何影响中美AI竞争。</span></p><p><strong><span>本期你会听到：</span></strong></p><ul><li><p><strong><span>赢下国会，能让数据中心停下来吗？</span></strong><span> 总统、国会、州政府和地方机构各自掌握什么权力，哪些决定会真正影响项目落地。</span></p></li><li><p><strong><span>换个州建，能把失去的时间补回来吗？</span></strong><span> 从得州、佐治亚到弗吉尼亚和俄亥俄，审批、供电合同和成本分摊，正在怎样改变建设门槛。</span></p></li><li><p><strong><span>同样延期半年，为什么不同公司的处境差别很大？</span></strong><span> 大型云平台、模型公司、GPU云服务商和设备供应商，分别承受什么压力，谁又可能巩固竞争优势。</span></p></li><li><p><strong><span>美国慢下来，中国为什么会同时遇到机会和压力？</span></strong><span> 中国模型企业可能获得争取客户的时间，面向海外供货的光通信企业却可能面对采购延后和新产品放量放缓。</span></p></li></ul><p><span>我们对2027年的判断是：美国仍会继续扩大算力建设，但一批新增项目可能更贵、更慢，优势也可能进一步向拥有现成机房、电力和现金流的大公司集中。</span></p><p><span>比起投资发布会上又宣布了多少金额，接下来更值得关注的是：</span><strong><span>那些已经宣布的巨额投资，有多少能真正按时通电？</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lioQO4OEyivi5KJ_v5WBaMbQBxHj.m4a" length="17262125" type="audio/mp4"/>
+    <itunes:duration>00:17:46</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W44｜AI泡沫与资本市场的冰与火之歌</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae892d597726cd4675ba9f9</link>
+    <guid isPermaLink="false">6ae892d597726cd4675ba9f9</guid>
+    <pubDate>Mon, 02 Nov 2026 13:44:53 +0000</pubDate>
+    <description><![CDATA[<h1><span>AI泡沫开始破裂了吗？</span></h1><h2><span>一边是万亿IPO，一边是全球科技股暴跌</span></h2><p><strong><span>企业正在为AI花更多的钱，为什么资本市场反而开始卖出AI资产？</span></strong></p><p><span>一边是Anthropic冲击万亿美元估值的IPO预期，一边是全球科技股的剧烈调整。企业客户的支出还在增加，模型公司的收入高速增长，但不断扩大的算力投入和长期付款承诺，也让投资者开始重新算账。</span></p><p><span>这场看似矛盾的局面，究竟意味着AI商业化出了问题，还是资本市场提前透支了太多未来？</span></p><p><span>本期《硅基星期一》，我们从Anthropic的企业客户和财务数据出发，沿着“一美元”的流向，从企业购买AI服务，追到模型公司的算力采购，再到云厂商的数据中心投资，看看AI创造的价值，究竟怎样才能变成真实的现金回报。</span></p><h3><span>本期你会听到</span></h3><ul><li><p><strong><span>谁在真金白银地为AI买单？</span></strong><span> 从Anthropic的高消费企业客户和净收入留存率，看AI如何从员工手里的工具，进入企业的日常工作流程。</span></p></li><li><p><strong><span>一美元投入，如何对应更大的经济价值？</span></strong><span> 拆解All-In播客里的价值链推算，分清产业链收入、客户获得的价值、公司利润与投资者回报之间的区别。</span></p></li><li><p><strong><span>数千亿美元的算力承诺，锁定了什么？</span></strong><span> 模型公司提前争取未来供给，也承担了多年的付款责任。当收入兑现慢于预期，压力会从哪里出现？</span></p></li><li><p><strong><span>谁在出钱，谁在收钱，谁又在承担风险？</span></strong><span> 当云厂商同时成为投资者、算力供应商、销售渠道和竞争对手，融资环境的变化会怎样沿产业链传递？</span></p></li><li><p><strong><span>科技公司一起下跌，背后是同一种问题吗？</span></strong><span> 从OpenAI的融资变化、谷歌的资本开支到英特尔的业绩压力，区分估值调整、盈利预期变化与经营困难。</span></p></li><li><p><strong><span>这些变化，对中国光通信企业意味着什么？</span></strong><span> 从云厂商宣布投入，到供应商拿到订单，再到交付、利润和回款，中间还有哪些环节需要验证？</span></p></li></ul><p><span>技术按月迭代，企业按季度采用，基础设施建设跨越多年，资本市场却可能在一天之内重新定价。当这四条时间线发生错位，技术仍在进步与投资者正在亏钱，完全可以同时发生。</span></p><p><strong><span>AI拥有怎样的未来，以及我们今天为这个未来付出了什么价格，是这一期想一起算清的两笔账。</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lhU887pQ4zPzJukb2VHgIJLv-sfz.m4a" length="16637092" type="audio/mp4"/>
+    <itunes:duration>00:17:07</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W43｜企业用上AI, 为何有人欢喜有人愁？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6adf503997726cd4675804a6</link>
+    <guid isPermaLink="false">6adf503997726cd4675804a6</guid>
+    <pubDate>Mon, 26 Oct 2026 13:09:14 +0000</pubDate>
+    <description><![CDATA[<p><span>公司用上AI，效率提高了，业务做大了，新人的机会却未必跟着增加。</span></p><p><span>过去，企业让新人从整理资料、准备初稿开始，一边干活，一边积累经验。当AI逐渐接手这些任务，招聘和培养新人的那笔账，也在发生变化。公司可能继续招人，却更希望来的人已经有经验，能够直接上手。</span></p><p><span>本期《硅基星期一》，我们从近期关于AI与就业的政策谈起，结合美国招聘市场数据、斯坦福的就业研究，以及宝洁的一项AI实验，一起聊聊：</span></p><ul><li><p><span>同样是用AI提高效率，为什么有的企业继续招人，有的却减少招聘？</span></p></li><li><p><span>AI能帮助我们提出更好的方案，为什么选择和判断仍然需要练习？</span></p></li><li><p><span>对正在求职、入行或转型的人来说，怎样把AI能力变成看得见的竞争力？</span></p></li><li><p><span>如果企业都想要有经验的人，下一批能够独当一面的人，又从哪里培养出来？</span></p></li></ul><p><span>当越来越多企业都能用上相近的AI工具，培养人的能力，或许也会成为一项长期竞争优势。</span></p><p><span>技术降低了完成工作的成本，能不能也帮助新人更快积累经验、更早独当一面？这是本期想和你一起追问的问题。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/liKT8ShRxHEYE9hb38sBXoYgq1YG.m4a" length="15347791" type="audio/mp4"/>
+    <itunes:duration>00:15:48</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W42｜Meta向世人展示，如何用AI“拆墙”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad60f87285041df1c733df5</link>
+    <guid isPermaLink="false">6ad60f87285041df1c733df5</guid>
+    <pubDate>Mon, 19 Oct 2026 12:44:11 +0000</pubDate>
+    <description><![CDATA[<h1><span>Meta正在用AI推翻两道城墙：CUDA生态与软件开发</span></h1><p><span>过去一周，Meta接连公开了两项值得关注的技术进展，分别指向AI产业的两道重要壁垒：</span><strong><span>英伟达的CUDA生态，以及软件开发的技术门槛。</span></strong></p><p><span>第一项，是Meta与AMD的联合研究。通过AI Agent与底层工程优化，AMD MI350X在一组真实生产推荐模型上的整体训练吞吐表现，已经达到了英伟达B200系统的水平。更重要的是，Meta正在尝试利用AI降低芯片迁移与性能优化的成本，挑战CUDA生态长期积累的竞争优势。</span></p><p><span>第二项，是Meta仅用八周时间完成社交应用Forum核心功能的开发实践。借助AI Agent，团队将代码编写、测试、问题定位和修复等环节逐步自动化，让小团队也能实现过去需要大量工程资源才能完成的工作。</span></p><p><span>这两件事看似发生在不同领域，却指向同一个趋势：</span></p><p><strong><span>AI的价值，正在从帮助人完成任务，走向自主执行、验证和迭代整个工作流程。</span></strong></p><p><span>本期《硅基星期一》，我们将深入拆解Meta的两项实践，探讨它们如何影响芯片行业与软件行业的竞争格局，以及中国企业和普通创业者能够从中借鉴什么。</span></p><p><span>当技术迁移和软件开发的成本不断下降，过去依靠工程复杂度建立的护城河还能维持多久？当竞争对手也能使用同样的AI工具，企业又该如何建立真正长期的竞争优势？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/llCAkVWySaN9Cl8_jITQrNMsngne.m4a" length="15938458" type="audio/mp4"/>
+    <itunes:duration>00:16:24</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W41｜AI 开始拆解软件，创业者的壁垒还剩什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6acced65195d838e2af0d314</link>
+    <guid isPermaLink="false">6acced65195d838e2af0d314</guid>
+    <pubDate>Mon, 12 Oct 2026 14:25:32 +0000</pubDate>
+    <description><![CDATA[<p><span>10 月 11 日，开源项目 REA 发布新版本。它让 AI 编程助手借助专业工具，研究现有软件的实现方式，并尝试复现其中的功能。如果追上一个功能变得越来越容易，创业者靠开发难度和功能领先建立的优势，还能维持多久？</span></p><p><span>本期《硅基星期一》，我们从老游戏的重构案例说起，看看 AI 怎样沿着线索读懂程序，以及为什么一段通过检查的代码，仍然可能留下错误。随后，我们把问题带到一家假想的汽车厂：面对功能相近、价格减半的新软件，老板为什么未必愿意立刻更换？</span></p><p><span>围绕这些案例，本期我们讨论：</span></p><ul><li><p><strong><span>复制功能，距离争取到客户还有多远？</span></strong><span> 验证、换用软件的成本与生产风险，都会影响客户的选择。</span></p></li><li><p><strong><span>开发门槛下降，谁会受益？</span></strong><span> 新公司更容易入场，已有客户的软件供应商，也能用 AI 降低成本、加快跟进。</span></p></li><li><p><strong><span>哪些积累可能成为竞争优势？</span></strong><span> 行业经验、客户反馈和团队的交付能力，需要怎样转化，才能让客户持续付费？</span></p></li></ul><p><span>节目最后，我们也提出三个值得继续观察的变化：可靠替代品出现的速度、旧软件维护与替换的新机会，以及从开发到稳定使用，整个过程的成本究竟能下降多少。</span></p><p><span>当竞争对手也能使用同样的 AI，每一次交付结束后，你的团队究竟留下了什么？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lpgS0EhfzB83D2pRJhhJZnjbKwPU.m4a" length="14713898" type="audio/mp4"/>
+    <itunes:duration>00:15:08</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W40｜AMD收购World Labs, AI算力将迎来第二增长曲线？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ac3a32c195d838e2aed8ab9</link>
+    <guid isPermaLink="false">6ac3a32c195d838e2aed8ab9</guid>
+    <pubDate>Mon, 05 Oct 2026 13:17:52 +0000</pubDate>
+    <description><![CDATA[<p><span>AMD宣布拟以约82亿美元股票收购李飞飞创办的World Labs。这笔交易背后，是芯片公司对下一代AI计算需求的一次押注。</span></p><p><span>本期《硅基星期一》，我们从机器人抓取零件的场景出发，拆解模型研究与芯片设计为什么越来越紧密，以及世界模型如何可能将部分现实试验转化为计算任务，为机器人训练与评估创造新的商业机会。</span></p><p><span>当虚拟试验变得更便宜，计算机里的经验怎样才能在现实中可靠地发挥作用？真实失败数据、模型校准和工程交付，又为什么可能成为更稀缺的能力？</span></p><p><span>最后，我们回到这笔收购的两个验证标准：世界模型能否帮助客户获得实际收益，以及AMD能否把研究优势转化为产品竞争力和客户订单。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lr2XePAaX59FAoI-5cpXDLmUmnkA.m4a" length="15430160" type="audio/mp4"/>
+    <itunes:duration>00:15:53</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W39｜Anthropic开办AI生物实验室，下的是哪步棋？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aba286be742e36efcbc2d67</link>
+    <guid isPermaLink="false">6aba286be742e36efcbc2d67</guid>
+    <pubDate>Mon, 28 Sep 2026 08:44:09 +0000</pubDate>
+    <description><![CDATA[<p><span>9 月 23 日，Anthropic 正式介绍了自己的生物实验室，并公布了一项早期研究成果。</span></p><p><span>一家 AI 公司，为什么不满足于给科学家提供模型，而要自己走进实验室、亲自做研究？</span></p><p><span>这期《硅基星期一》，我们从 Claude 参与发现一种名为 ART 的生物系统说起，看看一种新的科研模式正在怎样形成：人类科学家决定方向，AI 派出近千个 Agent 大规模搜索线索，再由科学家筛选、验证，并把结果重新反馈给 AI。</span></p><p><span>当模型团队和实验团队真正放在一起，科研迭代会不会因此明显加快？Anthropic 自建实验室，究竟是在改进自己的生命科学产品，还是在为未来进一步进入药物研发提前积累能力？</span></p><p><span>更重要的是，当 AI 越来越深入地参与科研，它也会重新改变实验室之间的竞争：哪些团队会因为 AI 获得更强的研究能力，哪些依赖大量重复分析工作的实验室会逐渐失去优势，甚至失去研究的主动权？</span></p><p><span>而在生命科学这样一个具有明显“双重用途”风险的领域，研究速度越来越快的同时，审核、安全边界和人类把关又该如何跟上？</span></p><p><span>从一次 AI 找到的新线索，到科研效率、商业边界，再到生物安全——这期节目，我们聊聊 Anthropic 开起生物实验室之后，究竟在下一盘什么样的棋。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/ljFuUvmDyLnIdqVmosKhKsBfdbP9.m4a" length="14100908" type="audio/mp4"/>
+    <itunes:duration>00:14:31</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W38｜Jev模型，让AI大范围商用有了底气</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab145e793d5eb3bdc78e583</link>
+    <guid isPermaLink="false">6ab145e793d5eb3bdc78e583</guid>
+    <pubDate>Mon, 21 Sep 2026 15:05:02 +0000</pubDate>
+    <description><![CDATA[<p><span>9月15日，TypeSafe 发布了一个叫 Jev 的新模型。</span></p><p><span>它不负责陪你聊天，也不擅长写长篇文章。它更像是藏在软件后台里的“判断引擎”：读懂用户表达和相关材料，然后给出一个选项、一个分数，或者一个概率，让软件知道下一步该怎么做。</span></p><p><span>但问题来了：分类、打分、结构化输出，GPT、Claude 这些大语言模型早就能做。那为什么还需要 Jev？</span></p><p><span>答案可能藏在几个数字里：更快的响应速度、更低的调用成本，以及专门围绕“判断”和“概率”设计的输出方式。</span></p><p><span>本期《硅基星期一》，我们从一副坏掉的耳机出发，聊聊 Jev 到底是什么，它和我们熟悉的 LLM 有什么区别；为什么“概率校准”比单纯给出答案更重要；以及当语言理解变得足够便宜之后，AI 会怎样进入客服、邮箱、搜索和企业软件里那些不起眼、却每天发生无数次的判断环节。</span></p><p><span>我们也会把视野再拉远一点：从 Jev，到 Meta 的世界模型 V-JEPA 2，再到扩散语言模型 Mercury。</span></p><p><span>未来的 AI，也许并不是一个模型包办一切，而是不同模型各自负责理解、判断、预测和生成。</span></p><p><span>真正值得关注的变化，可能不是 AI 又多会了一项技能，而是软件开始越来越懂得：</span><strong><span>在什么情况下，下一步应该做什么。</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lobc5iZp-A7L6B-HYnpoTJ3fymvb.m4a" length="14576444" type="audio/mp4"/>
+    <itunes:duration>00:15:00</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W37｜AI解决世界难题，对人类是毒药还是解药？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa800b49d326477816913d6</link>
+    <guid isPermaLink="false">6aa800b49d326477816913d6</guid>
+    <pubDate>Mon, 14 Sep 2026 14:15:37 +0000</pubDate>
+    <description><![CDATA[<p><span>约一万个AI智能体，88小时，约1300亿个输出Token。</span></p><p><span>OpenAI宣布，其内部智能体系统给出了一份针对纳维—斯托克斯存在性与光滑性问题的解答，并完成了Lean形式化验证。</span></p><p><span>这道困扰数学界近一个世纪的难题，是千禧年七大数学难题之一。</span></p><p><span>但有一个更值得追问的问题：</span></p><p><strong><span>即使这份证明最终被数学界确认成立，我们拿到了正确答案——然后呢？</span></strong></p><p><span>过去，科学最稀缺的是答案。</span></p><p><span>一个重大问题可能需要一代甚至几代研究者不断试错、绕路、失败，最后才找到突破口。而今天，一万名AI可以同时展开数以万计的探索，在88小时内筛出一条人类可能几十年都没有走通的路径。</span></p><p><span>这当然意味着科研正在被极大加速。</span></p><p><span>但它也带来了另一类问题。</span></p><p><span>当AI可以大规模地产生证明，谁来判断哪些结果真正重要？谁来把形式上正确的证明读懂、解释，并变成其他研究者能够继续使用的知识？</span></p><p><span>而如果越来越多基础研究任务直接交给AI，下一代科学家又在哪里经历那些失败、试错和漫长推理，从而练出真正的研究判断力？</span></p><p><span>陶哲轩把AI比作一架直升机。</span></p><p><span>过去，我们需要徒步走到山顶。沿途会迷路、会绕路，也可能意外发现新的风景、新的路径，甚至一个原本根本没有打算寻找的问题。</span></p><p><span>现在，AI可以直接把我们送到目的地。</span></p><p><span>效率提高了。</span></p><p><span>但沿途那些曾经伴随着“解题”自然发生的东西——理解、方法、直觉、人才培养和偶然发现——未必会自动跟着抵达。</span></p><p><span>陶哲轩把正在出现的另一种现象称作“证明消化不良”：AI生成和验证证明的速度，正在开始超过人类理解、整理和吸收它们的速度。</span></p><p><span>于是，一个新的时代可能正在到来：</span></p><p><strong><span>过去科学面对的是答案稀缺；未来，我们面对的可能是答案过剩。</span></strong></p><p><span>当答案越来越便宜，真正稀缺的，可能会变成人类的理解力、判断力，以及提出下一个好问题的能力。</span></p><p><span>本期《硅基星期一》，我们从OpenAI这场88小时的数学实验出发，结合陶哲轩对AI时代数学的思考，去看AI加速科研之后的另一半故事。</span></p><p><strong><span>AI已经开始交卷。</span></strong></p><p><strong><span>接下来，人类真正要回答的是：我们还需要学会什么？</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lih-cdVmju34avbxKVqzbzPpw7bN.m4a" length="14590245" type="audio/mp4"/>
+    <itunes:duration>00:15:01</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W36｜未来已来，AGI也到了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9ec1b0f03e74ee6b0698ad</link>
+    <guid isPermaLink="false">6a9ec1b0f03e74ee6b0698ad</guid>
+    <pubDate>Mon, 07 Sep 2026 13:54:51 +0000</pubDate>
+    <description><![CDATA[<p><span>汽车拆掉了方向盘，AI接过了鼠标和键盘。人类真的可以放心离开驾驶位了吗？</span></p><p><span>本期《硅基星期一》，我们从特斯拉Cybercab在奥斯汀载客、OpenAI发布GPT-6 Astra说起，看看这些令人兴奋的突破，距离“可以放心交给机器”还有多远。</span></p><p><span>99.9%的测试成绩，背后有哪些容易被忽略的条件？越来越会做事的AI，为什么仍然可能越过授权边界？一家制造业工厂让AI十分钟完成报价，怎样才能真正省时省钱？英伟达宣布收购Hugging Face，又在提前布局什么？</span></p><p><span>沿着道路上的自动驾驶、电脑里的AI代理和企业中的实际工作，我们讨论能力、成本、监督与责任之间的关系。AGI的定义仍在争论，而更具体的变化已经摆在眼前：哪些工作可以开始放手，哪些决定仍然需要人类把关？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lmdIQvteZmamU5V6rNqtihIylC8L.m4a" length="15124283" type="audio/mp4"/>
+    <itunes:duration>00:15:34</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W35｜AI基建，正在成为新时代的“房地产”？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a958655a0210c197dcb2d36</link>
+    <guid isPermaLink="false">6a958655a0210c197dcb2d36</guid>
+    <pubDate>Mon, 31 Aug 2026 13:52:06 +0000</pubDate>
+    <description><![CDATA[<p><span>当科技巨头把数千亿美元投入算力、电力和数据中心，这场AI建设热潮，会怎样影响我们手里的股票、债券和房子？</span></p><p><span>本期《硅基星期一》，我们从Meta的账本出发，沿着钱的去向，讨论一个越来越重要的问题：AI投资，会不会让整个社会借钱变贵？</span></p><p><span>借助中国房地产的融资链条，以及美国住房繁荣时期的经验，我们拆解融资竞争、实体资源约束和投资回报预期这三个影响资金价格的机制。一个行业吸收大量资金，并不必然推高利率；但当越来越多债务依赖同一种未来收入，风险也可能沿着这张网络向外传递。</span></p><p><span>我们还将推演三个可能的未来：需求兑现，但融资和建设能力跟不上；生产率提升，供给逐渐追上；以及技术成功了，建设者却没赚到预期的钱。不同路径，将如何改变资产估值，又会让谁承受更大的压力？</span></p><p><span>一项技术有价值，并不代表围绕它的每一笔投资都能获得回报。在模型能力之外，我们还需要追问：谁出钱建设，谁持续付费，以及收益不及预期时，谁来偿还债务。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lppbhcs6uSofSLPrRc8frOaUbP_G.m4a" length="15825685" type="audio/mp4"/>
+    <itunes:duration>00:16:17</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W34｜人体数据开始证明，AI药研即将全面爆发</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8c4ec9ef65145dfcc4ae13</link>
+    <guid isPermaLink="false">6a8c4ec9ef65145dfcc4ae13</guid>
+    <pubDate>Mon, 24 Aug 2026 14:05:19 +0000</pubDate>
+    <description><![CDATA[<p><span>一款药，在患者的肿瘤被取出以前，世界上甚至不存在。它的具体成分，要等AI读取这名患者的癌症数据以后才能决定。</span></p><p><span>8月19日，莫德纳与默沙东宣布，个体化mRNA癌症疗法intismeran autogene联合可瑞达，在一项涉及1,137名黑色素瘤患者的全球Ⅲ期试验中取得阳性结果。这不仅是mRNA癌症疗法的重要突破，也意味着AI参与定义的个体化药物，第一次在大规模临床试验中拿出了结果。</span></p><p><span>本期《硅基星期一》，我们将从药物研发的“漏斗”说起，拆解AI正在参与的五个关键环节：发现疾病靶点、生成和优化分子、决定下一轮实验、辅助临床开发，以及直接参与定义每名患者最终使用的药物。</span></p><p><span>我们也会通过英矽智能Rentosertib与莫德纳个体化癌症疗法两个案例，讨论AI制药真正的壁垒究竟是什么，以及中国药企如何把自身的实验、临床和制造优势，与AI的大规模搜索能力连接起来。</span></p><p><span>AI不会让药物研发告别失败，但它可能让更多错误更早失败，让更好的答案更快走到患者面前。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/lmawPF7hVE6GsKON1JZhklLA2kxk.m4a" length="15060702" type="audio/mp4"/>
+    <itunes:duration>00:15:30</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>W33｜从芯片封锁到阵营选择：全球AI竞争进入联盟时代</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a82d6ec5aeb2a5712e81e52</link>
+    <guid isPermaLink="false">6a82d6ec5aeb2a5712e81e52</guid>
+    <pubDate>Mon, 17 Aug 2026 09:42:11 +0000</pubDate>
+    <description><![CDATA[<p><span>一个月前，世界人工智能合作组织 WAICO 在上海成立。如今，美国正考虑向参与其 AI 合作体系的国家划出一条更明确的边界：如果加入中国主导的 WAICO，就可能被排除在美国主导的 Pax Silica 体系之外。</span></p><p><span>这意味着，中美 AI 竞争正在从芯片与模型之争，进一步升级为围绕矿产、能源、数据中心、云平台和基础模型展开的全球供应链联盟竞争。</span></p><p><span>本期《硅基星期一》，我们将从唯一同时加入两套机制的国家——哈萨克斯坦讲起，拆解美国“从矿山到模型”的可信技术生态，以及中国依靠开放模型、工程能力和全球南方合作网络建立的另一套 AI 体系。</span></p><p><span>为什么韩国、印度、新加坡和中东国家很难彻底选边？中国企业租用海外 GPU 算力，是否可能被纳入美国出口管制？当美国开始追踪的不只是“芯片在哪里”，而是“谁在使用芯片、运行什么模型”，全球 AI 竞争又将发生怎样的变化？</span></p><p><span>未来真正决定胜负的，或许不是谁能迫使更多国家表态站队，而是谁能提供更充足的算力、更低的成本、更稳定的供应，以及更大的技术自主空间。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/695b1ee8fa81a11e315adb08/ltL0Vx6cnX-fqv4BA85DjrLq3eS1.m4a" length="14303095" type="audio/mp4"/>
+    <itunes:duration>00:14:43</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzQ0MzUzODQ1LzQ0MzUzODQ1LTE3Njc1NjA1NTgyNTEtMWEzNGZmYjJiZDU2My5qcGc=.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

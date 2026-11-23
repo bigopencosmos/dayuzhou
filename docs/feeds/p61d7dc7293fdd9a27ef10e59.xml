@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>区块链新认知革命</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61d7dc7293fdd9a27ef10e59</link>
+  <description><![CDATA[区块链发展瞬息万变，本人从业多年区块链行业开发经验与实战，从发展的角度来分享区块链未来的潜力所在和当前的问题，从辩证的角度来分析对于区块链的新理解和认知，网上搜不到，书上找不到，这是一种对新事物的新的认识，希望大家有所收获~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:08:56 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61d7dc7293fdd9a27ef10e59.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>耕耕技术宅</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Ftx_8aun21WUdH65NsAXZslLOcAb.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Ftx_8aun21WUdH65NsAXZslLOcAb.jpg</url>
+    <title>区块链新认知革命</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61d7dc7293fdd9a27ef10e59</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>深度解读ipfs的前景与aleo的未来</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6391a529a07c5e0cda6c6feb</link>
+    <guid isPermaLink="false">6391a529a07c5e0cda6c6feb</guid>
+    <pubDate>Thu, 08 Dec 2022 08:49:44 +0000</pubDate>
+    <description><![CDATA[<h2><span>区块链目前的状况</span></h2><span></span><ul><span>  </span><li><span>Luna与Ftx暴雷后的区块链收到了巨大的打击</span></li><span>  </span><li><span>目前币圈靠什么支撑的？信仰，你去问啥啥啥项目有啥前途，它只会告诉你宏观的一些，却说不出具体落地的事情，到底能做具体的啥事情？有什么社会价值？</span></li><span>  </span><li><span>信仰崩塌，短时间很难再次起飞，很多机构都黄了</span></li><span></span></ul><span></span><p><span>区块链的核心价值</span></p><span></span><ul><span>  </span><li><span>区块链的核心价值有一个是始终不变的，那就是去中心化</span></li><span>  </span><li><span>如果一条区块链不是去中心化，我要你何用？目前中心化的服务和体验远超哪些所谓的去中心化的区块链项目，这是最基本的原则</span></li><span>  </span><li><span>去中心化的基础上，我们有了其他附属的价值</span></li><span>  </span><li><span>比如，算力，去中心化的算力去去做人工智能，深度学习（因为这些计算非常耗资源，如果每个节点贡献算力，总算力会非常可怕）</span></li><span>  </span><li><span>存储，任何信息时代的东西都需要存东西吧，这也是非常基本的基础设施，到这里就不得不扯ipfs和filecoin了</span></li><span>  </span><li><span>元宇宙，终极状态吧，也行真的会有，也许永远到不了，概念而已，目前底层根本没有逻辑</span></li><span></span></ul><span></span><p><span>ipfs</span></p><span></span><ul><span>  </span><li><span>Ipfs如果说细节可以说很多，底层也挺复杂，这里就简单罗列几个比较核心的东西，用通俗的方式分享给大家</span></li><span>  </span><li><span>DHT，分布式哈希表，意思就是一张excel表格，你给我第一个具体的内容，我就可以快速把对于的内容查出来</span></li><span>  </span><li><span>数据怎么交换，bt的升级版，bt都用过吧</span></li><span>  </span><li><span>Git版本控制，只上传修改过的东西，一旦修改过，文件就会有新的hash值</span></li><span>  </span><li><span>当然可以配置域名系统，在你域名的后台配置一个txt映射就可以了</span></li><span>  </span><li><span>分布式存储，成本低，速度快，数据有多份备份，不会丢失，去中心化，不受第三方控制…</span></li><span>  </span><li><span>速度跟传统机构正好相反，用的人越多，速度反而越快</span></li><span>  </span><li><span>如果资源不能去下载，就不会有多个备份，如果节点没了，数据直接消失，本来看起来很可靠的东西，反而不可靠了，这是非常致命的，因此filecoin诞生，想解决这个问题的，但实际又碰到了很多问题</span></li><span>  </span><li><span>&nbsp;如果能解决无处不在的ipfs，ipfs就会非常厉害，一句话，用的人越多，这个东西就越厉害</span></li><span></span></ul><span></span><p><span>Aleo</span></p><span></span><ul><span>  </span><li><span>先一句话解释下这是啥？很简单，利用零知识证明技术把区块链隐私化，比如，你在eth做交易，所有交易记录都是可查的，你去区块链浏览器上一查就知道了，透明，aleo就是保护这种东西的，仅此而已</span></li><span>  </span><li><span>&nbsp;隐私+智能合约+高tps之前从来没有哪个项目方做到过，是有点技术的项目</span></li><span>  </span><li><span>隐私确实是区块链里面未来发展的其中一个方向，区块链公开透明的方式确实是很多人的烦恼，就像我银行卡交易记录都公开了</span></li><span>  </span><li><span>i资本加持非常多，有很多著名的机构加持，你们可以自己去查</span></li><span>  </span><li><span>真的去中心化吗？</span></li><span>  </span><li><span>目前对于隐私需求有这么大么？很多人连区块链都没搞明白</span></li><span>  </span><li><span>零知识证明根本不是新的技术，老技术了上一个世纪就出来了</span></li><span></span></ul><span></span><p><span>重点来了，大家关心的</span></p><span></span><ul><span>  </span><li><span>目前处于预挖阶段，显卡+cpu结合的方式，又是属于高能耗的挖矿，而且对于cpu和内存要求都不低，功耗比eth跟可怕</span></li><span>  </span><li><span>你觉得会有很大的收益吗？</span></li><span>  </span><li><span>矿商门早就准备好了，时刻准备着平台和上次eth淘汰下来的矿卡，如果aleo一上线价格飞涨，几天让你收益等于电费，你也许有几天的高收益，但是你买机器的钱不就赔进去了么？</span></li><span>  </span><li><span>也许未来挖矿都做零知识证明方向了，但实际上还是得看项目本身是否可靠，是否有激动人心的技术突破和社会价值？这才是要关心的东西</span></li><span></span></ul><span></span><p><span>以上纯属个人观点，仅供参考</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmHn6ynX2Tar540CMb41MZWpJEh6.m4a" length="46302985" type="audio/mp4"/>
+    <itunes:duration>00:31:54</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1bUdnS0tNdjNnUVpjS3pSY2VuUkREXzVZTkwucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链看得见的未来是啥？是web3吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/631c74c090e867995c093734</link>
+    <guid isPermaLink="false">631c74c090e867995c093734</guid>
+    <pubDate>Sat, 10 Sep 2022 11:27:58 +0000</pubDate>
+    <description><![CDATA[<p><span>最近的情况</span></p><span></span><ul><span>  </span><li><span>最大的新闻就是关于以太坊硬分叉的消息了，共识机制彻底改变，从pow变成了pos；是好事还是坏事？不好说，有好有坏，需要综合去衡量下，下次我们有机会分析下</span></li><span>  </span><li><span>美联储加息势头还在继续，因为通胀没有控制下来，你看下现在美金的汇率，快到7了吧，说明美联储一直收回美金到美国，再控制通胀，所以币圈要起飞，概率还是比较低的，需要控制自己的风险</span></li><span>  </span><li><span>关于新技术，最近没有啥新的技术，有aptos等新公链，用的move开发语言，具有高效安全的特点，我还研究的很细，到时候分享给大家</span></li><span></span></ul><span></span><p><span>正题，区块链未来在哪？</span></p><span></span><ul><span>  </span><li><span>先给结论，最近能看得到的是web2.5</span></li><span>  </span><li><span>区块链应用和传统互联网的最本质的区别是啥？</span></li><span></span></ul><span></span><p><span>去中心化和中心化</span></p><span></span><ul><span>  </span><li><span>真正Web3最近不会到来，说web3的都是借概念炒作话题</span></li><span></span></ul><span></span><p><span>为啥？</span></p><span></span><ul><span>  </span><li><span>Web3的核心是啥？去中心化，现在有真正去中心的项目吗？基本没有</span></li><span>  </span><li><span>真正去中心化是啥？btc</span></li><span></span></ul><span></span><p><span>Web2.5是啥？</span></p><span></span><ul><span>  </span><li><span>中心化和去中心化的结合，比如大家比较熟悉的opensea</span></li><span>  </span><li><span>还有很多事情可以把传统的互联网项目和区块链结合起来，就是web2.5的感觉</span></li><span></span></ul><span></span><p><span>比如去中心地图，社交，邮件，存储等等</span></p><span></span><p><span>零零碎碎很多，但没有一个做大，因为还在探索商业模式和抓住用户真正需求</span></p><span></span><p><span>云宇宙，别想了，遥远的很，元宇宙是终极的区块链的应用体现</span></p><span></span><p><span>未来的项目方向在哪？</span></p><span></span><ul><span>  </span><li><span>个人认为，存储是一个好的基础赛道，任何东西都需要存储作为媒介，它是基础</span></li><span>  </span><li><span>当然公链也是基础，但是以目前公链的发展情况来看，性能已经不再是重点，很多公链都能达到高性能，最主要的还是好的用户体验和极好的运营方式</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lohn2aEyIesiFpjHgFiMim3haHjx.m4a" length="25566821" type="audio/mp4"/>
+    <itunes:duration>00:17:36</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzZ2RINHFWMHJYdm1DU2ZWbUVkR202a3duU1gucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链，谈一谈波卡</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62be8dd7ee51bbc306720192</link>
+    <guid isPermaLink="false">62be8dd7ee51bbc306720192</guid>
+    <pubDate>Fri, 01 Jul 2022 06:01:58 +0000</pubDate>
+    <description><![CDATA[<p><span>Layer0， Layer1， Layer2</span></p><span></span><p><span>创始人嘉文伍德</span></p><span></span><ul><span>  </span><li><span>以太坊联合创始人</span></li><span>  </span><li><span>智能合约发明者</span></li><span></span></ul><span></span><p><span>波卡结构：layer0 + 各种平行公链，就像插线板，中继链（插线板），平行公链（插在插线板上的各种电器）</span></p><span></span><p><span>优点</span></p><span></span><ul><span>  </span><li><span>目前区块链世界里面最复杂的区块链系统，代码更新了庞大，一直在钻研技术</span></li><span>  </span><li><span>理想很疯狂：要把所有公链连接在一起，打破区块链信息孤岛，公链之间可以无障碍信息交换</span></li><span>  </span><li><span>各个平行公链各自开发自己的产品，每条链功能不一样，而且各个公链之间还可以相互协作（比如最近的xcm技术的更新）</span></li><span>  </span><li><span>波卡里面最多的话题就是web3，web2从数据中获取价值，web3把数据转化为资产</span></li><span>  </span><li><span>平行链拍卖，会筛选优质项目，谁质押dot多，谁就会赢得，而且任何人都可以进去</span></li><span></span></ul><span></span><p><span>缺点：</span></p><span></span><ul><span>  </span><li><span>最明显的就是，每条公链都是不同的项目方，相互合作有巨大的挑战</span></li><span>  </span><li><span>中心化（目前除了比特币所有区块链的通病），未来需要有一种机制能够balance这种中心化和去中心的之间的关系</span></li><span>  </span><li><span>各个公链目前很少有创新，因为波卡起步晚，还在玩别人玩过的东西</span></li><span>  </span><li><span>目前区块链需要信仰，推广少了点（更多人加入和研究才会蓬勃发展）</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhYwoHW_oCGNH1b6pMR6mpaX9RIp.m4a" length="31892069" type="audio/mp4"/>
+    <itunes:duration>00:21:58</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0bkduYXY5Wlp3eE9Wb2lQNUtodE9pdW9hVmEucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链“币圈”什么时候才能抄底？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62b00214f9b62781ea058b73</link>
+    <guid isPermaLink="false">62b00214f9b62781ea058b73</guid>
+    <pubDate>Mon, 20 Jun 2022 05:13:55 +0000</pubDate>
+    <description><![CDATA[<p><span>先说下整体的行情</span></p><span></span><ul><span>  </span><li><span>整体肯定是向下走的，因为美联储加息的节奏还没有减缓，有加息就会收紧货币政策，资金都跑到美国去了，你看看现在的美国国债的利率，一直在升高</span></li><span>  </span><li><span>整个大环境非常不好，俄乌战争，导致了粮食能源的短缺，物价肯定会上涨；还有疫情导致了工厂的停工，尤其是中国，中国小商品出口量是非常庞大的，美国也因此物价受到影响。我们知道物价是由供求关系决定的，美国加息只是减少了“求”的那一端，就是消费端，供应端无法解决，而目前物价上涨，是由于供应减少，而且必需品是无法通过加息来缓解物价的</span></li><span>  </span><li><span>行情的发展道路瓶颈，前几年，互联网蓬勃发展，到了极致的水平，覆盖了各个行业，尤其是电商，从纯粹的电商到直播电商，现在基本已经很卷了；目前的互联网也许无法满足消费者更高的要求了</span></li><span>  </span><li><span>由于美国前几年的放水，导致现在的问题，经济总有轮回，而且币圈正好处于这10年互联网高速发展的时期，也许会有“区块链的金融危机”</span></li><span></span></ul><span></span><p><span>啥时候才能抄底？</span></p><span></span><ul><span>  </span><li><span>这个前提是你是看好某个项目的，有潜力，你才会做这个决策，这是基本原则</span></li><span>  </span><li><span>很多山寨币，熊市期间，慢慢的就会消失</span></li><span>  </span><li><span>那到底什么项目好？啥时候抄？（个人观点，不作为投资建议）</span></li><span>  </span><li><span>首先你得选你觉得有未来潜力的项目，比如</span></li><span>  </span><li><span>如果你是长期（几年吧）投资者，熊市期间都是可以慢慢进入（少量），所谓的“定投”</span></li><span>  </span><li><span>如果你没有耐心，个人观点还是再等一下</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln1GhBrDqzEKIEpqGfbNTCufO19l.m4a" length="20616966" type="audio/mp4"/>
+    <itunes:duration>00:13:55</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpV2hUZUVLeE8zZTNFa3M3aUtnOGloeG5FZmUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>熊市的机会在哪里？分享一些投资策略</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/629d8dd7b32f552f54730ccf</link>
+    <guid isPermaLink="false">629d8dd7b32f552f54730ccf</guid>
+    <pubDate>Mon, 06 Jun 2022 05:17:10 +0000</pubDate>
+    <description><![CDATA[<p><span>先看一些数据，加密货币总市值1.3万亿美元，跟巅峰比3万亿美金</span></p><span></span><p><span>Btc的占比是46%，山寨币的下跌是远大于btc和eth</span></p><span></span><p><span>贪婪恐慌指数持续一个多月极度恐慌</span></p><span></span><p><span>正题 （个人观点，不构成投资建议）</span></p><span></span><ul><span>  </span><li><span>为什么要投资区块链？</span></li><span>  </span><li><span>很简单，因为它是未来，至于什么时候真正爆发，谁都不知道，但是我们都嗅到了它的方向</span></li><span>  </span><li><span>为什么区块链是未来？一个时代的改变，必定是技术性的重大突破和大规模的商业应用，你们可以去看看历史（尤其是互联网的诞生与繁荣）；区块链太多优点了，比如解决数字资产的私有化，大规模的计算服务（提高更好更优质的服务），当前垄断行业来带来的弊病，未来元宇宙的基础设施等等</span></li><span>  </span><li><span>不要去玩合约</span></li><span>  </span><li><span>投资要投公链项目，还需要研究背后的团队是否在正在做事，山寨项目熊市很容易归零</span></li><span>  </span><li><span>不玩NFT</span></li><span>  </span><li><span>如果你想不出有什么项目，其他他就是你身边(btc和eth)，不要看不起他们，他们去中心化的程度非常高而且共识很强</span></li><span>  </span><li><span>心态调整好，即使是好的项目，大幅下跌也是很正常，你去看看每股都什么样了</span></li><span>  </span><li><span>如果你能穿越牛熊，机会现在就在你面前</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lm7s3TUEQWUxLtG0iG_rV4OrrFuM.m4a" length="24791191" type="audio/mp4"/>
+    <itunes:duration>00:16:45</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1M2xZc1BsV2F3TE1SS1BFX2RKTXhjR0hfNmMucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>luna与ust崩盘的逻辑，有解决方案吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/627e53b14070a48aa1b5788c</link>
+    <guid isPermaLink="false">627e53b14070a48aa1b5788c</guid>
+    <pubDate>Fri, 13 May 2022 12:48:47 +0000</pubDate>
+    <description><![CDATA[<p><span>Luna与ust的逻辑关系，luna不得不归零，只要ust不到1</span></p><span></span><p><span>有解决方案吗？个人观点</span></p><span></span><ul><span>  </span><li><span>提前停止terra链的充提</span></li><span>  </span><li><span>停止区块生产，套利这就无法套利，luna停止下跌</span></li><span>  </span><li><span>救市太早，30亿去救400亿的市场，有点毛毛雨</span></li><span>  </span><li><span>被人盯上了，据说是华尔街blackrock，可以向他们求助停止抛售ust</span></li><span></span></ul><span></span><p><span>未来</span></p><span></span><ul><span>  </span><li><span>由于luna的崩盘，导致其他稳定币项目方的担忧，对于他们说是好事，因为可以提前去想办法去规避风险</span></li><span>  </span><li><span>对于用户来说，luna导致很多人亏炸，给用户也有一定风险的警告，用户会更加谨慎去看项目</span></li><span>  </span><li><span>美联储加息还在继续，你看现在美元汇率多少了？一直在涨，但是他们说同伙还严重，所有短期看，整体还不是特别好</span></li><span>  </span><li><span>区块链不像以前了，技术一直在发展，好的项目一直在推进，加上luna这种明星项目大崩盘对于整个圈子是好事，大家都意识到了风险，所有会在安全方面各种加强</span></li><span>  </span><li><span>Web3的话题越来越多，而且确实有很多项目再朝着落地的方向进行，不再是单链高tps，未来必将是多链共同分工合作，去打造企业级的应用，而且在安全方面一定是越来越强</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llVxiKdFe3Wiu4U1tcQqqAMD2SHZ.m4a" length="26117949" type="audio/mp4"/>
+    <itunes:duration>00:17:36</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxWVRZcWtWeEdqbUpBeHBScElDRktlSnJKY2EucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链项目分析：稳定币ust与luna背后的逻辑，会有“死亡螺旋”吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/626218f75cc41f5cd4ee8bf9</link>
+    <guid isPermaLink="false">626218f75cc41f5cd4ee8bf9</guid>
+    <pubDate>Fri, 22 Apr 2022 02:54:44 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>行情分析</span></strong></p><span></span><ul><span>  </span><li><span>最近这几天大起大落，总体还是略微往下走的路线，多多少少还是受到美联储加息利空消息影响</span></li><span>  </span><li><span>但是今年跟以前不一样，不光是机构的大量入场，代表非常看好区块链的市场，还有就是一个稳定币市场，大家可以去看下市值，2000亿美金左右吧</span></li><span>  </span><li><span>同时可以算一算比特币和以太坊目前市值</span></li><span></span></ul><span></span><p><strong><span>正题ust与luna</span></strong></p><span></span><ul><span>  </span><li><span>很多稳定币是中心化机构发行并作为信用担保的。例如USDT由Tether公司发行，USDC、USDB等分别是由CoinBase和Binance发行，能与美元挂钩主要是利用发行公司的信用担保，其风险取决于发行公司的信用</span></li><span>  </span><li><span>Ust属于啥？算法稳定币，就是没有实际资产担保</span></li><span>  </span><li><span>简单的逻辑如下</span></li><span>  </span><li><span>当 UST 需求量 &gt; 供应量 时，UST的价格会上升</span></li><span>  </span><li><span>当 UST 需求量 &lt; 供应量 时，UST的价格会下降</span></li><span>  </span><li><span>核心是啥呢？任何时候1美元价值的Luna可以和1个UST进行互换。当有用户在Terra Market将0.1 Luna 去兑换 1 UST的时候，0.1 Luna被销毁(Burn)掉，1 UST被铸造(Mint)；相反，如果用户用1 UST去兑换 0.1 Luna时，1 UST被销毁掉，0.1 Luna被铸造。</span></li><span>  </span><li><span>保持与美金挂钩的逻辑就是通过套利机制</span></li><span></span></ul><span></span><p><strong><span>“死亡螺旋”会有吗？</span></strong></p><span></span><ul><span>  </span><li><span>目前收到anchor协议的影响，20%的年化率，锁仓70%</span></li><span>  </span><li><span>存在大量抛售udt的风险（20%的钱哪里来？总会用完的吧），如果大量抛售，ust会销毁，luna会不断被创造，导致luna发行量大大增加，luna价格下降，价格下降会更进一步导致ust抛售</span></li><span>  </span><li><span>任何东西都是有风险了，目前基金会有融资和大量比特币作为储备来对抗ust的价格下跌，但是风险还是需要时刻去关注</span></li><span></span></ul><span></span><p><strong><span>未来？总体来说，稳定币发行会越来越多，他是不是对未来是利好呢？给大家留一个思考</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lku7UYji2A66K-Y7dU-r-Sj1Fu3M.m4a" length="26844121" type="audio/mp4"/>
+    <itunes:duration>00:18:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zyb2VrTnppTnZpVWt2cmdtMkhyU0tzQURDV1MucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Web3基础设施：解读去中心的存储系统filecoin与arweave</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62597a38493ea2f504a559dd</link>
+    <guid isPermaLink="false">62597a38493ea2f504a559dd</guid>
+    <pubDate>Fri, 15 Apr 2022 13:59:19 +0000</pubDate>
+    <description><![CDATA[<p><span>行情：目前还是处于震荡的状态，短期内不可判断，长期一直都是看好</span></p><span></span><ul><span>  </span><li><span>i. 有一点分享给大家，如果你玩股票的话，肯定知道技术分析，比如什么顶背离，底背离，柏林线，波浪系统等等</span></li><span>  </span><li><span>ii. 个人觉得基本用处不大，只能作为小小小小的参考，道理很简单，技术分析的原理都是一样的，大家看到的K线走势在技术分析面前是一样的，钱掌握在少数人手里，你觉得会有用吗？这是一点，第二：实战证明，确实大概率没啥用，你身边有光靠技术分析致富的吗？也许短期操作会有一点点帮助，长期的话，我建议别看，浪费时间！反正我是不看的。</span></li><span>  </span><li><span>iii. 那到底靠的是啥？</span></li><span>  </span><li><span>1. 股票我不清楚，但是区块链有一点特别好，因为它是技术密集型的。看技术是否有未来？</span></li><span>  </span><li><span>2. 看项目本身是否是未来的发展趋势？</span></li><span></span></ul><span></span><p><span>你不会看怎么办？</span></p><span></span><ul><span>  </span><li><span>很简单，看是否有</span><strong><span>大</span></strong><span>的投资机构进去，他们帮你分析好了</span></li><span></span></ul><span></span><p><span>今天的重点，去中心存储。</span></p><span></span><ul><span>  </span><li><span>i. http和ipfs</span></li><span>  </span><li><span>ii. ipfs的激励层，filecoin</span></li><span>  </span><li><span>1. 优势：海量存储，去中心化</span></li><span>  </span><li><span>2. 新的共识机制，POST，链下就能存储，而且可验证</span></li><span>  </span><li><span>iii. filecoin目前的缺点</span></li><span>  </span><li><span>1. 不能大规模和自动化的存取数据</span></li><span>  </span><li><span>2. 现在99%存的是垃圾数据</span></li><span>  </span><li><span>3. 可以理解为基本“不能用”，半个废物（目前）</span></li><span>  </span><li><span>4. 而且就算能读取，带宽和读存取效率也是一个大问题</span></li><span>  </span><li><span>5. 未来呢?</span></li><span></span></ul><span></span><p><span>Fvm（filecoin的虚拟机）正在推出</span></p><span></span><p><span>Arweave</span></p><span></span><ul><span>  </span><li><span>1. 小量的存储，跟ipfs基本没关系，每个节点数据都一样，而且都是用的固态硬盘，所以读取数据是非常高效（很fil比）</span></li><span>  </span><li><span>2. 永久存储，一次付费，永远存储，而且还便宜</span></li><span>  </span><li><span>3. 目前最关键的是，可用！不用说太多，比如</span></li><span>  </span><li><span>a) Mirror.xyz，去中心的博客系统，数据存在ar上（当然视频和图片除外，因为太大了，而且比起文字会昂贵很多）</span></li><span>  </span><li><span>b) 很多NFT的数字资产，存在ar上</span></li><span></span></ul><span></span><p><span>总结：</span></p><span></span><ul><span>  </span><li><span>i. 虽然现在所谓的去中心存储系统很多，但目前基本就这两种系统有可能成为web3的未来基础设施之一，当然也不排除有新的革命性的项目，比较区块链发展是特别快的</span></li><span>  </span><li><span>ii. 存储是刚需，没有存储就没有web3，跟没有云宇宙，但是问题是目前没有特别好用的</span></li><span>  </span><li><span>1. 其实你自己想一想就能理解？</span></li><span>  </span><li><span>a) 什么时候像阿里云，腾讯云这些中心化巨头提供的存储解决方案，很多企业不怎么用了，或者用的人越来越少了，那样的话也许区块链的去中心存储机会就来了！</span></li><span>  </span><li><span>b) 虽然去中心存储太诱人了，但是问题也是非常多的，不然有这么多问题，为什么还有这么多人去研发呢？</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lr4cEhmbFyGFZCl8tNl8DG5Y923x.m4a" length="42648133" type="audio/mp4"/>
+    <itunes:duration>00:28:55</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zpa1c5ZHNtN2hyZ1luUWpYVVpUM0VEcHRwcDcucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Web3是啥？真正的意义在哪里？区块链和web3的关系</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62502835d01d114df44b16a4</link>
+    <guid isPermaLink="false">62502835d01d114df44b16a4</guid>
+    <pubDate>Fri, 08 Apr 2022 12:18:59 +0000</pubDate>
+    <description><![CDATA[<p><span>行情，为了给大家增加信心，我给出自己个人的观点，供大家参考和思路，具体操作还是需要自己去判断</span></p><span></span><ul><span>  </span><li><span>i. 目前总市值达到2万亿，apple 总市值2.8万亿，微软2.2万亿，连一家公司的市值都不到，总体来看，规模是非常小的，如果要拉盘是非常容易的</span></li><span>  </span><li><span>ii. 整个股市的市值是非常大的，对于币圈来说，好比大山与小蚂蚁，影响微乎其微</span></li><span>  </span><li><span>iii. 2022年，美联储加息和缩表的消息不断，的确会影响整个金融圈，但是首当其中的还是美股，对于币圈来说，其实关系并不大，因为币圈市值太小了；从历史数据来看，2017年的加息，的确影响到了2018年币圈走到低谷，但是历史不会简单的重复，正当每个人都想到的时候，实际往往不会发生，在短期来看，市场总是出乎意料的，不可预测</span></li><span>  </span><li><span>iv. 2022年的机构持续的进场，跟以往非常不同，以前是没有就机构进去的</span></li><span>  </span><li><span>v. 从现有的状况来看，区块链确实还没看到落地的迹象，但是从别的方面已经可以看出它的其他价值，如避险资产，去中心化的，不受监管等等这些能够去解决目前互联网存在的一些痛点，就算未来不是主流，至少能够从大蛋糕中分一块来解决这些痛点</span></li><span></span></ul><span></span><p><span>正题，web3是啥，意义在哪里？</span></p><span></span><ul><span>  </span><li><span>i. 简单说下web1.0， 2.0</span></li><span>  </span><li><span>ii. 从用户的角度去看其实非常简单</span></li><span>  </span><li><span>1. 1.0 用户只能看网站，网页，2.0 用户可以交互，产生内容</span></li><span>  </span><li><span>2. 3.0呢？这是一个大问题，现在所有主流的媒体或者专家说的都只是猜测而已！反正肯定是更加厉害和值得期待的，我们呢，也来一起简单探讨下</span></li><span></span></ul><span></span><p><span>Web3 其实是嘉文伍德（以太坊联合创始人提出的），它是用来解决目前互联网所面临的问题的，那目前互联网有哪些问题呢？</span></p><span></span><ul><span>  </span><li><span>a) 垄断与寡头的局面，我们的数据掌握在谁的手里？隐私各种暴露，被他们利用并且变现</span></li><span>  </span><li><span>b) 中心化服务器的宕机与数据丢失</span></li><span>  </span><li><span>c) 安全问题? 容易受到攻击</span></li><span>  </span><li><span>d) 监管问题，项目方说删就删，说改就改，比如随便操作下你发的微博或者评论被删了，他们掌控着这一切</span></li><span>  </span><li><span>e) 资源的问题？存储有限制，带宽有限制，计算有限制等等</span></li><span>  </span><li><span>f) 那web3呢</span></li><span>  </span><li><span>i. 本质上就是解决以上问题的，总结为一个词就是去中心化</span></li><span>  </span><li><span>ii. 其实web3的提出并不是为了区块链而提出的，只是因为区块链太适合web3了，两者融洽度特别的好，所有就会天然的结合在一起</span></li><span>  </span><li><span>iii. 比如Defi，去中心化金融</span></li><span>  </span><li><span>iv. Nft 资产上链，数据不会丢失，存储在去中心服务器上</span></li><span>  </span><li><span>v. 最新有一个项目比较有意思，hivemapper</span></li><span>  </span><li><span>1. 用户开车，用行车记录仪计入数据，提供给公司，公司根据数据形成更好的地图</span></li><span>  </span><li><span>2. 你说这是web3吗？大家自行去思考</span></li><span></span></ul><span></span><p><span>未来？</span></p><span></span><ul><span>  </span><li><span>1. 一直都看好，现在基于区块链的应用越来越多了，技术也在慢慢成熟，如公链的发展，多链的相互结合以及dapp的创新和发展</span></li><span>  </span><li><span>2. 还是那句话，要时刻保持学习，一起进步，因为区块链发展实在太快了，至少我们要跟住！</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li3g6jPZykLltTr2SmZVAJQSH28T.m4a" length="34404810" type="audio/mp4"/>
+    <itunes:duration>00:23:35</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzRy0wQnB5NTFITVNJaXI0aF85WWEzUkNBelMucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>神奇的零知识证明是什么？区块链中是如何运用的？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/622ae2eb9eb22e46ffe6c369</link>
+    <guid isPermaLink="false">622ae2eb9eb22e46ffe6c369</guid>
+    <pubDate>Fri, 11 Mar 2022 05:49:30 +0000</pubDate>
+    <description><![CDATA[<p><span>行情</span></p><span></span><ul><span>  </span><li><span>中间经过了俄乌战争，充分体现了区块链的去中心的价值</span></li><span>  </span><li><span>地铁支付被切断？swift被限制？天然气销售等</span></li><span>  </span><li><span>总的来说，有好消息如btc的etf，越来愈多vc看好区块链发展，坏消息，如监管，能耗问题，美联储加息等，所以短期内总体还是不确定的状态，长期肯定是看好的</span></li><span></span></ul><span></span><p><span>什么是零知识证明？</span></p><span></span><ul><span>  </span><li><span>通俗的解释：我不用向你提供证明的过程，就可以证明我是对的。</span></li><span>  </span><li><span>例子：手机解锁</span></li><span>  </span><li><span>我在上海</span></li><span></span></ul><span></span><p><span>区块链中的应用</span></p><span></span><ul><span>  </span><li><span>以太坊二层，zk rollup，有哪些项目大家自己去百度</span></li><span>  </span><li><span>通过零知识证明把交易结果打包让主链去验证</span></li><span>  </span><li><span>Bellman库，典型的项目就是filecoin</span></li><span>  </span><li><span>用显卡去计算然后把结果进行提交</span></li><span>  </span><li><span>如p2，c2，winpost阶段</span></li><span>  </span><li><span>因为零知识证明非常消耗计算，所以需要显卡，因为显卡有大量的流处理器（几千个，上万个），可以把这个流处理器理解为cpu的核心，只是没有cpu核心计算能强，但是数量太多了，还是gpu比较强</span></li><span></span></ul><span></span><p><span>未来</span></p><span></span><ul><span>  </span><li><span>2022年未来，大方向肯定是web3，nft，defi等这些，当然还有一些小众的，如隐私计算，跨链等</span></li><span>  </span><li><span>以后有时间来分享具体的</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljfax-kLID4SGt5D0WL90gUSl4tH.m4a" length="25818895" type="audio/mp4"/>
+    <itunes:duration>00:17:22</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzUWo2Tkhya0dNNFF0ak9jdDNReDdGc1pZZngucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链扩容技术有哪些？什么时候才能真正落地？分片技术解读（sharding）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/620f089730fca3133c0f7fdb</link>
+    <guid isPermaLink="false">620f089730fca3133c0f7fdb</guid>
+    <pubDate>Fri, 18 Feb 2022 02:46:45 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>随着美联储加息的步伐和全球资本大放水的缩紧，对于市场不太利好，因为需要去消除一定的泡沫，好在当前跟2017年得不同，机构大量布局区块链，还有大量风投跟进区块链项目，所以下探的深度应该不会太多（个人观点）</span></strong></p><span></span><p><strong><span>区块链的扩容方案有哪些，就是如何提高性能，提升效率的问题</span></strong></p><span></span><ul><span>  </span><li><span>分片技术layer1</span></li><span>  </span><li><span>分片技术本身是非常复杂的，简单的解释就是区块链节点分组的问题</span></li><span>  </span><li><span>目前一个交易需要全节点确认才能上链</span></li><span>  </span><li><span>分片技术就是把整个区块链进行分组，每组同时进行工作</span></li><span>  </span><li><span>如一个网络有100节点，分成4组，每组25个节点</span></li><span>  </span><li><span>以前一个交易上链，需要100个节点去共同去确认和维护才能成功，分片技术就是一个交易会选择其中的一组去确认（25个几点），理论上提升4倍</span></li><span>  </span><li><span>当然目前也有很多问题，如安全性会有所降低</span></li><span>  </span><li><span>数据带宽要求增大，分片之间的通信</span></li><span>  </span><li><span>二层技术layer2</span></li><span>  </span><li><span>上节课有讲，把计算放到侧链（或者说其他链），然后通过零知识证明把结果提交到主链完成验证</span></li><span>  </span><li><span>理论上提高了效率</span></li><span>  </span><li><span>问题，目前二层网络中心化比较严重，但是在逐步改善</span></li><span></span></ul><span></span><p><strong><span>什么时候才能应用落地，发挥价值</span></strong></p><span></span><ul><span>  </span><li><span>大家去思考一个问题就明白了，目前的商业业务当中，是互联网不可代替的，非得用区块链去解决的，如果有这样的业务出现，真正商业应用就要来了</span></li><span>  </span><li><span>这有点哲学的味道，需要从新的高度去思考，当然你需要懂区块链，有深刻的区块链认知</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnLmz-Kq_HEJ7XwQ12lzrwvMsW54.m4a" length="20147746" type="audio/mp4"/>
+    <itunes:duration>00:13:29</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzYTJMcjh6QzZfdm1pYTE2Z3dJejU1c2pxRlEucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链常见的黑客攻击，ddos和粉尘攻击; 以太坊二层layer2简单解读</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/620502200c35c9f95dca1ae8</link>
+    <guid isPermaLink="false">620502200c35c9f95dca1ae8</guid>
+    <pubDate>Thu, 10 Feb 2022 12:16:30 +0000</pubDate>
+    <description><![CDATA[<p><span>行情：局势还不明朗，但是机构越来越多来投资区块链，而且稳定币发行一直在增加</span></p><span></span><p><span>Ddos，发送大量的数据给服务器，如solana，因为爆块的时候验证节点是确定的，容易发生</span></p><span></span><p><span>粉尘攻击，常见的一些低手续费公链容易发生</span></p><span></span><p><span>以太坊为啥不会？成本太大，因为手续费高啊</span></p><span></span><p><span>未来趋势</span></p><span></span><ul><span>  </span><li><span>有生态，有应用（有智能合约可以部署应用）</span></li><span>  </span><li><span>性能不能太低</span></li><span>  </span><li><span>多条公链的世界</span></li><span>  </span><li><span>Layer2网络，解决部分区块链不可能三角问题</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luTcd4RGQHEChKraS_1XxoHjAhDs.m4a" length="25669127" type="audio/mp4"/>
+    <itunes:duration>00:17:40</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2OTZLUXM5eUNfQXZlZ3NySmQ5LXVqaXJPNGQucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链落地，离商业应用还有多远？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61f3a2c64675a08411f51732</link>
+    <guid isPermaLink="false">61f3a2c64675a08411f51732</guid>
+    <pubDate>Fri, 28 Jan 2022 08:01:09 +0000</pubDate>
+    <description><![CDATA[<p><span>目前整个币圈几乎都是空气币，没有实际落地的项目</span></p><span></span><p><span>那为什么会暴跌呢？</span></p><span></span><ul><span>  </span><li><span>没有人能准确预测未来会怎么样？现在一起的预测和分析其实都是猜测，我也不例外，需要大家自行去判断，不作为投资的建议</span></li><span>  </span><li><span>所有交易市场都有涨有跌，区块链恰恰是是涨幅和跌幅比较大的领域</span></li><span>  </span><li><span>区块链最大的问题是没有价值支撑，导致跌幅比较大</span></li><span></span></ul><span></span><p><span>什么时候会有商业应用呢？还有多远？</span></p><span></span><ul><span>  </span><li><span>个人认为还有几年时间，这是我给出的判断，那它的逻辑在哪呢？</span></li><span>  </span><li><span>一个项目的真正落地是需要技术方面的时间验证和市场方面的时间验证</span></li><span>  </span><li><span>技术，如web3，去中心化存储，会有bug吗？性能？稳定性？节点宕机？是否这种去中心化？监管等一些列问题</span></li><span>  </span><li><span>市场，你要让传统企业去区块链存数据，需要什么样的逻辑？阿里云不好？整个社会对区块链的认知度够吗？成本问题？售后问题等等？</span></li><span>  </span><li><span>等等这些都需要时间去验证</span></li><span>  </span><li><span>就算去中心化ok了，内容的监管问题？也是一个大问题</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lihSjn1NeF8dEBRcwBj7UT0uS2sp.m4a" length="13599783" type="audio/mp4"/>
+    <itunes:duration>00:09:50</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZreVdoZ2x0ZFFrMDJzVjZVcEhLVXZqaVpzWVgucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链钱包怎么回事？交易所的&quot;充值&quot;与&quot;提现&quot;是啥意思？以及未来发展的探究</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61f1041221c23a45ed5d6622</link>
+    <guid isPermaLink="false">61f1041221c23a45ed5d6622</guid>
+    <pubDate>Wed, 26 Jan 2022 08:19:28 +0000</pubDate>
+    <description><![CDATA[<p><span>先说说总体行情的几个指标</span></p><span></span><ul><span>  </span><li><span>贪婪恐慌指数</span></li><span>  </span><li><span>总市值</span></li><span>  </span><li><span>比特币的总市值占比</span></li><span>  </span><li><span>以太坊的产量与销毁</span></li><span></span></ul><span></span><p><span>区块链钱包就类似于银行卡，比如中国建行（相当于一个项目），每个银行都有银行卡</span></p><span></span><p><span>钱包如何保管呢</span></p><span></span><ul><span>  </span><li><span>助记词（恢复密码用，不能丢），私钥（银行卡密码），公钥（银行卡地址）</span></li><span></span></ul><span></span><p><span>目前大部分不同公链上的钱包是不能相互转账（不同于现在的银行卡）</span></p><span></span><p><span>充值与提现的时候有网络选择，其实就是代币在不同的公链发布</span></p><span></span><ul><span>  </span><li><span>如usdt有在trx，eth，solana等等</span></li><span>  </span><li><span>充值与提现相当于银行卡的转账，到账时间看不同公链的矿工确认情况</span></li><span>  </span><li><span>Gas费用的高低，转账手续费的意思</span></li><span></span></ul><span></span><p><span>未来</span></p><span></span><ul><span>  </span><li><span>可能万链统一掉</span></li><span>  </span><li><span>如现在的波卡（dot），cosmos（atm）都在做这个事情，相当于不同银行之间可以随意转账功能，包括比特币和以太坊</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk5821tfRNAK8WTEvfQ4Vco4QpKb.m4a" length="23759566" type="audio/mp4"/>
+    <itunes:duration>00:15:59</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwNHdUcUQ2WUU3aUQwMVN3WDY0ZUJjOVVIYnYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>区块链&quot;挖矿&quot;到底是啥？&quot;挖矿&quot;真的耗电吗？解读它背后的逻辑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61ee5c6e21c23a45ed5d6574</link>
+    <guid isPermaLink="false">61ee5c6e21c23a45ed5d6574</guid>
+    <pubDate>Mon, 24 Jan 2022 07:59:41 +0000</pubDate>
+    <description><![CDATA[<p><span>“挖矿”大部分人想到的就是比特币，然后就是耗电</span></p><span></span><p><span>挖矿的含义</span></p><span></span><ul><span>  </span><li><span>挖矿就是一个计算的过程，根据不同的共识机制（规则），能够解答出答案，就称之为爆块，成功挖到一个矿</span></li><span>  </span><li><span>为什么要挖矿？</span></li><span>  </span><li><span>挖矿的程序可以称作为矿工（节点运营者），它是区块链网络的维护者，没有他们，区块链不存在</span></li><span>  </span><li><span>利益驱动</span></li><span></span></ul><span></span><p><span>挖矿耗电吗？</span></p><span></span><ul><span>  </span><li><span>不见得，我们对挖矿的定义还停留在比特币时代（pow），这些当然耗电</span></li><span>  </span><li><span>新的公链，都是向绿色节能方法发展的，如pos，poc，post共识</span></li><span></span></ul><span></span><p><span>矿池</span></p><span></span><ul><span>  </span><li><span>集中力量干大事</span></li><span>  </span><li><span>比如挖黄金过程是差不多的</span></li><span></span></ul><span></span><p><span>未来？</span></p><span></span><ul><span>  </span><li><span>挖矿从另一个层面理解，就是区块链网络的节点运营者</span></li><span>  </span><li><span>会有新的共识算法，节点越多整个网络就越安全</span></li><span>  </span><li><span>可能从高性能机器走下普通电脑，最后甚至会到手机的时代</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll1RCZ3ZY8AldWbwL_ubzzdK8PDw.m4a" length="22506114" type="audio/mp4"/>
+    <itunes:duration>00:15:02</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrdUV3TmhCekdyeWdBYWtmRlZ4c0NIZ2ozUTUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

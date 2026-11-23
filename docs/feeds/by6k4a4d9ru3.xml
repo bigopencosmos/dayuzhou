@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>WhattheMeta宇宙调频</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd</link>
+  <description><![CDATA[What the Meta是一个关于未来数字世界和生活方式的播客频道。Syan和朋友们在这里探讨跟web3、元宇宙相关的技术、商业、思想。这里是通往元宇宙的9¾站台。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:48:40 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/by6k4a4d9ru3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Syan</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FkhI3YA5HMrV9JtlFnjZooTmbdPQ.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FkhI3YA5HMrV9JtlFnjZooTmbdPQ.png</url>
+    <title>WhattheMeta宇宙调频</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>ep.14 GenAI2024:多模创新与秩序生成（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65b4e756513a776b57a7e062</link>
+    <guid isPermaLink="false">65b4e756513a776b57a7e062</guid>
+    <pubDate>Sat, 27 Jan 2024 11:21:57 +0000</pubDate>
+    <description><![CDATA[<p><span>2023年度AIGC大总结来了！</span></p><span></span><p><strong><span>本期嘉宾：</span></strong></p><span></span><ul><span>  </span><li><span>肖仰华｜上海市数据科学重点实验室主任、复旦大学计算机学院教授</span></li><span>  </span><li><span>Indigo｜Brilliant Phoenix Partner / ex-Weibo</span></li><span>  </span><li><span>王 &nbsp;&nbsp;喆｜特赞联合创始人</span></li><span>  </span><li><span>孔 &nbsp;&nbsp;蓉｜天风全球前瞻产业研究院联席院长</span></li><span>  </span><li><span>周 &nbsp;&nbsp;默｜公众号共识粉碎机主理人、对冲基金投资人</span></li><span></span></ul><span></span><p><strong><span>主要内容：</span></strong></p><span></span><p><strong><span>PartI AIGC年度关键词大总结</span></strong></p><span></span><p><span>2023</span><strong><span>AI 发展的关键词</span></strong></p><span></span><p><span>惊奇：AI 的快速发展带来了前所未有的机遇和挑战</span></p><span></span><p><span>智变：AI 技术的量变到质变，特别是大模型的进步</span></p><span></span><p><span>Robust：AI 在企业端的稳定性和实用性</span></p><span></span><p><span>超级拐点：AI 技术和产业的快速发展达到了一个新的转折点</span></p><span></span><p><span>边际成本：相比互联网，AI边际成本并不为零</span></p><span></span><p><span>AI 在行业应用领域的观点：</span></p><span></span><ul><span>  </span><li><strong><span>大模型的普及</span></strong><span>：AI 的大模型正在悄悄席卷每一个领域，不仅仅局限于科技本身的领域。</span></li><span>  </span><li><strong><span>行业应用的成功案例</span></strong><span>：讨论中提到了一些行业领域成功应用了生成式人工智能，尽管具体的行业未被明确指出。</span></li><span>  </span><li><strong><span>新商业模式的产生</span></strong><span>：AI 的应用预计会在某些领域产生新的商业模式。</span></li><span>  </span><li><strong><span>AI中台的建立</span></strong><span>：大企业可能将建立 AI 中台作为数据基础设施的下一步迭代，这在不同的行业中，如美妆、零售、汽车工业等传统行业中，构建 POC（Proof of Concept）时是一个主要的考虑点。</span></li><span>  </span><li><strong><span>场景切入点</span></strong><span>：不同行业在构建 POC 时会考虑从哪些场景切入，以便更容易地实现 AI 的应用。</span></li><span></span></ul><span></span><p><span>关于 AI 提高企业效率的观点：</span></p><span></span><ul><span>  </span><li><strong><span>降本增效</span></strong><span>：AI 被视为一个重要工具，帮助企业降低成本和提高效率，这是企业引入 AI 技术的主要驱动力。</span></li><span>  </span><li><strong><span>ROI关注</span></strong><span>：企业在引入 AI 时，会密切关注投资回报率（ROI），在技术成本相对较高的情况下，如何利用 AI 应用节约成本是企业关心的问题。</span></li><span>  </span><li><strong><span>新的生产力</span></strong><span>：AI 技术不仅仅关注替代现有工作以降低成本，还关注如何复制优质的人力资源，将其转化为市场上的新生产力。</span></li><span>  </span><li><strong><span>商业模式创新</span></strong><span>：AI 的应用预计会在某些领域产生新的商业模式，这可能会改变企业的竞争格局。</span></li><span>  </span><li><strong><span>数据基础设施</span></strong><span>：大企业可能将建立 AI 中台作为数据基础设施的下一步迭代，这关系到如何更有效地利用数据和 AI 技术。</span></li><span></span></ul><span></span><p><span>AI与硬件结合的观点：</span></p><span></span><ul><span>  </span><li><strong><span>市场机会</span></strong><span>：可穿戴设备等硬件领域在今年可能会有很多机会，中国公司在成本和供应链方面具有优势。</span></li><span>  </span><li><strong><span>AI的本质</span></strong><span>：AI 不同于互联网，它不是连接信息的工具，而是提高效率的工具。AI 能够基于现有场景和数据，结合行业知识，推出可以直接商业化的产品。</span></li><span>  </span><li><strong><span>智能硬件的重要性</span></strong><span>：智能硬件与 AI 的结合被认为是国内市场可能忽视的领域，但它对提高质量、效率和智能化转型至关重要。</span></li><span>  </span><li><strong><span>AI的影响</span></strong><span>：AI 为传统智能硬件注入了新生命，使得人机交互达到新的临界点。近期的硬件项目如 Aipin 显示了这种趋势。</span></li><span>  </span><li><strong><span>AI与垂直行业的结合</span></strong><span>：AI 与多个垂直行业的结合将带来产业升级和行业竞争格局的变化，这种结合不需要特别新颖的场景，但可以显著提升企业竞争力。</span></li><span>  </span><li><strong><span>AI的泛在性</span></strong><span>：AI 将像水一样渗透到各行各业，而不是像互联网那样依靠网络效应成为一个全能工具。</span></li><span>  </span><li><strong><span>技术融合</span></strong><span>：AI 不仅与各行各业结合，还将与各种技术（包括硬件和 XR 等）纵向融合，开拓新的领域。</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmjSlzlhInDRmdGDsVpsfuCENkkE.m4a" length="51722549" type="audio/mp4"/>
+    <itunes:duration>00:53:18</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0a0xvODFRTk9Ebng1ZU9TOEx6ZVdIZHF0cFAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.13 玄学吃瓜特辑 | OpenAI的纷争与野望</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6565e93bce2ee31e8fa350a9</link>
+    <guid isPermaLink="false">6565e93bce2ee31e8fa350a9</guid>
+    <pubDate>Tue, 28 Nov 2023 13:20:58 +0000</pubDate>
+    <description><![CDATA[<p><span>在过去的两周，全球最知名大模型创业公司OpenAI上演了一场惊动全世界的宫斗大戏。联合创始人Sam Altman被撤掉了CEO的职位，也从OpenAI的董事会上被移除了。奥特曼在OpenAI的发展和对外形象上扮演着重要的角色在一周之内上演了数次反转，引起了科技圈的强烈震动。本期节目是专业玄学吃瓜，用专业的玄学知识来吃科技圈的瓜。震动世界的权力纷争背后到底有什么样的动机，未来AI行业的发展又会受到哪些影响？</span></p><p><strong><span>本期嘉宾：</span></strong></p><p><span>Johnny：Co-head of 春华VC</span></p><p><span>财经内容创作者｜前知乎小V｜略懂八字皮毛</span></p><p><span>MJ说财经主播，欢迎关注他的Youtube频道 </span><a href="https://youtube.com/@wurenfinance" data-url="https://youtube.com/@wurenfinance"><span>youtube.com</span></a></p><p><span>他的博客：</span><a href="https://mjfinance.substack.com/" data-url="https://mjfinance.substack.com/"><span>mjfinance.substack.com</span></a></p><p><span>王喆：Co-founder of Tezign</span></p><p><span>内容科技/AIGC孵化投资</span></p><p><span>创业者｜滑雪爱好者｜WEB3小白｜略懂八字</span></p><p><span>Timeline:</span></p><p><span><a class="timestamp" data-timestamp="65">01:05</a> OpenAI权力风波回顾</span></p><p><span><a class="timestamp" data-timestamp="387">06:27</a> 宫斗大戏背后的人物图谱</span></p><p><span><a class="timestamp" data-timestamp="602">10:02</a> 从八字看Sam Altman的真实性格与商业观</span></p><p><span><a class="timestamp" data-timestamp="1072">17:52</a> 有效加速主义和superalignment背后的政治图谱</span></p><p><span><a class="timestamp" data-timestamp="1364">22:44</a> Mira与龙妈的人生轨迹</span></p><p><span><a class="timestamp" data-timestamp="1725">28:45</a> AGI与人类未来的展望</span></p><p><span><a class="timestamp" data-timestamp="2060">34:20</a> 从历史的角度看AI发展及挑战</span></p><p><span><a class="timestamp" data-timestamp="2388">39:48</a> 大模型创业与未来前景展望</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljxvhj93zDjxTJdHSWrXYfUQ4yEj.m4a" length="45642049" type="audio/mp4"/>
+    <itunes:duration>00:47:02</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzUC1DV0pMc0hTeWl3R0dtc05PVThaYm1oZVQucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.12 宇宙调频特辑：玄学视角下的科技与人生 feat. Johnny 王喆</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643fe56ba79cc81470f0ed8d</link>
+    <guid isPermaLink="false">643fe56ba79cc81470f0ed8d</guid>
+    <pubDate>Wed, 19 Apr 2023 12:58:17 +0000</pubDate>
+    <description><![CDATA[<p><span>宇宙调频如其名所述终于触及到了一个我们蠢蠢欲动想聊很久的话题：玄学</span></p><p><span>如果想要了解未来世界的形态，除了对科技的演变要保持认知以外，我和朋友们不约而同地在一些契机下接触到了玄学工具；</span></p><p><span>本期我请到了两个科技、金融行业的从业者一起来unfold玄学视角下的科技与人生。</span></p><p><strong><span>本期嘉宾：</span></strong></p><p><span>Johnny：Co-head of 春华VC</span></p><p><span>财经内容创作者｜前知乎小V｜略懂八字皮毛</span></p><p><span>MJ说财经主播，欢迎关注他的Youtube频道 </span><a href="https://youtube.com/@wurenfinance" data-url="https://youtube.com/@wurenfinance"><span>youtube.com</span></a></p><p><span>他的博客：</span><a href="https://mjfinance.substack.com/" data-url="https://mjfinance.substack.com/"><span>mjfinance.substack.com</span></a></p><p><span>王喆：Co-founder of Tezign</span></p><p><span>内容科技/AIGC孵化投资</span></p><p><span>创业者｜滑雪爱好者｜WEB3小白｜略懂八字</span></p><p><strong><span>本期话题：</span></strong></p><p><span>- 你是怎么基础上玄学的？</span></p><p><span>- 玄学的主要使用场景</span></p><p><span>- 玄学和你最熟悉的知识领域是什么关系，比如金融，历史，科技</span></p><p><span>- 玄学改变了你对哪些问题的认知？</span></p><p><span>- 玄学是宿命论么?</span></p><p><span>- 你是如何运用玄学的知识的?</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loIYcX2OIzVfQxivlCyLrMCuaWjI.m4a" length="50665070" type="audio/mp4"/>
+    <itunes:duration>00:52:12</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZuWXZkekFFS0oyMWtTQkRFc2k3OC1sQnU3Yk0ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.11 人工智能GPT与去中心化 feat. Indigo Talk</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6436e12ea79cc8147059e270</link>
+    <guid isPermaLink="false">6436e12ea79cc8147059e270</guid>
+    <pubDate>Wed, 12 Apr 2023 16:49:48 +0000</pubDate>
+    <description><![CDATA[<p><span>本期做客Indigo的节目聊了当红炸子鸡GPT和Web3的关联：</span></p><span></span><p><span>大语言模型推动的 AI 快速进化，让人类都有些措手不及，训练和使用过程中的数据隐私，还有幻觉效应带来的决策误导，都是目前面临的问题；这个和通过去中心化技术实现的加密货币一样，让政府和决策机构头疼，颠覆性的技术都有它的两面性，但现在 AI 带来的热度已经远超 Crypto 相关的话题，这两个技术的发展或者有没有结合点，我们今天回来深度讨论一下这个话题。</span></p><span></span><p><span>本期嘉宾：</span></p><span></span><p><span>Syan（格局喵）</span></p><span></span><p><span>Indigo（独立投资人 / 数字镜像博主）</span></p><span></span><p><span>本期对谈纲要</span></p><span></span><p><span><a class="timestamp" data-timestamp="52">00:00:52</a> - 开场（Syan 与锡安的故事）</span></p><span></span><p><span><a class="timestamp" data-timestamp="294">00:04:54</a> - Crypto 在 AI 高压下的行业进展</span></p><span></span><p><span><a class="timestamp" data-timestamp="490">00:08:10</a> - AI 与去中心化之间的联系</span></p><span></span><p><span><a class="timestamp" data-timestamp="784">00:13:04</a> - 去中心化给 AI 的启示</span></p><span></span><p><span>去中心化的选择权、用开放对抗封闭</span></p><span></span><p><span><a class="timestamp" data-timestamp="972">00:16:12</a> - 数据隐私的问题</span></p><span></span><p><span>通过隐私计算来控制你的数据</span></p><span></span><p><span><a class="timestamp" data-timestamp="1170">00:19:30</a> - 对比 YC 的项目来看 Web 3 与 AI 的创业</span></p><span></span><p><span>AI 更多是 SaaS 服务的迁移，而 Web 3 则是 Crypto 原生用户的 Onboard</span></p><span></span><p><span><a class="timestamp" data-timestamp="1424">00:23:44</a> - 区块链的生产关系与 AI 的生产力</span></p><span></span><p><span>A 解决的是生成力的问题，而去中心化再改变生产关系（Syan）</span></p><span></span><p><span>大语言模型让知识高效传递成为了可能，知识可以复制了（Indigo）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1595">00:26:35</a> - AI 与区块链技术再未来的某种融合</span></p><span></span><p><span>Crypto 的最佳用户不是人类而是 AI / Bot（Syan）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1817">00:30:17</a> - AI 可以如何来改进去中心化技术？</span></p><span></span><p><span>合约代码审计、数据分析与边缘节点的安全</span></p><span></span><p><span><a class="timestamp" data-timestamp="2108">00:35:08</a> - 去中心化的 AI 算力方案</span></p><span></span><p><span><a class="timestamp" data-timestamp="2403">00:40:03</a> - 前面聊过的话题总结（Indigo）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2473">00:41:13</a> - 这两个技术的风险和挑战</span></p><span></span><p><span><a class="timestamp" data-timestamp="2525">00:42:05</a> - 如何用去中心化方式来解决 AI 被操纵的问题</span></p><span></span><p><span>Human in the Loop &amp; Open Source 接受公众审查</span></p><span></span><p><span>AI 中的 Token 激励和 DAO 自组织</span></p><span></span><p><span><a class="timestamp" data-timestamp="2777">00:46:17</a> - 开源策略与开放训练数据集</span></p><span></span><p><span><a class="timestamp" data-timestamp="2993">00:49:53</a> - AI 与去中心化对现代社会治理的影响</span></p><span></span><p><span>Worldcoin 项目的介绍与全民基本收入（UBI）</span></p><span></span><p><span><a class="timestamp" data-timestamp="3253">00:54:13</a> - 超级人工智能是被公司控制还是被政府控制？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3384">00:56:24</a> - 新阶层的出现</span></p><span></span><p><span><a class="timestamp" data-timestamp="3475">00:57:55</a> - AGI 会不会引导人类走向新社会主义</span></p><span></span><p><span><a class="timestamp" data-timestamp="3558">00:59:18</a> - AGI 即将到来的社会里 人类应该做好什么样的准备？</span></p><span></span><p><span>本期提到的概念和服务</span></p><span></span><p><span>锡安（Zion Matrix）</span></p><span></span><p><span>Popular Ethereum Layer 2</span></p><span></span><p><span>Optimism &amp; Arbitrum</span></p><span></span><p><span>5 latest open-source LLMs</span></p><span></span><p><span>1. BLOOMZ</span></p><span></span><p><span>2. OPT-IML</span></p><span></span><p><span>3. Pythia</span></p><span></span><p><span>4. LLaMA</span></p><span></span><p><span>5. Vicun</span></p><span></span><p><span>flower.dev</span></p><span></span><p><span>Flower A Friendly Federated Learning Framework</span></p><span></span><p><span>babylonai.dev</span></p><span></span><p><span>Datadog for machine learning on edge devices</span></p><span></span><p><span>middleware.io</span></p><span></span><p><span>AI-powered cloud observability platform</span></p><span></span><p><span>nansen.ai</span></p><span></span><p><span>250M+ labeled addresses across 10+ chains.</span></p><span></span><p><span>Worldcoin</span></p><span></span><p><span>Worldcoin is building the world’s largest identity and financial network as a public utility, giving ownership to everyone.</span></p><span></span><p><span>The Network State</span></p><span></span><p><span>This book explains how to build the successor to the nation state, a concept we call the network state.</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljDqyPygFnBjnNX-0gt01P24-sLL.m4a" length="120803895" type="audio/mp4"/>
+    <itunes:duration>01:03:11</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoWDR6Z3liWjFHZXhjV3h5UDdmRHctVUhTWjIucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.10 和国产良心Bruce聊Web3十年后的一天</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62ee1d44eb0492cf2f50833a</link>
+    <guid isPermaLink="false">62ee1d44eb0492cf2f50833a</guid>
+    <pubDate>Sat, 06 Aug 2022 07:50:27 +0000</pubDate>
+    <description><![CDATA[<p><span>国产良心的Bruce在良心NFT发布之后在关注些啥？本期我们请到了Bruce一起聊了聊他全职Web3以后的一些新想法。良心DAO想要建设哪些Web3原生的场景？社交、婚恋都在链上解决的未来快要来临了吗？Bruce设想的Web3十年后的一天会是什么样？</span></p><span></span><p><strong><span>本期嘉宾：</span></strong></p><span></span><p><span>国产良心创始人Bruce Xu，LxDAO（良心DAO）发起人，前大厂前端工程师</span></p><span></span><p><strong><span>本期Highlight：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="45">00:45</a> What the Meta有中文名《宇宙调频》了</span></p><span></span><p><span><a class="timestamp" data-timestamp="236">03:56</a> 回顾国产良心诞生经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="577">09:37</a> 满足roadmap预期的first principle是没有预期</span></p><span></span><p><span><a class="timestamp" data-timestamp="699">11:39</a> 第二个项目《我的第一个NFT》</span></p><span></span><p><span><a class="timestamp" data-timestamp="1120">18:40</a> 把Web3想象成一个独立的虚拟空间</span></p><span></span><p><span><a class="timestamp" data-timestamp="1434">23:54</a> Marry3: 实现Web3世界里的婚姻关系</span></p><span></span><p><span><a class="timestamp" data-timestamp="1660">27:40</a> 什么时间点链上生活的参与度会高过链下？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2000">33:20</a> Web3原生的社交比Web2更真实</span></p><span></span><p><span><a class="timestamp" data-timestamp="2063">34:23</a> 未来在链上缔结关系的可能是机器人/AI</span></p><span></span><p><span><a class="timestamp" data-timestamp="2425">40:25</a> sbt是关于关系的技术，sbt的玩法，哪些信息维度适合用sbt来呈现？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2648">44:08</a> 先有鸡还是先有蛋？sbt和DApp的发展逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="2829">47:09</a> 良心DAO的mission：推动web3的原生应用的诞生</span></p><span></span><p><span><a class="timestamp" data-timestamp="3120">52:00</a> Web3十年后的一天</span></p><span></span><p><span><a class="timestamp" data-timestamp="3686">01:01:26</a> 去Web3 in 2032网站上mint你对于2032的畅想</span></p><span></span><h2><span>片头曲目：望遠鏡の外の景色 (Live)，椎名林檎</span></h2><span></span><h2><span>片尾曲目：Pour Toi, Timbo Mehrstein</span></h2><span></span><p><span>链接：</span></p><span></span><p><span>《我的第一个NFT》<a data-url="https://myfirstnft.info/" href="https://myfirstnft.info/">myfirstnft.info</a></span></p><span></span><p><span>Web3 in 2032 <a data-url="https://web3in2032.io/" href="https://web3in2032.io/">web3in2032.io</a></span></p><span></span><p><span>Marry3 <a data-url="https://Marry3.love" href="https://Marry3.love">Marry3.love</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luYkfpr8H1GjSYatKykzBlCpTnVn.mp3" length="60779543" type="audio/mpeg"/>
+    <itunes:duration>01:03:18</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zybl8xVTBnRGJNd2ZCcTY3SkxqeEtkelVVd2QucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.09和以太坊OG Lambda聊怎么做个加密世界的平成废柴</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62daad0492f0689a31f5052b</link>
+    <guid isPermaLink="false">62daad0492f0689a31f5052b</guid>
+    <pubDate>Fri, 22 Jul 2022 13:58:28 +0000</pubDate>
+    <description><![CDATA[<p><span>本期嘉宾我的好朋友郭老师，他也是以太坊社区的早期参与者。本期节目我们聊了在web3这个概念出现之前他们是怎么发现并且成为了加密世界的早期参与者？从17年到现在两轮牛市有些什么不一样，以及搬去新加坡以后有什么新的生活体验。</span></p><span></span><p><strong><span>本期嘉宾：</span></strong></p><span></span><p><span>Lambda, 以太坊早期参与者Defi OG</span></p><span></span><p><strong><span>本期话题：</span></strong></p><span></span><p><span>怎么从学生变成加密行业的实践者？</span></p><span></span><p><span>17年周期，20年Defi Summer回顾</span></p><span></span><p><span>从以太坊技术路线图预测下一轮牛市的主题</span></p><span></span><p><span>新加坡生活初体验</span></p><span></span><p><span>肥宅如何冲浪web3？</span></p><span></span><p><span>本期音乐：</span></p><span></span><h1><span>NO NAME ~神のグラス~大嶽香子</span></h1><span></span><h1><br></h1>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lig2bnH8br_4h0MEH2LgKAQFpL5w.m4a" length="59149137" type="audio/mp4"/>
+    <itunes:duration>01:00:57</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoeVU0ZGdmeUJjX0oyaGZOYm5HNmEzWUZ1TDUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.08 和Defi玩家Rena聊长期主义者在Web3世界的生存方式</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62aee7e1f21b8abc99f6638d</link>
+    <guid isPermaLink="false">62aee7e1f21b8abc99f6638d</guid>
+    <pubDate>Sun, 19 Jun 2022 09:09:52 +0000</pubDate>
+    <description><![CDATA[<p><span>有一句话叫“春江水暖defi矿工先知”说的就是 Rena 老师这样的Defi玩家，她还有一句名言叫“真正的学习是让知识和认知穿过自己的身体。而 defi 矿工之所以可以领先市场的觉知和洞见，就是因为他们日复一日地让哈希穿过了自己的身体。”</span></p><span></span><p><span>熊市已至，我们请来了Rena老师为我们分享她一直以来践行的长期主义投资方式和学习心得。在Web3的众多赛道中为什么选择Defi，怎么抵挡住牛市中的各种诱惑，如何做好套利和风控的平衡以及该做哪些准备应对熊市？</span></p><span></span><p><strong><span>本期嘉宾：</span></strong></p><span></span><p><span>Rena, 资深Defi玩家，本末社区core contributor （twitter: @renayu33)</span></p><span></span><p><strong><span>本期Highlight:</span></strong></p><span></span><p><span>Defi是Web3世界和复利思维最接近的一个方向；</span></p><span></span><p><span>传统行业工作的小伙伴问怎么开始了解web3的东西。我建议首先是要把“做交易”相关的信息和资料全部屏蔽掉。链上无风险或低风险套利的机会其实有很多，不需要靠单纯“买卖”赚钱。有意识地把“交易”从自己操作系统中移除，反而会更容易理解很多web3的底层原理和价值逻辑。</span></p><span></span><p><span>终局思维就是我自己想要我的投资，到最后给到我的生活，是一个很平静的状态。不会太受这个行业或者是市场波动去影响到我的日常作息和生活；</span></p><span></span><p><span>熊市，特别适合内观。做投资到最后其实是一个体验的学问。风险管理、平衡、这些仓位，这些也是一个体验。对于一些人来说，可能他就是做不到满仓大饼或者是满仓什么 U 之类的。那对于他来说，其实你要反复问自己为什么做不到。</span></p><span></span><p><strong><span>本期音乐：</span></strong></p><span></span><p><span>片头：breakfast, potsu</span></p><span></span><p><span>片尾：over the rainbow，Michita</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhF_McQ5EXzNXVqkx7pccoI39-Od.m4a" length="55165862" type="audio/mp4"/>
+    <itunes:duration>00:56:38</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsVHlnRnQ3SUNKQzFyZ2ExY25lWjk1ZC15c2YucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.07 Bonus | X-2-earn会成为长期的Web3创业方向吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62a04ba2b32f552f54730dc5</link>
+    <guid isPermaLink="false">62a04ba2b32f552f54730dc5</guid>
+    <pubDate>Wed, 08 Jun 2022 07:11:29 +0000</pubDate>
+    <description><![CDATA[<p><span>Stepn在过去几个月里带火了x-to-earn的赛道，并且已经成为了一个web3成功出圈的项目。但对于它的经济模型，一直存在许多质疑的声音。</span></p><span></span><p><span>跟前几期播客一样，我们还是想要去客观去理解web3领域的新模式，不去定性它的好与坏，而是去探索它们可能的演化方式。</span></p><span></span><p><span>如何去理解x-to-earn的核心模式，有哪些方法延长x-to-earn类型项目的生命周期？x-to-earn有没有可能成为Web3一个长期的创业方向？stepn能为以后的web3创业者积累哪些经验？Stepn在过去几个月里带火了x-to-earn的赛道，并且已经成为了一个web3成功出圈的项目。但对于它的经济模型，一直存在许多质疑的声音。</span></p><span></span><p><span>跟前几期播客一样，我们还是想要去客观去理解web3领域的新模式，不去定性它的好与坏，而是去探索它们可能的演化方式。</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>Benson，OKX Ventures Partner（@bensony4bdv）</span></p><span></span><p><span>Jademont，Cofounder of Waterdrip（@shanshan521 ）</span></p><span></span><p><span>@PoseidonOVC，Founder （@OutliersDAO）</span></p><span></span><p><span>Lola，Redline Dao Founder（@Lolaxie77）</span></p><span></span><p><span>Zacharias，IDG Capital Investor（@Zac_Tsui）</span></p><span></span><p><span>【本期内容】</span></p><span></span><p><span><a class="timestamp" data-timestamp="279">04:39</a> X-to-earn的进入门槛怎么设置？</span></p><span></span><p><span><a class="timestamp" data-timestamp="390">06:30</a> X-to-earn解决了获客的核心需求</span></p><span></span><p><span><a class="timestamp" data-timestamp="781">13:01</a> 场景化to-earn模式延长了web3应用的用户时长</span></p><span></span><p><span><a class="timestamp" data-timestamp="1126">18:46</a> 从web2的视角计算x2n项目用户的life time value，要走过由负到正的过程</span></p><span></span><p><span><a class="timestamp" data-timestamp="1726">28:46</a> 如何通过产品迭代来完成旁氏结构的转型？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2360">39:20</a> 如何延长x2n项目的生命周期？创造正外部性</span></p><span></span><p><span><a class="timestamp" data-timestamp="2868">47:48</a> 尝试与实体结合，引入web2服务</span></p><span></span><p><span><a class="timestamp" data-timestamp="3707">01:01:47</a> 一个好的x2n团队有哪些特质？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljeRpCEbATnDHhdhIcZ9u_erEexq.m4a" length="85179760" type="audio/mp4"/>
+    <itunes:duration>01:25:56</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsdmRoNmRITGVsTWNsdWM5X1l4WWI2aDBHbFEucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.06 和屏风聊DAO：下班，上DAO!</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/629b70c9d02ea2b34ca8862e</link>
+    <guid isPermaLink="false">629b70c9d02ea2b34ca8862e</guid>
+    <pubDate>Sat, 04 Jun 2022 14:48:41 +0000</pubDate>
+    <description><![CDATA[<p><span>本期请到了隔壁《Web3任意门》的主播屏风（微博@alpha小屏 twitter:@byobu4）一起聊DAO这个话题。</span></p><p><strong><span>本期内容：</span></strong></p><p><span>1. 比特币是一个完美的DAO的雏形</span></p><p><span>2.DAO的四种分类：protocal DAO, impact DAO，创作者4.0 DAO以及DAO for public good</span></p><p><span>3.DAO中的roles是参与过程中打磨出来的</span></p><p><span>4.有哪些roles是DAO中独有的？</span></p><p><span>5.在DAO里贡献和上班的区别</span></p><p><span>6.Squad（小队）是什么，为什么Web3适合用squard模式探索？</span></p><p><span>7.DAO和DAO之间互相持有代币叫财库多元化</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltMYHonUqikc3wmYYKpZohTmulap.m4a" length="54337368" type="audio/mp4"/>
+    <itunes:duration>00:55:49</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwLUpFVlZPdFVham1NYk0yUVU2N1VKY042MDEucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.05 和陈楸帆聊科幻、元宇宙与我们的未来</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/626257656e11ff9a9f9a98d6</link>
+    <guid isPermaLink="false">626257656e11ff9a9f9a98d6</guid>
+    <pubDate>Fri, 22 Apr 2022 07:21:08 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们请到了真正的科幻作家陈楸帆，非常意识流地从他的脑中窥探了他眼中的科幻、元宇宙与未来世界。</span></p><span></span><p><strong><span>本期嘉宾：</span></strong></p><span></span><p><span>陈楸帆：科幻作家，编剧，翻译，策展人，代表作包括《荒潮》《人生算法》《AI 2041》等。也曾在Google、百度及科技创业公司诺亦腾有超过十年的管理经验。</span></p><span></span><p><span>主要内容：</span></p><span></span><p><span><a class="timestamp" data-timestamp="408">06:48</a>《雪崩》作者的另一本预言大作《编码宝典》</span></p><span></span><p><span><a class="timestamp" data-timestamp="939">15:39</a> metaverse native可能在新的环境里重新定义“真实”</span></p><span></span><p><span><a class="timestamp" data-timestamp="1305">21:45</a> 人类面临的最大的问题其实就是我们拥有旧世纪时代的情感。中世纪的制度和像神一样的技术</span></p><span></span><p><span><a class="timestamp" data-timestamp="1722">28:42</a> 元宇宙帮助人们实现对身份束缚的解脱</span></p><span></span><p><span><a class="timestamp" data-timestamp="1954">32:34</a> 判断一个技术到底是好还是坏，可以看它能否最大程度地去解放一个人或者一个社会自我实现的这种潜力</span></p><span></span><p><span><a class="timestamp" data-timestamp="2188">36:28</a> 永生研究：生物去对抗肉身或者精神的有限性</span></p><span></span><p><strong><span>#link</span></strong></p><span></span><p><span>AI 2041: Ten Visions for Our Future，Kai-fu Lee，Chen Qiufan</span></p><span></span><p><strong><span><a data-url="https://www.amazon.com/AI-2041-Ten-Visions-Future/dp/059323829X" href="https://www.amazon.com/AI-2041-Ten-Visions-Future/dp/059323829X">www.amazon.com</a></span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljuSP7BzujEx9u9dsl8ijLMji4Ca.m4a" length="41039542" type="audio/mp4"/>
+    <itunes:duration>00:42:10</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzUnlfaUV3Snd5Ylk0UlE2TXpBU3d3STNrWXoucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.04 和IndigoX、Rokey聊Web3、NFT和我们的数字化未来</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62445e38a36f87d90b3adc0f</link>
+    <guid isPermaLink="false">62445e38a36f87d90b3adc0f</guid>
+    <pubDate>Wed, 30 Mar 2022 13:42:15 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期嘉宾：</span></strong></p><span></span><p><span>IndigoX：solo investor, INDIGO数字镜像博主 视频号：英迪格与艾里克</span></p><span></span><p><span>Rokey: EICO联合创始人</span></p><span></span><p><span>Syan：作为Web2-Web3人型中间件参加了对谈</span></p><span></span><p><strong><span>主要内容：</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="410">06:50</a> 1、Web2 与 Web3发展的对比</span></p><span></span><p><span>Web3 核心解决什么问题？会有哪些新模式？</span></p><span></span><p><span>Web3把互联网的资产层和身份层从Web2中解耦出来（Syan）</span></p><span></span><p><span>Web2产生社交图谱，Web3C产生经济图谱（Indigo）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1725">28:45</a> 2、NFT 入场体验，怎么连接到社区，NFT的不同类型以及和元宇宙之间的联系</span></p><span></span><p><span>NFT作为一种新的数字资产共识形成的几个阶段（Syan）</span></p><span></span><p><span>从meme到共识的网络效应（Indigo）</span></p><span></span><p><span>围绕IP创建新形态的关系网络（Rokey）</span></p><span></span><p><span>从IP框架到基于社区的元宇宙建设（Syan）</span></p><span></span><p><span><a class="timestamp" data-timestamp="3221">53:41</a> 3、聊聊对数字化未来的看法</span></p><span></span><p><span>全面数字化会对经济 or 社会有什么影响：带来创意优先的时代（Indigo）</span></p><span></span><p><span>Web 3 时代带来全新的数字经济，需要新的GDP统计模式（Indigo）</span></p><span></span><p><span><a class="timestamp" data-timestamp="4235">1:10:35</a> 4、全篇回顾总结</span></p><span></span><p><span>聊到了一本还没出版的新书《The Network State》，它的作者是 Balaji，Coinbase 前 CTO 和 a16z 合伙人之一，也是美国政治期刊的长期供稿人。我们如何通过新的数字技术来组建一个没有地域疆界的网络政体，或者是一个共同体，观点十分前卫！(Indigo）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljde4J2sa3tIhnG-nSgFsmw1_6Lt.m4a" length="70317288" type="audio/mp4"/>
+    <itunes:duration>01:11:55</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwTVJPMjJwMlo5VTVnQzlaekJvU0lwWXY3NTQucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.03 未来数字栖息地: Ting/Xiankun/何展/Alex</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6200a1d30c35c9f95dca17e7</link>
+    <guid isPermaLink="false">6200a1d30c35c9f95dca17e7</guid>
+    <pubDate>Mon, 07 Feb 2022 04:36:33 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们回顾了元宇宙过去一年的进展。过去一年，元宇宙的概念进入了公众的视野。许多人才、资金都投入到这个领域的建设当中。虽然目前还没有一个项目能反映未来数字生活空间的全貌，但是它们所包含的特征都指明了它的发展的线索。在迎接更大的变化之前，我们需要更多思考驱动它到来的内在原因是什么？我们将从何种途径来实现它？届时会产生什么样新的商业格局和生活形态？</span></p><span></span><p><span>#本期嘉宾：</span></p><span></span><p><span>宋婷, AI和区块链艺术家，中国传统艺术拍卖行首拍对抗生成神经网络艺术品作者，中国传统艺术拍卖行首拍NFT艺术品作者，在人工智能和NFT这两大前沿阵地，艺术家宋婷不断探索信息科技哲学主题的艺术创作。</span></p><span></span><p><span>何展，NVIDIA在中国的Omniverse业务负责人；负责Omniverse、图形可视化市场、生态合作伙伴开发和中国的其他业务。</span></p><span></span><p><span>吴显昆，rct.ai 联合创始人兼总裁</span></p><span></span><p><span>王乐庆 Alex, 腾讯至信链负责人</span></p><span></span><p><span>#内容提要</span></p><span></span><p><span>艺术家眼中的Metaverse：如果有一天有艺术metaverse的到来，它其实可能不关乎于我们非常先进的、能够对标现实世界进行高强度模拟的渲染技术；它可能更关乎于人跟人之间的真实的连接</span></p><span></span><p><span>元宇宙塑造新的价值体系：人们对于塑造自我，去找到自己在社会上面的位置的诉求会越来越重要，交易成本最低，比现实生活当中帕雷托或者幸福感最强的状态还要高一个层次的最优的状态</span></p><span></span><p><span>科技树的终局：元宇宙不是一个应用，元宇宙是人类的下一代的网络。所以我们在点亮信息这条线的科技树，本质上还在加强人类的信息沟通效率</span></p><span></span><p><span>元宇宙世界的游戏新商业模式：游戏场景制作方将围绕NFT的背后的所有的数据库或者围绕NFT所有的使用场景搭建出来</span></p><span></span><p><span>新职业：体验元宇宙从“整策师”精选的数字原生的“画廊”与“商场”开始</span></p><span></span><p><span>#本期封面nft</span></p><span></span><p><span>宋婷.《敦煌AI橘子舞》</span></p><span></span><p><span>主播：</span></p><span></span><p><span>syan 推特 @emmthesqui</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lm007iABMozSfePumyu7_RPcLkTQ.m4a" length="90258822" type="audio/mp4"/>
+    <itunes:duration>01:32:39</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxVTl3c0MzWDlRa1V6S09JVlBZTEs5dWlUQ1cucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.02：和刘美丽聊区块链 | Web3是互联网必将走向的未来吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61d6d0fee345aa7ec459e2f2</link>
+    <guid isPermaLink="false">61d6d0fee345aa7ec459e2f2</guid>
+    <pubDate>Thu, 06 Jan 2022 11:22:37 +0000</pubDate>
+    <description><![CDATA[<p><span>从区块链诞生的第一天起，它也是被予以厚望的变革型技术。我们今天非常热烈讨论web3，在2016年也发生过。同样对它的商业潜力有很多畅想。但后来经过了一轮一轮的泡沫和炒作。一直走到5年后的今天，才发现最初的愿景在慢慢成型。今天我们就来一起回顾一下这一段有意思的历程。</span></p><p><span>本期嘉宾：刘美丽</span></p><p><span>一直在web2从事产研工作，在字节美团airbnb等做过云计算，搜索，广告等各种技术方向。入坑web3和metaverse一年有余，深深被这个行业的社区氛围和创新速度所感染。</span></p><p><span>主播：Syan</span></p><p><span>对技术如何塑造未来经济社会有浓厚兴趣，正在Web3和Metaverse遨游。一直在web2大厂做产业研究工作。上古时代写过一本关于古典区块链的著作《产业区块链》。喜欢探索未来与心灵，喜欢jazz和购买归零小图片。</span></p><p><span>#你可以听到：</span></p><p><span><a class="timestamp" data-timestamp="360">06:00</a> 来聊聊区块链提供了什么功能，只聊名词</span></p><p><span><a class="timestamp" data-timestamp="531">08:51</a> 目前互联网的三个特点</span></p><p><span><a class="timestamp" data-timestamp="605">10:05</a> 无需许可的访问和天然存在的信任</span></p><p><span><a class="timestamp" data-timestamp="880">14:40</a> 在区块链上开发一个协议和web2开发有什么区别？</span></p><p><span><a class="timestamp" data-timestamp="1277">21:17</a> 区块链是制造共识的世界计算机</span></p><p><span><a class="timestamp" data-timestamp="1328">22:08</a> 来自2015年的疯狂愿景</span></p><p><span><a class="timestamp" data-timestamp="1530">25:30</a> 聊一聊区块链的典型应用</span></p><p><span><a class="timestamp" data-timestamp="1780">29:40</a> 从技术的角度解释什么是I-C-O （适合作为区块链最后的应用）</span></p><p><span><a class="timestamp" data-timestamp="2025">33:45</a> Defi：一段历史</span></p><p><span><a class="timestamp" data-timestamp="2514">41:54</a> Web3是对Web2的补充</span></p><p><span><a class="timestamp" data-timestamp="2946">49:06</a> 开放性、生成性和可组合性是Metaverse的基础</span></p><p><span><a class="timestamp" data-timestamp="3336">55:36</a> 元宇宙是演化出来的，微信就是Web2时代的元宇宙</span></p><p><span><a class="timestamp" data-timestamp="3800">1:03:20</a> 心理按摩</span></p><p><span>#本期音乐</span></p><p><span>片头：Noisy Life, CAGNET/Section-S</span></p><p><span>片尾：Love Mode, Joakim Karud</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkKlFMeBPpdtrl6XZ_JLV6Fdw4Mt.m4a" length="65143581" type="audio/mp4"/>
+    <itunes:duration>01:06:52</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrY052MlluSWllNVZrcEl3VDZ6LWVKekpCQWIucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.01 ：和陈悦天聊Web3 | 元宇宙在骨不在皮</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61c41da1898eaed5965075a1</link>
+    <guid isPermaLink="false">61c41da1898eaed5965075a1</guid>
+    <pubDate>Thu, 23 Dec 2021 06:56:32 +0000</pubDate>
+    <description><![CDATA[<p><span>What the meta是一档探讨Metaverse，web3的技术、产品和与之相关生活方式的播客节目。</span></p><span></span><p><span>俗话说美人在骨不在皮，在我看来元宇宙也是如此。这一期节目中，我请来了投资人陈悦天一起交流了对元宇宙的认知。我们从web2现有的问题出发，讨论了web3为什么会出现。在我们看来，元宇宙是现实世界在数字世界的映射。理解元宇宙不在于怎么做具体的场景，而是需要了解，新的数字身份、协议、算法将塑造一个什么样的数字原生世界。</span></p><span></span><p><span>本期嘉宾：</span></p><span></span><p><span>陈悦天，火凤资本创始合伙人。</span></p><span></span><p><span>陈悦天先生在中国市场有十年的早期投资经验，专精于传媒和消费互联网的投资，投资案例有：翻翻动漫，绘梦文化，人人视频，SNH48，米未传媒，鱼子酱文化，蔚领云游戏，溯元育新，RCT.ai，Mask Network，Phemex等。陈悦天先生的投资生涯中，开创了诸多之前在投资行业中从未有过的投资新主题和赛道，二次元、青年亚文化、粉丝和社群经济、网络综艺等，关注新一代人的热爱和梦想。</span></p><span></span><p><span>主播：Syan</span></p><span></span><p><span>对技术如何塑造未来经济社会有浓厚兴趣，正在Web3和Metaverse遨游。一直在web2大厂做产业研究工作。上古时代写过一本关于古典区块链的著作《产业区块链》。更早的时候曾经是国内最早的创客和创新生态研究者。喜欢探索未来与心灵。</span></p><span></span><p><span>#为什么要做这个播客？</span></p><span></span><p><span>web3、区块链比起其仅仅作为工具的技术，天然嵌入在生产关系中，除了技术本身，背后还包含很多价值主张。即使同样是web3从业者，其主张也可能有许多差别。同时他们的观点还在市场中不断打磨，导致许多人都形成了一套完备的价值观（ideology）和观点，持仓和产品可能都是这些观点的呈现形式。这种记录可能不仅仅是描述一个行业发展的过程，也是记录社会变迁中有意思思想的碰撞。</span></p><span></span><p><span>时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="290">04:50</a> 人这个生物体接收信息90%以上都来自于视觉</span></p><span></span><p><span><a class="timestamp" data-timestamp="428">07:08</a> 元宇宙是虚拟世界的真实化</span></p><span></span><p><span><a class="timestamp" data-timestamp="579">09:39</a> 从web2的历史看web3出现的必然</span></p><span></span><p><span><a class="timestamp" data-timestamp="940">15:40</a> web2到后期流量模型让互联网的核心商业模式走偏了</span></p><span></span><p><span><a class="timestamp" data-timestamp="1785">29:45</a> protocol把现代工作中来自权威的解释权消解在code中了</span></p><span></span><p><span><a class="timestamp" data-timestamp="1436">23:56</a> 滴滴也可以做成一个司机的DAO组织</span></p><span></span><p><span><a class="timestamp" data-timestamp="2220">37:00</a> 元宇宙是否会定义什么是实体行业？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2580">43:00</a> 从城市发展看元宇宙中的城市的演化</span></p><span></span><p><span><a class="timestamp" data-timestamp="2720">45:20</a> 迎接web3，个体应该做哪些准备？</span></p><span></span><p><span>#延伸阅读</span></p><span></span><p><span>星火预言 2021 <a data-url="https://zhuanlan.zhihu.com/p/376106680" href="https://zhuanlan.zhihu.com/p/376106680">zhuanlan.zhihu.com</a></span></p><span></span><p><span>声明：Syan和嘉宾在播客中的发言仅代表他们的个人看法，不代表所在机构的官方观点。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llWjl0y0O_McllA_yr8BW7jto1ad.m4a" length="48224892" type="audio/mp4"/>
+    <itunes:duration>00:49:32</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zob09sUF9na0ZNX0p6ZnNYM3R2MEJIMTdvcUYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>ep.00 What the Meta试播</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61c1d3903e4fdb4223720765</link>
+    <guid isPermaLink="false">61c1d3903e4fdb4223720765</guid>
+    <pubDate>Tue, 21 Dec 2021 13:16:00 +0000</pubDate>
+    <description><![CDATA[<p><span>诺亚方向要启航了，一起上船吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FgDZDzaPX2RU-J6iEZh8YpeeGvQn.m4a" length="1288900" type="audio/mp4"/>
+    <itunes:duration>00:00:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkhI3YA5HMrV9JtlFnjZooTmbdPQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>汽车人茶馆</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64ac6f1bf4ccb12e0b8d7190</link>
+  <description><![CDATA[坐标在德国，自动驾驶行业，主要是专业内容侃聊，包括人工智能，自动驾驶，汽车行业见闻，职场心得等话题]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:11:44 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64ac6f1bf4ccb12e0b8d7190.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>周志亮</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FnF_710dxcgIcaTvGIhFgQMOJ9-M.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FnF_710dxcgIcaTvGIhFgQMOJ9-M.png</url>
+    <title>汽车人茶馆</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64ac6f1bf4ccb12e0b8d7190</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Reasoning AI学习心得分享</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ab6fa82faa72d7a8ecfa3c</link>
+    <guid isPermaLink="false">67ab6fa82faa72d7a8ecfa3c</guid>
+    <pubDate>Tue, 11 Feb 2025 15:53:36 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 开场简介</span></p><span></span><p><span>学习来源主要参考</span></p><span></span><ul><span>  </span><li><span>Andrej Karpathy的Deep Dive into LLMs like ChatGPT</span></li><span>  </span><li><span>deeplearning.ai上的短课程reasoning with AI</span></li><span>  </span><li><span>另外强烈推荐李沐老师和朱毅老师在B站和油管上的论文解读</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="150">02:30</a> 回顾预训练和Base Model</span></p><span></span><ul><span>  </span><li><span>预训练是个internet documents simulator</span></li><span>  </span><li><span>预训练模型训练需要超大量算力</span></li><span>  </span><li><span>预训练模型决定了模型的上限</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="260">04:20</a> 回顾SFT监督微调模型</span></p><span></span><ul><span>  </span><li><span>监督微调模型是快思考模型</span></li><span>  </span><li><span>监督微调模型是对话模拟器</span></li><span>  </span><li><span>提示词工程之所以重要，是要匹配监督微调的训练样本，以达到最佳抽样</span></li><span>  </span><li><span>监督微调模型训练的对话语料有人类生成的也有AI生成的，openAI提到了用o1-prview训练4o，同样Deepseek-R1也可以用来训练DS V3以及帮助其他公司训练SFT模型，所以DS的开源意义重大影响深远。</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="516">08:36</a> 思考一个问题</span></p><span></span><ul><span>  </span><li><span>对话模拟器对我们输入的文本其实没有权重划分，哪怕我们说了很多废话，模拟器也是把我们的全部输入作为模拟输出的依据。</span></li><span>  </span><li><span>人类在回答问题的时候隐含了一个只可意会不可言传的思考过程，即抓住核心问题忽略其他噪声信息</span></li><span>  </span><li><span>如何让AI做到这样的心智过程？需要AI对人类给出的信息作出合理重组</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="634">10:34</a> Reasoning模型介绍</span></p><span></span><ul><span>  </span><li><span>把输入问题作重组以及根据相关知识扩展思考空间</span></li><span>  </span><li><span>做法是把上一步的reasoning结果放进下一轮的模型输入令牌序列，进行多轮推断</span></li><span>  </span><li><span>强化学习的目的是让AI自行找出重组问题叙述和扩展思考空间的办法，也是超越人类的契机</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="862">14:22</a> 强化学习回顾和Deepseek R1的创新</span></p><span></span><ul><span>  </span><li><span>强化学习和基于样本的监督学习的区别是，样本学习最终是逼近样本，强化学习学习成功策略，可以超越原有已知策略</span></li><span>  </span><li><span>强化学习目前主流是actor critic模式，一个学习策略，一个学习评估局势，两个模型互相训练</span></li><span>  </span><li><span>Deepseek R1去掉了critic，同时用数学和代码数据集训练推理过程，然后直接用规则方式评估局势，因为数学和代码训练集更容易量化和具备确定性。一个比喻是用数学和编程的专科训练来提高AI逻辑思维能力</span></li><span>  </span><li><span>提示词工程对reasoning模型的意义和SFT模型意义不同，反而是思考路线限制越少越好，因为思考路线是强化学习训练的成果</span></li><span></span></ul><span></span><p><span><a class="timestamp" data-timestamp="1496">24:56</a> 总结</span></p><span></span><ul><span>  </span><li><span>reasoning AI是新工作</span></li><span>  </span><li><span>deepseek的开源意义重大，但deepseek很难被复制</span></li><span>  </span><li><span>reasoning AI是强化学习驱动训练的，有机会超越人类，类比AlphaGo和AlphaZero</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ac6f1bf4ccb12e0b8d7190/lvmnf4Sx8G230svGpRGO0cRMwtQ5.m4a" length="24730015" type="audio/mp4"/>
+    <itunes:duration>00:25:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhctkZJu8jWfe5kxa-xcD1UkxdRf.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢08投资现在还是投资未来时间领主思考方式</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b18e11045e78e595e1be</link>
+    <guid isPermaLink="false">6743b18e11045e78e595e1be</guid>
+    <pubDate>Mon, 25 Nov 2024 00:17:53 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fgbv5-c45pTlGyQhDLWtOfoQ48UJ.m4a" length="2902098" type="audio/mp4"/>
+    <itunes:duration>00:02:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢09分享会后的互动讨论</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b1c311045e78e595e63f</link>
+    <guid isPermaLink="false">6743b1c311045e78e595e63f</guid>
+    <pubDate>Mon, 25 Nov 2024 00:17:49 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkLtVVbnXUIMYTGt894mpUtIXItb.m4a" length="11450100" type="audio/mp4"/>
+    <itunes:duration>00:11:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢07年轻人为什么选择躺平退出博弈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b15711045e78e595df14</link>
+    <guid isPermaLink="false">6743b15711045e78e595df14</guid>
+    <pubDate>Mon, 25 Nov 2024 00:17:20 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FlaImAjGTJWlFGm7j_wfHdmo5oY9.m4a" length="2674158" type="audio/mp4"/>
+    <itunes:duration>00:02:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢06囚徒困境的破局</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b10f8d1233fb0db5c93f</link>
+    <guid isPermaLink="false">6743b10f8d1233fb0db5c93f</guid>
+    <pubDate>Mon, 25 Nov 2024 00:16:38 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltPbgLR5QBaKTg-OGgKBfyhxMFc2.m4a" length="5127058" type="audio/mp4"/>
+    <itunes:duration>00:05:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢05诚实策略老实人不吃亏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b0cf8d1233fb0db5c66b</link>
+    <guid isPermaLink="false">6743b0cf8d1233fb0db5c66b</guid>
+    <pubDate>Mon, 25 Nov 2024 00:16:25 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk6AtZY5w877SrInZroEuBD-7Edm.m4a" length="8205953" type="audio/mp4"/>
+    <itunes:duration>00:08:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢04赢家诅咒</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b06c8d1233fb0db5beee</link>
+    <guid isPermaLink="false">6743b06c8d1233fb0db5beee</guid>
+    <pubDate>Mon, 25 Nov 2024 00:16:19 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lo3jE0ctuUlDEEfUJxyCiV2aBK-Y.m4a" length="7290057" type="audio/mp4"/>
+    <itunes:duration>00:07:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢03禀赋效应</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743b03311045e78e595ca80</link>
+    <guid isPermaLink="false">6743b03311045e78e595ca80</guid>
+    <pubDate>Mon, 25 Nov 2024 00:15:58 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqFMF-IJtCCp5tvoYEirGrEX7bRR.m4a" length="5263360" type="audio/mp4"/>
+    <itunes:duration>00:05:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢02控制错觉</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743afeb11045e78e595c5eb</link>
+    <guid isPermaLink="false">6743afeb11045e78e595c5eb</guid>
+    <pubDate>Mon, 25 Nov 2024 00:15:51 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luExKmSn2LwDwZ-daAeAUayglPu8.m4a" length="6422596" type="audio/mp4"/>
+    <itunes:duration>00:06:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuOVHCeY4gIjflA9OWtvNUyA9tuQ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>思考快与慢01引言</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6743afa711045e78e595c1f0</link>
+    <guid isPermaLink="false">6743afa711045e78e595c1f0</guid>
+    <pubDate>Mon, 25 Nov 2024 00:15:40 +0000</pubDate>
+    <description><![CDATA[<p><span>开车的路上经常会听一些有声读物和录播课程。基于费曼学习法，为了让一些有价值的知识记忆更牢固，特意在汽车人茶馆社区和朋友们分享自己的读书感悟。这里是剪辑录音版本。</span></p><span></span><p><span>本季分享的读物是Daniel Kahneman的著作Think Fast and Slow以及微信视频上王珞老师的商学院博弈论案例课程。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FozNeORLSa8Ml-nMY7XTzNYyE5IG.m4a" length="4045171" type="audio/mp4"/>
+    <itunes:duration>00:04:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiFVvrkOmE8r4-9DFVRYckoaDNcM.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>白话CLIP多模态模型</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64ac8158b21ecc647dd9c451</link>
+    <guid isPermaLink="false">64ac8158b21ecc647dd9c451</guid>
+    <pubDate>Mon, 10 Jul 2023 22:08:23 +0000</pubDate>
+    <description><![CDATA[<p><span>汽车人茶馆clubhouse新一期夜话，主讲人周志亮，大白话聊一聊多模态模型，如何把自然语言和图像连接起来。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loM-wQ9jyF_zo2n1tP4lL4XKan_N.m4a" length="100577161" type="audio/mp4"/>
+    <itunes:duration>02:21:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnF_710dxcgIcaTvGIhFgQMOJ9-M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>评书版GPT技术解读与思考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64ac80f3f4ccb12e0b8dabed</link>
+    <guid isPermaLink="false">64ac80f3f4ccb12e0b8dabed</guid>
+    <pubDate>Mon, 10 Jul 2023 22:06:43 +0000</pubDate>
+    <description><![CDATA[<p><span>本期主讲人周志亮，以时间为线索回顾GPT的发展历史，重点讨论一个脑洞，关于Codex模型的意义，是否是GPT推理技能的基石，Codex引入的计算机语言，也就是程序代码使得AI可以在自己的世界里形成逻辑自洽，比如设计程序，运行程序，得到结果。之前的GPT3学习人类语言也许是不能产生这样的逻辑的。所以GPT-3.5是以code-davici-002开始的，而不是GPT3。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkKCQmC4xGNnfoZ2gTa-XmuiWs34.m4a" length="48055040" type="audio/mp4"/>
+    <itunes:duration>00:53:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnF_710dxcgIcaTvGIhFgQMOJ9-M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>聊一聊chatGPT</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64ac80afb21ecc647dd9bf65</link>
+    <guid isPermaLink="false">64ac80afb21ecc647dd9bf65</guid>
+    <pubDate>Mon, 10 Jul 2023 22:05:35 +0000</pubDate>
+    <description><![CDATA[<p><span>来自汽车人茶馆的沙龙夜话，主讲人周志亮，在2月初聊一聊GPT对社会的首次冲击</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhhIKX7z573paQOTnSjla42-RXml.m4a" length="99242863" type="audio/mp4"/>
+    <itunes:duration>01:51:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnF_710dxcgIcaTvGIhFgQMOJ9-M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

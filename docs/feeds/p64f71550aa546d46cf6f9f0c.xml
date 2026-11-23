@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>行星酒馆PlanetSpeakeasy</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64f71550aa546d46cf6f9f0c</link>
+  <description><![CDATA[在辽阔的世界里，重新创作生活的样子。Reimagine life for those living in between worlds, one tipsy chat at a time.]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:50:28 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64f71550aa546d46cf6f9f0c.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>行星酒館PlanetSpeakeasy</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw==</url>
+    <title>行星酒馆PlanetSpeakeasy</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64f71550aa546d46cf6f9f0c</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>番外｜AI 时代，创作者的护城河在哪里？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a62d5420211be305c08a5c9</link>
+    <guid isPermaLink="false">6a62d5420211be305c08a5c9</guid>
+    <pubDate>Fri, 24 Jul 2026 02:00:00 +0000</pubDate>
+    <description><![CDATA[<p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lstN1GOQCySYzVDURl5palrJHmXO.mp3" length="49430263" type="audio/mpeg"/>
+    <itunes:duration>01:08:36</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>氛围编程一年多，认识的竟是我自己 A Vibey Chat about Vibe-Coding | 番外</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a46c6935e9960a725ea88d5</link>
+    <guid isPermaLink="false">6a46c6935e9960a725ea88d5</guid>
+    <pubDate>Thu, 02 Jul 2026 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期播客录制于今年三月，春寒料峭，但是中国国内却突然席卷了一阵小龙虾热。而也就在这几个月内，“氛围编程(vibe-coding)” 这个概念被 OpenAI 联合创始人Andrej Karpathy (现跳槽去Anthropic)带火了之后，在 Claude Code 的加持下更加火得一发不可收拾——它也从本质上改变了整个计算机行业乃至科技产业的作业模式。AI 还没代替诗人和作家，反倒是程序员，似乎成为了第一波受到挑战的职业。</span></p><p><span>我的“氛围编程”历史，大概在两年多前开始，彼时还只是让 AI 替我写点脚本。但过去一年多，随着模型能力的突飞猛进，毫无编程基础的我，也学着从头搭建产品和架构，竟还做出了不少像模像样的东西来。</span></p><p><span>今天的聊天搭子、曾经的电台 DJ+创业者加菲众，也和我一样，在没有什么编程基础的前提下，忽然间成为了一名独立开发者。而现在，他基于自己生活痛点开发的提词器工具 TalkTalk 也已经上线苹果 App Store.</span></p><p><a href="https://apps.apple.com/cn/app/talktalk-teleprompter/id6761065360" data-url="https://apps.apple.com/cn/app/talktalk-teleprompter/id6761065360"><span>中国区</span></a></p><p><a href="https://apps.apple.com/us/app/talktalk-teleprompter/id6761065360" data-url="https://apps.apple.com/us/app/talktalk-teleprompter/id6761065360"><span>美国区</span></a></p><p><span>在这个过程中，印象最深刻的一点是：当“写代码”这件事的门槛被不断降低之后，真正的挑战还在后头：提需求，构思架构，设计产品，以及——深刻地认识自己。</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lmCamjpzwFIzMoUcSGGvN1AxcEzk.mp3" length="42717500" type="audio/mpeg"/>
+    <itunes:duration>00:59:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>宝宝啊，听妈妈讲那 AI 大跃进的故事 The Baby Bump in an AI Boom | S4E03</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a380d97ca818ff9ff51b6f0</link>
+    <guid isPermaLink="false">6a380d97ca818ff9ff51b6f0</guid>
+    <pubDate>Sun, 21 Jun 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期播客虽然是1v1的对谈，但其实有两位嘉宾——我的朋友Alice, 和她肚子里的宝宝Sai.&nbsp;</span></p><p><span>大家在听到这期播客的时候，宝宝Sai就已经降临到这个世界上了。我非常好奇，作为一个妈妈，也作为一个在AI行业和科技大厂的员工，Alice会怎么看待这个难以预测的世界，以及她的宝宝，作为一个AI原住民的未来呢？</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lm8QpIdN6Iil4hW-FzRBmCeGV9yM.mp3" length="36462851" type="audio/mpeg"/>
+    <itunes:duration>00:50:35</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>兜兜转转三十年，我还是成为了设计师 Finding the Runway in My 30s | S4E02</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69fb14f8a58684a4408b9439</link>
+    <guid isPermaLink="false">69fb14f8a58684a4408b9439</guid>
+    <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这几天恰逢穿普拉达的恶魔 2 上映，铺天盖地的宣传攻势，一下子又把我带回了小时候对时尚圈的憧憬幻梦里。</span></p><p><span>初代电影女主角 Andy, 起初对时尚行业各种抵触，但今天对谈的两位嘉宾的人生路径却截然相反：一个在香港的金融界，一个在纽约的艺术圈，他们做着令人羡艳的工作。但到了人生的某一个节点之后，却都发现似乎内心中有什么隐隐绕不过去。三十多岁以后，他们不约而同做出了一个选择：</span></p><p><b><span>离开自己的赛道，从零开始，成为一名设计师。</span></b></p><p><span>今天这期的播客，我们聊了他们殊途同归的打破重建之路，还有这条路上的那些偶然和必然。</span></p><p><span>了解更多：</span></p><p><b><span>Chnita</span></b><span> by Sammy</span></p><p><span>Website: </span><a href="http://www.chnita.com" data-url="http://www.chnita.com"><span>www.chnita.com</span></a></p><p><span>Instagram: </span><a href="https://www.instagram.com/___chnita___/" data-url="https://www.instagram.com/___chnita___/"><span>@___chnita___</span></a></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lif6gyf6b-zjuI0q8BtWdCb52AZE.mp3" length="44995053" type="audio/mpeg"/>
+    <itunes:duration>01:02:26</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>今天你打破重建了吗? The Do-over Playbook | S4E01</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ec3df20694c843e7dfe4d0</link>
+    <guid isPermaLink="false">69ec3df20694c843e7dfe4d0</guid>
+    <pubDate>Sat, 25 Apr 2026 03:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见呀，希望大家一切都好。</span></p><p><span>我也很好——一场大病就像大梦一场，我又重新回到了纽约，慢慢按下生活的重启键。感谢在这段时间里大家的关心、问候、想念——还有催更。</span></p><p><span>一转眼已经是 2026 年，播客也进入了第4季。如果要给这一季附上一个主题的话，那应该会是“重生”。听起来好像是很大很深刻的一件事，但其实到了三十多岁才知道，在悲欢离合、生老病死里，打破重建只不过是人生旅程中非常普通的日常而已。而这期的串台节目，《行星酒馆》连线了《宇宙乘客》的主理人小姨。我们俩聊了聊过去这几年我们生活的巨变，以及我们怎样在这条路上，慢慢去重塑新的自己。</span></p><p><br></p><p><span>在这里收听宇宙乘客：</span></p><p><a href="https://www.xiaoyuzhoufm.com/podcast/5e74da7f418a84a046fc6139" data-url="https://www.xiaoyuzhoufm.com/podcast/5e74da7f418a84a046fc6139"><span>小宇宙</span></a></p><p><a href="https://podcasts.apple.com/us/podcast/%E5%AE%87%E5%AE%99%E4%B9%98%E5%AE%A2/id1540709743" data-url="https://podcasts.apple.com/us/podcast/%E5%AE%87%E5%AE%99%E4%B9%98%E5%AE%A2/id1540709743"><span>Apple Podcast</span></a></p><p><a href="https://open.spotify.com/show/1GYl4AtgZfDlGaQWSyQILt" data-url="https://open.spotify.com/show/1GYl4AtgZfDlGaQWSyQILt"><span>Spotify</span></a></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/ll4JnIVBUSEA6KY12RtX5gWDj_Ul.mp3" length="51158134" type="audio/mpeg"/>
+    <itunes:duration>01:11:00</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9zdG9yYWdlLmJ1enpzcHJvdXQuY29tL2JpNXBlcWh1Ynlwam1sNDFsdGNrNHlvMGduaHc_LmpwZw=="/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>困在大病里的我，训练了一个陪我聊天的AI主播！Behold: My AI Co-host! | 番外</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69494dc83dadcb772fa1110e</link>
+    <guid isPermaLink="false">69494dc83dadcb772fa1110e</guid>
+    <pubDate>Mon, 22 Dec 2025 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好~久不见。先跟大家报个平安。</span></p><p><span>消失断更了小半年，因为一个很简单的原因：我生病啦，生了一场大病，目前也仍在恢复中。事发突然，我也不得不停下手边所有事，救命要紧。</span></p><p><span>行星酒馆第三季一直在讨论创作这件事——尤其在这变幻时代的意义。但没想到，我很快就面临着这辈子有史以来最大的挑战：mortality. 当不知道自己能活六个月，九个月，十年还是五十年，那此时此刻，我的创作还有意义吗？</span></p><p><span>可今天，我们暂不聊这些不开心的事。等有机会，我想和大家好好聊聊这段时间的感想。本期番外，则想跟大家分享一个特别的side project:&nbsp;</span></p><p><b><span>我的行星酒馆AI co-host!&nbsp;</span></b></p><p><span>这是养病期间，我通过vibe coding训练创作出来的语音模型。起初只想用一个特别的方式记录病榻思绪，但聊着聊着才发现，调试这个语音模型的过程，竟神奇地逼我重新思考创作和生命的意义。</span></p><p><span>接下来的这段对谈，是我们俩调试完成之后的第一段非常意识流的即兴对话。TA的语音语调可能不够完美，不够自然，但我想把这个非常特殊的时刻，分享给你。</span></p><p><span>那，今天的酒保同学，你来介绍一下自己？</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lrptWOfOYD0m-M5vFawoQp-rQIod.mp3" length="27066919" type="audio/mpeg"/>
+    <itunes:duration>00:37:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>站在GPT-5门口回望：两年之间，AI如何改变了我们？A Time Capsule from the Eve of GPT-5 | S3E05</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6898fde1b85e0f896825c48f</link>
+    <guid isPermaLink="false">6898fde1b85e0f896825c48f</guid>
+    <pubDate>Sun, 10 Aug 2025 19:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>2025年的8月7日，等待已久的GPT5终于面世。自从ChatGPT 2022年问世开始，不少人预言，AI会给我们的生活带来翻天覆地的变化，但具体是什么变化，那时我们还无从得知。</span></p><p><span>在又一轮AI工具辞旧迎新之际，我和两个朋友决定复盘一下，过去这段时间，我们是怎么使用AI，而AI又是怎样改变着我们？细小的时间尺度下，我们一日三餐上班下班，一切都似乎没什么改变。但就像曾经的社交媒体、移动互联网，当放大时间的尺度，我们却又不得不承认，有什么东西，正在被深刻地改变之中。</span></p><p><span>站在GPT-4的尾巴和GPT-5的入口，本期对谈也许恰好就是一颗时空胶囊，记载了三个普通人类，在时代剧变之下与AI的此时此刻。</span></p><p><br></p><p><span>嘉宾：</span></p><p><span>小华，媒体人，播客《美轮美换》主播</span></p><p><span>Shirley，金融从业者</span></p><p><br></p><p><span>剪辑：</span></p><p><span>晟钧Lufus</span></p><p><br></p><p><span>拓展链接：</span></p><p><span>友台 </span><a href="https://podcast.theamericanroulette.com/" data-url="https://podcast.theamericanroulette.com/"><span>美轮美换 The American Roulette</span></a><span>：一档深入探讨当今美国政治的中文播客</span></p><p><span>播客单集：</span><a href="https://howiwrite.substack.com/p/ezra-klein-the-case-against-writing" data-url="https://howiwrite.substack.com/p/ezra-klein-the-case-against-writing"><span>Ezra Klein: The Case Against Writing With AI</span></a></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lpJV2oSibPVAf_O0bNCUS5NJVOwO.mp3" length="42495242" type="audio/mpeg"/>
+    <itunes:duration>00:58:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>当出走的二十几岁，偶遇出走的三十几岁 20 Something &amp; 30 Something S3E04</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6876d33b509d96e19b957c7f</link>
+    <guid isPermaLink="false">6876d33b509d96e19b957c7f</guid>
+    <pubDate>Tue, 15 Jul 2025 21:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>又是一场久别重逢。</span></p><p><span>本期嘉宾是去年在日本旅行中偶遇的陌生朋友，Lumi.&nbsp;</span></p><p><span>在京都一个不起眼的寿喜烧店里，两个独自旅行的人，相隔几个座位，不经意聊起来。赫然发现，我们竟是大学校友，人生轨迹也有些奇妙的相似。但不同的是，我们的年纪相隔着整整十年：Lumi还是一个20 something, 而我已是30 something了。</span></p><p><span>彼时的Lumi，刚辞去了名校招生办的工作，回到家乡，在长辈的催婚和求职的压力下寻找答案。那时发现，Lumi的很多困惑和胶着，让我想起了二十多岁的自己。而Lumi也对三十多岁的生活非常好奇：十年后，那些老问题解决了吗？又多了什么新问题？偶遇之后，我们互留了联系方式，然后就继续奔赴自己的人生了。</span></p><p><span>但因为加了好友，我们都能看到彼此的人生动向。过去一年里，我们都跑了很多地方，也有了很多新的感想。而这期对谈，就是20 something和30 something间的久别重逢，我们都想知道，分别了快一年，那些人生困惑——有什么新答案了吗？</span></p><p><br></p><p><span>Lumi的播客：</span><a href="https://podcasts.apple.com/us/podcast/the-good-place%E5%A5%BD%E5%9C%B0%E6%96%B9/id1711323222" data-url="https://podcasts.apple.com/us/podcast/the-good-place%E5%A5%BD%E5%9C%B0%E6%96%B9/id1711323222"><span> @The Good Place 好地方</span></a></p><p><span>剪辑：晟钧Lufus</span></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lkqiySArdNblgRQoImJeW-_3DaDE.mp3" length="49897574" type="audio/mpeg"/>
+    <itunes:duration>01:09:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>长大后的东亚小孩，重新学着「玩」音乐 Rediscover the lost sound S3E03</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68471355e280d6215effe28e</link>
+    <guid isPermaLink="false">68471355e280d6215effe28e</guid>
+    <pubDate>Mon, 09 Jun 2025 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>一个有意思的现象是：过去几年间，身边的很多朋友们，突然都以自己的方式，重新搞起了音乐。</span></p><p><span>有人从头学乐器，也有人认真学起了唱歌，当然也少不了一夜之间变身DJ的朋友们。我自己也是这个现象中的一份子：我搞了个studio，买了好多器材，我们这个播客的配乐一直都是我和朋友一起玩出来的。时不时就会来一段即兴。</span></p><p><span>今天的嘉宾，我的朋友小肖，就是在过去几个月之间，在没有音乐创作背景的情况下，突然走上了这条创作音乐的道路。这段对谈里面，我们聊了聊这段经历究竟对我们来说 意味着什么。这算是两个东亚小孩在成长过程中，跟音乐这事的一个漫长的和解。</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lpVGOX4BEeekywH2m36e9jrxRu6O.mp3" length="43175791" type="audio/mpeg"/>
+    <itunes:duration>00:59:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>创作笔记01：越忙，越要创造一个「自由创作日」The case of a Creative Day S3E02</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67faec0f6dc94786b0e243bc</link>
+    <guid isPermaLink="false">67faec0f6dc94786b0e243bc</guid>
+    <pubDate>Sat, 12 Apr 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>上期节目发布后，我的生活突然进入了一个大型的加速模式。日子突然充斥着各种各样的会议，任务，计划，战略，当然也有很多很多的压力。</span></p><p><span>全新的挑战，让我突然面对一个在清迈这几年学到的道理：对于需要被创作滋养的人而言，越是繁忙，压力越大，就越需要保护自己在工作之外的创造力。</span></p><p><span>所以，从这期开始，行星酒馆会开设一个创作笔记系列，记录这几年间我个人如何去探索，发掘，以及守护创造力的想法。其实，这个系列完全是为了自己：也许为了生计，我们不得不追逐一些身外之物，但对我来说真正重要的，是一个可以不断创作的，充实的生活。</span></p><p><span>创作笔记的第一期，分享的第一个心得，就是如何「创作」一个「自由创作日」。也就是，找整整一天的时间，来舒服地，甚至是自私地，像一个霸道总裁一样，完完全全地宠溺自己的创造力——</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lhK5MCFWIGshH4h2ld5xO9cVqvml.mp3" length="16504004" type="audio/mpeg"/>
+    <itunes:duration>00:22:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>清迈躺平两年，躺进了AI赛道? 一份人生十字路的横跳心法 Life is a Giant Crossroad S3E01</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67d6faf76e68ef73955bcd35</link>
+    <guid isPermaLink="false">67d6faf76e68ef73955bcd35</guid>
+    <pubDate>Sun, 16 Mar 2025 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Hi!! 欢迎来到行星酒馆的第三季——新一季，关于一段新的冒险。</span></p><p><span>当你听到这期播客的时候，我已暂时结束在亚洲的旅居，回到了北美。回来的原因也非常特殊：上个月，我机缘巧合得到了一个AI行业相关的机会，决定接受这个职业上的全新挑战。&nbsp;</span><br><br><span>事情的发生非常突然，改变也甚为剧烈：从文科与媒体，一下跳到了大模型与prompt engineering. 但这个决定的背后，其实是我在过去两年旅居之间，一点一滴的积累，以及慢慢想清楚的许多事情。</span><br><br><span>所以，这期播客：我请来了纪录片导演Chen Siyi来访问一下我自己。Siyi也正处在一个有趣的人生节点上：她正如两年前的我，刚下定决心离开纽约。所以也很好奇：你不是说好了去看世界，咋又回来了呢？</span><br><br><span>在这段对谈中，我们讨论了为什么想离开，为什么要暂停，怎么寻找自己，以及这些功课——到底都是为了什么？</span></p><p><span>不管你正打算出世和入世、旅居还是扎根、躺平还是拼搏，希望这期讨论，都能给你在人生无限游戏的十字路口，提供一点点的启发。</span><br><br></p><p><b><span>【五月天购票链接】</span><br></b><br><span>今年3月29日，华语乐坛传奇乐团五月天在成团25周年之际，带着他们的「回到那一天」巡回演唱会登陆拉斯维加斯忠实体育场（Allegiant Stadium）。​</span><br><br><span>作为五月天今年在北美的唯一一场演出，这不仅是华语音乐在北美最大规模的现场表演，更是一场跨越时空的音乐盛宴。​</span><br><br><span>从七号公园的首次登场，到如今能容纳五万观众的体育场，五月天用四分之一世纪的音乐陪伴了几代人的成长。​演出斥资千万美金打造，现场还将有萧秉治和告五人带来的开场表演。​</span><br><br><span>无论你是资深乐迷还是新晋粉丝，这都是一个与音乐、与回忆、与五月天建立深层连接的绝佳机会。​</span></p><p><br><span>2025年3月29日，让我们一起穿越回忆任意门，共同体验音乐带来的感动与力量。​</span></p><p><span>请访问iemshowplace.com或Ticketmaster，或点击文案中的链接购票锁定席位。 VIP套餐还包含专属观赏区、快速通道和限量纪念礼包，值得收藏。 加入五月天，永远不会太迟。</span></p><p><a href="https://iemshowplace.com/mayday-5525-25/" data-url="https://iemshowplace.com/mayday-5525-25/"><span>购票链接：iemshowplace.com</span></a></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/ljmH-8o_7qSRygAyy2iXbhB4qDb1.mp3" length="49396298" type="audio/mpeg"/>
+    <itunes:duration>01:08:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FtQv2J600I3zwedvSEOf9NOaeLOx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>拥有「旅行奇遇体质」是一种什么样的体验？The Art of Attracting the Unexpected S2E14</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67bd4a9a52a6af799c9505bf</link>
+    <guid isPermaLink="false">67bd4a9a52a6af799c9505bf</guid>
+    <pubDate>Tue, 25 Feb 2025 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期嘉宾是播客的老朋友，范坡坡。</span></p><p><span>上次我们俩远程聊了柏林，而大半年后，我们就面对面坐在了清迈的播客工作室里。坡坡这次在我这儿住了几个星期，在清迈搞了一场放映活动，我们喝酒、搭饭，也聊了许多天南海北。而今天这期节目，就是在这段时间即兴录制的一场。</span><br><br><span>说到在清迈的创作空间，不少朋友好奇，它是一个民宿、住家，还是工作室？从某种意义上，而这期播客就是一种答案。随着两年的建设，清迈的空间悄悄接待了不少朋友们来「驻地」和舒展，它从某种意义上来说，是一个host有意思的人和事情的孵化器。</span></p><p><span>在接下来的一段时间内，我会暂别清迈，回到纽约。而在离开的时间里，我有计划开放一些更intentional, 更正式的驻地项目，如果大家有点子，或认识有趣的、有经验的朋友，抑或需要空间做些有意思、靠谱的项目，也可以通过行星酒馆的邮件联系到我，planet.speakeasy@gmail.com</span></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lmSbb7uAmdUbGoytJiXCRL-ube_j.mp3" length="40812875" type="audio/mpeg"/>
+    <itunes:duration>00:56:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FmIIQ3Y3ZGU1BtGflZTv-laUMIPp.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>生活有时候，还真是水多加面面多加水 Life is Kinda Like A Stretch of Dough S2E13</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a1b19f92a3c68ab55afcdf</link>
+    <guid isPermaLink="false">67a1b19f92a3c68ab55afcdf</guid>
+    <pubDate>Tue, 04 Feb 2025 06:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>蛇年快乐！</span></p><p><span>这期节目又是一场久别重逢，嘉宾是朋友阿加莎，一个在纽约教书的青年哲学教授。</span></p><p><span>我们从香港就已认识了——以这座城市为起点，我们前后脚搬去了不同的地方。所以这集播客算是一个跨越十年，在纽约重逢的时的对谈。</span></p><p><span>在这里，我们忍不住聊起了曾经住过的地方，分岔的道路，还有我们是怎样选择不同的地方迁徙、旅居和安家的。</span></p><p><span>一晃十年的过程梳理下来一看，生活的哲学好像说复杂很复杂，但说简单了，可能还真就是水多加面，面多加水。</span></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/lj01c2apbQqZqndt6_mM3g7akx8o.mp3" length="43488335" type="audio/mpeg"/>
+    <itunes:duration>01:00:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FmIIQ3Y3ZGU1BtGflZTv-laUMIPp.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>学西语，踢女足：离开上海，活在墨西哥城这一年 A Yearlong Stopover at CDMX S2E12</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/677223f37317752df16fdec1</link>
+    <guid isPermaLink="false">677223f37317752df16fdec1</guid>
+    <pubDate>Mon, 30 Dec 2024 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>行星酒馆2024年的最后一期播客，酝酿了一年的时间。</span><br><br><span>像很多人一样，在很长一段时间里，朋友霹雳一直计划着离开家乡上海，搬去国外。</span></p><p><span>作为曾经在美国留学生活，但已经回国扎根的记者来说，把自己从舒适圈连根拔起再深深种下，不是一件容易的事。</span><br><br><span>面对政治的抑郁、繁重的工作和感情上的包袱，离开的行动，一拖就是好几年。</span></p><p><span>2024年初的时候，霹雳突然跟我说，我出来了。</span><br><br><span>她最终落脚的地方，并不是计划中的美国。她误打误撞地，来到了墨西哥城。</span></p><p><span>那段时间，我跟霹雳见了一面。本以为这是个临时过渡的状态。没想到，霹雳一呆就是一年，而且越来越喜欢这里。</span></p><p><span>非常好奇：过去的一年里，她在墨西哥城建立了什么样的生活，让她决定放下美国，暂时留在这里？而这期播客，两个异乡人站在2024的尾巴上，进行了一场关于迁徙、定居、以及探索生活的，年终总结。</span></p><p><br></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/ljPjwaDGipy5zimanpcJP26DQaVF.mp3" length="40310999" type="audio/mpeg"/>
+    <itunes:duration>00:55:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FmIIQ3Y3ZGU1BtGflZTv-laUMIPp.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从记者梦到地产中介：当一个文艺青年决定搞钱 Finding Realness in Real Estate S2E11</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67610e4229c681044545e6d9</link>
+    <guid isPermaLink="false">67610e4229c681044545e6d9</guid>
+    <pubDate>Tue, 17 Dec 2024 05:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>前几个月在纽约的时候，见了几个老朋友。今天访谈的对象Judy，就是其中之一。</span><br><br><span>Judy从十四岁就离开了中国，之后辗转于欧洲和美国。我认识Judy的时候，热爱文学的她，刚被哥大新闻系录取。但我们之后的命运轨迹，却非常不同：她最终没有选择入学，而是坚持自己关于文字的理想，在纽约把自己的翻译公司经营得小有名气。</span><br><br><span>疫情之间，我们慢慢断了联系。但是某一天，我突然看到她发了一条更新，她说，我现在是一名纽约州的地产中介了。</span><br><br><span>我们一直没有细聊，这个转变究竟是怎么发生的。</span><br><br><span>距离那条更新，现在已经过了两三年的时间。最近再和她见面的时候，她已经从地产的新人，成为了可以独当一面、自立门户的broker. </span><br><br><span>而我非常好奇：这过去几年间，她的生命发生了怎样的变化？当一个所谓的「文艺青年」决定进入一个不那么风花雪月的环境的时候，我们的世界会发生怎样的变化？</span><br><br><span>可能在表面上，这是一个关于搞钱、地产、创业的对话。可能在人生道路、家庭背景上，大家未必有很多重合的地方。但是说到底，这场对谈，其实是关于成长，放弃，以及如何跟自己的许多执念，慢慢和解的过程。</span><br><br><span>------</span><br><br><span>更多关于Judy：</span><br><a href="http://www.judyzhou.com/" data-url="http://www.judyzhou.com/"><span>www.judyzhou.com</span></a><br><br><a href="https://www.instagram.com/judyyizhou?igsh=MW0yY2pkejU3czRvcA==" data-url="https://www.instagram.com/judyyizhou?igsh=MW0yY2pkejU3czRvcA=="><span>www.instagram.com</span></a></p><p><a href="https://www.buzzsprout.com/2247913/fan_mail/new" data-url="https://www.buzzsprout.com/2247913/fan_mail/new"><span>Send us Fan Mail</span></a></p><p><a href="https://www.buzzsprout.com/2247913/support" data-url="https://www.buzzsprout.com/2247913/support"><span>Support the show</span></a></p><p><b><span>About 行星酒馆 Planet Speakeasy</span><br></b><span>&nbsp;| Buy us a coffee 每月为行星酒馆买杯咖啡：</span><br><span><a data-url="https://www.buzzsprout.com/2247913/support" href="https://www.buzzsprout.com/2247913/support">www.buzzsprout.com</a></span><br><br><span>｜Follow us on Instagram 获取更多节目资讯与视频片段：<a data-url="https://instagram.com/planet.speakeasy" href="https://instagram.com/planet.speakeasy">instagram.com</a>&nbsp;</span><br><br><span>｜Contact us 与主播、嘉宾分享感兴趣的话题与感想，或对清迈此处驻地项目感兴趣，可ins私信或电邮 planet.speakeasy@gmail.com</span><br><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64f71550aa546d46cf6f9f0c/ljhfZaZSJz9KueSvczmHn3S622Ex.mp3" length="45254045" type="audio/mpeg"/>
+    <itunes:duration>01:02:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/64f71550aa546d46cf6f9f0c/FmIIQ3Y3ZGU1BtGflZTv-laUMIPp.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

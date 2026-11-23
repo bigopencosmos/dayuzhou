@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>不断壮大</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62d51342ea769cfdd732b1f6</link>
+  <description><![CDATA[这是一档关注工作效率、发现先进生产力工具的播客，每期节目会访谈一位在自己领域研究高效工作和解决问题的高手，分享他们的认知、方法与工具，帮助个人和组织不断壮大。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:59:19 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/evqr43flln4a.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>利器</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrrH0IMinw2qLXMl1Rhs5CpSEUQH.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrrH0IMinw2qLXMl1Rhs5CpSEUQH.jpg</url>
+    <title>不断壮大</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62d51342ea769cfdd732b1f6</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Vol.4 一款设计工具的AI进化｜对话即时设计</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64d0abcd80c9ec4c5f9a288e</link>
+    <guid isPermaLink="false">64d0abcd80c9ec4c5f9a288e</guid>
+    <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>🔔关键词</span></strong></p><span></span><p><span>设计 产品 交互 企业服务 产品经理 创意 AI 协同办公 战略 服务边界 用户案例</span></p><span></span><h2><span>👨本期嘉宾</span></h2><span></span><p><span>黎嘉宁，即时设计战略负责人</span></p><span></span><h2><span>👂收听提示</span></h2><span></span><p><span>1. 为什么说“所有的工具都要接入AI”？</span></p><span></span><p><span>2. 如何在满足协同设计的同时，又考虑 AI 的引入？</span></p><span></span><p><span>3. 认识了AI后，设计师的工作流程、理念发生了什么变化？</span></p><span></span><p><span>4. AI要成为更加主流的工具，还可以做哪些方面的提升？</span></p><span></span><p><span>5. 团队从了解、认可、上线AI技术，经历了一个怎样的过程？</span></p><span></span><p><span>6. AI让设计工具的使用门槛发生了什么样的变化？</span></p><span></span><p><span>7. 推荐日常生活里使用的先进工具</span></p><span></span><h2><span>🎊收听方式</span></h2><span></span><p><span>《不断壮大》已经上线小宇宙、苹果播客、喜马拉雅、网易云音乐和QQ音乐平台，欢迎订阅收听。</span></p><span></span><h2><span>🔧关于我们</span></h2><span></span><p><span>这是一档关注效率工具和效率工作的播客，我们每期节目会访谈一位效率工具的创始人，分享自己和公司不断壮大的方法和故事。欢迎大家在评论区留言，我们每一条留言都会用心看，期待收到你的反馈。</span></p><span></span><h2><span>✋互动方式</span></h2><span></span><p><span>公众号：不断壮大</span></p><span></span><p><span>抖音号：王壮（先进版</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvsS2JTcMncaTVhCv49S3I3oph3o.m4a" length="48463465" type="audio/mp4"/>
+    <itunes:duration>00:33:23</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0YUFkZy1nYnNQLVhZTWVXcXBnUU1ieDE1SHUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.3 斯坦福辍学创业做乙方交付工具，聊聊他的选择｜对话明雀创始人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6474be5353a5e5ea14670524</link>
+    <guid isPermaLink="false">6474be5353a5e5ea14670524</guid>
+    <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><span>🔔关键词</span></h2><span></span><p><span>甲方 乙方 痛点 创业者 项目管理 标准化 研发管理 数字化系统 人工智能 工程师 OpenAI 算法服务</span></p><span></span><h2><span>👨本期嘉宾</span></h2><span></span><p><span>王翛，明雀创始人。</span></p><span></span><h2><span>👂收听提示</span></h2><span></span><p><span>1. 做乙方的痛点有哪些？怎么解决这些痛点？</span></p><span></span><p><span>2. 为什么想做一款乙方交付工具的产品？</span></p><span></span><p><span>3. 中美甲方在工作方式上有什么不同？</span></p><span></span><p><span>4. 创业开公司，协同管理有多重要？</span></p><span></span><p><span>5. 如何理解ChatGPT不是算法领域的“大力出奇迹”？</span></p><span></span><p><span>6. 创业的经验分享</span></p><span></span><h2><span>🎊收听方式</span></h2><span></span><p><span>《不断壮大》已经上线喜马拉雅、网易云音乐、QQ音乐、苹果播客等平台，欢迎订阅收听。</span></p><span></span><h2><span>🔧关于我们</span></h2><span></span><p><span>这是一档关注效率工具和效率工作的播客，我们每期节目会访谈一位效率工具的创始人，分享自己和公司不断壮大的方法和故事。欢迎大家在评论区留言，我们每一条留言都会用心看，期待收到你的反馈。</span></p><span></span><h2><span>✋互动方式</span></h2><span></span><p><span>公众号：</span><a href="https://mp.weixin.qq.com/s/gYsQwHv1AMwnrECFNsTUmg" data-url="https://mp.weixin.qq.com/s/gYsQwHv1AMwnrECFNsTUmg"><span>不断壮大</span></a></p><span></span><p><span>抖音号：王壮（先进版</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvai-ntThYMbOboHb9SwdPwGfyIo.m4a" length="74498061" type="audio/mp4"/>
+    <itunes:duration>00:51:19</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0YUFkZy1nYnNQLVhZTWVXcXBnUU1ieDE1SHUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.2 从无代码到AI写代码，什么样的程序员会失业？｜对话towify创始人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/646572951672628240558571</link>
+    <guid isPermaLink="false">646572951672628240558571</guid>
+    <pubDate>Thu, 18 May 2023 00:34:28 +0000</pubDate>
+    <description><![CDATA[<h2><span>🔔关键词</span></h2><span></span><p><span>软件 无代码搭建 小程序 编程语言 移动互联网 方法论 操作系统 代码技术</span></p><span></span><h2><span>👨本期嘉宾</span></h2><span></span><p><span>施凯文，无代码开发平台towify创始人</span></p><span></span><h2><span>🕙壮大时间轴</span></h2><span></span><p><span><a class="timestamp" data-timestamp="73">01:13</a> &nbsp;为什么想要做一个无代码开发平台？</span></p><span></span><p><span><a class="timestamp" data-timestamp="201">03:21</a> 盘点国内外无代码工具</span></p><span></span><p><span><a class="timestamp" data-timestamp="493">08:13</a> 今天的无代码就是当年的C语言</span></p><span></span><p><span><a class="timestamp" data-timestamp="801">13:21</a> 无代码开发的普及程度如何了？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1245">20:45</a> 应用软件的程序员注定要被淘汰的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1412">23:32</a> 通用型技术诞生的标志就是大规模替代上个时代的垂类技术</span></p><span></span><p><span><a class="timestamp" data-timestamp="1774">29:34</a> 年轻时创业和成熟后创业的有哪些想法差异？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1873">31:13</a> 如何把软件生产的匠人技能变成批量化，批量匠人又如何工厂化？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2227">37:07</a> 无代码已经进入一些大学的课程了</span></p><span></span><p><span><a class="timestamp" data-timestamp="2465">41:05</a> 无代码工具帮助公司拥有选择的自由</span></p><span></span><p><span><a class="timestamp" data-timestamp="2895">48:15</a> 非开发人员想做开发，有哪些方法论可以借鉴？</span></p><span></span><p><span><a class="timestamp" data-timestamp="3365">56:05</a> 优秀且高效的公司有什么特质？</span></p><span></span><h2><span>👂收听方式</span></h2><span></span><p><span>《不断壮大》已经上线喜马拉雅、网易云音乐、QQ音乐、苹果播客等平台，欢迎订阅收听。</span></p><span></span><h2><span>🔧关于我们</span></h2><span></span><p><span>这是一档关注效率工具和效率工作的播客，我们每期节目会访谈一位效率工具的创始人，分享自己和公司不断壮大的方法和故事。欢迎大家在评论区留言，我们每一条留言都会用心看，期待收到你的反馈。</span></p><span></span><h2><span>✋互动方式</span></h2><span></span><p><span>公众号：不断壮大</span></p><span></span><p><span>抖音号：王壮（先进版</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhB9HgJJNB1ZLNe1IhIn7S0jZygH.m4a" length="92257357" type="audio/mp4"/>
+    <itunes:duration>01:03:34</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zzb1NMWklibWVPUVRNc01KMU9iQ2trczZZRS0ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.1 如何让打工人不再痛恨做PPT？｜对话彩漩科技创始人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64534bdb306513184c020a87</link>
+    <guid isPermaLink="false">64534bdb306513184c020a87</guid>
+    <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><span>🔔本期关键词</span></h2><span></span><p><span>PPT 文档工具 模板 信息传播 彩漩科技 知识库 电子商务</span></p><span></span><h2><span>👨本期嘉宾</span></h2><span></span><p><span>邬剑，彩漩科技创始人</span></p><span></span><h2><span>🕙壮大时间轴</span></h2><span></span><p><span><a class="timestamp" data-timestamp="587">09:47</a> 绝大部分人讨厌PPT的原因</span></p><span></span><p><span><a class="timestamp" data-timestamp="826">13:46</a> PPT有可能被代替吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="995">16:35</a> 未来的Powerpoint可以怎么被玩转？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1375">22:55</a> 在格式不变的情况下，PPT怎么自动适配各类型的电子屏幕？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1553">25:53</a> 做PPT痛苦的经历分享</span></p><span></span><p><span><a class="timestamp" data-timestamp="1861">31:01</a> 目前AI 能自动生成PPT了吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2441">40:41</a> AI对科技公司的影响有哪些？</span></p><span></span><h2><span>👂收听方式</span></h2><span></span><p><span>《不断壮大》已经上线喜马拉雅、网易云音乐、QQ音乐、苹果播客等平台，欢迎订阅收听。</span></p><span></span><h2><span>🔧关于我们</span></h2><span></span><p><span>这是一档关注效率工具和效率工作的播客，我们每期节目会访谈一位效率工具的创始人，分享自己和公司不断壮大的方法和故事。欢迎大家在评论区留言，我们每一条留言都会用心看，期待收到你的反馈。</span></p><span></span><h2><span>✋互动方式</span></h2><span></span><p><span>公众号：</span><a href="https://mp.weixin.qq.com/s/19xWS9RWzqYhnbRFMqv9_g" data-url="https://mp.weixin.qq.com/s/19xWS9RWzqYhnbRFMqv9_g"><span>不断壮大</span></a></p><span></span><p><span>抖音号：王壮（先进版</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqWaQ0Ow7TxA5pDnZ5NazSwfUMlM.m4a" length="73696241" type="audio/mp4"/>
+    <itunes:duration>00:50:46</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0YUFkZy1nYnNQLVhZTWVXcXBnUU1ieDE1SHUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

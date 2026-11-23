@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>紧张了</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/631843df40534c7fe408ae01</link>
+  <description><![CDATA[“紧张了”是吴笑然的个人播客，每周不定时更新。
+
+以下文字取自“蛋白质星球”音乐项目：
+紧张了！在最后的时刻，他环顾四周，低头抓起一把能量地壳，吞入体内，然后纵身跳进逃生舱。敌舰巨大的采集管道，将这个由蛋白质组成的星球迅速榨干。他们走了，蛋白质星球消失了，留下了逃生舱中呆滞的他。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:56:35 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/pd3glcnqbetw.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>吴笑然</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/ljbBkRMq_0f4YBB6fms9ZP3Z09M1.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/ljbBkRMq_0f4YBB6fms9ZP3Z09M1.jpg</url>
+    <title>紧张了</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/631843df40534c7fe408ae01</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>104 吴说八道：2026 美国中期选举到底发生了什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af0e8a35b7c4709bfe30ccd</link>
+    <guid isPermaLink="false">6af0e8a35b7c4709bfe30ccd</guid>
+    <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期讲述：</span></p><p><span>2026年11月3日的美国中期选举，被媒体宣称为“蓝色海啸”。</span></p><p><span>民主党不仅赢下了一些摇摆州的两院席位，甚至在一些共和党深耕多年的深红州，也发生了参议员、众议员、州长、检察长全部由民主党人获选的结果，这到底是为什么？又有哪些背后的故事呢？</span></p><ul><li><p><span>本次中期选举的结果</span></p></li><li><p><span>共和党输掉老家的原因</span></p></li><li><p><span>美国政治史上多个第一次：同性恋参议员、穆斯林参议员、非洲裔女性州长、原住民女性州长</span></p></li><li><p><span>川普到底怎么了</span></p></li><li><p><span>民主党是躺赢吗？</span></p></li><li><p><span>美国民主社会主义者协会（Democratic Socialists of America）的主张</span></p></li><li><p><span>两党为什么会走向极端？</span></p></li><li><p><span>民主党会对AI加强监管吗</span></p></li></ul><blockquote><p><span>截止11月7日的投票结果：</span></p></blockquote><img src="https://image.xyzcdn.net/FrGXBFTWv1RyykE073O5ehYY3lW3.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lkTnABnlGee_Zo-Al3eOScbSbJeF.m4a" length="52521381" type="audio/mp4"/>
+    <itunes:duration>00:54:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiLF_aYBeA1uQnXQmmxH6Oilzfuc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>103 通智膨胀：我用 AI 搭建了一个虚拟 DJ 工作台</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae639c7c96c8942ec154abd</link>
+    <guid isPermaLink="false">6ae639c7c96c8942ec154abd</guid>
+    <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见！！</span></p><p><br><span>本期讲述：我花了2周时间，用AI在电脑上搭建一个虚拟的电子音乐、或者说是个DJ控制台的思路、步骤以及过程。播客后半部分是相关的一些思考。</span></p><ul><li><p><span>为什么Suno这款AI软件，现阶段生成的音乐那么假，以及它适合哪些“场景”</span></p></li><li><p><span>我搭建AI虚拟音乐工作台的思路全过程</span></p></li><li><p><span>拓展后的现场音乐场景</span></p></li><li><p><span>为什么说：行业里成功的往往是原有行业的“叛徒”</span></p></li><li><p><span>澳洲的一个人，用 AI 给他的狗研发抗癌疫苗的故事</span></p></li><li><p><span>什么是长寿逃逸速度</span></p></li><li><p><span>我遇到了一个有关Agent 权限风险的问题</span></p></li><li><p><span>是不是在高中甚至初中的时候，就要学点哲学以及美学？</span></p></li></ul><p></p><blockquote><p><span>网页版虚拟音乐控制台（目前1.0版长这个样子）：</span></p></blockquote><img src="https://image.xyzcdn.net/FidIx-KA1Sed856vkFlEU3WBhUQZ.png"><img src="https://image.xyzcdn.net/FjxYJP3XIiJpXnCEFExxl9G28HBo.png"><img src="https://image.xyzcdn.net/FiKJLaRAQmJwGwPt75ZIc2Jl6m3o.png"><img src="https://image.xyzcdn.net/Fu4rQMplJug7ZoH4UTx_xgDFH6nq.png"><blockquote><p><span>1900年自动钢琴（网图）</span></p></blockquote><img src="https://image.xyzcdn.net/FvqhxqGzQOagm8N87x44D1RJoJaO.png"><p></p><blockquote><p><span>小狗的癌症基本治好了</span></p></blockquote><img src="https://image.xyzcdn.net/FsfbSrGa1lB_WLaGGBhm_ekxaoTM.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lsZEfvMFi5VspqnwUSVGzHUq54b_.m4a" length="62862507" type="audio/mp4"/>
+    <itunes:duration>01:04:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi7J99JFNTQvgtNyan2xxRXTZDvq.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>102 盲道摆拍事件的重点，是“盲道”还是“摆拍”？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a0db1571b7bd50295858a18</link>
+    <guid isPermaLink="false">6a0db1571b7bd50295858a18</guid>
+    <pubDate>Wed, 20 May 2026 13:20:55 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期讲述：5月初在盲道摆拍的闹剧，究竟是怎么回事？它的一些背景，以及当下盲人的处境。</span></strong></p><ul><li><p><span>盲道摆拍的来龙去脉</span></p></li><li><p><span>不同盲文有哪些不同的特点？</span></p></li><li><p><span>最早的残疾人法案</span></p></li><li><p><span>盲道是谁发明的，哪年有的</span></p></li><li><p><span>目前社会上的一些努力</span></p></li></ul><p></p><figure><img></figure><figure><img src="https://image.xyzcdn.net/Fsq3hDvvNw5CUOHvpW0enQi8rUv7.png"></figure><figure><img src="https://image.xyzcdn.net/FuT-MAdR-g46OoQ2CmIMuK-qdl7K.png"></figure><figure><img src="https://image.xyzcdn.net/Fnprc7n7B8_9kFBtIUVPKc98E08E.jpg"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lugFjmNDtvDFvFSeo64kEpp0c0Uz.m4a" length="44880535" type="audio/mp4"/>
+    <itunes:duration>00:46:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgqGdpaF6vnMmWb7XRULbyB74r-m.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>101 吴说八道：从富国岛到越南-柬埔寨的历史恩怨</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69fd81a91b7bd50295b72895</link>
+    <guid isPermaLink="false">69fd81a91b7bd50295b72895</guid>
+    <pubDate>Fri, 08 May 2026 06:38:55 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期讲述</span></strong><span>：</span><strong><span>从我去越南富国岛的故事开始。</span></strong></p><p><strong><span>看到地图第一反应是：富国岛距离柬埔寨要远比距离越南近，但它却归属越南，我查了一下资料，于是做了本期越南和柬埔寨历史交融与割裂的故事。</span></strong></p><ul><li><p><span>我对东南亚的印象（偏见）</span></p></li><li><p><span>地理对东南亚政权以及民族的影响</span></p></li><li><p><span>吴哥王朝是怎样兴盛起来的</span></p></li><li><p><span>越南的历史沿革</span></p></li><li><p><span>胡志明其人</span></p></li><li><p><span>法国对东南亚的影响</span></p></li><li><p><span>越战对柬埔寨的影响</span></p></li><li><p><span>胡志明小道的故事</span></p></li></ul><blockquote><p><span>富国岛位置</span></p></blockquote><figure><img src="https://image.xyzcdn.net/Fq7Zu8N8wV1Iy9hnXZKK79z6hsNz.png"></figure><blockquote><p><span>中南半岛地理图（网络）</span></p></blockquote><figure><img src="https://image.xyzcdn.net/FqZVKSDwGMfAhlab89JlNru33F5p.jpg"></figure><blockquote><p><span>佛教传播路径：</span></p></blockquote><figure><img src="https://image.xyzcdn.net/FhjtoJvLhXlvGKYjYNeNj6JtMThb.png"></figure><blockquote><p><span>荔枝山（吴哥王朝发源地）</span></p></blockquote><figure><img src="https://image.xyzcdn.net/FkFpOZqBjExSf5IA1XTeVY1x2Ulz.png"></figure><blockquote><p><span>吴哥王朝疆域（十世纪）：</span></p></blockquote><figure><img src="https://image.xyzcdn.net/Fjgpxk1uRU3zQs4OWdFTQRpQmdol.png"></figure><blockquote><p><span>胡志明小道与著名的古芝隧道：</span></p></blockquote><figure><img src="https://image.xyzcdn.net/Fh9v2Yv1V-jIKQJm07axM3ir-sV2.png"></figure><figure><img src="https://image.xyzcdn.net/FhEZWgvR6TBpi5aD70WfAqvP3iIp.png"></figure><blockquote><p><span>1941年东南亚被各国势力占领的时代（网图）：</span></p></blockquote><figure><img src="https://image.xyzcdn.net/FqLDW3juOI-oA1SP8mcEEdDgRnJi.png"></figure><p></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/ll2rizDRGBfNdHlniOLd-xwz30lk.m4a" length="69767555" type="audio/mp4"/>
+    <itunes:duration>01:11:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlboGYOJ1pDzuAFRBFUgjjJuwis4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>100 一百期了，我要开通赞赏吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69f9ad63e05c0efcd6e6d9cc</link>
+    <guid isPermaLink="false">69f9ad63e05c0efcd6e6d9cc</guid>
+    <pubDate>Tue, 05 May 2026 08:42:56 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>哈哈哈哈幽默一下，节后这周更新下一期东南亚的故事~</span></strong></p><p><strong><span>祝大家节后也开心~！！！😅</span></strong></p><p><strong><span>本期完播率应该是100%吧？</span></strong></p><figure><img></figure><figure><img src="https://image.xyzcdn.net/FlOxkZYsg8CyUf2Of7I8D-8XbLAY.jpg"></figure><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/FjBekzQ8BCEz5y1CAb2SRtkAnVf1.m4a" length="24453" type="audio/mp4"/>
+    <itunes:duration>00:00:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiBM6HErdZin8x-oVoxqFdt6Sox5.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>099 对谈-余霁：高平铁佛寺与二十四诸天</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69e6504e1e94ae6921bd0576</link>
+    <guid isPermaLink="false">69e6504e1e94ae6921bd0576</guid>
+    <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期缘起余霁、苏昊和我在2024年秋天去了山西晋城高平市，探访了“铁佛寺”中30多尊具有鲜活张力的塑像，于是就有了这次对谈。</span></p><span></span><p><span>我们从铁佛寺中的二十四诸天塑像特点，聊到了《金光明经》中的内容；义净大师的南海之行；印度婆罗门文化对中原文化的影响；以及其它一些我们感兴趣的内容。</span></p><span></span><ul><span>  </span><li><span>高平“铁佛寺”的介绍与感受</span></li><span>  </span><li><span>佛教中的二十四诸天是怎么回事？</span></li><span>  </span><li><span>鬼子母的故事</span></li><span>  </span><li><span>《金光明经》是一本怎样的佛教经典？</span></li><span>  </span><li><span>义净大师是谁，他与“海上丝绸之路”的渊源</span></li><span>  </span><li><span>《南海寄归内法传》中有哪些内容？</span></li><span>  </span><li><span>唐朝高僧与皇权的关系</span></li><span>  </span><li><span>印度婆罗门文化对中原文化有哪些影响</span></li><span></span></ul><span></span><p><em><strong><span>铁佛寺外景：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FptZorSHZgMBnfv0CXlOmTiYAAIB.jpg"></figure><span></span><p><em><strong><span>铁佛寺结构图：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FvUwZJCZEJmfVjT8cyuZ-g3pRcaN.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FoA2CfFgXkYc5oXg5JWhzv1BVZ7-.jpg"></figure><span></span><p><em><strong><span>内景照片（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FqbTNqhWogVtv136H5mDt3zPQove.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fsxn3YOH3IPsRxmi3vebp4-ZUxIe.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fn0WxMdD9s3ERwJzdiuMqFU4V90y.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FgiRp-Lb_Z1ZEPQ6Mh6CoK8jCu5D.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FncIYzwnAOCk3mIwjC_sJxthCCAS.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fvrk5hzLCYnezseMiCjsuheWrrnn.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fr6aJRnGlHKNIsnxHlEm8i8OC3lr.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FlSgU_hYURX_FUIaF4RbVX8_hT-c.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FkTO3BAnBeix79zPVezopIttKgu6.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhvS2gyAPTZZr3ot6oe29URMv1XG.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FiLbmlCaLrt32OUd_zzwhtHEhTbP.jpg"></figure><span></span><p><em><strong><span>《金光明经》：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FhMtitTHJTj8pCGDuHV1P5Xjzgm6.jpg"></figure><span></span><p><em><strong><span>鬼子母和散脂大将（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FvWocWSvZC7s-6WgB3BKsBlgi_P0.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fr0QgToNbV5bfM4qzMY9gNWeVtzu.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fh9cnrbpSEm-VDGy3NTRDgLCiNHf.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjgGvhjRbjy0kub0umQbo-q3VHvC.jpg"></figure><span></span><p><em><strong><span>揭缽图局部（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FhtW88Y6rtG5IRX5b7SrR8AcGTSp.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lsYQovxLidHxjWLep4fZxsF_F3iR.m4a" length="80398366" type="audio/mp4"/>
+    <itunes:duration>01:22:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpHaLAp33Hk7t3oKhAsPkxyIoTJd.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>098 吴说八道：冷战、Techno舞曲与柏林墙</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c953cab977fb2c478df6c6</link>
+    <guid isPermaLink="false">69c953cab977fb2c478df6c6</guid>
+    <pubDate>Mon, 30 Mar 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见！</span></p><span></span><p><span>这段时间您过得怎样？我们继续“紧张了”的聊天吧：</span></p><span></span><p><span>本期要讲述的是：柏林，作为世界Techno这种舞曲形式的实际“都城”，它是怎样一步步引入这种音乐艺术的，它的过程与冷战以及柏林墙的倒塌；与魏玛和纳粹；与平权和意识形态，有着哪些关联，以及背后有着怎样的故事？</span></p><span></span><ul><span>  </span><li><span>汇报一下近一年的生活体验</span></li><span>  </span><li><span>柏林的城铁系统与泪宫</span></li><span>  </span><li><span>柏林墙建造的原因</span></li><span>  </span><li><span>1948年，苏联为什么封锁西柏林？</span></li><span>  </span><li><span>柏林空投是怎么回事？</span></li><span>  </span><li><span>NO UFO'S：第一首Techno舞曲的诞生！</span></li><span>  </span><li><span>Kraftwerk发电站乐队！</span></li><span>  </span><li><span>柏林Techno舞曲的圣地：Tresor！</span></li><span>  </span><li><span>魏玛时期的俱乐部：Eldorodo</span></li><span>  </span><li><span>纳粹冲锋队长罗姆的故事</span></li><span>  </span><li><span>李西斯基、康定斯基、夏加尔、马列维奇与“颓废艺术”</span></li><span>  </span><li><span>对魏玛时期包豪斯的感受</span></li><span></span></ul><span></span><p><em><strong><span>柏林街景：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/Fo2c3xk377_7FQM35LpZnGPiIQjA.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FuSWsu28e-N0DMQS4_TqUg7vRPbk.jpg"></figure><span></span><p><em><strong><span>1961年柏林轨道示意：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/Fggej3USWicDOiZ6c3lXpjMgzpyd.jpg"></figure><span></span><p><em><strong><span>柏林墙范围：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/Fp6xgFg7c_vprbOmkGSX3gZrZW2d.png"></figure><span></span><p><em><strong><span>东方画廊：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/Fk8zLWs96bog_73JMRFnfNTOOiSm.jpg"></figure><span></span><p><em><strong><span>跃向自由照片：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/Fv2n9tMP5DQfkyWO6ML-T1UIJbIU.jpg"></figure><span></span><p><em><strong><span>Love Parade：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FlVE4PbyjjJ4WndLFk3plOR0r2u1.jpeg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FlOQ0EwAA8XC8yfLeXOgGx3SQJ5a.jpg"></figure><span></span><p><em><strong><span>Tresor大门（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FqPqlxpk3qTV0RZjRsGAhTs_-SEm.jpg"></figure><span></span><p><em><strong><span>内部（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FkLYP59vreHIdpq14BOb1rKGuEnw.jpg"></figure><span></span><p><em><strong><span>包豪斯（德绍）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FmdLwVs42Q2uWzXm9fEdjT9qaalD.jpg"></figure><span></span><p><em><strong><span>大师公寓：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FnYnqB2ATalGsFev6S5zKSPUekAd.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvAo1ziG8Hd_-sUsCCRX7jWTwMp8.jpg"></figure><span></span><p><em><strong><span>包豪斯装置设计（1926年左右）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FnMb8sjDt1gG1dq9VRXyt-0KcILU.jpg"></figure><span></span><p><em><strong><span>李西斯基作品（网图）：</span></strong></em></p><span></span><figure><img src="https://image.xyzcdn.net/FrJESY0CXRnZiJHvRuCJpBN9RmQ9.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/loda1mIioolrVv5AW-j8-E6i8p6I.m4a" length="109674940" type="audio/mp4"/>
+    <itunes:duration>01:53:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fk-UY9G-tc89QvpKZPOrPYpLFRrJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>097 程序的争议：怎样解决疯掉的美国总统</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ce8c2ae924d4525a88a87f</link>
+    <guid isPermaLink="false">67ce8c2ae924d4525a88a87f</guid>
+    <pubDate>Mon, 10 Mar 2025 07:21:21 +0000</pubDate>
+    <description><![CDATA[<p><span>本期讲述：如果美国总统在活着但却无法履职的时候，宪法（及修正案）是怎样规定权力的继承？以及其中有哪些可操作的漏洞？</span></p><span></span><p><em><strong><span>本期话题中有一个类似“阴谋论”的内容，请听众自行鉴别。</span></strong></em></p><span></span><ul><span>  </span><li><span>先恶搞一下《纸牌屋》</span></li><span>  </span><li><span>关于本期的标题，为什么要用“解决”这个词</span></li><span>  </span><li><span>对弹劾总统的宪法规定</span></li><span>  </span><li><span>为什么说川普的“交易艺术”很低端？</span></li><span>  </span><li><span>什么是“加速主义“</span></li><span>  </span><li><span>尼克•兰德 Nick Land是谁？他的理论有哪些特质？</span></li><span>  </span><li><span>从两首Kode9的舞曲中感受一下湮灭理论</span></li><span>  </span><li><span>乔治•巴塔耶 给后世带来了什么影响？</span></li><span>  </span><li><span>川普有可能再干一届吗？</span></li><span>  </span><li><span>什么是杰利蝾螈理论</span></li><span>  </span><li><span>副总统与总统的权力交接问题</span></li><span>  </span><li><span>当总统“疯了”怎么办？</span></li><span></span></ul><span></span><blockquote><span>用“杰利蝾螈”理论来划分选区</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FowPFCsxop6J3Qkwfz6YB-NtMnl7.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lgAWZRbKruSGjySfWNJJED1LNWu0.m4a" length="103123756" type="audio/mp4"/>
+    <itunes:duration>01:25:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvnV9VHCKWD8V1kxW1vNmHPeSc3Y.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>096 黑色星期五：川普和泽连斯基的记者会上发生了什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67c4060cbf52a16cd1f242d7</link>
+    <guid isPermaLink="false">67c4060cbf52a16cd1f242d7</guid>
+    <pubDate>Sun, 02 Mar 2025 07:34:23 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见，今天我们来梳理一下，在当地时间2月28日，美国总统特朗普与乌克兰总统泽连斯基，在白宫的记者见面会上发生的内容，以及背后的一些原因和对未来的一些展望。</span></p><span></span><blockquote><span>争吵时刻</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FgNToXYDuw06KSsIncEPEKej1rEI.png"></figure><span></span><blockquote><span>还是那句话，都在墙上看着你们呢：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Ft6zni9NVfyZCsoWGZ-oZWhXsT1Y.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lkdXYTU_nf8jnXEerqcN7C-pxbD7.m4a" length="81389774" type="audio/mp4"/>
+    <itunes:duration>01:07:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl-BxqH0oIMWBeI2ZFH5Q7flkujx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>095 吴说八道：2025年之后会有怎样的变化？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6793cf18247d51713c1f14d8</link>
+    <guid isPermaLink="false">6793cf18247d51713c1f14d8</guid>
+    <pubDate>Sat, 25 Jan 2025 09:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我会聊聊在2025年这个节点之后，我们的生活会有怎样的变化？</span></p><span></span><ul><span>  </span><li><span>本期将有4首The Harridans的音乐</span></li><span>  </span><li><span>没录播客的原因（懒）</span></li><span>  </span><li><span>不喜欢札幌</span></li><span>  </span><li><span>函馆不错</span></li><span>  </span><li><span>安藤忠雄与隈研吾</span></li><span>  </span><li><span>川普就只典礼上看到的一些细节</span></li><span>  </span><li><span>马斯克的妄想</span></li><span></span></ul><span></span><blockquote><span>The Harridans（照片署名见水印）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FiYaxIQ7Wm6iCglsqqAUQ-4OgwlX.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FomoVsyvgLb8ooEKQjrNxssPlQUE.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FntqmB9Ba7fOYQgBbiIyhjxDelZU.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtPktTPnP5LB6MxCt-9eWf1i2psY.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fv-YSW5B_mPggAsRKzEgV9DVxUAM.jpg"></figure><span></span><blockquote><span>头大佛（安藤忠雄）位于札幌南10公里处</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FhvSsUBotNtAmYMmzXZ2bX7jalAk.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FqNh91eYDO5BZx0N-8-oxMdStIWc.JPG"></figure><span></span><blockquote><span>隈研吾的设计及目前的情况</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FoNiYZ3B636AsUBZnm4y2XEGHqbn.PNG"></figure><span></span><figure><img src="https://image.xyzcdn.net/FiME551sMCRHV_J2chVx4VuVOx2B.webp"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsbRC6sv6FRiVuyunW0NkdkoyhvT.PNG"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fjm0mcz-Inx6-gZouCJdxAXqr1Un.PNG"></figure><span></span><figure><img src="https://image.xyzcdn.net/FieqYScwvJ8YoXZzzdNY1h-fERPt.PNG"></figure><span></span><figure><img src="https://image.xyzcdn.net/FmcriSiy9SsfmicY_7zDrGxldQh6.PNG"></figure><span></span><blockquote><span>川普就职典礼上的细节</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fkwyng2o0oKhhvHxm3qX93Ze1IFe.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjO3mm5C7Xp083j0VaH_1lTqGM-i.png"></figure><span></span><blockquote><span>华盛顿可在墙上看着呢</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FgBdYuyTQeTc-GBE5XThqtbESQYV.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/631843df40534c7fe408ae01/lqsLECh6cfQa5dQbN6oxUXYF3YWZ.m4a" length="103263691" type="audio/mp4"/>
+    <itunes:duration>01:25:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FknphsITIJneEq1zxOFRgvFxvLMq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>094 对谈-余霁：水陆法会 与 佛教艺术</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67547016bdb9877a971425b3</link>
+    <guid isPermaLink="false">67547016bdb9877a971425b3</guid>
+    <pubDate>Mon, 09 Dec 2024 09:30:00 +0000</pubDate>
+    <description><![CDATA[<ul><span>  </span><li><span>本期嘉宾：余霁</span></li><span>  </span><li><span>谈话内容：</span></li><span>  </span><li><span>由于在一些佛教的场所内，我们经常会看到一些，由佛教形象、道家人物、儒家先贤、玉帝、历代帝王、平民百姓甚至厉鬼恶煞混杂在一起的大型综合壁画（如大同浑源的永安寺、忻州市繁峙县的公主寺），又或是雕塑、悬塑（如临汾市隰县的小西天、西安市蓝田县的水陆庵、长治市的观音堂），因此我们不仅会发出疑问：这些有着完全不同渊源的形象与人物，到底为什么会出现在同一个场景内？它们由谁制作？怎样制作（绘制）？又有着哪些“功能”？</span></li><span>  </span><li><span>今天我们将走进“水陆大会”，看看它与佛教密宗的渊源，以及聊聊那些古代工匠觉醒为艺术家的故事。</span></li><span></span></ul><span></span><blockquote><span>观音堂悬塑：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FsqYI5YdxRHu3v6HrD3dqiDwx_1C.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FmSqQbjnNIcq_fttXc_NzmCp2zOo.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhUEwxR9LKZ4kc-wgKv5YkeJc4Kw.jpg"></figure><span></span><blockquote><span>永安寺的壁画：（图片源自网络）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FqjU5D-HDO7xA0GK7pFvpW-JZPY_.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fh5z3DPGrjdcpFPpLyYvatvuEpHJ.jpg"></figure><span></span><blockquote><span>水陆庵悬塑：（图片源自网络）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Ftn8EnYRSNgrb-zh3ywwLJx5fH88.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjTjuHjHFB6SOuHkUmNuJWBLiG6U.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtuZXiNAZOlOjeBTdkc02NxzVWW_.jpg"></figure><span></span><blockquote><span>公主寺壁画：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fi_TnAR4hDsfiUmKvtyoAdBy50hL.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FicWEdSgvQfwj0sAOoQ0chhsEY94.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FujdGjDT12PqW-HI98lTNZPzbg1M.jpg"></figure><span></span><blockquote><span>小西天（千佛庵）的悬塑：（图片源自网络）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FifG1bK1fPPGtqKrwQVpU9GGcTYI.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrZnvj16dvqt5AT1_uMQ0CaFUwGu.m4a" length="107723283" type="audio/mp4"/>
+    <itunes:duration>01:29:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvnV9VHCKWD8V1kxW1vNmHPeSc3Y.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>093 山西古迹系列：口碑两极化的“大同新古城”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6735d0b443dc3a43879ea28a</link>
+    <guid isPermaLink="false">6735d0b443dc3a43879ea28a</guid>
+    <pubDate>Thu, 14 Nov 2024 10:42:04 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们来聊聊大同。</span></p><span></span><p><span>自从大同的“新古城”改造以来，很多不同的声音都充斥着舆论场，当地的“土著”会觉得生活条件有很大改善，但也有一些人提出：这样的“大拆大建”是很值得商榷的。</span></p><span></span><p><span>恰巧，“旧的”大同和“新的”大同我都去过，今天我就以我的感受聊聊这个问题。</span></p><span></span><p><em><strong><span>（不好意思：本期开始的声音还是有点哑，嗓子最近有些问题，已经在吃药，下期就会好了）</span></strong></em></p><span></span><blockquote><span>08年的云冈石窟：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FjmvT86HTKT28ACmp1QoMydfSV8t.JPG"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fi8qdMy_IBtYrE0GEYEZfEJytdgn.JPG"></figure><span></span><figure><img src="https://image.xyzcdn.net/FpOH7QKXgR9Z_vIGSe_C6Z821oc8.JPG"></figure><span></span><blockquote><span>早年间的大同：（网图）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Ft-lfYPgHOEYr33tTAARiuR_7BcP.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FqV6aHJNGc8Lc4ghnvzxLuA5jV09.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Frh8TvJX5Kk0XjIphpcKdjTVoLbj.png"></figure><span></span><blockquote><span>华严寺门口的广场：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fm2IJX5KzFp-2rfopgBroKnILL-Y.png"></figure><span></span><blockquote><span>华严寺大雄宝殿：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fn-XM_kF5lr9vswBjO2t0OMfSyI_.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FrVvOErXIF0PjJDKcKiU6mbOHfs2.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fvb6LdHgsHLgQVZzyWLQJR2Y5Qg5.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjKU7d1_r02UNVDRklGUuEb_cMep.jpg"></figure><span></span><blockquote><span>华严寺薄伽教藏殿：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fs0uyptm75uLHlJqlGuhQ4l6UcNT.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fsug_vyGXTx5GPN-DY7ZyaNaR9Sk.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fri42VkngMFiEPoIQC0FSPvLOipt.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FlI6J0OpO_6q0Uu-m8hoAZawbkzH.jpg"></figure><span></span><blockquote><span>善化寺：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fio1sKM127gXiNdghKSSyRNK5Juv.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjqYhB6HjBL8IkRd1nKGhG_ZL4AI.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FoJ9LAhkqAAra9BfiTrqMpCgTVUO.jpg"></figure><span></span><blockquote><span>大同博物馆：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FhSs-XdRZgynL_jJqg1sRtun-BNS.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FmuDGFl9el1V3YGKyHJfC0PEJL5r.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FiopgQ5kcIPU3NTje2WGEEphiWK7.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Flv-bmdw7Z4OxrSbAcC3OeK179k7.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjXlaXgl9lZmeDNHBISPTZQYtA5y.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loy1wzqvudzUw4P8E9xjPtvDIzKF.m4a" length="67328381" type="audio/mp4"/>
+    <itunes:duration>00:55:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlKMz0GRq3443QpGp4Xml5mHUwBr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>092 山西古迹系列：佛光寺、南禅寺、广济寺、洪福寺、忻州古城</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6720a48f33c798676fd4396f</link>
+    <guid isPermaLink="false">6720a48f33c798676fd4396f</guid>
+    <pubDate>Tue, 29 Oct 2024 09:15:57 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们继续看山西北部的古迹，其中佛光寺和南禅寺都是唐代木构建筑，广济寺为元代、洪福寺为金代。</span></p><span></span><ul><span>  </span><li><span>忻州古城游览的感受</span></li><span>  </span><li><span>像忻州博物馆这样的地市级博物馆，其实还不错</span></li><span>  </span><li><span>南禅寺的几个小故事</span></li><span>  </span><li><span>佛光寺的由来</span></li><span>  </span><li><span>关于佛光寺的一些故事</span></li><span></span></ul><span></span><blockquote><span>忻州古城</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fm90Q761oklvQ8gc4gwqS-t5hybs.png"></figure><span></span><blockquote><span>忻州博物馆：</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FrlT24a08Bu_lFhpJmJpXxDsXlJT.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FkWZJ4J_B6OWK1K34qLy8RFyMU_W.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsbXIhanPMPsjpMk7jDp2qjJ7ChL.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhQsA1_udHPfzBym1dpSUx-e7JSs.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fp766X3GfM-KEs3JLf3Wzm2e87k2.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fs5vj_r5GSR2JnlPOZTw37lXkcpm.png"></figure><span></span><blockquote><span>定襄洪福寺</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Foyjhj_9mtwWevwq_HDyxvwrfuCH.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FrwfqzcDfxKzKcEwmkAQh1VReItK.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FqlG60wqzJdpAd3K3bRJUnzGWQ_H.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FmF632Fw4lNj8Hp1ZGSulPPyNY2T.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fkjgyfo6MRqtqxiDUI0GAAElmS2Y.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvVi2RH5iYipUL7vpoJ6A10qmKIO.png"></figure><span></span><blockquote><span>南禅寺</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FhzHNJObY76eapEDsKGYHLMfCl6Z.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FjrW5BJtqNb_FH28c2PuJfwJ9oDw.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fu3mElMitl6HmrVUnwBKUshRcBYy.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fi-CDtFd3UkmX41pO1oj_f4BZOmK.png"></figure><span></span><blockquote><span>南禅寺50年代照片（图片来自公众号“中式营造”）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FoPYBAeQdgfJXNUavhfHjq4qCLvq.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fp5vivE3GSqKIRjodEe_j9romJjP.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhPKs_yMZM7GBWr7k_as8E8qhKN7.png"></figure><span></span><blockquote><span>五台县广济寺</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FjgAqTlRgHdK0xT-B54-ap9br4LF.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtSVjCZyfoSNTW0laV8VflU8U4KY.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FrZ7ENoxF5k-RszUAqsVQehF8fQj.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fk78ICc2j3slY_-AH6lWRDrjfp2F.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FlXIuZioj4zuXnpMNBXfxqf36cQS.png"></figure><span></span><blockquote><span>佛光寺山门</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FpC2lc-bBekEw1-HGcXWx7xhvUGU.png"></figure><span></span><blockquote><span>佛光寺文殊殿</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FmuLMgQS83i2Xd-n2pu30qoDrTnv.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FheqkQ9kyRXF1QQhxH3FevMgz8gN.png"></figure><span></span><blockquote><span>佛光寺东大殿</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/Fh4SOxgA1i3DTam1MLqQ-hDwrd0S.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fq443gqpZfQ1IxipE-WeAzBOSSER.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fq5Qsh5gjo03ZTMUIBonN9HxBPc0.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FozplOGuxZG6IzHHsOMkxjLjyT7r.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FqDH4x1sS9ytqN00s3pbgOUBdvlt.png"></figure><span></span><blockquote><span>一束光（在天龙山）</span></blockquote><span></span><figure><img src="https://image.xyzcdn.net/FkopWKts2b0JFtm70JKEhgP4x-s4.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltWAXMNohDg84zt5IETyM5iFSyaq.m4a" length="82269880" type="audio/mp4"/>
+    <itunes:duration>01:07:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpHaLAp33Hk7t3oKhAsPkxyIoTJd.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>091 山西古迹系列：岩山寺：一首北宋与徽宗的挽歌</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67140f520d2f24f2895646c5</link>
+    <guid isPermaLink="false">67140f520d2f24f2895646c5</guid>
+    <pubDate>Sun, 20 Oct 2024 09:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们重点来聊聊：位于五台山北麓的“岩山寺”。</span></p><span></span><p><span>据记载，岩山寺建于金代，早年称为“灵岩寺”，目前现存的金代建筑是位于南侧的文殊殿。</span></p><span></span><p><span>其中殿内的壁画，是一个叫做王逵的宫廷画师，在68岁的时候带领他的弟子们创作而成，目的是超度死去的金朝官兵，但画面中呈现了明显的北宋风格，这又是怎么回事呢。</span></p><span></span><p><span>今天我们就来聊聊，宋徽宗的宫廷画院，以及北宋亡国时的那些悲欢离合的故事。</span></p><span></span><ul><span>  </span><li><span>岩山寺照片：（源自网络）</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/Fm2LkCNzJ-s_MKy4Hwxk_q27AeX7.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FhYfb3Jxq4CusnSxVs54hw6Vo0mq.webp"></figure><span></span><figure><img src="https://image.xyzcdn.net/FvnrQaRIfPyw6RtBmi8y6TDEYhaq.webp"></figure><span></span><ul><span>  </span><li><span>墙上的壁画 王逵等画（源自网络）</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FjmFnBELnGZurm2Ib9C5txfd3hB6.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/FsiYgqkM2ciE7JpeDS07zuxkeLMF.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FozfRrsB-haOgUA4h2j-sKBBzuVD.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fpnm0RZP5v67SUWG3_Iks9DiBByO.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fq0gu9Lg85whrtK9GnTjjyZ3U68p.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FnVrznXgEqxDCPu9SiaH8oeBos9I.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/FtbdcN2gkz2FpwvS_uieznBeLt9A.jpg"></figure><span></span><ul><span>  </span><li><span>牡丹诗册 宋徽宗 台北故宫博物院藏：</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FjpA1N2CsZ2EKuNPeHdpA9qH8y-F.jpg"></figure><span></span><ul><span>  </span><li><span>五色鹦鹉图 宋徽宗 波士顿美术馆藏：</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FqbGzpHvvciGJf6HjujYo8oGN0NJ.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fo8RAtLcML1as1UtOMvbafHfwXnj.jpg"></figure><span></span><ul><span>  </span><li><span>听琴图（局部）</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FtE5CZNGEGNsxAN51I0XpvtDxJzU.jpg"></figure><span></span><ul><span>  </span><li><span>千里江山图 王希孟 （局部）</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FqTEyvzDO_wHZkwnefPfB6uxx7q5.png"></figure><span></span><ul><span>  </span><li><span>万壑松风图 李唐（局部）</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FnG3BOaVeFBTiBH5CwQQNL26mN-f.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkbPJPU7zwxbtqS40MsnnQG9RzxR.m4a" length="128681256" type="audio/mp4"/>
+    <itunes:duration>01:46:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/ljbBkRMq_0f4YBB6fms9ZP3Z09M1.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>090 番外：聊聊 黑神话悟空，以及：紧张了二周年了！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66decbf4bfd7110df45c6801</link>
+    <guid isPermaLink="false">66decbf4bfd7110df45c6801</guid>
+    <pubDate>Mon, 09 Sep 2024 10:20:34 +0000</pubDate>
+    <description><![CDATA[<p><span>截止本期，这个小节目已经“紧张了”2年了，祝大家每天都有新的收获！</span></p><span></span><ul><span>  </span><li><span>《黑神话：悟空》中的古迹</span></li><span>  </span><li><span>节目2周年的感想</span></li><span>  </span><li><span>下几期节目的编排</span></li><span></span></ul><span></span><p><span>几组游戏与现实的画面：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FsuWIS9tLvneHWSxUOWneMd5hEqL.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fua01ha_0bYsrm2hkjhSJsiv22KG.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fj7o1P0vONuDOy4-itqMJ8bgXAWO.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fv8rIAwhFR2SgaAo3Q33tNWeuD_T.jpg"></figure><span></span><ul><span>  </span><li><span>林徽因在佛光寺东大殿与供养人“宁公遇塑像”：</span></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/FjEForddrlqmju8L7feH7X11YvwW.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsDTz-xoTaHBqGidm-EhHqSWem0K.m4a" length="52941259" type="audio/mp4"/>
+    <itunes:duration>00:43:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp_2aQz5gE5tqbQk7OL6rFHWQo8z.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

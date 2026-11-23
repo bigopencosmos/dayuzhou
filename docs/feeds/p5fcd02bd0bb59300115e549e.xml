@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>我在故宫聊八卦</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/5fcd02bd0bb59300115e549e</link>
+  <description><![CDATA[那些清宫剧里的故事，都是真的吗？
+如果让你穿越回清朝，能活过第一集吗？
+幽幽紫禁城，承载两百多年的清朝历史，也见证无数人的爱恨情仇。
+慈禧也能装小白兔？！皇帝在家也吃剩饭？！
+15期披着八卦外衣的真实历史揭秘，我们在这里给您慢慢道来！
+
+杨原
+中国人民大学历史学博士
+北京社科院满学所博士后
+著有《如果故宫会说话》等大量学术作品
+清朝宫廷史、生活史知名专家
+《日谈公园》2020年度新晋人气嘉宾
+
+小伙子
+《日谈公园》播客创始人
+青年小伙子乐队主唱
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:48:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p5fcd02bd0bb59300115e549e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>日谈公园</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS1xaW5pdS5qZWxsb3cuc2l0ZS9GdUFhbEh5bnhNeHJHcVA3blFkNkJRZ29yNjZnLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS1xaW5pdS5qZWxsb3cuc2l0ZS9GdUFhbEh5bnhNeHJHcVA3blFkNkJRZ29yNjZnLmpwZWc=.jpeg</url>
+    <title>我在故宫聊八卦</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/5fcd02bd0bb59300115e549e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

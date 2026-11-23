@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>产品二姐的AGI产品经理手册</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64b9dc0e648de0ce63bd6e66</link>
+  <description><![CDATA[大家好，我是“产品二姐”（公众号同名），欢迎你来！
+目前在孵化器打造产品，工作会有点忙，但播客会持续更新，主要和大家聊聊AGI技术在产品端的落地实践，大家可以先在公众号里找我，实战经验都会记录（看过的朋友都说好）。
+
+形式上可能是单口解答经常被咨询到的问题，也会有邀请实战中遇到的朋友一起来聊，希望对大家有所帮助。
+
+以下内容可能会成为我的选题
+👉AI本源：讲讲AI在过去70年历程中，那些重要人和事情。
+
+👉分享优秀的AI 产品，探索AI的技术边界。
+
+👉零基础AGI产品经理学习路线。
+
+但我主张不焦虑式学习AI，比起一头扎进现象中，我更喜欢探究背后的“为什么”。
+
+我也送大家一句话希望减轻你的AI 学习焦虑：
+
+“假如AI是一个长期趋势，那么稳扎稳打也为时不晚
+假如AI是昙花一现，就当现在时为未来准备，也不亏。”
+
+
+微信公众号：产品二姐 （部分播客是对公众号文章的更为生动的音频解读）
+幕后联系：15210347892]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:51:16 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/fp3q9967x9xh.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmaI-Z0CstOXj2h5fiu9F6biaq9x.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmaI-Z0CstOXj2h5fiu9F6biaq9x.jpg</url>
+    <title>产品二姐的AGI产品经理手册</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64b9dc0e648de0ce63bd6e66</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>一个AI产品的非典型成长：Chat2API幕后揭秘</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/677f97411962f0b751825f67</link>
+    <guid isPermaLink="false">677f97411962f0b751825f67</guid>
+    <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期节目和大家一起分享我和我的开发伙伴AI小智的故事。（推荐大家关注 公众号：AI小智）</span></p><span></span><p><span>2024年，我们做出了自己的第一个AI产品：Chat2API。正如它的名字一样，我们希望未来Agent能像聊天那样使用API，而这些API就是Agent可以使用的最重要工具。本期会和大家讲述：</span></p><span></span><ul><span>  </span><li><span>在这个产品之前我和AI小智做过了哪些有意思尝试；</span></li><span>  </span><li><span>这个产品中我们又经历了什么样有趣的故事；</span></li><span>  </span><li><span>未来我们的产品还会怎样演进；</span></li><span></span></ul><span></span><p><span>同时C</span><strong><span>hat2API也全面开放预约演示： </span></strong><a href="https://agent2api.com/" data-url="https://agent2api.com/"><span>agent2api.com</span></a><span> 。</span></p><span></span><p><span>欢迎感兴趣的朋友点击预约，每一个预约我们都会亲自回电，和你展示我们的demo，相信每一次的链接都能为你我带来收获！</span></p><span></span><p><span><a class="timestamp" data-timestamp="86">00:01:26</a>: 开场嘉宾介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="235">00:03:55</a>: 为什么要从Java开发到Langchain 开发</span></p><span></span><p><span><a class="timestamp" data-timestamp="665">00:11:05</a>: 学习LangChain及AI技术实践的建议</span></p><span></span><p><span><a class="timestamp" data-timestamp="917">00:15:17</a>: 我们的第一个项目：参加百度黑客松</span></p><span></span><p><span><a class="timestamp" data-timestamp="1214">00:20:14</a>: 探讨圆桌会议产品的思路与AI技术应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="1462">00:24:22</a>: AI时代程序员的自我提升与转型</span></p><span></span><p><span><a class="timestamp" data-timestamp="1706">00:28:26</a>: 开发Chat2API的挑战与惊喜</span></p><span></span><p><span>Chat2API的UE设计、和前端伙伴：</span></p><span></span><ul><span>  </span><li><span>UE设计： 华华（135 2196 2703，清华大学设计硕士，10+年设计经验，ex-自动驾驶APP设计）</span></li><span>  </span><li><span>前端伙伴：Wing（151 1790 1754，ex-滴滴、百度）</span></li><span></span></ul><span></span><p><span>Ta们的专业水平和敬业程度绝不亚于大厂高P水平。</span></p><span></span><p><strong><span>合作机构：</span></strong></p><span></span><p><strong><span>宽带资本AI坊： &nbsp;</span></strong><span>致力于孵化早期的AI创业者，并同时提供有竞争力的薪水，来降低创业对个人开发者的风险。联系微信：bert_bye</span></p><span></span><p><strong><span>丹摩智算</span></strong><span>（公众号丹摩智算）：官网链接:</span><a href="https://damodel.com/register?source=FA1D40EB" data-url="https://damodel.com/register?source=FA1D40EB"><span>damodel.com</span></a><span>🔥</span></p><span></span><p><span>目前丹摩智算正在进行新年GPU促销活动，全场GPU折扣！点击链接就可以直接注册，免费用26小时的4090！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b9dc0e648de0ce63bd6e66/ll6--ug4H3I-eE-hCo0i8enC-iS-.m4a" length="45593567" type="audio/mp4"/>
+    <itunes:duration>00:46:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsOTW2bbRsyMCOjaakUzZzngKYiz.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI产品经理的使命：从土豆到洋葱的蜕变</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/672dc21482eb19451d233129</link>
+    <guid isPermaLink="false">672dc21482eb19451d233129</guid>
+    <pubDate>Fri, 08 Nov 2024 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，上次和橘子的对谈邀请了两位同学一起做客，今天二姐到他们的节目做串台嘉宾，大家一起来聊聊AI产品该怎么做，AI产品经理应该怎么做。他们的剪辑非常专业，二姐就直接抄作业啦。节目分为上下两期，今天是第一期内容，大家一起来听听吧。</span></p><span></span><p><strong><span>【主持人】</span></strong><span> 小偏，丹摩智算产品内容运营，AI Marketing方向从业者（即刻：偏导只会导）</span></p><span></span><p><strong><span>【嘉宾】</span></strong></p><span></span><ul><span>  </span><li><span>产品二姐，公众号“产品二姐”主理人，10年产品经验的资深产品经理</span></li><span>  </span><li><span>习习，宽带AI坊，AI行业资深从业者（公众号：习习ying）</span></li><span></span></ul><span></span><p><strong><span>【时间轴】</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="106">00:01:46</a>: AI 2.0 时代产品的「不变」：保持产品的高度可复制性、可用性。</span></p><span></span><p><span><a class="timestamp" data-timestamp="322">00:05:22</a>: 现在的AI产品是土豆，未来需要成为洋葱。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1090">00:18:10</a>: 从土豆到洋葱需要什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1484">00:24:44</a>: 如何找到AI产品的TPF。</span></p><span></span><p><strong><span>【合作伙伴】</span></strong></p><span></span><p><strong><span>宽带资本AI坊：</span></strong><span> &nbsp;&nbsp;致力于孵化早期的AI创业者，并同时提供有竞争力的薪水，来降低创业对个人开发者的风险。 联系微信：bert_bye</span></p><span></span><p><strong><span>丹摩智算：</span></strong><span> 公众号:丹摩智算 官网链接:</span><a href="https://damodel.com/register?source=FA1D40EB" data-url="https://damodel.com/register?source=FA1D40EB"><span>damodel.com</span></a><span> 🔥目前丹摩智算正在进行双十一GPU促销活动，全场充多少送多少！还有多型号GPU半价活动！点击链接直接注册！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loPrCrMZ0hEUQYkQetmJ6qXpcLiI.m4a" length="31391775" type="audio/mp4"/>
+    <itunes:duration>00:32:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj8yveB_lwaf44s-voQ-LvcJ0Btk.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>对话海螺AI产品经理橘子：在AI的泡沫与幻觉中淘金</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6717453b0d2f24f289ee213e</link>
+    <guid isPermaLink="false">6717453b0d2f24f289ee213e</guid>
+    <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期节目是干货与有趣并存，我们请来的这位嘉宾在chatGPT发布前就加入了Minimax，半年之前，他告别Minimax，并做了自己的产品，同时他的推特上还有10万的粉丝；</span></p><span></span><p><span>今天从他在Minimax的经历聊起，话题既覆盖了好玩有趣的 AI播客、AI 搜索 以及AI陪伴这类To C的产品，也聊到了to B类产品中AI可以应用的机会。 在访谈末尾，他还给我们带来了一个彩蛋预告，大家可以期待一下。</span></p><span></span><p><span>Shownotes：</span></p><span></span><p><span><a class="timestamp" data-timestamp="135">02:15</a>: 嘉宾介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="224">03:44</a>: 给打工人的竞业期科普</span></p><span></span><p><span><a class="timestamp" data-timestamp="351">05:51</a>: Minimax的结缘与离开</span></p><span></span><p><span><a class="timestamp" data-timestamp="537">08:57</a>: 揭秘Minimax的研发协作模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="1274">21:14</a>: AI陪伴类产品的底层逻辑</span></p><span></span><p><span><a class="timestamp" data-timestamp="1448">24:08</a>: AI搜索独立开发产品AI Home Tab</span></p><span></span><p><span><a class="timestamp" data-timestamp="1980">33:00</a>: AI播客的新范式</span></p><span></span><p><span><a class="timestamp" data-timestamp="2790">46:30</a>: to B类产品的窘境</span></p><span></span><p><span><a class="timestamp" data-timestamp="3750">01:02:30</a>: 黑莓：十年前的第一桶金</span></p><span></span><p><span><a class="timestamp" data-timestamp="4065">01:07:45</a>: 十年前的移动互联网的迷茫期</span></p><span></span><p><span><a class="timestamp" data-timestamp="4150">01:09:10</a>: 打工人高效度过一个GAPyear</span></p><span></span><p><span><a class="timestamp" data-timestamp="4351">01:12:31</a>: AI硬件：豆包耳机与Meta眼镜</span></p><span></span><p><span><a class="timestamp" data-timestamp="4480">01:14:40</a>: 自媒体的运营</span></p><span></span><p><span><a class="timestamp" data-timestamp="4827">01:20:27</a>: 彩蛋</span></p><span></span><p><span>合作机构介绍：</span></p><span></span><ol><span>  </span><li><strong><span>宽带资本·AI坊：“</span></strong><span>一个通过与创业者共创的形式孵化项目走向成功的创业项目全生命周期跟踪管理平台。我们关注云计算、网络安全、通信、人工智能等前沿科技领域，为创业者提供场地，资金，后台共享等支持，通过联合共创的模式，帮助创业者快速组建团队打磨产品，如果您对加入AI坊感兴趣，欢迎您与我们联系。</span><strong><span>微信：bert_bye。</span></strong><span>”</span></li><span>  </span><li><br></li><span>  </span><li><strong><span>丹摩智算平台：</span></strong><span>“丹摩”一名取自“在大漠中炼丹”，丹摩数据中心位于中卫大漠， 专为 AI应用开发者 提供性能可靠、价格优惠的算力服务。注册地址：<a data-url="https://damodel.com/register?source=FA1D40EB" href="https://damodel.com/register?source=FA1D40EB">damodel.com</a></span></li><span></span></ol><span></span><p><span>关注公众号，领取优惠券福利：</span></p><span></span><p><img src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9hOG82azZ5OGdwLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9hc3luY2NvZGUvP2NvZGU9TVdGbVpXVTJOelE1WWpsaU0yUmlNV1ppWVdKbE1XTmpOREJsWkdVeU1HTmZjVWRVUW0xbVkzSlphMHMwWkVObVlsZHVlVFIzUWtZM00zaFJTemxzY1dWZlZHOXJaVzQ2VUdSNk1XSjRWbGt6YjBkQlkyRjRjVFI2ZFdOeVVWRlVibVJvWHpFM01qazFOelU0T1RNNk1UY3lPVFUzT1RRNU0xOVdOQQ=="></p><span></span><p><span>感谢大家，如果对节目有任何的建议，你都可以在评论区和我们互动，每一条都会认真看。同时二姐的产品也快要面世了，我们会在不久的将来也和大家聊聊我们做产品的过程和理念，不妨订阅持续关注我们吧！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loQzzKyPAtiVURttKxeAwiocXyaP.m4a" length="80549662" type="audio/mp4"/>
+    <itunes:duration>01:23:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fsim_oAldxpXec9ruXX_ky6odtTw.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>让Agent从Chat走向Act -- 我在亚马逊云AI初创活动上的分享</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66b8643833591c27be39e2e5</link>
+    <guid isPermaLink="false">66b8643833591c27be39e2e5</guid>
+    <pubDate>Sun, 11 Aug 2024 07:11:52 +0000</pubDate>
+    <description><![CDATA[<p><span>上周受亚马逊云的邀请，在一个线下五六十人的会场讨论了Agent的话题。</span></p><span></span><p><span>活动内容非常精彩，嘉宾和听众的提问都很有质量。场地和一个中学教室差不多，观众和讲台的距离不足半米，没有麦克风，观众和嘉宾更像是探讨而不是单向分享。</span></p><span></span><p><span>这次的会议的主题是Agent, 我分享的题目《从chat到act, 让你的agent从好玩走向实用》。今天跟大家同步分享在我的小宇宙，PPT在</span><a href="https://a8o6k6y8gp.feishu.cn/slides/BSm0sOtgdliYkZdxfM7cDJLTnMe?from=from_copylink" data-url="https://a8o6k6y8gp.feishu.cn/slides/BSm0sOtgdliYkZdxfM7cDJLTnMe?from=from_copylink"><span>飞书</span></a><span>上可以阅读。</span></p><span></span><p><span>参考资料：</span></p><span></span><p><span>1. mind2Web: <a data-url="https://osu-nlp-group.github.io/Mind2Web/" href="https://osu-nlp-group.github.io/Mind2Web/">osu-nlp-group.github.io</a></span></p><span></span><p><span>2. OpenAI cookbook: <a data-url="https://cookbook.openai.com/examples/fine_tuning_for_function_calling" href="https://cookbook.openai.com/examples/fine_tuning_for_function_calling">cookbook.openai.com</a></span></p><span></span><h2><span>时间线</span></h2><span></span><h2><span><a class="timestamp" data-timestamp="0">00:00</a> 引言。</span></h2><span></span><p><span><a class="timestamp" data-timestamp="120">02:00</a> 什么是从Chat走向Act。</span></p><span></span><p><span><a class="timestamp" data-timestamp="245">04:05</a> Act Agent 和RPA, Dify, Coze的区别。</span></p><span></span><p><span><a class="timestamp" data-timestamp="533">08:53</a> 实现从Chat 走向 Act： 通过Agent tuning， 设计模式提高Agent 规划思考能力</span></p><span></span><p><span><a class="timestamp" data-timestamp="800">13:20</a> 通过function calling tuning &nbsp;让Agent执行精准力提高。</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fihu7qzA_8RpEASTdop2H_tfk_de.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="1280">21:20</a> 展望软件2.0。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltQamTv2Y64vYGIxli8w5oBX9H-z.m4a" length="22356881" type="audio/mp4"/>
+    <itunes:duration>00:23:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh-w5e8v62a7ufUon5286G_IVQHi.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>All In AI后的一年，我对生活和AI的全新认知</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/669d319737236c546eb80c19</link>
+    <guid isPermaLink="false">669d319737236c546eb80c19</guid>
+    <pubDate>Sun, 21 Jul 2024 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Hello 大家好，一年不见，二姐终于更新了</span></p><span></span><p><span>这是一档和 </span><strong><span>伏脉千里 </span></strong><span>的串台节目。</span></p><span></span><p><span>我和老朋友奈飞 &nbsp;回顾了过去一年我的自由职业生涯，以及对AI的全新认知，相信会对你有些启发，话不多说，enjoy。</span></p><span></span><p><span><a class="timestamp" data-timestamp="121">02:01</a> 辞职后的几个爽点</span></p><span></span><p><span><a class="timestamp" data-timestamp="690">11:30</a> 我的自媒体:从费曼到纳瓦尔宝典</span></p><span></span><p><span><a class="timestamp" data-timestamp="1110">18:30</a> 过去一年AI的变化： 产品多样化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1895">31:35</a> 国内的AI现在还在抄吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2400">40:00</a> Software 2.0的探讨</span></p><span></span><p><span><a class="timestamp" data-timestamp="2722">45:22</a> 关于GPU 的探讨</span></p><span></span><p><span><a class="timestamp" data-timestamp="3000">50:00</a> AI 搜索</span></p><span></span><p><span><a class="timestamp" data-timestamp="3180">53:00</a> 企业里的AI应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="3360">56:00</a> 大模型能力数据挑战:中文与英文的差异探究</span></p><span></span><h2><span>推荐精品个人博客：</span></h2><span></span><h2><span>OpenAI 创始人Kaparthy</span></h2><span></span><ul><span>  </span><li><span>karpathy medium(类似国际版公众号): <a data-url="https://karpathy.medium.com/" href="https://karpathy.medium.com/">karpathy.medium.com</a> 最新到2017年，可以看看openAI六年前的先知理念。</span></li><span>  </span><li><span>youtube: <a data-url="https://www.youtube.com/@AndrejKarpathy/videos" href="https://www.youtube.com/@AndrejKarpathy/videos">www.youtube.com</a>, 各种神经网络原理，讲解。最新更新在9天前，以2-3个月一次的频率在更新</span></li><span>  </span><li><span>twitter(X): <a data-url="https://x.com/karpathy" href="https://x.com/karpathy">x.com</a> 最新观点</span></li><span>  </span><li><span>github 博客： <a data-url="https://karpathy.github.io/" href="https://karpathy.github.io/">karpathy.github.io</a></span></li><span>  </span><li><span>个人博客：<a data-url="https://karpathy.ai/" href="https://karpathy.ai/">karpathy.ai</a></span></li><span>  </span><li><span>Karpathy的开源大模型培训课， 现在只有大纲，就攒了13K star，GitHub - karpathy/LLM101n: LLM101n: Let's build a Storyteller</span></li><span></span></ul><span></span><h2><span>Anthropic 联合创始人Christopher Olah 的博客：<a data-url="https://colah.github.io/" href="https://colah.github.io/">colah.github.io</a></span></h2><span></span><h2><br></h2>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk0OJX7WJ_Kdo1oGK8LR-osp9PVw.m4a" length="61736234" type="audio/mp4"/>
+    <itunes:duration>01:03:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlVUTdP0p-5d4zoRX8f0nX98Ycdf.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>大话人工智能AI进化史（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64c8646999e1e7669e8492bd</link>
+    <guid isPermaLink="false">64c8646999e1e7669e8492bd</guid>
+    <pubDate>Tue, 01 Aug 2023 01:48:24 +0000</pubDate>
+    <description><![CDATA[<p><span>这里是产品二姐，产品二姐很二，有两个频道：</span></p><span></span><ul><span>  </span><li><span>一个分享产品经理工作，就叫产品二姐，最近在学习、讨论人工智能。</span></li><span>  </span><li><span>另一个记录日常生活，叫产品二姐番外篇。</span></li><span></span></ul><span></span><p><span>文字内容在微信公众号/知乎： 产品二姐。</span></p><span></span><p><span>---------</span></p><span></span><p><span>前两期和大家整体聊一下AI的进化史，随后会有几个系列，大家持续关注哦！</span></p><span></span><ul><span>  </span><li><span>跟着图灵奖大神学习人工智能系列</span></li><span>  </span><li><span>AI各个垂直领域的进化史</span></li><span>  </span><li><span>如何和孩子聊人工智能</span></li><span>  </span><li><span>产品背后的算法</span></li><span>  </span><li><span>各种AI 产品分析</span></li><span></span></ul><span></span><p><span>------------------------------------------------------------------------------</span></p><span></span><p><strong><span>本期内容：</span></strong></p><span></span><p><span>本期邀请一位程序员朋友（</span><strong><span>小宇宙搜：中年会客厅</span></strong><span>）一起聊聊AI进化史上半阶段。</span></p><span></span><p><span><a class="timestamp" data-timestamp="163">2:43</a>'' 为什么要从历史角度研究AI</span></p><span></span><p><span><a class="timestamp" data-timestamp="439">7:19</a>'' AI 缘起及诞生</span></p><span></span><p><span><a class="timestamp" data-timestamp="734">12:14</a>’‘ AI 第一次爆发期（1956-1974）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1807">30:07</a>‘’ AI第一次寒冬（1974-1980）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1982">33:02</a>’‘ AI 第二次爆发（1980-1987）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2354">39:14</a>‘’ AI第二次寒冬（1987-1994）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2841">47:21</a>’‘ 人工神经网络复苏（1980s）</span></p><span></span><p><span>文字内容整理在</span></p><span></span><ul><span>  </span><li><span>知乎: </span><a href="https://zhuanlan.zhihu.com/p/645402858" data-url="https://zhuanlan.zhihu.com/p/645402858"><span>三张图讲述一部AI 进化史</span></a></li><span>  </span><li><span>微信公众号: </span><a href="https://mp.weixin.qq.com/s?__biz=MzUyODY0MTQ4OA==&amp;mid=2247483788&amp;idx=1&amp;sn=5444bad0f8b40cd780944d02e5bcbb0d&amp;chksm=fa6c7d33cd1bf4251509ba596e1e4c3e12f43ef7d507c0609a097e249ec5d0f9ff8a5834b47f&amp;token=137459713&amp;lang=zh_CN#rd" data-url="https://mp.weixin.qq.com/s?__biz=MzUyODY0MTQ4OA==&amp;mid=2247483788&amp;idx=1&amp;sn=5444bad0f8b40cd780944d02e5bcbb0d&amp;chksm=fa6c7d33cd1bf4251509ba596e1e4c3e12f43ef7d507c0609a097e249ec5d0f9ff8a5834b47f&amp;token=137459713&amp;lang=zh_CN#rd"><span>三张图讲述一部AI 进化史</span></a></li><span></span></ul><span></span><figure><img src="https://image.xyzcdn.net/Fjm4i_Gk8zfuZvoqAKuFCr_vmT2j.png"></figure><span></span><p><span>大家enjoy！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltQz1xZmOteZs5DMeAaGLU_dbQfe.m4a" length="64268975" type="audio/mp4"/>
+    <itunes:duration>01:06:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh-w5e8v62a7ufUon5286G_IVQHi.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

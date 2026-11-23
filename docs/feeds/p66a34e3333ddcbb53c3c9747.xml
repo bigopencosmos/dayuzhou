@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>DJ慕的播客节目</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66a34e3333ddcbb53c3c9747</link>
+  <description><![CDATA[的播客节目]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:07:37 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66a34e3333ddcbb53c3c9747.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>DJ慕</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fhiql5bgxHO3R2XKRrTBEXXMbdY7.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fhiql5bgxHO3R2XKRrTBEXXMbdY7.png</url>
+    <title>DJ慕的播客节目</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66a34e3333ddcbb53c3c9747</link>
+  </image>
+  <itunes:category text="Music"/>
+</channel>
+</rss>

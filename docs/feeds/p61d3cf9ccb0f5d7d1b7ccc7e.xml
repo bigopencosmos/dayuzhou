@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>秘密飞船</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61d3cf9ccb0f5d7d1b7ccc7e</link>
+  <description><![CDATA[《秘密飞船》是一档由两位叛逆期延迟的搬砖少女创立的播客，探讨怎么跟自己的大脑和身体搞好关系。我们想在秘密飞船上肆无忌惮酝酿自己纤细的、缤纷的、不为人知的想象力。我们想在秘密飞船上自作多情消化那些沉重的、抑郁的、不得已的生活本身。我们想在...]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:38:06 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61d3cf9ccb0f5d7d1b7ccc7e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>克莱尔&amp;睿秋</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xMDM5LWF1ZGlvZnJlZWhpZ2hxcHMvOEEvN0UvR0t3UklSd0g1aXR2QUFKamtRSUNiWksxLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xMDM5LWF1ZGlvZnJlZWhpZ2hxcHMvOEEvN0UvR0t3UklSd0g1aXR2QUFKamtRSUNiWksxLmpwZWc=.jpeg</url>
+    <title>秘密飞船</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61d3cf9ccb0f5d7d1b7ccc7e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

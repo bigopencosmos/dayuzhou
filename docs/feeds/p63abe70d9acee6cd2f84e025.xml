@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>我和索马里海盗的生死交易</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63abe70d9acee6cd2f84e025</link>
+  <description><![CDATA[人类历史上最漫长的绑架案——索马里海盗劫持事件，被困近五年的人质自述，揭秘从海盗手中艰难逃生的沉寂真相！海盗的神秘身份、人质间的恩怨情仇、命悬一线的对赌谈判、漫长绝望的监禁生活。故事FM 全球搜寻，渔工、船员家属、记者、谈判者、政府官员，讲述与索马里海盗近 5 年的惊险博弈与人性交锋。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:56:08 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63abe70d9acee6cd2f84e025.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>故事FM</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FuQaGuC2_c8kqt3FuoysRW-8GuXa.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FuQaGuC2_c8kqt3FuoysRW-8GuXa.png</url>
+    <title>我和索马里海盗的生死交易</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63abe70d9acee6cd2f84e025</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

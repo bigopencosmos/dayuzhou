@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>我在日本黑帮当老大</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62834b641daf3e0694bbcdc9</link>
+  <description><![CDATA[汪楠，日本黑道人尽皆知的华人老大，亲临 故事FM 讲述他的 30 年黑道人生。
+从初到日本遭人凌辱的东北公子哥，到只手建立自己的黑道帝国，他见证了日本黑道的黄金时代。
+他碾碎了善恶边界，在没有道德的世界里赤手空拳 30 年。杀过人、放过火，与警察上演高速大追杀，被囚禁共计 20 年——却依然有人说他是好人。
+欢迎收听故事FM首档付费节目，亲历者揭秘真实的黑道故事——击破你的三观，超越你的经验，伴随声音一起坠入这个生猛无比的灰色世界。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:27:52 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p62834b641daf3e0694bbcdc9.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>故事FM</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnaUhCdzdjdEFZSEhRTFVOcTQtejB6ZG80SlMuanBn.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZnaUhCdzdjdEFZSEhRTFVOcTQtejB6ZG80SlMuanBn.jpg</url>
+    <title>我在日本黑帮当老大</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62834b641daf3e0694bbcdc9</link>
+  </image>
+  <itunes:category text="Leisure"/>
+</channel>
+</rss>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>三人行FM</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61b48195895990fbfb762b18</link>
+  <description><![CDATA[三人行，必有我师焉。好友聊天播客]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:25:19 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/3qafddflvvv7.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Kaelthekid</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png</url>
+    <title>三人行FM</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61b48195895990fbfb762b18</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>EP250.聊聊意定监护</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad8badeb381c0fcba19ac5f</link>
+    <guid isPermaLink="false">6ad8badeb381c0fcba19ac5f</guid>
+    <pubDate>Wed, 21 Oct 2026 13:18:40 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lqkraMcAyavqU0FoTD_ltxMLUSQr.m4a" length="32183848" type="audio/mp4"/>
+    <itunes:duration>00:33:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP249.聊聊制作播客的体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad592b60e4e410a05bef392</link>
+    <guid isPermaLink="false">6ad592b60e4e410a05bef392</guid>
+    <pubDate>Mon, 19 Oct 2026 04:01:10 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lvaH1eJuU5au0nNsWI0c1bZT2fzu.m4a" length="73833379" type="audio/mp4"/>
+    <itunes:duration>01:16:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP248.聊聊内求</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad592260e4e410a05bef353</link>
+    <guid isPermaLink="false">6ad592260e4e410a05bef353</guid>
+    <pubDate>Mon, 19 Oct 2026 03:57:04 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lkm4G5JWSrWZJeiIc19eHRVnr8Rm.m4a" length="90008180" type="audio/mp4"/>
+    <itunes:duration>01:32:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP247.聊聊最近看的演出</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aad4a5d0916f6f8b4457a9e</link>
+    <guid isPermaLink="false">6aad4a5d0916f6f8b4457a9e</guid>
+    <pubDate>Fri, 18 Sep 2026 14:36:23 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lieN5QOyfOXbaC68eZeoD7ne_kHA.m4a" length="52107147" type="audio/mp4"/>
+    <itunes:duration>00:53:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP246.聊聊睡眠</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8f7db2ef65145dfcc5fbe0</link>
+    <guid isPermaLink="false">6a8f7db2ef65145dfcc5fbe0</guid>
+    <pubDate>Thu, 27 Aug 2026 00:08:58 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lo_YKKNSl1hyDZ7HCE2v8cwixU83.m4a" length="61795629" type="audio/mp4"/>
+    <itunes:duration>01:03:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP245.聊聊个人 AGI</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a85b214ef65145dfcc2237e</link>
+    <guid isPermaLink="false">6a85b214ef65145dfcc2237e</guid>
+    <pubDate>Wed, 19 Aug 2026 13:46:05 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lkny86bKoUn9Y8x_i3ih5yEOVNw7.m4a" length="73016257" type="audio/mp4"/>
+    <itunes:duration>01:15:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP244.聊聊智能戒指使用体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a77fcbc000a55a9bb050b2c</link>
+    <guid isPermaLink="false">6a77fcbc000a55a9bb050b2c</guid>
+    <pubDate>Sun, 09 Aug 2026 04:14:42 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lh-30PGXyDtqRzIl9YADm38byIIy.m4a" length="70540862" type="audio/mp4"/>
+    <itunes:duration>01:12:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP243.聊聊旅行经历</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6ebd981b5e24969ce77bd4</link>
+    <guid isPermaLink="false">6a6ebd981b5e24969ce77bd4</guid>
+    <pubDate>Sun, 02 Aug 2026 03:50:36 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lriBFNZQC07MQecTC0UVSxcJKCcD.m4a" length="73544956" type="audio/mp4"/>
+    <itunes:duration>01:15:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP242.聊聊留学生活</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6d6f811b5e24969ce71b14</link>
+    <guid isPermaLink="false">6a6d6f811b5e24969ce71b14</guid>
+    <pubDate>Sat, 01 Aug 2026 04:16:44 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/loT09-vzgTKH9jKbDy0ML03sWZJj.m4a" length="88157350" type="audio/mp4"/>
+    <itunes:duration>01:30:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP241.聊聊健身心得</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a69e0a0b581962ce2bd69af</link>
+    <guid isPermaLink="false">6a69e0a0b581962ce2bd69af</guid>
+    <pubDate>Wed, 29 Jul 2026 11:21:21 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/liP2x4Cw_deGa4MxwhASucK2oJ0J.m4a" length="78423842" type="audio/mp4"/>
+    <itunes:duration>01:20:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP240.聊聊讨好型人格</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a65d9286356eb2d9be896a6</link>
+    <guid isPermaLink="false">6a65d9286356eb2d9be896a6</guid>
+    <pubDate>Sun, 26 Jul 2026 10:03:32 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/ll1TlmoPG7jgb1UUFjo7fi9vzphe.m4a" length="57803092" type="audio/mp4"/>
+    <itunes:duration>00:59:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP239.聊聊我对于MBTI的理解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5e36fba3fec224d5a099a9</link>
+    <guid isPermaLink="false">6a5e36fba3fec224d5a099a9</guid>
+    <pubDate>Mon, 20 Jul 2026 15:16:53 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lvmyWrXJ8vko5V-Dw14UlCP6RWVn.m4a" length="144779908" type="audio/mp4"/>
+    <itunes:duration>02:29:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP238.聊聊学驾照的体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a4912593fb7233cbf43af50</link>
+    <guid isPermaLink="false">6a4912593fb7233cbf43af50</guid>
+    <pubDate>Sat, 04 Jul 2026 14:10:11 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/ls2kiD0CmLRcmytUDhQpwNvCww4B.m4a" length="94550046" type="audio/mp4"/>
+    <itunes:duration>01:37:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP237.聊聊荣格红书</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a39f7019d2f5743683c408c</link>
+    <guid isPermaLink="false">6a39f7019d2f5743683c408c</guid>
+    <pubDate>Tue, 23 Jun 2026 03:09:24 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/llRlVJEwMnQ5gJTxkdneR9pLQHqF.m4a" length="68714068" type="audio/mp4"/>
+    <itunes:duration>01:10:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP236.聊聊Apple Watch使用体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a3006b443a22a6955844791</link>
+    <guid isPermaLink="false">6a3006b443a22a6955844791</guid>
+    <pubDate>Mon, 15 Jun 2026 14:12:29 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/61b48195895990fbfb762b18/lgTHuGEBFtUmguES_mMXL1lfgc3k.m4a" length="68353745" type="audio/mp4"/>
+    <itunes:duration>01:10:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg0Qb8JHYYvnQb_UA54-7Wy40d2F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

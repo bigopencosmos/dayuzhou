@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>而立计划podcast</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64e3a1346cd0b7ec1ccb3dd1</link>
+  <description><![CDATA[talking bullshit]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:27:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64e3a1346cd0b7ec1ccb3dd1.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>顾琰于koto</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpT5WnIfgi-ZPyayOMqBzQe0-PK7.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpT5WnIfgi-ZPyayOMqBzQe0-PK7.jpg</url>
+    <title>而立计划podcast</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64e3a1346cd0b7ec1ccb3dd1</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>频道的未来计划，一个重大的决定。如何看待市场环境的变化</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64e48e453fa4090b74f62b35</link>
+    <guid isPermaLink="false">64e48e453fa4090b74f62b35</guid>
+    <pubDate>Tue, 22 Aug 2023 10:30:28 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> intro</span></p><span></span><p><span><a class="timestamp" data-timestamp="41">00:41</a> 小趣事</span></p><span></span><p><span><a class="timestamp" data-timestamp="103">1:43</a> 如何看待b站播放量改播放时长的改版</span></p><span></span><p><span><a class="timestamp" data-timestamp="812">13:32</a> 如何看待b站新推出的包月充电专属</span></p><span></span><p><span><a class="timestamp" data-timestamp="1243">20:43</a> 站着挣钱是可以做到的事情吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="1659">27:39</a> 利利川频道接下来的计划</span></p><span></span><p><span><a class="timestamp" data-timestamp="1859">30:59</a> 而立计划接下来的计划</span></p><span></span><p><span><a class="timestamp" data-timestamp="2149">35:49</a> 想实现的人生清单</span></p><span></span><p><span><a class="timestamp" data-timestamp="2454">40:54</a> 最难以接受的评论是什么</span></p><span></span><p><span>Q＆A</span></p><span></span><p><span><a class="timestamp" data-timestamp="2731">45:31</a> 普通人如何让生活有意思起来</span></p><span></span><p><span><a class="timestamp" data-timestamp="3060">51:00</a> 各地旅行的遭遇</span></p><span></span><p><span><a class="timestamp" data-timestamp="3334">55:34</a> 如何看待养老</span></p><span></span><p><span><a class="timestamp" data-timestamp="3339">55:39</a> 怎么想明白自己想要的究竟是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="3676">1:01:16</a> 现在的年轻人还有必要买房吗</span></p><span></span><p><span><a class="timestamp" data-timestamp="3780">1:03:00</a> 年轻人如何能赚到100万</span></p><span></span><p><span><a class="timestamp" data-timestamp="3845">1:04:05</a> 聊一聊你们的旅行为什么会这么有意思（复盘茫崖之行）</span></p><span></span><p><span><a class="timestamp" data-timestamp="4270">1:11:10</a> outro&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liltPrtFoEG7HV58o6fEUqHRRWyt.m4a" length="139571991" type="audio/mp4"/>
+    <itunes:duration>01:12:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZwUlFXUE41RUdOYU5YYmZCeVdUWlI5U010TVgucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>净值还在水上</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65870707e853de8a64c767ce</link>
+  <description><![CDATA[分享量化投资相关的科普文章。
+
+欢迎对量化感兴趣的朋友微信交流：ctaxiaobai
+
+如果节目对你有启发，欢迎评论、点赞、收藏、转发。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:12:17 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65870707e853de8a64c767ce.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fna1ZmrttMzJ7sMEcq4NcJkVfTtH.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fna1ZmrttMzJ7sMEcq4NcJkVfTtH.jpg</url>
+    <title>净值还在水上</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65870707e853de8a64c767ce</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>EP269 SPY日内动量：样本外衰减与策略生命周期</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a868604ef65145dfcc26e31</link>
+    <guid isPermaLink="false">6a868604ef65145dfcc26e31</guid>
+    <pubDate>Thu, 20 Aug 2026 04:46:18 +0000</pubDate>
+    <description><![CDATA[<p><span>对 Zarattini 等（2025）SPY 日内动量策略（Noise Area 突破+VWAP 移动止损，原文 2007—2024 年化 19.6%、Sharpe 1.33）的首次独立样本外验证：IQFeed 1 分钟数据 2015-01—2026-03 共 110 余万根 bar，含佣金与滑点。样本内复现高度吻合（Sharpe 1.34 vs 原文 1.33），但 2024/5—2026/3 样本外大幅退化：年化从 19.8% 降至 4.8%、Sharpe 0.39、总收益 9.4% vs 买入持有 29.5%，作者归因于 0DTE 期权兴起改变日内微观结构与策略拥挤。复现代码已在 GitHub 公开；样本外仅约两年、Welch 检验未拒绝样本内外均值相等，退化是否永久尚无定论。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/Fj_jXUBoSGSC9eCAqzi7C5x7IDZ1.m4a" length="3200408" type="audio/mp4"/>
+    <itunes:duration>00:05:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoJdeKgUE4NnX7pi0qTFX6LTuOEs.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP268 金银市场的时段收益分解与跨时段动量</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7edb3836641f136d8833fe</link>
+    <guid isPermaLink="false">6a7edb3836641f136d8833fe</guid>
+    <pubDate>Fri, 14 Aug 2026 09:10:07 +0000</pubDate>
+    <description><![CDATA[<p><span>2022 年后央行购金重塑黄金市场，「定价权东移」缺乏直接证据，需查明贵金属累计回报究竟在 24 小时内的哪个时段产生。XAU/USD 与 XAG/USD 小时现货价（Stooq，2024-07-22 至 2026-08-07，约 2.04 年），按 UTC 划分亚洲/欧洲/美国三时段链接对数收益并回测跨时段动量规则。亚洲时段贡献金的 </span><strong><span>77.2%</span></strong><span>、银的 61.7% 累计对数回报，美国时段（波动最大却零/负漂移）分别扣减 -13.4%/-8.2%；动量集中在向亚洲时段的延续，扣成本后仅做多全时段版本存活：金净 Sharpe </span><strong><span>1.68</span></strong><span>（vs 买入持有 1.40、回撤约减半）。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FnvjCGJq8MEzBQqr8_TSxuOE-8g9.m4a" length="2434338" type="audio/mp4"/>
+    <itunes:duration>00:04:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqvsnsmso7wNbZTDlW9epF0kh5FB.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP267 异象暴露与市场质量：因子发表后的流动性代价</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7d583536641f136d878ba2</link>
+    <guid isPermaLink="false">6a7d583536641f136d878ba2</guid>
+    <pubDate>Thu, 13 Aug 2026 05:38:51 +0000</pubDate>
+    <description><![CDATA[<p><span>本文研究股票对153个异象（Jensen et al., 2023）的暴露如何影响市场质量，动机是异象交易的规模增长可能系统性地改变被重仓股票的流动性与信息环境。样本为1993年1月至2025年10月约191万个股票-月观测，市场质量变量含报价/有效/已实现价差、日内波动率与逆向选择代理，识别策略利用异象公开发表与股票跨越极端分位边界带来的外生变化。核心发现：异象暴露每升高一个标准差，报价价差约宽13—14%、日内波动率高26—27%；多空两侧暴露越均衡（信息歧义越大），效应越强；异象发表与跨分位事件后市场质量显著恶化，而基本面几乎未变。结果在Reg NMS前后的市场结构regime中均稳健。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/Fk0xmanb6W2bX3x0MbmeOXaGdP60.m4a" length="2380189" type="audio/mp4"/>
+    <itunes:duration>00:04:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fmt2aziNxflQdH1uo95sgBrbOWX8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP265 高频报价占比、价格冲击与因子可预测性：来自A股市场的微观证据</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7d4ae436641f136d87860c</link>
+    <guid isPermaLink="false">6a7d4ae436641f136d87860c</guid>
+    <pubDate>Thu, 13 Aug 2026 04:44:18 +0000</pubDate>
+    <description><![CDATA[<p><span>本文研究A股高频交易者（HFT）行为如何影响市场质量与因子失效：用瞬时被动挂单行为识别HFT，将一分钟桶内的HFT报价占比定义为HFQ比例。数据为2023年1月1日至3月31日深圳证券交易所订单与成交数据（时间戳精度10毫秒）以及米筐（Rice Quant）数据库日频数据。核心发现：HFQ比例与下一分钟买卖价差正相关，支持“HFT损害市场质量”；HFQ比例升高显著削弱订单流不平衡（OFI）、交易不平衡（TI）等摩擦类因子的样本内预测力，但不影响动量因子；在HFQ比例最低的子样本中，摩擦因子的样本外预测力显著回升，且仅用非HFQ订单构造的不平衡因子有更强的横截面预测力。全交易日平均HFQ比例约6%、开盘后半小时约12%，呈W型日内分布；局限是样本仅3个月深市数据，HFT识别为间接推断。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/Fq58cCPRamkbyV7B-hEMo0ARelEj.m4a" length="2133448" type="audio/mp4"/>
+    <itunes:duration>00:04:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq1Fk8pyKf5qZMJmnxmcOxF-zQZ0.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP266 散户伪T+0交易的行为模式与收益可预测性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7d4b3536641f136d87862f</link>
+    <guid isPermaLink="false">6a7d4b3536641f136d87862f</guid>
+    <pubDate>Thu, 13 Aug 2026 04:44:17 +0000</pubDate>
+    <description><![CDATA[<p><span>本文研究A股散户“伪T+0”日内回转的具体执行行为（下单笔数、交易顺序、完成时点）是否蕴含可预测的增量信息，动机是聚合指标掩盖了散户内部的巨大异质性。样本为2014年1月至2019年6月3,385只A股的逐笔成交数据，将伪T+0强度拆解为成交量与笔数口径，并按散户资金规模分组检验日频与周频收益预测。核心发现：小散户整体无条件伪T+0几乎无预测力（中大散户无论执行风格如何均有稳健预测力），但小散中“多笔拆单+高度逆势的先卖后买顺序+午盘完成”的三重筛选信号对未来收益有稳健正向预测，三重过滤的周频复合指标（PTTIvol_sophi）经FF5调整后alpha达9.6个基点/周（t=8.05）、年化约5.12%（DHS3模型下达10.7个基点，t=9.55），单一先卖后买过滤为8.4个基点/周（t=6.45），预测力最长持续10周；大盘散户中先卖后买占51.5%，显著高于小散。局限是样本截至2019年、信号强度本身不大，且未公开完整含费回测。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FtPEKvztjcl1Mg9g2Gw5jxqxpMjl.m4a" length="2261005" type="audio/mp4"/>
+    <itunes:duration>00:04:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fiv0XF-_ulJtg2qXl98ViKOoq3ZJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP264 AlphaSignals：分析师观点变为可度量阿尔法</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7bf9ce36641f136d86f7fe</link>
+    <guid isPermaLink="false">6a7bf9ce36641f136d86f7fe</guid>
+    <pubDate>Wed, 12 Aug 2026 07:15:33 +0000</pubDate>
+    <description><![CDATA[<p><span>Morgan Stanley的AlphaSignals将分析师判断转化为可量化的结构化数据，围绕盈利事件构建了"预览-反应"信号框架。其中，结合盈利前预期与盈利后确认的Earnings Cycle Strategy多头表现最强，实现1.49的夏普比率和1.23的信息比率。盈利预览信号是主要Alpha来源，尤其在指引/展望、盈利能力和财务成本类KPI上预测力最强；而盈利反应信号则提供事后确认并延长持仓窗口。该框架不仅适用于盈利季，还可扩展至催化剂事件，旨在成为传统深度研究的互补层，支持量化、基本面及AI驱动的工作流。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FpwPS00ro2oR8OWskkeDkKccZyeA.m4a" length="2405576" type="audio/mp4"/>
+    <itunes:duration>00:04:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhw9XJfLWAKbQhmkHI_TJnsR2ZM1.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP263 微盘择时：顶部风险与底部机遇的识别框架</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7bf92617676351c570a055</link>
+    <guid isPermaLink="false">6a7bf92617676351c570a055</guid>
+    <pubDate>Wed, 12 Aug 2026 04:58:10 +0000</pubDate>
+    <description><![CDATA[<p><span>报告针对万得微盘指数“牛市平均领涨66%、熊市平均跌25%”的非对称高弹性与极端尾部风险（如2024年初-46.73%流动性危机），研究如何以择时保留上涨弹性同时压降回撤。基于2016.01—2026.06日频数据，以MA(15)为趋势锚，构建“超跌+资金回流+价格确认”三重逻辑的普通/危机双通道底部信号，与“扩散指数曾达0.85以上+5日回落+资金流恶化”的顶部退出机制。三段式综合策略年化收益30.60%、夏普1.80、最大回撤20.40%、卡玛1.50（买入持有为20.31%与46.73%回撤），底部信号全样本触发16次、15日持有胜率93.75%。局限是标的为不可直接交易的微盘指数、扩散阈值0.85缺乏参数稳定平台存在过拟合风险，且2024年初DMA踩踏类黑天鹅无法被提前识别。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/Fumitxnb6jeuEoX0UEgSCfUIcWgg.m4a" length="2480520" type="audio/mp4"/>
+    <itunes:duration>00:05:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgXT4ouUrO7CL6CxHJXuMRHuK1d1.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP262 尾盘反转：日内收益的横截面可预测性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7938f0c4079d62c57ff0dd</link>
+    <guid isPermaLink="false">6a7938f0c4079d62c57ff0dd</guid>
+    <pubDate>Mon, 10 Aug 2026 02:36:49 +0000</pubDate>
+    <description><![CDATA[<ol><li><p><span>本文发现美股个股存在显著的"收盘前反转"（End-of-Day Reversal）现象：从隔夜到下午3点的累计收益（ROD3）与最后半小时收益（LH）呈显著负相关，且该效应主要由日内下跌股票（losers）驱动，与市场层面的日内动量形成互补。</span></p></li><li><p><span>作者排除了流动性冲击、收盘价机制、信息交易及Gamma对冲等解释，证实该价格压力是暂时性的，会在次日反转。</span></p></li><li><p><span>机制检验表明，这一反转主要源于两类交易行为：一是散户投资者受注意力驱动在尾盘"抄底"买入日内下跌股票，二是空头因担忧隔夜无限风险而在收盘前显著减少新开空仓，两者共同对 losers 形成正向价格压力。</span></p></li></ol><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FryfZ0BJ6GURLWI3qP1rLvn7JSMn.m4a" length="2064404" type="audio/mp4"/>
+    <itunes:duration>00:04:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqw_Tn5w4bafPmt9jcThGpCNdbQM.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP261 可预测性有多全球化：金融迁移学习的力量</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7938a9000a55a9bb057967</link>
+    <guid isPermaLink="false">6a7938a9000a55a9bb057967</guid>
+    <pubDate>Mon, 10 Aug 2026 02:35:06 +0000</pubDate>
+    <description><![CDATA[<ol><li><p><span>本文发现，一个共同的全局模型预测各国股票收益的效果显著优于仅使用本地数据估计的本地模型，即使全局模型完全不包含该国数据（硬迁移学习）也依然有效。</span></p></li><li><p><span>作者提出广义弹性网络（GENet）方法实现"软迁移学习"，在利用全球信息提升估计精度的同时，识别出显著的本地成分，但量化结果显示全局成分占比高达96%。</span></p></li><li><p><span>进一步分析表明，风险类因子的预测关系在全球范围内高度一致，而错误定价类因子存在本地差异；该迁移学习框架同样适用于XGBoost和神经网络等非线性模型。</span></p></li></ol><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FkeC0bzAwKaqg7i2YdWOOrleBiI-.m4a" length="1853739" type="audio/mp4"/>
+    <itunes:duration>00:03:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fna1ZmrttMzJ7sMEcq4NcJkVfTtH.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP260 机器预测分歧：异质信念与横截面收益</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a793829000a55a9bb0578fb</link>
+    <guid isPermaLink="false">6a793829000a55a9bb0578fb</guid>
+    <pubDate>Mon, 10 Aug 2026 02:34:32 +0000</pubDate>
+    <description><![CDATA[<p><span>本文提出了一种基于机器学习模型异质性来度量投资者信念分歧的新指标——Machine Forecast Disagreement (MFD)，通过让不同"投资者"使用不同模型规格处理共同信息集，模拟信念分布。研究发现MFD与未来个股收益存在显著的负向关系：做空高MFD、做多低MFD的十分位组合可获得约14%的年化价值加权收益，且该预测力独立于传统因子与分析师预测分歧(AFD)。进一步分析表明，MFD-alpha主要由卖空约束与套利限制导致的错误定价驱动，高MFD股票在财报公告窗口期的超额跌幅进一步支持了错误定价假说。该指标可分解为信息集分歧与模型分歧，且在国际市场同样有效，为理解异质信念与资产定价提供了新的实证工具。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FsK-glpnCETGcS7ssQTCqPT5qONy.m4a" length="1892865" type="audio/mp4"/>
+    <itunes:duration>00:03:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvUr_jeefen_W-z0wTTKZTc3EiZs.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP259 预测力没有国界：迁移学习的力量</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7891c3000a55a9bb054dff</link>
+    <guid isPermaLink="false">6a7891c3000a55a9bb054dff</guid>
+    <pubDate>Sun, 09 Aug 2026 14:44:02 +0000</pubDate>
+    <description><![CDATA[<p><span>这篇论文发现，股票收益的预测关系具有惊人的全球一致性：一个基于全球数据训练的共同模型在预测各国股票收益时，显著优于仅使用本地数据的本地模型，且预测函数的</span><strong><span>全球成分占比高达96%</span></strong><span>。作者提出了一种名为</span><strong><span>广义弹性网络（GENet）</span></strong><span>的迁移学习方法，通过将全球信息作为先验"软转移"到本地估计中，在提升预测精度的同时识别出显著的本地成分。进一步地，研究发现</span><strong><span>风险类信号</span></strong><span>的定价关系纯粹是全球性的，而</span><strong><span>错误定价类信号</span></strong><span>则存在显著的本地差异，暗示本地资产定价主要源于文化、制度或市场结构差异导致的非理性偏差，而非风险补偿的国别差异。这些结果表明，决定随机贴现因子的预测函数在过去一个世纪中跨国跨时保持了高度稳定。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/Fij0baxCpNCH6usSv5S6G_-PkBV_.m4a" length="2406604" type="audio/mp4"/>
+    <itunes:duration>00:05:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoRmvD7CQGSBQyH2WJwq9h1_1TDJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP258 收盘价小数位的秘密</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a788cd9c4079d62c57fc289</link>
+    <guid isPermaLink="false">6a788cd9c4079d62c57fc289</guid>
+    <pubDate>Sun, 09 Aug 2026 14:21:50 +0000</pubDate>
+    <description><![CDATA[<p><span>文章发现，收盘价第一位小数落在 X.1  的股票，次日、次周显著跑赢收盘价落在 X.9  的股票；核心机制是整数和半整数价位附近的限价单聚集，导致价格略高或略低于整数关口时面临非对称的买盘支撑和卖盘压力。作者用 1963—2021 年美股日频数据、1993—2014 年 TAQ 高频盘口数据、22 个海外市场，以及拆股和分红带来的外生价格变化，验证了这一现象及其因果解释。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FiRCw4HNz1I6Fv2PIXE8J1DoDCOc.m4a" length="2232233" type="audio/mp4"/>
+    <itunes:duration>00:04:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhw9XJfLWAKbQhmkHI_TJnsR2ZM1.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP257 商品市场的风险溢价：潜因子、跨资产动量与不确定性定价</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a780096000a55a9bb050cac</link>
+    <guid isPermaLink="false">6a780096000a55a9bb050cac</guid>
+    <pubDate>Sun, 09 Aug 2026 04:24:08 +0000</pubDate>
+    <description><![CDATA[<p><span>这篇论文运用Giglio和Xiu(2021)的三步法（纠正遗漏变量与测量误差偏差），系统检验了商品期货截面收益中的可交易与不可交易风险因子定价能力。研究发现，商品市场的随机贴现因子至少由四个潜因子驱动，分别对应商品市场平均收益、动量、投机压力和基差动量；同时，股票、债券与外汇市场的跨资产动量因子在商品截面中被显著定价，表明金融化背景下资产类别间存在收益传导机制。此外，经济政策不确定性（EPU）与波动率类因子携带负风险溢价，意味着商品在宏观不确定性高企的"坏时期"具有保险属性，投资者愿意为这种对冲特性接受更低收益。相比之下，传统宏观经济水平变量及其条件波动率、全球风险厌恶与情绪因子均未表现出显著定价能力。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FpAfK1R03VsyBNOT_1XXRkhGBMil.m4a" length="2413692" type="audio/mp4"/>
+    <itunes:duration>00:05:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjSSB0bo0QSR2AMZP7D-Fp0kZn_v.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP256 当涨跌停板成为投机目标</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a77fbbc000a55a9bb050abd</link>
+    <guid isPermaLink="false">6a77fbbc000a55a9bb050abd</guid>
+    <pubDate>Sun, 09 Aug 2026 04:03:17 +0000</pubDate>
+    <description><![CDATA[<p><span>本文通过理性预期模型证明，涨跌停板制度会截断强信息的完全价格融入，导致涨停后次日开盘出现可预测的价格跳升，从而为"打板"策略性投机者创造了套利空间。投机者通过人为将价格推至涨停价并在次日开盘卖出获利，而非知情交易者因无法区分信息驱动与投机驱动的涨停而高估基本面、遭受损失。模型预测并实证验证了两种模式：封板涨停（locked limit-up）呈现"跳升-反转"模式（次日正收益后长期反转），炸板（failed limit-up）则呈现"崩盘-跑输"模式（从上限急剧下跌且长期表现不佳）。中国2020年创业板涨跌幅限制从10%放宽至20%的自然实验进一步提供了因果证据，表明放宽价格限制能有效缓解投机扭曲、改善价格发现。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FmfFoHeZRZh3u70LFq5MjRwy_fiJ.m4a" length="2417370" type="audio/mp4"/>
+    <itunes:duration>00:05:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvRNemqgdSv_ZW7EiynsJypS8Daa.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP255 趋势跟踪系统的科学与实践：自相关、漂移与偏度</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a77f7aec4079d62c57f8134</link>
+    <guid isPermaLink="false">6a77f7aec4079d62c57f8134</guid>
+    <pubDate>Sun, 09 Aug 2026 03:45:53 +0000</pubDate>
+    <description><![CDATA[<p><span>本文将趋势跟踪（TF）系统划分为 European、American 与 TSMOM 三类，并以 European 系统为核心建立统一分析框架。作者推导了累积收益的精确样本路径恒等式，将 TF 收益分解为自相关项与漂移项，并首次给出连接 Sharpe 比率与波动率标准化收益自相关函数的闭式解，表明 TF 在零漂移下盈利当且仅当低频谱质量过剩。理论结果在白噪声、AR-1 及 ARFIMA 过程中得到解析验证，且 Monte Carlo 模拟与 84 个期货合约的实证数据高度吻合（预测与实际 Sharpe 比率相关系数达 0.99）。此外，论文证明聚合 TF 收益的正偏度具有结构性，在任意期限均大于零且在半滤波周期附近达到峰值。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65870707e853de8a64c767ce/FnnyJ_Y5jh6B0KTDGjuEJUTGzpNK.m4a" length="2254024" type="audio/mp4"/>
+    <itunes:duration>00:04:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fvb0ncO0Tx6P6ai1DfpMeLk3bAdQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>千梦群岛</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/642ee248108d0f0baa431bcc</link>
+  <description><![CDATA[《千梦群岛》是一档聚焦书影，品味生活，撩拨梦想的泛文化漫谈类播客节目。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 05:59:33 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/adxudvat7fcx.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>赵千梦</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fi4EHZCkwHO5b3Nnhyit1LMcDzpF.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fi4EHZCkwHO5b3Nnhyit1LMcDzpF.jpg</url>
+    <title>千梦群岛</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/642ee248108d0f0baa431bcc</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>从零开始聊《黑镜》P4：白色圣诞节</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add5769c96c8942ec11b868</link>
+    <guid isPermaLink="false">6add5769c96c8942ec11b868</guid>
+    <pubDate>Sun, 25 Oct 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>今天继续聊一聊《黑镜》的第二季和白色圣诞节特辑。</span></p><p><span>无需时间轴，请您慢慢收听~</span></p><p><span>BGM：《I wish it could be Christmas everyday》—— Wizzard</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lkXQR2QqHsMEEtf5ZQO8qeM8j6tL.m4a" length="83390110" type="audio/mp4"/>
+    <itunes:duration>01:25:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj-9ORoJHC7nPC8D_p3oS7N_ZmTn.WEBP"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从零开始聊《黑镜》P3：AI技术哪家强？遥遥领先找黑翔</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad2ec9a0e4e410a05be1ee6</link>
+    <guid isPermaLink="false">6ad2ec9a0e4e410a05be1ee6</guid>
+    <pubDate>Sun, 18 Oct 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>今天我们继续聊一聊《黑镜》第二季的第一集和第二集。</span></p><p><span>无需时间轴，请您慢慢收听~</span></p><p><span>BGM：《How Deep is Your Love》—— Bee Gees</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/llRf9GvoHHvYJ4uogS58YlrcQr4e.m4a" length="88346342" type="audio/mp4"/>
+    <itunes:duration>01:30:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fk4DiXGta07XkzuIVaheTY3rpGDq.WEBP"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从零开始聊《黑镜》P2：高科技点亮低生活</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aca2ff8195d838e2aefd762</link>
+    <guid isPermaLink="false">6aca2ff8195d838e2aefd762</guid>
+    <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>今天我们继续聊一聊《黑镜》第一季的第二集和第三集，至此第一季完结。</span></p><p><span>仍是无需时间轴，请您慢慢收听！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lmynZP2jT-GMYKemYaf9r1y03g3h.m4a" length="82789206" type="audio/mp4"/>
+    <itunes:duration>01:25:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnbNbo9hWMNiKpugKbVSfRIs6jxR.WEBP"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从零开始聊《黑镜》P1：是黑镜，不是白镜！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ac0b7c4195d838e2aece1b0</link>
+    <guid isPermaLink="false">6ac0b7c4195d838e2aece1b0</guid>
+    <pubDate>Sun, 04 Oct 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>开新坑了，今天我们来聊一聊《黑镜》（Black Mirror）!</span></p><p><span>黑镜第一季上映于2011年，不知不觉已15年过去。但现在再次回看仍旧感觉非常震撼，经典，毫不过时，这也是一部我会经常重刷的英剧神作。</span></p><p><span>黑镜从第三季开始被网飞（奈飞 / Netflix）接手，但也并不是完全变成了美剧，主创仍是英国团队，混合进了一些美剧或网飞元素也很有意思。</span></p><p><span>仍是无需时间轴，请您慢慢收听~ 祝大家假期愉快，出游返程顺利，有的听不无聊！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lkaFBJXtGwJCfJIlXfQJ1A_FF_J5.m4a" length="69654305" type="audio/mp4"/>
+    <itunes:duration>01:11:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgGzDWbcWvt9sOXjk7bDvUWGmfJa.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>80后对谈90后（下下下）：追忆一段流金岁月</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aadf552ac389df827341b54</link>
+    <guid isPermaLink="false">6aadf552ac389df827341b54</guid>
+    <pubDate>Sun, 20 Sep 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>这期我们“80后对谈90后”系列终于算是完结了！</span></p><p><span>在本期节目中，我们聊了聊“琴棋书画”“生老病死”“坑蒙拐骗”等方面80和90的异同，也对之前的“吃喝玩乐”“衣食住行”等等进行了一些查漏补缺。</span></p><p><span>80和90算不算是一代人？以及和00后呢？你怀念曾经千禧年前后的那段时光吗？十几二十年前和现在相比有什么区别？一切尽在本期节目，无需时间轴，请您慢慢收听~</span></p><p><span>BGM：《New Boy》——朴树</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lvrDHaI4CIM8vAJdaeaSMcWv9e6Q.m4a" length="88153747" type="audio/mp4"/>
+    <itunes:duration>01:30:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fvaoi7ICuhETUN_WubURz0Ce2ZYy.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>80后对谈90后（下下）：千禧年前后的中式梦核</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9b8974a0210c197dcdbfaf</link>
+    <guid isPermaLink="false">6a9b8974a0210c197dcdbfaf</guid>
+    <pubDate>Sun, 06 Sep 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>这次我们继续聊8090的异同之“衣食住行”的“行”。</span></p><p><span>关于出行80后和90后各自有怎样的回忆？自行车，电动车，火车（绿皮车），招待所，旅馆等对于我们都意味着什么？曾经在没有播客的时代出门时走在路上都听什么？收音机，MP3，BP机（BB机），小灵通，彩铃还都记得吗？</span></p><p><span>一切尽在本期节目，无需时间轴，请您慢慢收听~</span></p><p><span>BGM：《老鼠爱大米》——香香</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/liDW0LeJJvdhE6PqQNGqS1ONw5ul.m4a" length="89382326" type="audio/mp4"/>
+    <itunes:duration>01:32:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fra8M-WkXYCDRfFuolwWOOxy6q9-.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>80后对谈90后（下）：当我们在谈论8090时我们在谈论什么 in【狂喜播客节】x「非常突然」</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a890831ef65145dfcc36ad6</link>
+    <guid isPermaLink="false">6a890831ef65145dfcc36ad6</guid>
+    <pubDate>Sun, 23 Aug 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><img src="https://image.xyzcdn.net/ltgWcVc1jm2lvCSXuTMayklKy65w.JPG"><p><span>今天我们继续聊一聊80后与90后的异同。</span></p><p><span>这期播客的一部分是我们在【狂喜播客节】与「非常突然」串台时聊的。奈何在【狂喜播客节】的录制时间有限，所以之后我们又自行加录了一些内容。</span></p><p><span>这期我们主要聊一聊“衣食住行”，“吃喝玩乐”的“乐”也又做了一些补充。然而还是内容太多没有聊完，我们会再做一期“下下”。</span></p><p><span>仍是无需时间轴，请您慢慢收听~</span></p><p><span>BGM：QQ爱</span></p><p><span>想参加下一届【狂喜播客节】的朋友们可以提前报名啦！👇</span></p><img src="https://image.xyzcdn.net/Fs0dQIRyWxtWoXQFUaWdvG4bL4Av.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lhl8NDPPTKRsc9qPShLwUm1z2uW6.m4a" length="124887522" type="audio/mp4"/>
+    <itunes:duration>02:08:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhjKhWM4NDLKZq0XbVVaWJbbuOKt.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>韦小宝的悲剧：谈了七次恋爱，女朋友都不爱他|狂喜播客节线下实录</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a7f039f17676351c571f0c0</link>
+    <guid isPermaLink="false">6a7f039f17676351c571f0c0</guid>
+    <pubDate>Fri, 14 Aug 2026 16:02:04 +0000</pubDate>
+    <description><![CDATA[<p><span>本期节目是8月8日北京狂喜播客节的现场实录，也是非常突然第一个线下听友见面会，我们请来纸醉金迷的鸿鸣和千梦群岛的小娴，三台共审韦小宝，感谢各位听友的支持！</span></p><p><strong><span>/本期封面/</span></strong></p><p><span>韦小宝与七位夫人 - 《鹿鼎记》TVB陈小春版</span></p><p><strong><span>/节目音乐/</span></strong></p><p><span>片头：エンディング - 大野克夫 - 名探偵コナン「天国へのカウントダウン」オリジナル・サウンドトラック</span></p><p><span>片尾：Sans Contrefaçon - Mylène Farmer - Les Mots The Best of Mylene Farmer</span></p><img src="https://image.xyzcdn.net/FonhsKxA3Ijp5ygoEwR9EakeqaiK.png"><p><strong><span>/节目介绍/</span></strong></p><p><span>如果你看到一部书影音，总是按捺不住要刨根问底，有无数个冲动想找三五好友彻夜长谈，那欢迎你收听《非常突然》。影视编剧兼滞销书推手摸鱼王和屎上雕花的图书编辑童花顺，两个资深北漂东北人，一捧一逗，嬉笑怒骂，专注流行文化：电影图书，行业内幕，神鬼妖狐，玄学占卜，野史正传，音乐动漫，除了不煽动情绪，我们无所不谈。</span></p><p><span>这档节目的名字致敬银河映像经典电影《非常突然》，人生总有太多非常突然，不如认真玩一玩，或许你会发现生活好像就不再那么难。</span></p><p><span>节目已上线至小宇宙、豆瓣播客、网易云音乐、苹果、荔枝FM、bilibili，欢迎一台来一遍！</span></p><p><strong><span>/话事人/</span></strong></p><p><span>摸鱼王：弃理从文中年人，做过电影公号主编，失败的编剧，现在是滞销书幕后推手。</span></p><p><span>童花顺：毫无学术贡献的历史系毕业生，八年出版界行走的人，专注屎上雕花。</span></p><p><strong><span>/本期嘉宾/</span></strong></p><p><span>鸿鸣：纸醉金迷主播</span></p><p><span>小娴：千梦群岛主播</span></p><p><strong><span>/节目制作/</span></strong></p><p><span>剪辑&amp;制作：赛赛</span></p><p><span>文案&amp;配乐&amp;设计：童花顺</span></p><p><strong><span>/合作联系/</span></strong></p><p><span>VX小助手：fctr_777</span></p><p><span>小🍠书：【是童花顺啊】【摸鱼王的奇妙冒险】</span></p><p><span>邮箱：1206742598@qq.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65b4e79b0e2ba8ca33acf433/ljFMbzEnUGDjK_QOiBwoYM-zgF7_.m4a" length="56854481" type="audio/mp4"/>
+    <itunes:duration>00:58:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fpl36BMmDRiUdghflY11yeOL5t9h.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>80后对谈90后（中）：那些欢乐又泪目的回忆</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6eb5001b5e24969ce7790f</link>
+    <guid isPermaLink="false">6a6eb5001b5e24969ce7790f</guid>
+    <pubDate>Sun, 02 Aug 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>上次我们聊了聊“吃喝嫖赌”，这次来聊一聊“吃喝玩乐”。</span></p><p><span>8090在吃喝玩乐上都有哪些异同？在成长的过程中我们都玩过哪些玩具，游戏？四驱车，溜溜球（悠悠球），（战斗）陀螺，集邮，水浒卡，翻花绳，跳皮筋等等都是怎样一波一波流行开来的？8090各自都看过哪些电影电视剧？香港电影在8090的心中是否有着不一样的比重或情怀？金庸，武侠又对于80后和90后来说是怎样的呢？我们各自对待日漫，美剧又是什么态度？</span></p><p><span>一切尽在本期节目，无需时间轴，请您慢慢收听~</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lvBT0TZ-0eQYgVibBwBO211I-pQk.m4a" length="92921692" type="audio/mp4"/>
+    <itunes:duration>01:35:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FicjcLSy3re5Kjcrgcqso9ljmnRh.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>80后对谈90后（上）：相同又不同的两代人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5c41da6356eb2d9be4c9ff</link>
+    <guid isPermaLink="false">6a5c41da6356eb2d9be4c9ff</guid>
+    <pubDate>Sun, 19 Jul 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgTT5ciL7Tlhwurdc_GszZaN80yP.png"><p><span>80后与90后似乎经常会被放在一起讨论，这自然无可厚非，80与90的确有着不少的相同之处，然而80后与90后却也有着太多的不同，要比想象中的多很多，这些不同之处会影响着我们各自对世界的认知与感受，对很多事物的定义，观念都不同——有时候我们似乎在讨论的是一件事，但其实80与90对这件事的感知，底色，基础都是不一样的，严格意义上讲讨论的甚至不是一件事。</span></p><p><span>那么这期节目我们就从“吃喝嫖赌抽”这几个方面来聊聊80后与90后的异同，之后我们还会聊一聊“吃喝玩乐”，“衣食住行”等等等等，从中也能见证中国在80与90之间短短十年的巨变，也会多少提到一些8090与00后的一些差别，同时还是对过往生活以及童年的一种苦甜参半的回忆。</span></p><p><span>粮票何时绝迹？什么时候实现的烧鸡自由？吃没吃过猪尾巴，知了猴，青蛙？咖啡在上世纪末是一种怎样的存在？消失的非常可乐，健力宝都去哪儿了？人生中第一次吃肯德基是什么情形？我们都经历过怎样的蛮荒故事？一切尽在本期节目，无需时间轴，请您慢慢收听~也欢迎大家多在评论区分享自己的经历与记忆！</span></p><p></p><p><span>鸿鸣——80后；東子——90年；小娴&amp;赵千梦——90后</span></p><p></p><p><span>BGM：《浪漫爱》，by 江语晨（一首或许可以多少代表8090的歌，可能更多的是90）</span></p><p><span>封面图为老邯郸的一处公交站</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/642ee248108d0f0baa431bcc/lmGgyDALjvlR1PuqE-040L1JcOIh.m4a" length="92519069" type="audio/mp4"/>
+    <itunes:duration>01:35:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlA4TFNo24Rp0uapMBsSKDqh1GDC.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

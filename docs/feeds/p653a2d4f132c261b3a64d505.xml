@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>谍海轶闻｜民国蓝色恐怖小史</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/653a2d4f132c261b3a64d505</link>
+  <description><![CDATA[三重视角拆解蓝衣社]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:46:48 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p653a2d4f132c261b3a64d505.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhCM8lNOipAHSVG6KFERT0yieyhL.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhCM8lNOipAHSVG6KFERT0yieyhL.png</url>
+    <title>谍海轶闻｜民国蓝色恐怖小史</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/653a2d4f132c261b3a64d505</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>老顾营养</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/658e90c9f3c097c05a6af238</link>
+  <description><![CDATA[幸会！顾中一，北京营养师协会理事，清华大学公共卫生硕士，科学传播副高职称（首批），中国科协2017十大科学传播人物。微博2015-2022十大影响力医疗大V，全网粉丝800+万，科普书已售十余万册]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:12:27 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p658e90c9f3c097c05a6af238.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FgF-tUUvub4fMobWbCxoOXgl3EM3.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FgF-tUUvub4fMobWbCxoOXgl3EM3.jpg</url>
+    <title>老顾营养</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/658e90c9f3c097c05a6af238</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>顾中一的2024总结:在家庭与事业中寻求自我成长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6773e4341e823e72d33f00c1</link>
+    <guid isPermaLink="false">6773e4341e823e72d33f00c1</guid>
+    <pubDate>Tue, 31 Dec 2024 12:36:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在家庭与事业中寻求自我成长</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lr_EJlry1RWg_3sKMYqZdxF1PqzM.m4a" length="35651247" type="audio/mp4"/>
+    <itunes:duration>00:25:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgF-tUUvub4fMobWbCxoOXgl3EM3.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>顾中一：李诞对营养学的迷思合理吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f79f41696bd9a879c8a22d</link>
+    <guid isPermaLink="false">65f79f41696bd9a879c8a22d</guid>
+    <pubDate>Mon, 18 Mar 2024 01:56:17 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/FnGPiN1Sh-fcoZRXhybvb293FhBf.m4a" length="3432987" type="audio/mp4"/>
+    <itunes:duration>00:06:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgF-tUUvub4fMobWbCxoOXgl3EM3.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>顾中一2023年终总结</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/659168a6991e2ee60884304e</link>
+    <guid isPermaLink="false">659168a6991e2ee60884304e</guid>
+    <pubDate>Sun, 31 Dec 2023 13:12:06 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lsOpvqE6uw9l8qtR8M9yCtqdWgT6.m4a" length="16491094" type="audio/mp4"/>
+    <itunes:duration>00:16:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgF-tUUvub4fMobWbCxoOXgl3EM3.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

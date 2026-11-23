@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>好骑心周报</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/655e39538fb8b597a2c0b5d3</link>
+  <description><![CDATA[这是一个骑行播客。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:57:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p655e39538fb8b597a2c0b5d3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>1111Radio</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png</url>
+    <title>好骑心周报</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/655e39538fb8b597a2c0b5d3</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>冬天抓地力下降是幻觉吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aff0256fe62f8f52c4dbf0c</link>
+    <guid isPermaLink="false">6aff0256fe62f8f52c4dbf0c</guid>
+    <pubDate>Fri, 20 Nov 2026 07:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FjrGYc_YBvihbgjE1elbL-8zLsrK.m4a" length="968913" type="audio/mp4"/>
+    <itunes:duration>00:01:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>小马快递3217公里挑战 | 终点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af9ca47fe62f8f52c4b9cb0</link>
+    <guid isPermaLink="false">6af9ca47fe62f8f52c4b9cb0</guid>
+    <pubDate>Sun, 15 Nov 2026 15:07:30 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FiDf_UNQStnHT4dS9pRUoC8X_v8m.m4a" length="2861009" type="audio/mp4"/>
+    <itunes:duration>00:03:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnCZlDwA17tjEycBqFiXm2Wlp29c.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>小马快递3217公里挑战 Day5</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af7f85414d01a26f8a9a70d</link>
+    <guid isPermaLink="false">6af7f85414d01a26f8a9a70d</guid>
+    <pubDate>Sat, 14 Nov 2026 05:58:14 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/Fp0UX3xWTCz7FDPrgmz8CmTrwBQq.m4a" length="2373506" type="audio/mp4"/>
+    <itunes:duration>00:02:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fgqd8OtsnVNsjZVEmzysG5p-qYFq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day4: 怀俄明，才是这趟骑行的硬仗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae715e797726cd4675af76b</link>
+    <guid isPermaLink="false">6ae715e797726cd4675af76b</guid>
+    <pubDate>Sat, 07 Nov 2026 07:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/Fl0WiJDc1HGNOtmIFaqVpcIut-0R.m4a" length="2286543" type="audio/mp4"/>
+    <itunes:duration>00:03:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqtJwA-BXkJ1dIBA5uaPZa3veTcg.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>晨骑 但凌晨2点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae714a497726cd4675af6ec</link>
+    <guid isPermaLink="false">6ae714a497726cd4675af6ec</guid>
+    <pubDate>Wed, 04 Nov 2026 07:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/Ft_KziT1gNPR2Bk_WJGVlYaIYsel.m4a" length="1419936" type="audio/mp4"/>
+    <itunes:duration>00:01:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrOu6sLzAMXOSGtgiDMok3FFYmCv.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>一天骑665公里算入门了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae71289c96c8942ec1583b9</link>
+    <guid isPermaLink="false">6ae71289c96c8942ec1583b9</guid>
+    <pubDate>Sun, 01 Nov 2026 10:27:06 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FuTtmCt-aGEXIJtzLCNc5KGCLisI.m4a" length="1452369" type="audio/mp4"/>
+    <itunes:duration>00:01:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvsKCvyO1e0Cflz3_RUixKhfyLgG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>荒漠、逆风、烂路：莫顿的3217公里</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6addf137c96c8942ec11f5e9</link>
+    <guid isPermaLink="false">6addf137c96c8942ec11f5e9</guid>
+    <pubDate>Sun, 25 Oct 2026 12:11:59 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/Fq2v_Nk8Z5cmyVO0nivgIoilrC_M.m4a" length="3779698" type="audio/mp4"/>
+    <itunes:duration>00:03:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>什么情况下刹车会失灵？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6acface4195d838e2af1f684</link>
+    <guid isPermaLink="false">6acface4195d838e2af1f684</guid>
+    <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期蹭个流量啊，</span></p><p><span>踩断刹车事件让人好奇什么情况下可以捏断自行车的刹车？</span></p><p><span>就来聊下</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FlimjNl2diuziDpUgg1P1RkvP2mj.m4a" length="3926596" type="audio/mp4"/>
+    <itunes:duration>00:04:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>骑行服制造内幕+线上比赛召集</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab7dca0195d838e2aea645e</link>
+    <guid isPermaLink="false">6ab7dca0195d838e2aea645e</guid>
+    <pubDate>Sat, 26 Sep 2026 14:55:10 +0000</pubDate>
+    <description><![CDATA[<p><span>本期聊聊骑行服品牌的制造内幕，以及开始召集第一届好骑心RIDE CURIOUS线上骑行竞赛——私信报名！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FnMYXuP9UdbliFkxavXmOBqneFiA.m4a" length="2464621" type="audio/mp4"/>
+    <itunes:duration>00:02:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>为什么那么多人喜欢夜骑？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a2080107444b5722232f6ae</link>
+    <guid isPermaLink="false">6a2080107444b5722232f6ae</guid>
+    <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FsDq6ZcNYv1vELcYJXsS3IzVZ76g.m4a" length="3819909" type="audio/mp4"/>
+    <itunes:duration>00:03:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Foy8MHb0huxlGCkH5RRfu83cM53D.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>绕圈赛：广东跑狗单车赛速览</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/698ad657a22480add678b088</link>
+    <guid isPermaLink="false">698ad657a22480add678b088</guid>
+    <pubDate>Thu, 19 Feb 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FoEAzU49o26xBo9Lu2Z08H1BkIrp.m4a" length="1790185" type="audio/mp4"/>
+    <itunes:duration>00:01:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>顶级车队再添中国面孔</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/697e141cb4be4c149b6592c7</link>
+    <guid isPermaLink="false">697e141cb4be4c149b6592c7</guid>
+    <pubDate>Thu, 12 Feb 2026 07:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FrMkOej4s0jRZWwAiukakQOQP4uB.m4a" length="1291904" type="audio/mp4"/>
+    <itunes:duration>00:01:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从夯到拉：锐评骑行中的十种行为</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/697c88ca2fc7f49d0909966f</link>
+    <guid isPermaLink="false">697c88ca2fc7f49d0909966f</guid>
+    <pubDate>Thu, 05 Feb 2026 07:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/ltdHzWg_iewk390tNsnNUfdOJKlG.m4a" length="8596258" type="audio/mp4"/>
+    <itunes:duration>00:08:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>预言成功：喜德盛阿斯塔纳保级成功</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69777c86ef1cf272a79b0d2f</link>
+    <guid isPermaLink="false">69777c86ef1cf272a79b0d2f</guid>
+    <pubDate>Thu, 29 Jan 2026 08:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/FuUwJEJCYbroyIWNZpddNkRrp-Ta.m4a" length="1661506" type="audio/mp4"/>
+    <itunes:duration>00:01:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>锐评2025最美公路车</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/696b8be8109824f9e10309c7</link>
+    <guid isPermaLink="false">696b8be8109824f9e10309c7</guid>
+    <pubDate>Sat, 17 Jan 2026 13:27:33 +0000</pubDate>
+    <description><![CDATA[<p><span>上榜的有</span></p><span></span><p><span>第一类：既有的设计范畴中做到极致</span></p><span></span><p><span>Laget Pioneer ONE（钛合金）</span></p><span></span><p><span>Orbea Orca</span></p><span></span><p><span>顺便提到J.Laverack（钛合金）、Cinelli &nbsp;Corsa XCR、梅花Steelnovo</span></p><span></span><p><span>第二类：突破现有设计惯性</span></p><span></span><p><span>Factor ONE</span></p><span></span><p><span>第三类：观念创新</span></p><span></span><p><span>和博</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/655e39538fb8b597a2c0b5d3/lm1z9724j29ffJOVe-PXG2gi3S_P.m4a" length="5398090" type="audio/mp4"/>
+    <itunes:duration>00:05:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl0XB4k-ILl5w5ybUqxWUjfc2vXG.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

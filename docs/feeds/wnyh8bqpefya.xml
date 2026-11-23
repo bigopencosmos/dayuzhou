@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>茶水间工人</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61ac5b7833278f6ff77ee8e4</link>
+  <description><![CDATA[这是一档基层工人的业余文化节目，主播来自IT和金融行业，我们关注技术和服务，也关注生活和业务。从群众中来，到群众中去，欢迎来茶水间投稿聊天。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:40:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wnyh8bqpefya.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>李得水</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png</url>
+    <title>茶水间工人</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61ac5b7833278f6ff77ee8e4</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>E35.段永平-2025年《共同说》栏目专访</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6938fc75498c58d63aa73ea3</link>
+    <guid isPermaLink="false">6938fc75498c58d63aa73ea3</guid>
+    <pubDate>Wed, 10 Dec 2025 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>版权归作者所有。由优酷与九天云公司联合出品，城市探访纪实节目《共同说》第三期，于2025年12月8日重磅登陆优酷平台全网独播，并于重庆卫视播出。本期节目聚焦时代情绪与家庭成长两大核心命题，力邀传奇投资人段永平与著名企业家、万科创始人王石及其夫人、节目制片人兼主持人田朴珺同席而坐，展开一场直击心灵、启迪智慧的深度对话，为观众奉上一场兼具思想锐度与情感温度的精神盛宴。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61ac5b7833278f6ff77ee8e4/lksvD6O7YbxacrrGzv51Bb0Es8Uu.m4a" length="42980375" type="audio/mp4"/>
+    <itunes:duration>00:44:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E34.【2小时完整版】方三文对话段永平：做自己能够喜欢的事情很重要-2025</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6938ff46498c58d63aa7ab6e</link>
+    <guid isPermaLink="false">6938ff46498c58d63aa7ab6e</guid>
+    <pubDate>Wed, 10 Dec 2025 05:28:46 +0000</pubDate>
+    <description><![CDATA[<p><span>版权归作者所有。</span></p><span></span><p><span>2025年10月16日，著名投资人、企业家段永平在美国加州接受雪球创始人方三文采访，采访内容围绕他的人生经历、创业历程、投资理念、AI行业趋势、子女教育等。整个采访时长接近2个小时。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61ac5b7833278f6ff77ee8e4/lt4Q1E6elq3vTfvp5Tu-bGbgjAJ3.m4a" length="110509064" type="audio/mp4"/>
+    <itunes:duration>01:53:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E33.有趣的服务器端口</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/683980f031215eb5068c37ff</link>
+    <guid isPermaLink="false">683980f031215eb5068c37ff</guid>
+    <pubDate>Sat, 31 May 2025 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本节将为你解答以下疑惑</span></p><span></span><p><span>1、当服务器端口没开启时，如果请求这个端口，流量的具体网络路径是怎么样的，如果大量请求该端口，对该服务器有什么影响？</span></p><span></span><p><span>2、当服务器端口开启时，没有开启服务器自身的防火墙，但应用限制该端口为仅本地访问，外部请求该端口的流量具体网络路径是怎么样的，如果大量请求该端口，对该服务器有什么影响？</span></p><span></span><p><span>3、当服务器端口开启时，如果开启服务器自身的防火墙不允许访问这个端口，流量的具体网络路径是怎么样的，如果大量请求该端口，对该服务器有什么影响？</span></p><span></span><p><span>4、如何优雅地开启服务端口，保护端口，杜绝对该端口的ddos？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61ac5b7833278f6ff77ee8e4/lhQbLzRaVDPtKquFYLu3zFXrghy1.m4a" length="8240025" type="audio/mp4"/>
+    <itunes:duration>00:11:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCgjMPtcnjnHTBtBGRM1qegTsnE.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E32.段永平2025年浙江大学最新访谈（完整版）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/677d01201962f0b751fbba8d</link>
+    <guid isPermaLink="false">677d01201962f0b751fbba8d</guid>
+    <pubDate>Tue, 07 Jan 2025 14:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>近日（2025年1月5日），段永平回到母校浙大，与师生展开了一场长达 90 分钟的现场见面问答会，现场气氛热烈，交流内容干货满满，音频主要做了降噪处理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrTVLME4r8rJW-s9Vc10OWX_k5I1.m4a" length="173340277" type="audio/mp4"/>
+    <itunes:duration>01:29:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E31.做IT运维是去甲方还是乙方</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65616fbac9e7cfe0250bf9b0</link>
+    <guid isPermaLink="false">65616fbac9e7cfe0250bf9b0</guid>
+    <pubDate>Sat, 25 Nov 2023 03:53:29 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong><span>运维工人：李师傅</span></p><span></span><p><span><a class="timestamp" data-timestamp="57">00:57</a> 1、运维领域主要工作</span></p><span></span><p><span><a class="timestamp" data-timestamp="300">05:00</a> 2、运维行业的发展趋势</span></p><span></span><p><span><a class="timestamp" data-timestamp="449">07:29</a> 3、甲方和乙方选择的利弊分析</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lm4DD6ZS4t7wYgosh_AXqh98M1OJ.m4a" length="26886138" type="audio/mp4"/>
+    <itunes:duration>00:13:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E30.IT外包服务之奇葩甲方盘点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/654ae5429da6ed7e74b76464</link>
+    <guid isPermaLink="false">654ae5429da6ed7e74b76464</guid>
+    <pubDate>Wed, 08 Nov 2023 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong><span>运维工人：李师傅</span></p><span></span><p><span>1、常态化奇葩要求</span></p><span></span><p><span>2、略显不同的奇葩要求</span></p><span></span><p><span>3、没有困难那就制造困难的奇葩要求</span></p><span></span><p><span>4、在安全大于发展的环境下，探讨如何为客户更好地服务</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrtO_NziGYzKF50aEaDt0B1zRjiz.m4a" length="38328060" type="audio/mp4"/>
+    <itunes:duration>00:19:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E29.闲话观测单笔交易的IT成本</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64f9de90e490c5dee5a035fb</link>
+    <guid isPermaLink="false">64f9de90e490c5dee5a035fb</guid>
+    <pubDate>Thu, 07 Sep 2023 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>主播：</span></strong><span>运维工人：李师傅</span></p><span></span><p><span>Finops促使我们越来越关注云账单，关注数据中心的运营成本，本期由此而展开分析观测单笔交易（业务）的IT成本</span></p><span></span><p><span><a class="timestamp" data-timestamp="60">01:00</a> 关于成本：单账户成本、单笔交易成本、单笔交易观测成本</span></p><span></span><p><span><a class="timestamp" data-timestamp="240">04:00</a> 观测一笔交易的成本需要考虑哪些因素</span></p><span></span><p><span><a class="timestamp" data-timestamp="960">16:00</a> 真实的观测场景</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljs_9OJew-jq_blkqbVcIJXntK5n.m4a" length="37689210" type="audio/mp4"/>
+    <itunes:duration>00:19:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E28.IT外包工作体验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64f2a9fbe490c5dee51eead9</link>
+    <guid isPermaLink="false">64f2a9fbe490c5dee51eead9</guid>
+    <pubDate>Sat, 02 Sep 2023 03:20:27 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>嘉宾：</span></strong><span>锅锅老师</span></p><span></span><p><strong><span>主播：</span></strong><span>运维工人：李师傅</span></p><span></span><p><span>IT外包公司的是什么情况</span></p><span></span><p><span>外包人员日常</span></p><span></span><p><span>有想一起交流的，欢迎联系锅锅老师微信：shan19950720</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fob1U-9u4I6PGhyCSXb0c-ZNH7YW.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsgn6y6tBBUKXhmjRnePGx5n6BBk.m4a" length="31892263" type="audio/mp4"/>
+    <itunes:duration>00:30:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E27.业务可观测助力科技运营</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64ee002d3fa4090b749ab9ed</link>
+    <guid isPermaLink="false">64ee002d3fa4090b749ab9ed</guid>
+    <pubDate>Tue, 29 Aug 2023 14:26:53 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span>简单聊一下观测数据助力科技运营的场景，抛砖引玉，共同学习</span></p><span></span><p><span>1、观测数据体系大概模样</span></p><span></span><p><span>2、简单的几个科技运营场景</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll4_f6J8-_919BJsB5hwBzCJeCsz.m4a" length="50989055" type="audio/mp4"/>
+    <itunes:duration>00:26:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E26.云原生业务可观测性呼之欲出</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64e4b453e490c5dee52b7c29</link>
+    <guid isPermaLink="false">64e4b453e490c5dee52b7c29</guid>
+    <pubDate>Tue, 22 Aug 2023 13:12:51 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span><a class="timestamp" data-timestamp="120">02:00</a> 1、业务可观测是用户最关心的可观测能力</span></p><span></span><p><span>1.1、用户最关心的是业务</span></p><span></span><p><span>1.2、主流可观测流派对比</span></p><span></span><p><span>1.3、观测数据的价值排序</span></p><span></span><p><span><a class="timestamp" data-timestamp="495">08:15</a> 2、BPM依然是云原生业务可观测的最佳工具</span></p><span></span><p><span>2.1、数据源依赖障碍</span></p><span></span><p><span>2.2、云原生时代排障逻辑</span></p><span></span><p><span>2.3、云上BPM依然有云下BPM的全部优点</span></p><span></span><p><span><a class="timestamp" data-timestamp="2205">36:45</a> 3、BPM需要提升业务可观测能力</span></p><span></span><p><span>3.1、告警更智能</span></p><span></span><p><span>3.2、服务路径自动绘制</span></p><span></span><p><span>3.3、挖掘业务数据的金矿</span></p><span></span><p><span>3.4、性能提升</span></p><span></span><p><span>3.5、累积hotfix和bug更新</span></p><span></span><p><span>3.6、自维护、自监控、自运营</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/losa6s7Eu2MlQaYBUGPKMsnhXim1.m4a" length="83298128" type="audio/mp4"/>
+    <itunes:duration>00:43:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E25.监控与可观测性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64d9fc8f80c9ec4c5f3b35f1</link>
+    <guid isPermaLink="false">64d9fc8f80c9ec4c5f3b35f1</guid>
+    <pubDate>Mon, 14 Aug 2023 10:06:07 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span><a class="timestamp" data-timestamp="76">01:16</a> 、什么是监控</span></p><span></span><p><span><a class="timestamp" data-timestamp="220">03:40</a> 、监控与可观测性的关系</span></p><span></span><p><span><a class="timestamp" data-timestamp="570">09:30</a> 、可观测能力分级</span></p><span></span><p><span><a class="timestamp" data-timestamp="735">12:15</a> 、观测的原则和理念</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnFjKEX7G57kLdEvl76CzHp-WSNf.png"></figure><span></span><p><span>参考：</span></p><span></span><p><a href="https://www.zhihu.com/question/535627002" data-url="https://www.zhihu.com/question/535627002"><span>“可观测性”是“IT监控”的新说法吗？它们有什么区别？</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/tJR1ah-2oncMa5FZutT2sQ" data-url="https://mp.weixin.qq.com/s/tJR1ah-2oncMa5FZutT2sQ"><span>一文读懂“监控”与“可观测性”的区别</span></a></p><span></span><p><a href="https://www.zhihu.com/question/535627002" data-url="https://www.zhihu.com/question/535627002"><span>“可观测性”是“IT监控”的新说法吗？它们有什么区别？</span></a></p><span></span><p><a href="https://www.slidestalk.com/u9545/PHPCON2019_Observability_of_Primary_Cloud_Application" data-url="https://www.slidestalk.com/u9545/PHPCON2019_Observability_of_Primary_Cloud_Application"><span>破解云原生应用的可观测性 刘征 PHPCON2019</span></a></p><span></span><p><a href="https://cloud.tencent.com/developer/article/2241695" data-url="https://cloud.tencent.com/developer/article/2241695"><span>监控和可观测性之间的关系</span></a></p><span></span><p><a href="https://qiankunli.github.io/2021/01/13/observability.html" data-url="https://qiankunli.github.io/2021/01/13/observability.html"><span>可观察性和监控系统</span></a></p><span></span><p><a href="https://www.sohu.com/a/541297763_411876" data-url="https://www.sohu.com/a/541297763_411876"><span>从监控到可观测性，设计思想、技术选型、职责分工都有哪些变化丨话题接力</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkPayfDsUdlZdBFfHuBREIryDjUM.m4a" length="30894179" type="audio/mp4"/>
+    <itunes:duration>00:15:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E24.什么是可观测性？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64d9fb68e490c5dee5689aeb</link>
+    <guid isPermaLink="false">64d9fb68e490c5dee5689aeb</guid>
+    <pubDate>Mon, 14 Aug 2023 10:01:12 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span><a class="timestamp" data-timestamp="20">00:20</a>、为什么需要可观测性</span></p><span></span><p><span><a class="timestamp" data-timestamp="139">02:19</a> 、什么是可观测性（观测什么）</span></p><span></span><p><span><a class="timestamp" data-timestamp="555">09:15</a> 、可观测性的挑战</span></p><span></span><p><span><a class="timestamp" data-timestamp="706">11:46</a> 、可观测性技术发展情况</span></p><span></span><p><span>云原生全景图中之Observability and Analysis</span></p><span></span><p><img src="https://bts-image.xyzcdn.net/aHR0cHM6Ly9qM2Q1MG9zb2dxLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9hc3luY2NvZGUvP2NvZGU9WlRrek1tVmpPREE0Wm1KaE9HSTBNRFJpTW1Ka1ptWmhZbVJrTldZME5EQmZNM1JZVVZaSFNXNUxlVGx1VVRrMmJFWlFUVVZHVGxZeGFubHdlWGw2YUdGZlZHOXJaVzQ2U1drM1YySkJRa1pGYjNOcmNHWjRUMlJwWm1NMlIyUmxibGhQWHpFMk9USXdNRFk1TmpjNk1UWTVNakF4TURVMk4xOVdOQQ=="></p><span></span><p><span>参考：</span></p><span></span><p><a href="https://github.com/chenmudu/tag-observability/blob/main/whitepaper-zh.md" data-url="https://github.com/chenmudu/tag-observability/blob/main/whitepaper-zh.md"><span>可观测白皮书中文版</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/eOxlvBSUHA0573Rbjy8crg" data-url="https://mp.weixin.qq.com/s/eOxlvBSUHA0573Rbjy8crg"><span>关于可观测能力，阿里云的思考与实践</span></a></p><span></span><p><a href="https://mp.weixin.qq.com/s/HTESk9KswKQQikfhNbLDxw" data-url="https://mp.weixin.qq.com/s/HTESk9KswKQQikfhNbLDxw"><span>工行发布“云原生”重磅研究！</span></a></p><span></span><p><a href="https://zhuanlan.zhihu.com/p/442130308" data-url="https://zhuanlan.zhihu.com/p/442130308"><span>关于可观测性的思考</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljaPMr4uyA6hJPblaEbOp6DYZp38.m4a" length="30462285" type="audio/mp4"/>
+    <itunes:duration>00:15:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E23.消失的数据包</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64acbb84f4ccb12e0b90bfcf</link>
+    <guid isPermaLink="false">64acbb84f4ccb12e0b90bfcf</guid>
+    <pubDate>Tue, 11 Jul 2023 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span><a class="timestamp" data-timestamp="122">02:02</a> 、业务监控出现响应率低的问题，老师傅司空见惯，不料却一时无解</span></p><span></span><p><span><a class="timestamp" data-timestamp="219">03:39</a> 、没有数据包，就无法分析响应率低的问题，此时问题变成了：寻找消失的数据包</span></p><span></span><p><span><a class="timestamp" data-timestamp="397">06:37</a> 、衍生问题：同一台服务器的两张网卡，在开启混杂模式下，会收到对方的数据包吗</span></p><span></span><p><span>结论：</span></p><span></span><p><span>1、同一台服务器的两张网卡（不在同一个二层网络），不可能收到对方的数据包</span></p><span></span><p><span>2、没有数据包就没办法溯源，云上云下都需要它</span></p><span></span><p><span>3、消失的数据包是产品的bug，特殊数据包就是会导致各种各样的问题</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lokmw3cM1JHJMsiIwRTxXGr7Ba3P.m4a" length="24204239" type="audio/mp4"/>
+    <itunes:duration>00:12:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E22.探索走街的乐趣</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6474ab39167262824062d320</link>
+    <guid isPermaLink="false">6474ab39167262824062d320</guid>
+    <pubDate>Mon, 29 May 2023 18:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><ul><span>  </span><li><span>选择在中午走街是为了充分利用碎片时间和解决工作时间不固定的问题。</span></li><span>  </span><li><span>走街是在城市或乡村街道上行走、穿行的行为，可以作为休闲活动、运动方式和探索城市的方式。</span></li><span>  </span><li><span>进行走街时，带上手机、耳机和帽子，并选择附近的绿地和标志性建筑作为目标。</span></li><span>  </span><li><span>走街的时间控制在1小时以内，不会原路返回。</span></li><span>  </span><li><span>走街让人感到快乐，与城市建立更紧密的联系，发现新地点，加深记忆。</span></li><span>  </span><li><span>鼓励大家一起走街，一同探索城市的世界。</span></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loTFD4FB_K3OT12NkOc8ejueWK6y.m4a" length="16956153" type="audio/mp4"/>
+    <itunes:duration>00:08:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E21.IT变更中的原则和人性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6441ff62a79cc81470123a0c</link>
+    <guid isPermaLink="false">6441ff62a79cc81470123a0c</guid>
+    <pubDate>Fri, 21 Apr 2023 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：</span></p><span></span><p><span>运维工人：李师傅</span></p><span></span><p><span>IT变更的定义、原则以及人性思考。</span></p><span></span><p><span><a class="timestamp" data-timestamp="1">00:01</a> IT变更是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="5">00:05</a> IT变更应遵循的原则</span></p><span></span><p><span><a class="timestamp" data-timestamp="7">00:07</a> 我们从人的角度和组织利益角度出发，关注变更，并建立合理的考核机制。</span></p><span></span><p><span>参考链接：</span><a href="https://mp.weixin.qq.com/s/G0fPNKV2hv8rwj4LpD0PPg" data-url="https://mp.weixin.qq.com/s/G0fPNKV2hv8rwj4LpD0PPg"><span>浅谈构建安全变更的八卦原则</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls2oRdOuGu0MvvwoD0RANIlx23XY.m4a" length="20724573" type="audio/mp4"/>
+    <itunes:duration>00:10:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpxZgATuQJOux-_X6Yz5VNUTj7qT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

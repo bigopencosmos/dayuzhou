@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>SaaS速递</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/648503cae68894365ddcf515</link>
+  <description><![CDATA[「SaaS 速递」是一档专注于探索 SaaS 领域的播客节目。我们的目标是为忙碌的你提供最新、最有价值的行业动态和深度分析。无论你是行业新手，还是资深从业者，都能在这里找到有用的资讯和独到的见解。我们会在每个工作日准备好精心策划的内容，等着你来收听，让你随时掌握行业脉搏。快来订阅吧，让我们一起在 SaaS 的世界里不断探索、成长！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:45:20 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p648503cae68894365ddcf515.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>杨文</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg</url>
+    <title>SaaS速递</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/648503cae68894365ddcf515</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>周四 | AI 驱动风险平台 SardineAI 获得 C 轮 1.25 亿美元 | #216</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ac7b575e6f58876de8d5b1</link>
+    <guid isPermaLink="false">67ac7b575e6f58876de8d5b1</guid>
+    <pubDate>Wed, 12 Feb 2025 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Harrison-AI 获得 C 轮 1.120 亿美元。</span></li><span>  </span><li><span>Pinkfish AI 获得早期种子轮 760 万美元。</span></li><span>  </span><li><span>ConverzAI 获得 A 轮 1600 万。</span></li><span>  </span><li><span>Moderne 获得 B 轮 3000 万美元。</span></li><span>  </span><li><span>Ardent Labs 获得 B 轮 2000 万。</span></li><span>  </span><li><span>SardineAI 获得 C 轮 1.250 亿美元。</span></li><span>  </span><li><span>Noxus 获得早期种子轮 150 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lhvjiRiT3ZwoVR5dT4AOoncxz9ux.m4a" length="17890325" type="audio/mp4"/>
+    <itunes:duration>00:09:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周三 | 餐饮自动化短信营销和反馈解决方案提供商 Boostly 获得 A 轮 2200 万美元 | #215</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ab21f9dec17f1da6561edb</link>
+    <guid isPermaLink="false">67ab21f9dec17f1da6561edb</guid>
+    <pubDate>Tue, 11 Feb 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 8 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Boostly 获得 A 轮 2200 万。</span></li><span>  </span><li><span>Nirmata 获得 960 万美元。</span></li><span>  </span><li><span>Serene 获得早期种子轮 93 万英镑。</span></li><span>  </span><li><span>Goliday 获得早期种子轮未公开。</span></li><span>  </span><li><span>InvestNext 获得 B 轮 1500 万。</span></li><span>  </span><li><span>Planted 获得种子轮 500 万欧元。</span></li><span>  </span><li><span>Trace.Space 获得种子轮 380 万欧元。</span></li><span>  </span><li><span>LogicStar 获得早期种子轮 300 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/ln5GaPkC5ozyBh9NGIsKhN9wMT7k.m4a" length="18484971" type="audio/mp4"/>
+    <itunes:duration>00:09:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周二 | 致力于数字化和自动化建筑材料的采购流程 Comstruct 获得 1250 万美元 | #214</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a9e094247d51713ccbf085</link>
+    <guid isPermaLink="false">67a9e094247d51713ccbf085</guid>
+    <pubDate>Mon, 10 Feb 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Model ML 获得 1200 万。</span></li><span>  </span><li><span>Lawpath 获得 1000 万。</span></li><span>  </span><li><span>FLiiP 获得种子轮 320 万美元。</span></li><span>  </span><li><span>Edgecom 获得种子轮 250 万美元。</span></li><span>  </span><li><span>Self Inspection 获得种子轮 300 万美元。</span></li><span>  </span><li><span>Rosterfy 获得增长轮 850 万美元。</span></li><span>  </span><li><span>Comstruct 获得 1250 万欧元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lj6uh0hy_aNG8mogiiRRrV24nkS4.m4a" length="17078318" type="audio/mp4"/>
+    <itunes:duration>00:08:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周一 | 澳大利亚的零售媒体音频平台 Qsic 获得 B 轮 2500 万美元 | #213</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a5f4d9d74435e4a3b0b047</link>
+    <guid isPermaLink="false">67a5f4d9d74435e4a3b0b047</guid>
+    <pubDate>Sun, 09 Feb 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 8 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Qsic 获得 B 轮 2500 万美元。</span></li><span>  </span><li><span>Cognida 获得 A 轮 1500 万美元。</span></li><span>  </span><li><span>Ensemble Labs 获得 A 轮 1900 万美元。</span></li><span>  </span><li><span>Pendulum Systems 获得 2200 万美元。</span></li><span>  </span><li><span>PARTSCLOUD 获得种子轮 500 万欧元。</span></li><span>  </span><li><span>Visarun 获得早期种子轮 70万美元。</span></li><span>  </span><li><span>fileAI 获得 A 轮 1400 万美元。</span></li><span>  </span><li><span>Monograph 获得 B+ 轮 2000 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lr-Qf1qmlXmfeZNmSlNVEZq-iPiT.m4a" length="19058101" type="audio/mp4"/>
+    <itunes:duration>00:09:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周五 | AI 驱动合同审查 Ivo AI 获得 A 轮 1600 万美元 | #212</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a4c9de247d51713c04fd41</link>
+    <guid isPermaLink="false">67a4c9de247d51713c04fd41</guid>
+    <pubDate>Thu, 06 Feb 2025 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 8 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Astra Security 获得增长轮未公开融资。</span></li><span>  </span><li><span>Trayd 获得种子轮 450 万美元。</span></li><span>  </span><li><span>GetWhys 获得种子轮 275 万美元。</span></li><span>  </span><li><span>Neofin 获得种子轮 700 万美元。</span></li><span>  </span><li><span>Affineon Health 获得种子轮 500 万美元。</span></li><span>  </span><li><span>Largo Films 获得 750 万美元融资。</span></li><span>  </span><li><span>Ivo AI 获得 A 轮 1600 万美元。</span></li><span>  </span><li><span>Tana 获得 A 轮 1400 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lvOcjUw-InYDtVwf2q-6Ml8cTjiS.m4a" length="19585363" type="audio/mp4"/>
+    <itunes:duration>00:10:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周四 | StackAdapt，Nextworld，Anchor 等 20 多家公司获得高额融资 | #211</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67a3527c247d51713cc5aec1</link>
+    <guid isPermaLink="false">67a3527c247d51713cc5aec1</guid>
+    <pubDate>Wed, 05 Feb 2025 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 20 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>StackAdapt 获得成长股权 2.35 亿美元。</span></li><span>  </span><li><span>Warmly 获得 A+ 轮 600 万美元。</span></li><span>  </span><li><span>Lorikeet 获得 900 万美元。</span></li><span>  </span><li><span>Nextworld 获得 F 轮 6500 万美元。</span></li><span>  </span><li><span>QountHQ 获得战略性 1700 万美元。</span></li><span>  </span><li><span>Pandektes ApS 获得种子轮 290 万欧元。</span></li><span>  </span><li><span>qeen.ai 获得种子轮 1000 万美元。</span></li><span>  </span><li><span>Semeris 获得 430 万美元。</span></li><span>  </span><li><span>Hypori 获得 B 轮扩展 1200 万美元。</span></li><span>  </span><li><span>OneVest 获得 B 轮 2000 万美元。</span></li><span>  </span><li><span>Suki AI 获得战略性未披露。</span></li><span>  </span><li><span>Jump 获得 A 轮 2000 万美元。</span></li><span>  </span><li><span>Crown 获得早期种子轮 200 万欧元。</span></li><span>  </span><li><span>Gallabox Global 获得种子轮融资 350 万美元。</span></li><span>  </span><li><span>Aligned 获得 800 万美元。</span></li><span>  </span><li><span>Symphony Commerce 获得 200 万英镑。</span></li><span>  </span><li><span>Riot Security 获得 B 轮 3000 万美元。</span></li><span>  </span><li><span>Backline AI 获得种子轮 900 万美元。</span></li><span>  </span><li><span>Anchor 获得 A 轮 2000 万美元。</span></li><span>  </span><li><span>TeamSec 获得 760 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lsmRU63fRpGYI_JRTd3DxA5YEb8p.m4a" length="93892825" type="audio/mp4"/>
+    <itunes:duration>00:48:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周一 | 致力于 D2C 和消费者 AI 解决方案 Palona AI 获得种子轮 1000 万美元融资 | #210</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67958db8d74435e4a3c8b8f1</link>
+    <guid isPermaLink="false">67958db8d74435e4a3c8b8f1</guid>
+    <pubDate>Sun, 26 Jan 2025 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Riley AI 获得种子轮 300 万美元。</span></li><span>  </span><li><span>Attentive 获得 A 轮 (A1 + A2) 总计 1200 万美元。</span></li><span>  </span><li><span>Basetwo AI 获得 A 轮 1150 元美元。</span></li><span>  </span><li><span>StormHarvester 获得 A 轮 1020 万美元。</span></li><span>  </span><li><span>CapeZero 获得种子轮 260 万美元。</span></li><span>  </span><li><span>Matchory 获得种子扩展轮 600 万欧元。</span></li><span>  </span><li><span>Palona AI 获得种子轮 1000 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lg45zPBNlIlUnLmzWHM2i7w097LR.m4a" length="27572731" type="audio/mp4"/>
+    <itunes:duration>00:14:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周五 | AI 视频通信平台 Synthesia 获得 D 轮 1.8 亿美元融资 | #209</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67920ebf247d51713cd59ca5</link>
+    <guid isPermaLink="false">67920ebf247d51713cd59ca5</guid>
+    <pubDate>Thu, 23 Jan 2025 22:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Synthesia 获得 D 轮 1.8 亿美元。</span></li><span>  </span><li><span>Doti.AI 获得种子轮 700 万美元。</span></li><span>  </span><li><span>Glue 获得早期种子轮 200 万美元。</span></li><span>  </span><li><span>Kaya Pay 获得早期种子轮 530 万美元。</span></li><span>  </span><li><span>Vertice 获得 C 轮 4790 万欧元。</span></li><span>  </span><li><span>Teal Labs 获得 A 轮 750 万美元。</span></li><span>  </span><li><span>Engyon 获得种子轮 100 万欧元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lrzWImZIFV4QqdeGNI8h9lZcpFDU.m4a" length="26071923" type="audio/mp4"/>
+    <itunes:duration>00:13:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周四 | 致力于解决开发者在云应用部署和管理 Render 获得 C 轮 8000 万美元融资 | #208</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67918779b8be47e0c70024c4</link>
+    <guid isPermaLink="false">67918779b8be47e0c70024c4</guid>
+    <pubDate>Thu, 23 Jan 2025 00:07:02 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Render 获得 C 轮 8000 万美元。</span></li><span>  </span><li><span>Mitiga Security 获得 B 轮 3000 万美元。</span></li><span>  </span><li><span>Package.ai 获得 A 轮 1400 万美元。</span></li><span>  </span><li><span>Sampo AI 获得早期种子轮 75 万美元。</span></li><span>  </span><li><span>Zynap 获得种子轮 570 万欧元。</span></li><span>  </span><li><span>Vivident 获得种子轮 150 万美元。</span></li><span>  </span><li><span>Qumis 获得早期种子轮 220 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lrpsXQUYBlWSkWBLNbEHimaHcv-h.m4a" length="25753708" type="audio/mp4"/>
+    <itunes:duration>00:13:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周三 | 专注于非结构化数据管理的 AI 公司 Instabase 获得 D 轮 1 亿美元融资 | #207</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678f6eaec3617f02a4409edf</link>
+    <guid isPermaLink="false">678f6eaec3617f02a4409edf</guid>
+    <pubDate>Tue, 21 Jan 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 8 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Outfindo 获得种子轮 120 万欧元。</span></li><span>  </span><li><span>AUDAVIS 获得种子轮 110 万欧元。</span></li><span>  </span><li><span>Instabase 获得 D 轮 1 亿美元。</span></li><span>  </span><li><span>ControlMonkey 获得种子轮 700 万美元。</span></li><span>  </span><li><span>Fusebox 获得 260 万欧元。</span></li><span>  </span><li><span>ProcureYard 获得种子轮 172 万美元。</span></li><span>  </span><li><span>MailMoo 获得早期种子轮 30 万欧元。</span></li><span>  </span><li><span>Quantifind 获得 2200 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lthlUdlpsqslMVOL8Aip0he3pS_7.m4a" length="35297138" type="audio/mp4"/>
+    <itunes:duration>00:18:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周二 | 专注于数据集成和转换的数据工程平台 Prophecy 获得 B1 轮 4700 万美元融资 | #206</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678e1ef29420ede9d15b3dbc</link>
+    <guid isPermaLink="false">678e1ef29420ede9d15b3dbc</guid>
+    <pubDate>Mon, 20 Jan 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 8 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>nexos.ai 获得 800 万美元。</span></li><span>  </span><li><span>TreZix 获得种子轮 200 万美元。</span></li><span>  </span><li><span>Lyteflo 获得种子轮 300 万美元。</span></li><span>  </span><li><span>Butler Labs 获得 A 轮 4700 万美元。</span></li><span>  </span><li><span>Borderless AI 获得种子扩展轮 500 万美元。</span></li><span>  </span><li><span>Meterly SAS 获得种子扩展轮 1000 万美元。</span></li><span>  </span><li><span>Teammates.ai 获得未公开融资。</span></li><span>  </span><li><span>Prophecy 获得 B1 轮 4700 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lpU3YmHkZRWnlLVwzPkshE_4GDtX.m4a" length="32695195" type="audio/mp4"/>
+    <itunes:duration>00:16:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周一 | 专注于 AI 车队安全和视频远程信息处理 Netradyne 获得 D 轮 9000 万美元融资 | #205</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/678a471bfd38652366c5edd7</link>
+    <guid isPermaLink="false">678a471bfd38652366c5edd7</guid>
+    <pubDate>Sun, 19 Jan 2025 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>Nilus 获得 1000 万美元。</span></li><span>  </span><li><span>TalentMapper 获得 200 万英镑。</span></li><span>  </span><li><span>Hypefy 获得种子轮 170 万欧元。</span></li><span>  </span><li><span>LetsData 获得 160 万美元。</span></li><span>  </span><li><span>Netradyne 获得 D 轮 9000 万美元。</span></li><span>  </span><li><span>Guidesly 获得 A 轮 950 万美元。</span></li><span>  </span><li><span>Archive Intel 获得 150 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lqDx06axm13EV6I0tQhZk7tJaAd-.m4a" length="26768914" type="audio/mp4"/>
+    <itunes:duration>00:13:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>周五 | 提供实时多模式运输可视化服务 Shippeo 获得战略轮 3000 万美元融资 | #204</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6788fd72f787119b3db16df1</link>
+    <guid isPermaLink="false">6788fd72f787119b3db16df1</guid>
+    <pubDate>Thu, 16 Jan 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期「SaaS 速递」为你带来 7 家 SaaS 公司的融资动态，还有多家投资机构简介，欢迎收听！</span></p><span></span><ul><span>  </span><li><span>QBIQAI 获得 A 轮 1600 万美元。</span></li><span>  </span><li><span>GreenStitch 获得种子轮 120 万美元。</span></li><span>  </span><li><span>Morningscore ApS 获得 70 万美元。</span></li><span>  </span><li><span>Opteam 获得早期种子轮未公开融资。</span></li><span>  </span><li><span>Reeco 获得 A 轮 1500 万美元。</span></li><span>  </span><li><span>Workwize 获得 A 轮 1300 万美元。</span></li><span>  </span><li><span>Shippeo 获得战略轮融资 3000 万美元。</span></li><span></span></ul><span></span><p><strong><span>加入我们</span></strong></p><span></span><p><span>你可以在知识星球上搜索「SaaS 速递」，在这里你将可以与我们和其他 SaaS 行业的从业者们深入探讨。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnSS_vsPZ7ivo7zUZ5BZY5dGEdia.JPG"></figure><span></span><p><span>你也可以在微信上搜索「SaaS 速递」公众号。</span></p><span></span><p><strong><span>幕后制作</span></strong></p><span></span><p><span>AI + TTS 加持</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/648503cae68894365ddcf515/lh2LzENzz45pK0TgPYK4fA3-noeU.m4a" length="25664787" type="audio/mp4"/>
+    <itunes:duration>00:13:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmzbCscX_yNNTBb5W5R-8rD5ioQn.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

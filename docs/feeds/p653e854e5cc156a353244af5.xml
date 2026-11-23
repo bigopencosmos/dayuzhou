@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>考拉说事</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/653e854e5cc156a353244af5</link>
+  <description><![CDATA[有事跟考拉说说，没事也可以听考拉说说]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:43:23 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p653e854e5cc156a353244af5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fg7xJpoVHq8wK-ERyxtVLXPDWxb4.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fg7xJpoVHq8wK-ERyxtVLXPDWxb4.jpg</url>
+    <title>考拉说事</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/653e854e5cc156a353244af5</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>当经济下行消费主义退潮一个普通博主还可以分享些什么消费心得</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/654baeb49da6ed7e74c17f16</link>
+    <guid isPermaLink="false">654baeb49da6ed7e74c17f16</guid>
+    <pubDate>Wed, 08 Nov 2023 15:52:20 +0000</pubDate>
+    <description><![CDATA[<p><span>累了</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll6ChvQVlGZlmns63B3NPBm5BlVw.m4a" length="70279631" type="audio/mp4"/>
+    <itunes:duration>00:41:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg7xJpoVHq8wK-ERyxtVLXPDWxb4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>开播啦</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/653e8fdbef5bf8b6c57337c3</link>
+    <guid isPermaLink="false">653e8fdbef5bf8b6c57337c3</guid>
+    <pubDate>Sun, 29 Oct 2023 17:01:15 +0000</pubDate>
+    <description><![CDATA[<p><span>简单说说</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FrIT-u3s-w1jwaZ5DGCjQGQbl7LK.m4a" length="1114564" type="audio/mp4"/>
+    <itunes:duration>00:00:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg7xJpoVHq8wK-ERyxtVLXPDWxb4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

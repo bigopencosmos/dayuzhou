@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>理性与情感</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/664ef59f4efbc0c3dc86f828</link>
+  <description><![CDATA[这里是理性与情感，来自两个以声音为交流媒介的朋友，我们讨论精神文明与物质生活，探索边界与融合，凿开理智之河，让情感流动。在这里，与我们一起，庆祝同温时刻，也接纳世间不同。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:00:41 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p664ef59f4efbc0c3dc86f828.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Willa,Fan同学</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vc2Vuc2VhbmRzZW5zaWJpbGl0eS84MjgzNTIyNTg3XzYyNDYxOC5qcGc_eC1vc3MtcHJvY2Vzcz1zdHlsZS9zbA==.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9pLnR5cGxvZy5jb20vc2Vuc2VhbmRzZW5zaWJpbGl0eS84MjgzNTIyNTg3XzYyNDYxOC5qcGc_eC1vc3MtcHJvY2Vzcz1zdHlsZS9zbA==.jpg</url>
+    <title>理性与情感</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/664ef59f4efbc0c3dc86f828</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

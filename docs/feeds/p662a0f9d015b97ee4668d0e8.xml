@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>爵士映上海</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/662a0f9d015b97ee4668d0e8</link>
+  <description><![CDATA[《爵士映上海》是由上海人民广播电台经典947策划呈现的一档科普爵士知识的节目，带你听百年爵士，重新认识爵士乐。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:03:08 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662a0f9d015b97ee4668d0e8.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>爵士映上海</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrwQ2xxUvZSTerG_lGtaVD3vnt-C.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrwQ2xxUvZSTerG_lGtaVD3vnt-C.jpg</url>
+    <title>爵士映上海</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/662a0f9d015b97ee4668d0e8</link>
+  </image>
+  <itunes:category text="Music"/>
+  <item>
+    <title>VOL6 听黄野讲爵士音乐史：爵士电影</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667d63fbc13b46d76c4f7366</link>
+    <guid isPermaLink="false">667d63fbc13b46d76c4f7366</guid>
+    <pubDate>Thu, 27 Jun 2024 13:07:06 +0000</pubDate>
+    <description><![CDATA[<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爵士电影的历史可以追溯到早期电影时代，随着爵士音乐的流行和电影技术的发展，两者在许多方面交织在一起。 1920年代和1930年代这段时期是爵士音乐的黄金时代，同时也是无声电影向有声电影过渡的时期。爵士音乐在电影中的应用开始显现，尤其是在舞蹈和音乐剧中。爵士电影的介绍：</span></p><span></span><p><span>1.《爵士歌手》(The Jazz Singer, 1927) - 这部电影被认为是首部有声电影，标志着无声电影时代的结束。其音乐元素虽然不全是爵士，但它对爵士音乐的推广有重要影响。</span></p><span></span><p><span>2.《午夜梦回》(Round Midnight, 1986) - 由爵士乐手德克斯特·戈登主演，影片讲述了一个美国爵士音乐家在巴黎的生活。配乐由赫比·汉考克创作，获得奥斯卡最佳原创配乐奖。</span></p><span></span><p><span>3.《鸟》(Bird, 1988) - 克林特·伊斯特伍德执导，讲述了著名萨克斯风手查理·帕克的生平故事，电影配乐以帕克的音乐为主。\</span></p><span></span><p><span>4.《爱情至上》(Mo' Better Blues, 1990)- 斯派克·李执导，讲述了一个虚构的爵士乐手的生活故事，配乐由布兰福德·马萨利斯和特伦斯·布兰查德创作。</span></p><span></span><p><span>5.《芝加哥》(Chicago, 2002) - 虽然这是一部音乐剧电影，但其背景设定在爵士乐盛行的1920年代，影片的音乐充满了爵士元素。</span></p><span></span><p><span>6.《生为蓝调》《Born to Be Blue, 2015) - 讲述了爵士小号手切特·贝克的传记片，伊桑·霍克主演，影片深入探讨了贝克的职业生涯和个人生活。</span></p><span></span><p><span>7.《爱乐之城》(La La Land, 2016) - 这部现代音乐电影虽然更多的是流行和经典音乐，但其中对爵士乐的致敬和角色对爵士乐的热爱使其成为现代爵士电影中的一部分。</span></p><span></span><p><span>8.《绿皮书》(Green Book, 2018) - 讲述爵士钢琴家Don Shirley和他的司机Tony Lip在1960年代的美国南部的旅程，影片中的音乐和Don Shirley的演奏是电影的重要组成部分。</span></p><span></span><p><span>9. 《爆裂鼓手》(Whiplash, 2014) - 这部电影由达米恩·查泽雷执导，讲述了一位年轻鼓手在严苛导师的指导下追求卓越的故事。电影紧张激烈的节奏和精彩的爵士演奏片段给观众留下深刻印象。</span></p><span></span><p><span>10. 《爵士灵魂》(Miles Ahead, 2015) - 由唐·钱德尔执导并主演，讲述了传奇爵士小号手迈尔斯·戴维斯的故事，展现了他的音乐生涯和个人生活的起伏。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liPabArFw4b9CAE_kOHuVGAky7ON.m4a" length="107389872" type="audio/mp4"/>
+    <itunes:duration>01:14:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCVFmXGoA4-d1-c_TRKy100ee1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>VOL5 听黄野讲爵士音乐史：1920s-1930s爵士交响</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667796e3d3fc5dd6275b5441</link>
+    <guid isPermaLink="false">667796e3d3fc5dd6275b5441</guid>
+    <pubDate>Sun, 23 Jun 2024 03:30:42 +0000</pubDate>
+    <description><![CDATA[<p><span>1. 爵士交响乐的定义与历史：</span></p><span></span><p><span>&nbsp;• 介绍爵士交响乐的起源和发展，分析其如何融合爵士和古典音乐的元素。探讨关键人物和作品，如乔治·格什温的《蓝色狂想曲》</span></p><span></span><p><span>&nbsp;介绍George Gershwin</span></p><span></span><p><span>&nbsp;2. 爵士与交响乐的融合：</span></p><span></span><p><span>&nbsp;• 探讨爵士乐和交响乐在节奏、和声和结构上的差异和相似之处，讲解如何将两者有效地结合在一起。</span></p><span></span><p><span>&nbsp;介绍George Antheil和Paul Whiteman</span></p><span></span><p><span>&nbsp;3. 著名爵士交响乐作品分析：</span></p><span></span><p><span>&nbsp;• 深入分析几部著名的爵士交响乐作品，从曲式、编曲、和声和即兴演奏等角度探讨其独特之处。</span></p><span></span><p><span>&nbsp;介绍Duke Ellington</span></p><span></span><p><span>&nbsp;4. 爵士交响乐的编曲与配器：</span></p><span></span><p><span>&nbsp;• 讲解如何为交响乐团编写爵士风格的音乐，包括如何处理管弦乐与爵士乐队的结合，如何安排即兴部分，以及如何平衡不同乐器组之间的音量和音色。</span></p><span></span><p><span>&nbsp;介绍Leonard Berstein</span></p><span></span><p><span>5. 爵士交响乐中的即兴演奏：</span></p><span></span><p><span>&nbsp;• 探讨即兴演奏在爵士交响乐中的地位和方法，如何在交响乐的框架内进行即兴创作，如何与指挥和其他演奏者协调。</span></p><span></span><p><span>&nbsp;介绍Wynton Marsalis</span></p><span></span><p><span>6. 美国爵士古典作曲家：</span></p><span></span><p><span>- Aaron Copland</span></p><span></span><p><span>- Gunther Schuller</span></p><span></span><p><span>- Nikolai Kapustin</span></p><span></span><p><span>7. 现代爵士交响乐的发展趋势：</span></p><span></span><p><span>&nbsp;• 跨界合作与创新，介绍爵士交响乐与其他艺术形式的跨界合作，如与舞蹈、戏剧、视觉艺术等的结合，探索创新表现形式。</span></p><span></span><p><span>&nbsp;• 分析当代爵士交响乐的发展趋势和新兴作曲家，讨论未来可能的发展方向和创新点。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgfEvoz7Ig-tnUoyn4OmGKPzV-E3.m4a" length="85123806" type="audio/mp4"/>
+    <itunes:duration>00:58:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCVFmXGoA4-d1-c_TRKy100ee1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>VOL4 听黄野讲爵士音乐史：1920s-1930s迪士尼早期动画的爵士配乐</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6676e85f5bc0827a26a54f3b</link>
+    <guid isPermaLink="false">6676e85f5bc0827a26a54f3b</guid>
+    <pubDate>Sat, 22 Jun 2024 15:06:06 +0000</pubDate>
+    <description><![CDATA[<p><span>爵士与迪士尼动画关联的主题</span></p><span></span><p><span>&nbsp;1. 动画的起源</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 动画技术的发展与早期动画的诞生</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 早期动画的音乐配乐特点</span></p><span></span><p><span>2. 爵士如何融入早期动画</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 爵士乐与动画的初次相遇</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 爵士元素如何逐步融入动画音乐</span></p><span></span><p><span>3. 迪士尼动画配乐与爵士的关系</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 早期动画片的爵士配乐</span></p><span></span><p><span>&nbsp;4. 动画配乐的特色</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 滑稽与拟声的结合</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 爵士乐在这些动画中的应用实例</span></p><span></span><p><span>5. 孩子学爵士会带来什么</span></p><span></span><p><span>6. 爵士音乐对迪士尼动画氛围的营造</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 通过爵士节奏和和声塑造动画的独特氛围</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 爵士音乐如何增强动画的情感表达和叙事效果7. 即兴演奏对动画情节发展的影响</span></p><span></span><p><span>&nbsp;• 增强戏剧性：</span></p><span></span><p><span>&nbsp;• 即兴演奏可以在关键时刻增加戏剧效果，使情节更为紧张和引人入胜。</span></p><span></span><p><span>&nbsp;• 丰富情感表达：</span></p><span></span><p><span>&nbsp;• 即兴演奏可以即时捕捉和反映角色的情感变化，使观众更容易与角色产生共鸣。</span></p><span></span><p><span>&nbsp;• 推动故事进程：</span></p><span></span><p><span>&nbsp;• 即兴演奏可以通过音乐的变化推动故事的发展，使情节更为连贯和富有节奏。</span></p><span></span><p><span>&nbsp;• 音乐对话：</span></p><span></span><p><span>&nbsp;• 角色之间的音乐对话可以通过即兴演奏表现，使互动更为自然和生动。</span></p><span></span><p><span>• 爵士乐与迪士尼动画的文化传播</span></p><span></span><p><span>&nbsp;• 迪士尼如何通过动画推广爵士音乐</span></p><span></span><p><span>&nbsp;• 动画中的爵士乐对观众音乐欣赏习惯的影响</span></p><span></span><p><span>• 爵士乐与迪士尼音乐制作背后的故事</span></p><span></span><p><span>&nbsp;• 著名爵士音乐家与迪士尼合作的背后故事</span></p><span></span><p><span>&nbsp;邓克·艾灵顿（Duke Ellington）乐队曾参与迪士尼乐园的音乐演出</span></p><span></span><p><span>本尼·古德曼（Benny Goodman）</span></p><span></span><p><span>&nbsp;• 古德曼的大乐队曾为迪士尼的一些动画和电视节目提供音乐。</span></p><span></span><p><span>近代爵士动画</span></p><span></span><p><span>Soul&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhrcK7isjuQnUzaJnU-xTnOkGc2s.m4a" length="98207257" type="audio/mp4"/>
+    <itunes:duration>01:07:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCVFmXGoA4-d1-c_TRKy100ee1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>VOL3 听黄野讲爵士音乐史：1920s-1930s 爵士即兴的创始人：路易斯.阿姆斯特朗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66606d4894977a26ef733ae0</link>
+    <guid isPermaLink="false">66606d4894977a26ef733ae0</guid>
+    <pubDate>Wed, 05 Jun 2024 13:51:03 +0000</pubDate>
+    <description><![CDATA[<p><span>Louis Armstrong路易斯·阿姆斯特朗与爵士即兴</span></p><span></span><p><span>Louis Armstrong的早期生活与音乐生涯</span></p><span></span><p><span>1. 出生与成长背景</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 出生于1901年8月4日的新奥尔良</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 童年贫困，成长于红灯区的贫民窟</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 少年时期在少年教养院学习音乐，初识小号</span></p><span></span><p><span>2. 早期音乐影响与发展</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 加入当地的爵士乐队，逐渐展露头角</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 师从著名小号手Joe "King" Oliver</span></p><span></span><p><span>&nbsp;Louis Armstrong的音乐成就</span></p><span></span><p><span>1. 对爵士乐发展的贡献</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 个人风格的确立：小号技巧与独特的嗓音</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 影响力：从早期爵士乐到现代爵士乐的桥梁</span></p><span></span><p><span>&nbsp;Scat唱法的诞生与发展</span></p><span></span><p><span>1. 什么是Scat唱法</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 使用无意义音节进行声乐即兴创作</span></p><span></span><p><span>2. 《Heebie Jeebies》的历史背景与意义</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 1926年录制，由于乐谱丢失，Armstrong即兴使用Scat唱法</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 普及了这一唱法，成为爵士即兴演唱的重要技巧</span></p><span></span><p><span>3. Scat唱法的技巧与应用</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 基本音节与发声技巧</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 节奏与旋律的即兴创作Louis Armstrong的即兴演奏风格</span></p><span></span><p><span>1. 早期的小号即兴演奏</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 特点：高音、快速演奏、旋律性强</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 经典即兴片段解析：《West End Blues》的开场独奏</span></p><span></span><p><span>2. 经典即兴片段解析</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 分析《Potato Head Blues》中的即兴段落</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 技巧与情感表达</span></p><span></span><p><span>3. 即兴演奏对爵士乐的影响</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 将即兴演奏推向主流，影响后代音乐家</span></p><span></span><p><span>Louis Armstrong的声乐风格转变</span></p><span></span><p><span>1. 从小号到歌声的转变</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 职业生涯后期更多依赖于歌唱</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 发展独特的嗓音风格</span></p><span></span><p><span>2. 经典声乐作品解析</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 《What a Wonderful World》</span></p><span></span><p><span>Louis Armstrong的有趣故事与轶事</span></p><span></span><p><span>1. 与Ella Fitzgerald的合作</span></p><span></span><p><span>2. 个人生活趣事</span></p><span></span><p><span>&nbsp;&nbsp;&nbsp;- 幽默感与个人魅力</span></p><span></span><p><span>3. 与Duke Ellington的故事</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lg6O2ldHUEr5tjEs1vf4eICbqVrB.m4a" length="79963303" type="audio/mp4"/>
+    <itunes:duration>00:55:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCVFmXGoA4-d1-c_TRKy100ee1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>VOL2 听黄野讲爵士音乐史：1920s-1930s 摇摆乐大乐队黄金时代</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665452e9c59d1e5757fcb242</link>
+    <guid isPermaLink="false">665452e9c59d1e5757fcb242</guid>
+    <pubDate>Mon, 27 May 2024 09:31:20 +0000</pubDate>
+    <description><![CDATA[<p><span>美国爵士乐的黄金时代——大乐队摇摆乐时代</span></p><span></span><p><span>- 起源 ：</span></p><span></span><p><span>- 爵士大乐队的演变：详细概述从20世纪初新奥尔良的起源，到芝加哥的蓝调影响，再到纽约的摇摆乐场景。</span></p><span></span><p><span>- 社会与文化背景：探讨一战后至大萧条前美国社会的变化如何影响爵士乐的发展，以及电影和有声电影的诞生如何与爵士大乐队摇摆乐相互作用。</span></p><span></span><p><span>&nbsp;第一部分：什么是大乐队？</span></p><span></span><p><span>- 定义与历史：详细描述大乐队的起源和它如何从小规模的爵士乐队演变而来。</span></p><span></span><p><span>- 乐队结构：详细分析大乐队的组成部分，包括铜管乐器、木管乐器、节奏部分的具体角色和功能。</span></p><span></span><p><span>- 音乐风格：解释大乐队音乐的特点，包括其复杂的编排和如何通过强化节奏部分来吸引舞者。</span></p><span></span><p><span>- 摇摆文化：Charlston舞蹈，swing dance，有声电影，音乐剧。</span></p><span></span><p><span>第二部分：爵士乐的新中心——纽约城</span></p><span></span><p><span>- 纽约的重要性：探讨纽约如何从一个地区音乐场景成长为国际爵士乐的中心。</span></p><span></span><p><span>- 标志性场所与活动：详述卡内基音乐厅等地标性场所对爵士乐发展的贡献和象征意义。</span></p><span></span><p><span>- **历史事件**：分析纽约在爵士乐历史上的关键时刻，如重要演出和音乐创新。</span></p><span></span><p><span>第三部分：大乐队摇摆乐时代的代表人物</span></p><span></span><p><span>- 乐队长的影响力：</span></p><span></span><p><span>&nbsp;- 杜克·艾灵顿(Duke Ellington)：讨论他如何通过作品和演出塑造爵士乐的方向，尤其关注他对和声与节奏的革新。</span></p><span></span><p><span>&nbsp;&nbsp;- 贝西伯爵(Count Basie)：分析他的风格如何反映在他的大乐队中，特别是他如何通过即兴演奏提升乐队的互动性和观众的参与感。</span></p><span></span><p><span>&nbsp;&nbsp;- 班尼·古德曼(Benny Goodman)：探讨他如何打破种族隔离，推动爵士乐成为美国文化的主流。</span></p><span></span><p><span>- 曲目解析：深入分析《Take the "A" Train》，《One O'Clock Jump》，和《Sing, Sing, Sing》这些作品，说明它们如何影响了爵士乐和大众文化。</span></p><span></span><p><span>第四部分：才华横溢的歌唱家们</span></p><span></span><p><span>- 歌手的社会影响：探讨女性如何在摇摆乐大乐队时代用音乐表达个性和情感，改变公众对女性歌手的看法。</span></p><span></span><p><span>- 代表性歌手及其作品：</span></p><span></span><p><span>&nbsp;&nbsp;- 多丽丝·黛(Doris Day)：分析她的代表作和音乐风格，以及她如何通过电影歌曲影响了当时的音乐界。</span></p><span></span><p><span>&nbsp;&nbsp;- 艾拉·费茨杰拉（Ella Fitzgerald)：讨论她在爵士乐演唱技巧上的革新，特别是她的即兴演唱技巧如何影响后来的音乐家。</span></p><span></span><p><span>&nbsp;&nbsp;- 比莉·哈乐黛(Billy Holiday)：解析她的音乐表达和歌曲背后的社会意义，如何通过音乐传达强烈的情感和社会批评。</span></p><span></span><p><span>- 演唱风格与文化意义：详细探讨这些歌手的演唱技巧和风格如何在爵士乐界留下深刻印记，并分析这对当代音乐的长远影响。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljNnsVIIwAIwVYLUwrHksvx-QWdA.m4a" length="76890803" type="audio/mp4"/>
+    <itunes:duration>00:53:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkCVFmXGoA4-d1-c_TRKy100ee1K.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>听黄野讲爵士音乐史：1890s-1920s爵士的诞生</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6643629e82b428eafd8dcb11</link>
+    <guid isPermaLink="false">6643629e82b428eafd8dcb11</guid>
+    <pubDate>Tue, 14 May 2024 13:09:50 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/Fhv8g5HtY6xoWMes1m5LviKUGjWc.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpX5EI0Wjh5b1icmtBtExHFT-tAg.m4a" length="79706442" type="audio/mp4"/>
+    <itunes:duration>00:54:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmHRsXJBovpQSSjcjEPawiruYv_u.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

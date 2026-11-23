@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>现代主义文学百年</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65784efb6396a4645a98d22d</link>
+  <description><![CDATA[讲述文学史上的奇迹之年，伟大的现代主义作家和作品诞生背后的传奇故事。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:53:59 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65784efb6396a4645a98d22d.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>黄哲成</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FsvtpkuMKpQUU61dKL5abB7cEDla.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FsvtpkuMKpQUU61dKL5abB7cEDla.jpg</url>
+    <title>现代主义文学百年</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65784efb6396a4645a98d22d</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

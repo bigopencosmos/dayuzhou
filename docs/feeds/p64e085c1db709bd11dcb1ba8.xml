@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>你好妹妹radio</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64e085c1db709bd11dcb1ba8</link>
+  <description><![CDATA[“你好妹妹radio”是由好妹妹乐队⾃主创⽴的专属电
+台，主持⼈是“好妹妹乐队”成员秦昊、张⼩厚。
+这是⼀档不失⼈⽂⾊彩、嬉笑怒骂间体会⼈⽣百态，
+轻松有趣笑点低、⻛趣幽默⼜滑稽的⽹络脱⼝秀。
+该节⽬在⽹络电台市场占有率⻓期⾼居前列位置，
+曾以单集播放量⾼达106万/次傲⼈的数据称霸⽹络
+电台，受众覆盖⼴度达3亿⼈，⼴受⻘年学⽣⽩领
+群体的热爱和追捧。2018年“你好妹妹”电台全新改
+版升级，将以周播频率⾯向⼴⼤听众，从节⽬制作
+规模到内容挖掘深度，全⾯升级，尽请期待。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:27:36 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64e085c1db709bd11dcb1ba8.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>你好妹妹radio</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhB2P6hYtPPXZk_Vi6lvjftyDGei.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhB2P6hYtPPXZk_Vi6lvjftyDGei.jpg</url>
+    <title>你好妹妹radio</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64e085c1db709bd11dcb1ba8</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Vol.152 没有用的冷知识</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/650bf1b3bbe351e61685ad0e</link>
+    <guid isPermaLink="false">650bf1b3bbe351e61685ad0e</guid>
+    <pubDate>Mon, 25 Sep 2023 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>欢迎收听你好妹妹Radio，本期一起听听他们的日常工作，一场演出从筹备到落幕，那些你不知道的事</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvh7JCKgOQTrBfyOmuSIiieuVX3w.m4a" length="101234445" type="audio/mp4"/>
+    <itunes:duration>00:52:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhB2P6hYtPPXZk_Vi6lvjftyDGei.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.151 笑不活了，家人们谁懂这些破梗啊？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64fec6826884ccbb199c8a6c</link>
+    <guid isPermaLink="false">64fec6826884ccbb199c8a6c</guid>
+    <pubDate>Mon, 11 Sep 2023 07:49:20 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lpQG4a-akaeOl8kh9hhy64MGZFAB.m4a" length="71391159" type="audio/mp4"/>
+    <itunes:duration>00:36:57</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0NGs2dkJxLXBfajhYa1RHdDBxaV9mVEdpWGsucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.150 尊嘟假嘟？你的 mbti 是？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64eda140e490c5dee5c282cd</link>
+    <guid isPermaLink="false">64eda140e490c5dee5c282cd</guid>
+    <pubDate>Wed, 30 Aug 2023 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>你想要清晨的问候，你想要夜晚的温柔，你想听别人的传说，你想听一切的理由，但你想要的总让你忧愁，你想听的全都没有。哈喽，大家好 你好妹妹RADIO更新啦。这是好听又好看的你好妹妹RADIO。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrCffnyW84db1bcPuT2Tpp84obgp.m4a" length="102916170" type="audio/mp4"/>
+    <itunes:duration>00:53:17</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzbXJNb1pleDJiRFp5bHA1TmVDX0dUeW9uU24ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

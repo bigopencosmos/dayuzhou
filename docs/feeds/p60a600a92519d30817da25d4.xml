@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>不科技NoTech</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/60a600a92519d30817da25d4</link>
+  <description><![CDATA[「不科技」是一档由日谈公园出品的音频播客节目，由前资深媒体人、现求导科技 CEO 老红主持。在这里，你会听到国内外科技和互联网行业的不同从业者分享不为人知的行业秘辛，让大家用「不科技」的方式重新认识科技行业。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:46:17 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p60a600a92519d30817da25d4.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>不科技NoTech</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82ZDEyLWF1ZGlvZnJlZWhpZ2hxcHMvNDcvOTQvQ01Db09SNEVnak15QUFHYnFnQ3ZfNXNvLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82ZDEyLWF1ZGlvZnJlZWhpZ2hxcHMvNDcvOTQvQ01Db09SNEVnak15QUFHYnFnQ3ZfNXNvLmpwZWc=.jpeg</url>
+    <title>不科技NoTech</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/60a600a92519d30817da25d4</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>vol.11 智能汽车选购指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/61088048b4848e059f7618d1</link>
+    <guid isPermaLink="false">61088048b4848e059f7618d1</guid>
+    <pubDate>Mon, 02 Aug 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>最近一段时间，有关智能汽车话题的讨论多次占领了各大媒体的头条。作为「不科技」第一季的完结篇，我们和第一期一样，再次和大家探讨与智能汽车有关的话题。本期节目我们邀请到了「不科技」首期节目的人气嘉宾、智能汽车圈的「红人」魁魁，以及小鹏汽车的车主治山。</span></p><p><span>在本期节目中，你将听到：</span></p><p><span>·「法拉第未来」上市，贾跃亭能否借机翻盘？</span></p><p><span>·智能车内摄像头与用户隐私泄露</span></p><p><span>·理想水银事件背后的阴谋论</span></p><p><span>·周鸿祎怒怼「15万造不出智能电动车」</span></p><p><span>·上汽为何拒绝和华为合作</span></p><p><span>·特斯拉刹车门事件</span></p><p><span>·小米造车与百度造车的比较</span></p><p><span>·智能汽车购车指南</span></p><p><span>「不科技」第一季就此完结，感谢大家的收听与支持，我们下一季节目再会~</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜魁魁 治山</span></p><p><span>|Song List|</span></p><p><span>脏手指 Oh! Dirty Fingers - 失落大富翁</span></p><p><span>Blur - Rednecks</span></p><p><span>The Rolling Stones - Don't Stop</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIJIE3XE6ABAAAADRUds1.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=439435066&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/387c-audiofreehighqps/94/60/CKwRIJIE3XE6ABAAAADRUds1.mp3" length="127979859" type="audio/mp4"/>
+    <itunes:duration>01:06:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.10 「技术大 V」背后的大学教授</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60ff47fce283777a916505a6</link>
+    <guid isPermaLink="false">60ff47fce283777a916505a6</guid>
+    <pubDate>Mon, 26 Jul 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>关注人工智能与数据科学的朋友一定不会对「爱可可-爱生活」这个微博 ID 感到陌生。这个微博每天都会甄选、分享大量人工智能和数据科学相关的论文。长期的分享以及高质量的内容也让「爱可可-爱生活」成为了不少从业者每天必读的信源，甚至还有人用数据分析的方法分析「爱可可-爱生活」是不是在用机器发微博。</span></p><p><span>实际上，这个微博的运营者是北京邮电大学模式识别与智能系统实验室的陈光教授。这个起初育儿相关的微博是如何成为人工智能与数据科学圈知名大 V 的？作为一个教育工作者，陈老师又是如何看待技术传播和人工智能概念普及这两件事？在本期节目中，我们将一起揭开数据科学圈「第一大 V」的神秘面纱。</span></p><p><span>嘉宾简介：</span></p><p><span>陈光，「爱可可-爱生活」微博运营者，北京邮电大学模式识别与智能系统实验室教授。在 SIGIR，ACL 等国内外学术会议和期刊上发表多篇论文，拥有多项发明专利，主持或参加国家重大专项、核高基、国家 863、国家自然科学基金等多项国家级项目。主要研究方向是模式识别与机器学习，目前主要研究文本表示学习、推荐系统等。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜陈光（微博：爱可可-爱生活）</span></p><p><span>|Song List|</span></p><p><span>The Kinks - Strangers</span></p><p><span>Aerosmith - Dream On</span></p><p><span>Morphine - Early to Bed</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIaIE1I7UABAAAADOFhVd.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=437447561&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/4f1a-audiofreehighqps/74/B1/CKwRIaIE1I7UABAAAADOFhVd.mp3" length="87187877" type="audio/mp4"/>
+    <itunes:duration>00:45:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.09 互联网大厂生存指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60f60b09fc5d26f06578c40c</link>
+    <guid isPermaLink="false">60f60b09fc5d26f06578c40c</guid>
+    <pubDate>Mon, 19 Jul 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>最近一段时间，有关互联网公司「大小周」的话题引发了不少讨论。所谓「大小周」，是指一个星期上六天班（只休息星期天一天），下一个星期只上五天班（休星期六和星期天两天），再个星期又只休一天，再下一个星期又休两天，如此循环。尽管一些头部互联网公司陆续宣布取消「大小周」，但在一些大公司内部的投票中，实际支持取消「大小周」的员工只占一小部分。</span></p><p><span>互联网大厂员工是否真的「不加班毋宁死」？本期节目我们邀请到了来自知名互联网公司美团的阿布为大家现身说法。初为人父但活不离手的阿布究竟如何平衡工作与生活的关系？互利网大厂都有哪些用人标准？何时又是进入大公司的最佳窗口期？在本期节目中，阿布将为大家带来互联网大厂生存指南。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜阿布</span><br><br><br><span>|Song List|</span><br><span>白纸扇 - 东莞&nbsp;</span><br><span>U2 - Sunday Bloody Sunday</span><br><span>Kenny Rogers &amp; The First Edition - Just Dropped In</span><br><br></p>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIW4Ey0YbABAAAADKeHYt.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=435248846&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/6bc7-audiofreehighqps/12/0B/CKwRIW4Ey0YbABAAAADKeHYt.mp3" length="95799509" type="audio/mp4"/>
+    <itunes:duration>00:49:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.08 「想不到」科技史｜华人如何改变人工智能？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60ecd22b7352a92ea38e8459</link>
+    <guid isPermaLink="false">60ecd22b7352a92ea38e8459</guid>
+    <pubDate>Mon, 12 Jul 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>今天为大家带来的是「想不到」科技史的第三期节目，我们一起来聚焦人工智能历史进程中的华人力量。提到科技史上的华人力量，微软亚洲研究院是一个绕不开的名字，我们第四期节目的嘉宾袁进辉就曾在微软亚研取得过杰出的成就。当然，除了被誉为中国人工智能「黄埔军校」的微软亚研，还有无数华人先行者在推动着人工智能的发展。本期节目将聚焦这些华人技术先行者们如何改变人工智能。</span></p><p><br><span>主播｜老红&nbsp;&nbsp;</span><br><br><span>|Song List|</span><br><span>Motorama - Budapest</span><br><span>Blur - Go Out</span><br><span>ゆらゆら帝国 - 3x3x3</span><br><br></p>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIasEwhCEABAAAADHENov.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=433036729&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/d0a7-audiofreehighqps/2A/EA/CKwRIasEwhCEABAAAADHENov.mp3" length="24254089" type="audio/mp4"/>
+    <itunes:duration>00:16:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.07 什么是科技公司与媒体相处的正确姿势？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60e3991238b5b0e1a5418298</link>
+    <guid isPermaLink="false">60e3991238b5b0e1a5418298</guid>
+    <pubDate>Mon, 05 Jul 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>什么是科技公司和媒体相处的正确姿势？科技公司与媒体又是怎样相爱相杀的？近几年来科技公司和科技媒体行业发生了怎样的变化？真有媒体人靠车马费在北京买房？……有关科技公司和媒体的话题一直是敏感、晦涩的。本期节目我们邀请到了两位嘉宾，他们分别来自科技公司和媒体。他们是前美股上市公司公关总监和人工智能公司副总裁的王刚，以及知名科技和商业媒体 36 kr 的小石头老师。</span></p><p><span>在本期节目中，你将听到许多科技公司和媒体不为人知的行业内幕，二位嘉宾也分享了很多关于行业内卷以及如何与科学家以及 CEO 们打交道的故事。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜小石头 王刚</span></p><p><span>|Song List|</span></p><p><span>Johnny Thunders &amp; the Heartbreakers - It's Not Enough</span></p><p><span>罗大佑 - 现象七十二变</span></p><p><span>林生祥 - 红木桌下的秘密</span></p><p><span>林生祥 - 肚财的朋友</span></p><p><span>王迪 - 忧心忡忡的说</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIasEuOEHAfYemwDDhvKO.m4a?channel=rss&amp;album_id=49676351&amp;track_id=430809309&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/b0e7-audiofreehighqps/6D/AD/CKwRIasEuOEHAfYemwDDhvKO.m4a" length="32906907" type="audio/mp4"/>
+    <itunes:duration>01:07:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.06 「想不到」科技史｜中国首张绿卡给了人工智能教父的堂姑妈？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60da5fb525da4f997b8ba831</link>
+    <guid isPermaLink="false">60da5fb525da4f997b8ba831</guid>
+    <pubDate>Mon, 28 Jun 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>今天为大家推送的是「想不到」科技史的第二期节目。在这个系列的第一期节目中，我们介绍了「深度学习教父」 Geoffrey Hinton 的传奇人生。今天这期节目我们将为大家介绍 Hinton 身后更为传奇的家族，以及家族中和中国关系最紧密的阳春和寒早夫妇，他们也是最早获得中国绿卡的人。</span></p><p><br><span>主播｜老红&nbsp;</span><br><span>|Song List|</span><br><span>Creedence Clearwater Revival - Proud Mary</span><br><span>Creedence Clearwater Revival - I Heard It Through the Grapevine</span><br><span>Bob Dylan - Mr. Tambourine Man</span><br><br></p>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIaIEr8oBAG6HgQDALBn4.m4a?channel=rss&amp;album_id=49676351&amp;track_id=428771472&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/c946-audiofreehighqps/ED/BB/CKwRIaIEr8oBAG6HgQDALBn4.m4a" length="7243649" type="audio/mp4"/>
+    <itunes:duration>00:14:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.05 一次不太科技的友台串联</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60d1236443ec14c15e5eabd0</link>
+    <guid isPermaLink="false">60d1236443ec14c15e5eabd0</guid>
+    <pubDate>Mon, 21 Jun 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>四月份，友台「啤酒事务局」的创始人天宸来北京出差，我们见缝插针地边喝边录了一期节目。由于「啤酒事务局」融资的原因，这段时间我们密集交流了一段时间。这也是在两年前李叔组织的一场酒局上相识后，我们第二次见面。</span></p><p><span>在酒精的帮助下，我们还原了神秘的「李叔加入大疆事件」始末，天宸也分享了从科技、互联网行业跨界到啤酒领域创业的心路历程。作为创业过来人，我也首次分享了初次创业时和李开复老师的「交锋」过程。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜天宸</span></p><p><span>|Song List|</span></p><p><span>伍佰 &amp; China Blue - 一点点</span></p><p><span>Wayman Tisdale - Get Down on It</span></p><p><span>The Cure - To The Sky</span></p><p><span>肖容 - 我说我不来</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIDoEpkzeABAAAAC8yzLn.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=426676763&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/6174-audiofreehighqps/6A/F6/CKwRIDoEpkzeABAAAAC8yzLn.mp3" length="103056952" type="audio/mp4"/>
+    <itunes:duration>00:53:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.04 当一个科学家决定去创业</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60c7e9927fbe65d327238134</link>
+    <guid isPermaLink="false">60c7e9927fbe65d327238134</guid>
+    <pubDate>Mon, 14 Jun 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>袁进辉，人工智能江湖人称「老师木」，他是如何开发当时世界上最快的主题模型训练算法系统的？他又为何离开研究机构选择一条「最难」的创业方向?当一个科学家选择去创业，他又面临着哪些挑战？在本期节目中，除了上述这些话题的讨论，你还将听到曾经「舌战群儒」的「老师木」现场朗读网友「恶毒推文」。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜袁进辉（老师木）</span></p><p><span>|Song List|</span></p><p><span>David Bowie - Heroes</span></p><p><span>John Lennon - Twist and Shout</span></p><p><span>The Clash - I Fought the Law</span></p><p><span>The Velveteins - Don't Yah Feel Better？</span></p><p><span>Guy Clark - El Coyote</span></p><p><span>SCSI-9 - Senorita Tristeza</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIJIEnSpgABAAAAC5ptql.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=424671657&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/1351-audiofreehighqps/CF/80/CKwRIJIEnSpgABAAAAC5ptql.mp3" length="188744439" type="audio/mp4"/>
+    <itunes:duration>01:38:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.03 「想不到」科技史 | 少数派的深度学习阴谋</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60beb0462e2eec1ef1ca2b7b</link>
+    <guid isPermaLink="false">60beb0462e2eec1ef1ca2b7b</guid>
+    <pubDate>Mon, 07 Jun 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>「想不到」系列是由「不科技」推出的科技史系列节目。在这系列节目中，大家将听到鲜为人知的科技公司和人物历史。本系列第一期的主人公是被誉为「神经网络之父」和「深度学习鼻祖」的 Geoffrey Hinton。</span></p><br><p><span>主播｜老红 &nbsp;</span></p><p><span>|Song List|</span></p><p><span>SMZB 生命之饼 - Emma the River Dolphin</span></p><p><span>The Pogues - Dirty Old Town</span></p><p><span>The Rolling Stones - Beast of Burden</span></p><p><span>Prinzhorn Dance School - Reign</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIJEEk_9cABAAAAC2jWOj.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=422667327&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/b7a5-audiofreehighqps/25/63/CKwRIJEEk_9cABAAAAC2jWOj.mp3" length="30606859" type="audio/mp4"/>
+    <itunes:duration>00:21:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.02 教练，我想打游戏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60b572e3222d8b52ddf4dc94</link>
+    <guid isPermaLink="false">60b572e3222d8b52ddf4dc94</guid>
+    <pubDate>Mon, 31 May 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>游戏从曾经的「电子恶魔」已经成为了我们现代生活中越来越不可或缺的一部分。从「肝」游戏、「氪」游戏到如今的「看」游戏，我们对游戏的关注点也在悄然发生着变化。本期节目请到了两位游戏行业的从业者，他们都曾在知名游戏媒体「触乐」工作过。作为资深老玩家的拖泥为何至今仍执着于俄罗斯方块？身为「游戏奥斯卡」评委的胡老师又有哪些鲜为人知的爆料？在本期节目中，除了关于游戏的回忆，两位嘉宾还分享了关于游戏直播的演变、游戏鄙视链和游戏圈奇人奇事等诸多内容。</span></p><br><p><span>主播｜老红&nbsp; 嘉宾｜胡老师 拖泥</span></p><p><span>|Song List|</span></p><p><span>Klint - Diamond</span></p><p><span>The Kinks - Lola&nbsp;</span></p><p><span>Peter McConnell - Pull up a Chair</span></p><p><span>SNK新世界楽曲雑技団 - ESAKA FOREVER (草薙京)</span></p><p><span>David Bowie - Heroes</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIJEEirfdABAAAACzPrbQ.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=420503871&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/ece2-audiofreehighqps/CE/3A/CKwRIJEEirfdABAAAACzPrbQ.mp3" length="104698484" type="audio/mp4"/>
+    <itunes:duration>01:12:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.01 智能汽车没有把我宠坏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/60ac42c80e9b5dfb00ae9d23</link>
+    <guid isPermaLink="false">60ac42c80e9b5dfb00ae9d23</guid>
+    <pubDate>Mon, 24 May 2021 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>科技铸就了人类社会发展的璀璨历史，它在影响我们生活的同时也保有着它特有的神秘感。对于普通人而言，科技可以是似远实近的人工智能、脑机接口等前沿领域，也可以是以智能手机、可穿戴设备为代表的触手可及。</span></p><p><span>每一项科技成果背后都有着无数不为人知的秘辛往事，它们由不同的科技公司和人物共同撰写。在这里，科技不再是晦涩难懂的技术名词以及一行行冰冷的代码和参数，它将是你想不到的另类科技史和人物往事。</span></p><p><span>从科学家、CEO 到各类科技行业从业者，他们将卸下科技的「包袱」，用最「不科技」的方式诠释与科技有关的故事。</span></p><p><span>本期节目的嘉宾魁魁来自最近很火的自动驾驶领域，他是汽车领域的资深媒体人。从业数年来经历了自动驾驶和新能源汽车行业的风云变化。在本期节目中，魁魁将从从业者的角度探讨小米、滴滴和百度造车，以及关于智能汽车的选购指南等话题。当然，关于智能汽车的行业八卦也是必不可少的。</span></p><br><p><span>主播｜老红&nbsp;&nbsp;嘉宾｜魁魁</span></p><p><span>|Song List|</span></p><p><span>Vex Ruffin - Technology</span></p><p><span>Smash Mouth - Walkin' On The Sun</span></p><p><span>The Good, The Bad and The Queen - 80s Life</span></p><br>]]></description>
+    <enclosure url="https://jt.ximalaya.com//CKwRIJEEgYafABAAAACv3Qxp.mp3.m4a?channel=rss&amp;album_id=49676351&amp;track_id=418360398&amp;uid=70649315&amp;jt=https://aod.cos.tx.xmcdn.com/storages/9b0b-audiofreehighqps/40/E3/CKwRIJEEgYafABAAAACv3Qxp.mp3" length="93140241" type="audio/mp4"/>
+    <itunes:duration>01:04:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/60a600a92519d30817da25d4/FrnTIdEaaIjtXhktt7339m7oTuoy.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

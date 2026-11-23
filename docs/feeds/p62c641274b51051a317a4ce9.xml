@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>任性歌单</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62c641274b51051a317a4ce9</link>
+  <description><![CDATA[镜子专属的任性歌单
+每期针对一个场景或者一个主题来推荐音乐
+一起来听歌呀～～～]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:55:55 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p62c641274b51051a317a4ce9.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>嗨镜子</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FsyW3mPRgsycoY3fktliGfDvu1hw.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FsyW3mPRgsycoY3fktliGfDvu1hw.png</url>
+    <title>任性歌单</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62c641274b51051a317a4ce9</link>
+  </image>
+  <itunes:category text="Music"/>
+</channel>
+</rss>

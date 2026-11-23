@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>大话开源</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61a0a44c979a88215f7fecca</link>
+  <description><![CDATA[「大话开源」是一档由 OpenTEKr 发起的访谈节目，专注于沉淀开源人的所思所行，力求摸索出有趣、有料、有品的「开源武林秘笈」。
+
+每一期对话，我们会邀请身经百战的开源老兵，或冉冉升起的开源之星，来分享他们的前沿洞察、防坑指南，以及鲜为人知的走心故事。在这里，不管您是“开源发烧友”，还是“门外驻足观望的好奇宝宝”，都可以汲取与开源相关的更多心法与招数。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:24:52 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61a0a44c979a88215f7fecca.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>OpenTEKr</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fv4uwb2KwfaPaTTWvX7eTMRJVo52.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fv4uwb2KwfaPaTTWvX7eTMRJVo52.png</url>
+    <title>大话开源</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61a0a44c979a88215f7fecca</link>
+  </image>
+  <itunes:category text="Technology"/>
+</channel>
+</rss>

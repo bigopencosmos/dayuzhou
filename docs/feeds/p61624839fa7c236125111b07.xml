@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>老炮儿聊科技</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61624839fa7c236125111b07</link>
+  <description><![CDATA[分享科技最新事，感受创新之美。老炮儿聊科技由三位来自美国硅谷的互联网从业老炮儿发起的一档闲谈类节目。
+
+三位发起人分别来自谷歌，Meta(facebook)以及群核科技（酷家乐）Modelo
+
+欢迎邮件联系我们：suqidan@gmail.com
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:58:55 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61624839fa7c236125111b07.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>苏奇</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg</url>
+    <title>老炮儿聊科技</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61624839fa7c236125111b07</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>ChatGPT如何改变了我们的生活</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/642bf6a666e4c00c6a307251</link>
+    <guid isPermaLink="false">642bf6a666e4c00c6a307251</guid>
+    <pubDate>Tue, 04 Apr 2023 10:06:30 +0000</pubDate>
+    <description><![CDATA[<p><span>当下超级工具ChatGPT的降临，引发了“</span><strong><span>思维革命</span></strong><span>”。它改变了人类思考和处理问题的方式，并由此重塑世界。</span></p><span></span><p><span>在ChatGPT之前，人类是孤独的思考者，面对文明千年积累的巨大图书馆，也只能想办法提高检索的效率。</span></p><span></span><p><strong><span>而现在图书馆多了一位管理员</span></strong><span>，它包罗万象，逻辑清晰，回答飞速，并能综合所有已知知识，为你提供策略。</span></p><span></span><p><span>现行ChatGPT并非最高版本，数据库也停留在2021年，回答算法还在迭代进化，而后续推出的专业化定制版本，</span><strong><span>或将成为人类的辅脑</span></strong><span>。</span></p><span></span><p><span>不再一个人求解，而是人机交流中同行。这是第三次革命的起点。</span></p><span></span><p><span>电影《钢铁侠》中，最酷的不光有战甲，还有实验室里声音灵动的人工智能。</span></p><span></span><p><span>它能将钢铁侠的创意，飞速拓展，执行，补充细节。光影幻动间，创意已成现实，恍如魔法。</span></p><span></span><p><strong><span>那不是未来，那将是当下。</span></strong></p><span></span><p><span>本期三位老炮儿将来聊聊以ChatGPT为首的AI工具如何改变了我们的日常生活</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lolaY8AE3d1G3KdEQ6Cl6Ca7tp8D.m4a" length="65485342" type="audio/mp4"/>
+    <itunes:duration>01:07:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你了解ChatGPT吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63ea0f4ce99bdef7d39c22f1</link>
+    <guid isPermaLink="false">63ea0f4ce99bdef7d39c22f1</guid>
+    <pubDate>Mon, 13 Feb 2023 10:22:04 +0000</pubDate>
+    <description><![CDATA[<p><span>起初，没有人在意这一场危机，这不过是一盘棋局、一次对话，一条段子的诞生，一些工作的消失，直到ChatGPT全球爆火……</span></p><span></span><p><span>这一次，危机与每个人都息息相关，</span><strong><span>ChatGPT追在每一个人身后。</span></strong></p><span></span><p><span>从正式发布到风靡全球，不过100天。</span></p><span></span><p><span>据瑞银集团报告，截至1月末，OPen AI推出的生成式人工智能——ChatGPT月活用户</span><strong><span>已突破1亿</span></strong><span>，成为史上用户增长最快的应用程序。</span></p><span></span><p><span>这是什么概念？</span></p><span></span><p><span>据World of Engineering整理，想要够到1亿月活用户门槛，Twitter用了5年，Meta（Facebook）用了4年半，Instagram用了2年半……</span></p><span></span><p><span>ChatGPT全球蹿红同时，它的强大不禁让大家产生一种紧迫：</span><strong><span>ChatGPT将会抢谁饭碗？</span></strong></p><span></span><p><span>目前为止，已知ChatGPT会做且做得不错的工作：撰写文案、编写脚本、论文写作、小说创作、代码编程、分析报告、排查系统Bug……</span></p><span></span><p><span>ChatGPT各类技能点拉满，实打实的“六边形战士”。而这也是其为何能如此惊艳世人的重要原因之一——十项全能型选手。</span></p><span></span><p><span>而本期节目三位老炮儿就来聊一聊各自的使用感受，以及对于ChatGPT未来发展的思考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgIbOUSS7ysmuhC7Zm2ONIizu3NF.m4a" length="70829849" type="audio/mp4"/>
+    <itunes:duration>01:12:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AIGC时代来临，你准备好了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6399b3aafe7aa2d47df758a7</link>
+    <guid isPermaLink="false">6399b3aafe7aa2d47df758a7</guid>
+    <pubDate>Wed, 14 Dec 2022 11:29:46 +0000</pubDate>
+    <description><![CDATA[<p><span>今日，AI文生图模型Stable Diffusion背后的公司Stability AI宣布获得了1.01亿美元超额融资，此轮融资后，Stability AI 估值已到达 10 亿美元，成为新晋独角兽。领投公司为以支持开源著称的Coatue、Lightspeed以及O'Shaughnessy Ventures。</span></p><span></span><p><span>其资金将用于开发图、文、视频、音频和3D等多模态开源模型。除了Stable Diffusion外，音乐生成算法和工具Dance Diffusion也已经曝光。算力（公司目前在AWS上租用4000台A100）和人才（计划从100增加到300）都是烧钱大户。</span></p><span></span><p><span>据悉，目前Stability AI团队共计103人，有1名博士，明年计划资助超过100位博士。该公司领导团队国际化氛围明显，最近还有来自日本的David Ha和法国的Daniel Jefferies等社区名人加入，分别担任战略负责人和首席信息官。公司发言人表示，未来商业模式类似红帽和MongoDB，开源版本免费，通过商业版本来盈利。而有熟悉公司商业计划书的人士说，更长远的计划是成为一个控股公司，支持多个开源项目的商业化。</span></p><span></span><p><span>AI领域的文生图竞赛已经打响。正如State of AI报告中所说，「文生图扩散模型的狂潮催生了新的 AI 创企。Stability AI和Midjourney几乎是横空出世，而他们开发的文生图模型却可以和成熟的AI实验室比肩。」</span></p><span></span><p><span>今天，三位老炮儿就来聊聊AI如何改变了我们的日常工作流。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhHhGADUMaB6U6y8xsP9BicKg5qo.m4a" length="68696693" type="audio/mp4"/>
+    <itunes:duration>01:10:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在巨大的科技泡沫面前，互联网打工人何去何从？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/638bfeabf6753f4e9d4d5eab</link>
+    <guid isPermaLink="false">638bfeabf6753f4e9d4d5eab</guid>
+    <pubDate>Sun, 04 Dec 2022 01:58:03 +0000</pubDate>
+    <description><![CDATA[<p><span>去年四季度，Facebook这台增长机器第一次停了下来，流失了几十万用户。“如今增长模型帮不了Facebook了”，许维觉得公司“擅长的事”到头了，而目前还没找到新的增长方式。</span></p><span></span><p><span>“这个方法（增长公式）适用的条件，一是还处于垄断地位，二是市场依然有增量，这时可以通过内部方式去解决。”许维说，“但弊端就是，内部数据是短期的，没法衡量长期影响以及外部发生的变化。”</span></p><span></span><p><span>外部环境剧变，是两年来全球范围内的共同命题。</span></p><span></span><p><span>2020年的疫情，为美股互联网公司带来意料之外的最后一场流量盛筵，之后便是持续收缩与衰退；美国政府在疫情期间大规模放水刺激经济，则制造了短时间股市欣欣向荣的假象。</span><strong><span>今年开始，“最坚硬的泡沫”正在进入破裂钱的最后阶段，投资人Jeremy Grantham日前警告，一场史诗级崩盘即将来临。</span></strong></p><span></span><p><span>黄金20年结束的钟声已经敲响。</span><strong><span>“从去年到现在，我感觉像是对08年以来最辉煌时代的‘大清算’。”庄维国说。</span></strong></p><span></span><p><strong><span>-----------------------------</span></strong></p><span></span><p><span>本期节目，三位老炮儿来聊聊在这波科技泡沫面前，我们应该何去何从？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljJJovVH5gd-Rhjnvs7E21i18gs8.m4a" length="55994165" type="audio/mp4"/>
+    <itunes:duration>00:57:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你还会选择创业嘛？| 我们的创业故事（五）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63707d90165a4944db497a71</link>
+    <guid isPermaLink="false">63707d90165a4944db497a71</guid>
+    <pubDate>Wed, 23 Nov 2022 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>从本期开始，我们会推出连续五期的我们创业的故事（苏奇，邓天在美国创立的互联网3D协同SAAS平台 Modelo）。</span></p><span></span><p><span>第五期（最后一期）我们回顾一下整个创业的历程以及如果以后还要创业我们会做什么</span></p><span></span><p><span>希望对创业的朋友有所帮助。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhTve8--2I6OF9QdE7IYi4ml9T8z.m4a" length="33308954" type="audio/mp4"/>
+    <itunes:duration>00:34:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在美国创业的那些狗血事 | 我们的创业故事 （四）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63707de0165a4944db497a72</link>
+    <guid isPermaLink="false">63707de0165a4944db497a72</guid>
+    <pubDate>Mon, 21 Nov 2022 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>从本期开始，我们会推出连续五期的我们创业的故事（苏奇，邓天在美国创立的互联网3D协同SAAS平台 Modelo）。</span></p><span></span><p><span>第四期主要聊一聊我们碰到的各种难忘的事情，有惊喜啊~~~</span></p><span></span><p><span>希望对创业的朋友有所帮助。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrBzulytB2XXUBoIdiW914B9B_29.m4a" length="32412762" type="audio/mp4"/>
+    <itunes:duration>00:33:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>发布第一款产品那些事 | 我们的创业故事(三)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63707ac9a5004aa3aa5714a6</link>
+    <guid isPermaLink="false">63707ac9a5004aa3aa5714a6</guid>
+    <pubDate>Sun, 20 Nov 2022 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>从本期开始，我们会推出连续五期的我们创业的故事（苏奇，邓天在美国创立的互联网3D协同SAAS平台 Modelo）。第三期主要聊一聊第一版产品上线的那些故事。</span></p><span></span><p><span>希望对创业的朋友有所帮助。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmEjBKNgJLbT7wruGPZjJwI0jey0.m4a" length="39540959" type="audio/mp4"/>
+    <itunes:duration>00:40:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>打造像机器一样的销售团队 | 我们的创业故事(二)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63707a6d165a4944db497a6d</link>
+    <guid isPermaLink="false">63707a6d165a4944db497a6d</guid>
+    <pubDate>Thu, 17 Nov 2022 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>从本期开始，我们会推出连续五期的我们创业的故事（苏奇，邓天在美国创立的互联网3D协同SAAS平台 Modelo）。</span></p><span></span><p><span>第二期主要聊一聊我们当时如何迈出的创业第二步：ToB SaaS公司如何组件自己的商务团队。当然也包含了我们对于freemium SaaS何时适合组建销售团队的思考。</span></p><span></span><p><span>希望对创业的朋友有所帮助。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnh7-Xkd6aPcSXm8qpiLsW-o1PP-.m4a" length="36084755" type="audio/mp4"/>
+    <itunes:duration>00:37:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>如何迈出创业第一步 | 我们的创业故事(一)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/637078bcb0725ebdf1e6fed2</link>
+    <guid isPermaLink="false">637078bcb0725ebdf1e6fed2</guid>
+    <pubDate>Sun, 13 Nov 2022 04:55:24 +0000</pubDate>
+    <description><![CDATA[<p><span>从本期开始，我们会推出连续五期的我们创业的故事（苏奇，邓天在美国创立的互联网3D协同SAAS平台 Modelo）。</span></p><span></span><p><span>第一期主要聊一聊我们当时如何迈出的创业第一步：找到合伙人，找到第一个员工，找到第一个客户，找到第一笔投资。</span></p><span></span><p><span>希望对创业的朋友有所帮助。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liHOIgXx25pTomStGz4ycw7Y_Sro.m4a" length="52713597" type="audio/mp4"/>
+    <itunes:duration>00:36:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Twitter大裁员的背后，马斯克到底在想什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6368e713018947d3e3e8af05</link>
+    <guid isPermaLink="false">6368e713018947d3e3e8af05</guid>
+    <pubDate>Mon, 07 Nov 2022 11:08:02 +0000</pubDate>
+    <description><![CDATA[<p><span>抱着水槽“sink in”入主推特主楼的埃隆·马斯克在接手当天就开始上演推特“大屠杀”，立即开除了推特CEO、CTO、法律总顾问等四名高管，以及多名前CEO提拔的高管，并且很快就开始了他新官上任的第二把火：大裁员。</span></p><span></span><p><strong><span>一夜之间裁员50%，“开着会忽然被关闭帐户”</span></strong></p><span></span><p><span>美国当地时间上周四深夜，推特向他的 7,500 名员工发出了一份令人不寒而栗的邮件。</span></p><span></span><p><span>据《纽约时报》报道，这封电子邮件——仅署名“推特”——告知员工“为了让 Twitter 走上健康的道路，我们将经历全球裁员的艰难过程。我们认识到这将影响许多为 Twitter 做出宝贵贡献的个人，但不幸的是，这一举措对于确保公司向前迈进是必要的。”</span></p><span></span><p><span>邮件中还表示，本周五，受到本次裁员波及的员工就可以离开办公室了。电子邮件中没有提供确切的人数，但《纽约时报》表示，一半的员工将被解雇。</span></p><span></span><p><span>深夜通知第二天就离开，这一裁员方式也是非常罕见了。据了解，不少海外员工也收到了裁员邮件，并且还有正在视频会议中的员工由于权限忽然被禁，从视频会议中忽然“掉线”，连告别都来不及说。</span></p><span></span><p><span>并且，为了确保“员工及系统和客户数据的安全”推特在但他临时关闭了办公室，并暂停使用badge，直到本周一才会恢复。</span></p><span></span><p><span>根据在社交媒体上的爆料，本轮裁员涉及推特几乎所有部门，工程师团队、内容团队、公共政策部门。今年6月，推特的员工大概是8000人，而本轮裁员后，推特的员工数将缩减至3700人左右，重新回到2014年上市时的员工人数。</span></p><span></span><p><strong><span>马斯克回应：我别无选择</span></strong></p><span></span><p><strong><span>---------</span></strong></p><span></span><p><span>本期三位老炮儿就来聊聊Twitter新主人马斯克大裁员的故事。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luXdHV1Hw7423lsfoKTdl3GEmqLZ.m4a" length="58339407" type="audio/mp4"/>
+    <itunes:duration>01:00:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2022年谷歌云发布会背后的故事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/635a1b831e3d618849153232</link>
+    <guid isPermaLink="false">635a1b831e3d618849153232</guid>
+    <pubDate>Thu, 27 Oct 2022 05:47:47 +0000</pubDate>
+    <description><![CDATA[<p><span>美国时间2022年10月12日，谷歌云计算公司召开了 Google Cloud Next 2021 年度大会。在这场大会上，谷歌云 CEO Thomas Kurian 指出：</span><strong><span>让远程办公和云计算转型继续加快和变得更加顺畅，提升网络安全性，以及帮助客户实现清洁、可持续计算的目标</span></strong><span>将成为接下来云计算行业面临的最大挑战。</span></p><span></span><p><span>正好三位老炮儿之一邓天就是Google Cloud Translation hub的产品设计师，所以今天三位老炮儿就来聊聊2022年谷歌云Next发布会背后的故事。</span></p><span></span><p><span>-----------------------------------------------------------</span></p><span></span><p><span>老炮儿聊设计是一档由三位来自于美国硅谷的设计师发起的一个产品设计闲谈类节目，旨在通过讨论发掘和认识更深层次的产品设计逻辑思维。</span></p><span></span><p><span>三位老炮儿分别为：</span></p><span></span><p><span>Roger Zhu, Meta(facebook)产品设计师</span></p><span></span><p><span>邓天，Alphabet(Google)产品设计师</span></p><span></span><p><span>苏奇，群核科技（酷家乐）- 模袋云，产品VP</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqQW1kaIzyRbsjk7WM-2lXIRr5RI.m4a" length="59614310" type="audio/mp4"/>
+    <itunes:duration>01:01:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Figma200亿美金卖给Adobe,值得吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63295e7be67030aadb38e156</link>
+    <guid isPermaLink="false">63295e7be67030aadb38e156</guid>
+    <pubDate>Tue, 20 Sep 2022 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>最近几天，在科技公司不断传出裁员、估值下跌的低迷之中，一桩巨额收购案引爆了投资界和整个设计圈——全球最大多媒体制作软件开发商Adobe宣布以200亿美元的价格收购设计界黑马新秀Figma。</span></p><span></span><p><span>这桩收购不仅是Adobe自1982年成立以来的最大收购案，也是设计行业中迄今为止最大的一笔收购。</span></p><span></span><p><span>Figma是近年来少有的可以称得上拥有“硅谷速度”的创新型公司。</span><strong><span>2018年初，Figma的估值才刚刚过1亿美元，还仅仅是一个小众设计工具，到了2021年，Figma估值暴涨100倍来到了100亿美元，其在设计圈的地位已经足以跟此前几乎处于垄断地位的Adobe产品抗衡，成为了产品圈、设计圈内人人必用的工具。</span></strong></p><span></span><p><span>此次，仅距离上次融资一年之后，Adobe再次让Figma身价翻倍，而Figma的创始人Dylan Field今年才仅仅30岁。</span></p><span></span><p><span>值得注意的是，这一桩收购案宣布后并没有在圈内迎来一片欢声鼓舞，反而在Twitter、Reddit上被一众开发者“喷”上热搜，纷纷表示对Figma的惋惜。</span></p><span></span><p><span>那么，Figma跟Adobe之间到底有着什么样“爱恨纠缠”的故事？本期三位老炮儿来继续聊聊Figma被收购的故事。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltgxTVeaUxhFyMLquDy7iZq8Hwnc.m4a" length="73226498" type="audio/mp4"/>
+    <itunes:duration>01:15:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>什么是JTBD，job to be done方法为什么对做互联网产品设计有价值？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/631eaedef3d15f16f4cc3301</link>
+    <guid isPermaLink="false">631eaedef3d15f16f4cc3301</guid>
+    <pubDate>Mon, 12 Sep 2022 04:00:30 +0000</pubDate>
+    <description><![CDATA[<p><br><span>JTBD是最近几年新提出的一个理论，在网上有一大堆文章开始在研究这个看似神秘又高级的概念，常常与传统的Persona, user story进行对比，批判其不足。</span></p><span></span><p><span>今天这期三位老炮儿就围绕着JTBD的意义和作法进行探讨。也希望给大家带来一些思考。</span></p><span></span><p><span>-----------------------------------------------------------</span></p><span></span><p><span>老炮儿聊设计是一档由三位来自于美国硅谷的设计师发起的一个产品设计闲谈类节目，旨在通过讨论发掘和认识更深层次的产品设计逻辑思维。</span></p><span></span><p><span>三位老炮儿分别为：</span></p><span></span><p><span>Roger Zhu, Meta(facebook)产品设计师</span></p><span></span><p><span>邓天，Alphabet(Google)产品设计师</span></p><span></span><p><span>苏奇，群核科技（酷家乐）- 模袋云，产品VP</span></p><span></span><p><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmCWCHssVXYeNdaC63KJ6qhaViAM.m4a" length="57468782" type="audio/mp4"/>
+    <itunes:duration>00:59:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>产品设计师如何在多方压力下做出合理的设计决策？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62fdfb85589bc60fde1d8292</link>
+    <guid isPermaLink="false">62fdfb85589bc60fde1d8292</guid>
+    <pubDate>Thu, 18 Aug 2022 08:42:45 +0000</pubDate>
+    <description><![CDATA[<p><span>很多时候产品设计师需要从产品，研发，客户，市场多方角度进行设计考量，选择妥协或者坚持一个设计决策，那么什么样的设计决策方式是对的？是适合公司以及职业发展的？产品设计师在面临意见冲突时候，又需要按照什么逻辑来解决或者推进决策。我们希望通过今天的探讨能够给大家带来一些思考和启发。</span></p><span></span><p><span>老炮儿聊设计是一档由三位来自于美国硅谷的设计师发起的一个产品设计闲谈类节目，旨在通过讨论发掘和认识更深层次的产品设计逻辑思维。</span></p><span></span><p><span>三位老炮儿分别为：</span></p><span></span><p><span>Roger Zhu, Meta(facebook)产品设计师</span></p><span></span><p><span>邓天，Alphabet(Google)产品设计师</span></p><span></span><p><span>苏奇，群核科技（酷家乐）- 模袋云，产品VP</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luFW7peV-AzRpwQ8qU9hVMU28GUd.m4a" length="60318099" type="audio/mp4"/>
+    <itunes:duration>01:02:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>为什么说特斯拉颠覆了汽车驾驶体验？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62e5fca288a3150c3ae3525a</link>
+    <guid isPermaLink="false">62e5fca288a3150c3ae3525a</guid>
+    <pubDate>Sun, 31 Jul 2022 03:53:06 +0000</pubDate>
+    <description><![CDATA[<p><span>乘联会近日发布中国汽车销量数据显示，3月特斯拉批发销量为65814辆，同比增长85%。今年第一季度，特斯拉累计销量突破18万辆，达到182174辆的市场表现，再创季度销量纪录。特斯拉在欧洲的增长令人恐惧。如果你看一下2021 年欧洲电动汽车销量，特斯拉 Model 3 以 14万868 辆的总销量位居第一。与 2020 年的 8万5979 台相比，增长了 64%。它的销量几乎是大众 ID.3（72,723 辆）的两倍。</span></p><span></span><p><span>那到底特斯拉提供了一种什么样的不同驾驶体验，足以支撑它如此火爆的销量呢？三位老炮儿以特斯拉车主的身份现身说法，从用户体验的角度深入剖析了特斯拉的创新性。</span></p><span></span><p><span>老炮儿聊设计是一档由三位来自美国Somerville的互联网从业老炮儿发起的一个闲谈类节目。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqR5P-QMcryxqbtVe8qSgz3dtUuN.m4a" length="60736647" type="audio/mp4"/>
+    <itunes:duration>01:02:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh9dj5QpdA1LYGDe5tfw0MTqwqoZ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

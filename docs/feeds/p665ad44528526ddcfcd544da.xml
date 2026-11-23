@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>芯片简史解读</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/665ad44528526ddcfcd544da</link>
+  <description><![CDATA[我是《芯片简史》的作者汪波。
+书籍出版以来我收到很多读者反馈，深受鼓舞和感动，让我感到作者是与读者一起成长的。为了回馈读者，我会一边朗读一边解读《芯片简史》的内容，希望能够帮助各位跨过阅读的最后一道门槛。此外这本书应该有不少青少年读者，希望这些解读能让更多人坚持读下来。
+一本书就像一把琴。苏东坡在《琴诗》中写道：“若言琴上有琴声，放在匣中何不鸣？若言声在指头上，何不于君指上听？”这本书就像琴，希望您能打开它，自己“弹奏”一番。书中的真意不在文字本身，而在文字与你的共鸣中。
+如有问题，欢迎在留言区提出，我会尽量解答。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:33:27 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p665ad44528526ddcfcd544da.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>wangbo_MsU0</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FvrSto7NwIl8nheYeITvJWSbR8IS.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FvrSto7NwIl8nheYeITvJWSbR8IS.jpg</url>
+    <title>芯片简史解读</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/665ad44528526ddcfcd544da</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>芯片简史9（第一章3）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667fe7ef077b88831b0ebcc0</link>
+    <guid isPermaLink="false">667fe7ef077b88831b0ebcc0</guid>
+    <pubDate>Sat, 29 Jun 2024 10:54:38 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第3节，讲述了威尔逊等人用能带理论解释了半导体的特性，从而为发明晶体管打下了基础。</span></p><span></span><p><span>-------------------</span></p><span></span><p><span>关于本播客：阅读并解读《芯片简史》的内容。</span></p><span></span><p><span>更新频次：每周六晚8点。</span></p><span></span><p><span>--------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>导体、半导体和绝缘体的能带</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnBYzZjSkRm2vBZ35aKEHc5cpvvF.png"></figure><span></span><p><span>硅的晶体结构：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FkImCQF89eXNy1_-PZY-qnsWQKtq.gif"></figure><span></span><p><span>元素周期表：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FkrF9Biow5k2TcCMK74OcC9AVF8W.png"></figure><span></span><p><span>英国物理学家 A.H. 威尔逊</span></p><span></span><figure><img src="https://image.xyzcdn.net/FsVcpOouOjFhKomKNlRKZhI1liPW.jpg"></figure><span></span><p><span>----------------------------</span></p><span></span><p><span>《芯片简史》的荣誉：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><span>链接：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><span>公众号&amp;视频号：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln1PB6bLZCAb2LbWbZ81JML-xfHS.m4a" length="22037147" type="audio/mp4"/>
+    <itunes:duration>00:22:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlHaSI0MwM_c1NJJEDxtXRlGaN7w.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史8（第一章2d）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6677eb74d3fc5dd627690f3b</link>
+    <guid isPermaLink="false">6677eb74d3fc5dd627690f3b</guid>
+    <pubDate>Sun, 23 Jun 2024 09:31:32 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第2节第4部分，讲述了海森堡提出了不确定性原理，薛定谔提出了波动方程，构建了量子物理学大厦的框架，并为将来解释半导体奠定了基础。</span></p><span></span><p><span>-------------------</span></p><span></span><p><span>关于本播客：阅读并解读《芯片简史》的内容。</span></p><span></span><p><span>更新频次：每周六晚8点。</span></p><span></span><p><span>--------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>电子云：</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fps96Wn7CuHt73-8mCp5RsnHuKuM.png"></figure><span></span><p><span>晶体结构：</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fl_0S24Qy2Y9hrnwHaDBAPk1ZkWy.jpg"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fp3OeX7XHLWOZjtL6n61PJ8rDBst.png"></figure><span></span><p><span>电子波：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FqjhoGX1621kVqXy9U1etloJPvj3.png"></figure><span></span><p><span>德国物理学家海森堡</span></p><span></span><figure><img src="https://image.xyzcdn.net/FtJ0AXQLlnbU6NknQ5Mq4X759CDO.jpg"></figure><span></span><p><span>奥地利物理学奖薛定谔</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftw70fKxWPi5KWE9WWjWAuFWxw7d.jpg"></figure><span></span><p><span>----------------------------</span></p><span></span><p><span>《芯片简史》的荣誉：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><span>链接：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><span>公众号&amp;视频号：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmR52A2B5f0anU9MNDD9bThwy_QU.m4a" length="17773868" type="audio/mp4"/>
+    <itunes:duration>00:18:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjNSLyZkde7D8hs6dTyiQQdxGfaA.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史7（第一章2c）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666ee3f2b6a8412729246b68</link>
+    <guid isPermaLink="false">666ee3f2b6a8412729246b68</guid>
+    <pubDate>Sat, 22 Jun 2024 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第2节第3部分，讲述了德布罗意颠覆了电子是一种粒子的认识，提出电子也是一种波。</span></p><span></span><p><span>-------------------</span></p><span></span><p><span>关于本播客：阅读并解读《芯片简史》的内容。</span></p><span></span><p><span>更新频次：每周六晚8点。</span></p><span></span><p><span>--------------------</span></p><span></span><p><span>节目中提到的书籍：</span></p><span></span><p><span>赵智沉，《什么是物理》，图灵新知，人民邮电出版社，2024</span></p><span></span><p><span>卡洛·罗韦利，《量子物理如何改变世界》，磨铁·文治图书 / 企鹅兰登中国，浙江科学技术出版社，2023</span></p><span></span><p><span>--------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>德布罗意波：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FoIQNS99HTahQbOzyezYiAEPuxHX.png"></figure><span></span><p><span>双缝实验：电子在后面屏幕上形成干涉条纹</span></p><span></span><figure><img src="https://image.xyzcdn.net/FrQM9dyq0jVfzNVqt5YPttHo5D2d.png"></figure><span></span><p><span>法国物理学家德布罗意</span></p><span></span><figure><img src="https://image.xyzcdn.net/FlirYsrbldzKb5WE4kcALnDmLXuZ.jpg"></figure><span></span><p><span>----------------------------</span></p><span></span><p><span>《芯片简史》的荣誉：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><span>链接：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><span>公众号&amp;视频号：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgeukvAU07BOdC_kcoic3kmExDOU.m4a" length="19613569" type="audio/mp4"/>
+    <itunes:duration>00:20:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fiftt2Y9rdk14uGy2MG1A6medfbq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史6（第一章2b）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666cf88fc26e396a36e59a18</link>
+    <guid isPermaLink="false">666cf88fc26e396a36e59a18</guid>
+    <pubDate>Sat, 15 Jun 2024 12:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第2节第2部分，讲述了爱因斯坦、玻尔是如何继续推动量子力学的。</span></p><span></span><p><span>-------------------</span></p><span></span><p><strong><span>关于本播客</span></strong><span>：阅读并解读《芯片简史》的内容。</span></p><span></span><p><span>更新频次：每周六晚8点。</span></p><span></span><p><span>--------------------</span></p><span></span><p><strong><span>花絮</span></strong><span>：</span></p><span></span><p><span>孔子的弟子曾以为老师非常博学，但孔子否认了这一点，说自己只是“一以贯之”。</span></p><span></span><p><span>其实这本《芯片简史》的内容也是如此，看似内容很多，但其实只需一根主线即可将其穿起来，无需“多学而识之”。这根主线就是“能量斜坡”，它串联起了真空二极管、真空三极管，半导体二极管，和晶体管。只要理解了它，就能理解信号放大和开关，以及更复杂的计算机和通信。</span></p><span></span><blockquote><em><span>子日：“赐也！女以予为多学而识之者与？”对曰：“然，非与？”日：“非也，予一以贯之。”（《论语》）</span></em></blockquote><span></span><p><span>--------------</span></p><span></span><p><strong><span>附图</span></strong><span>：</span></p><span></span><p><span>丹麦物理学家玻尔</span></p><span></span><figure><img src="https://image.xyzcdn.net/FpjKAYaL5p_FOseda6h8t9efwNd-.jpg"></figure><span></span><p><span>--------------</span></p><span></span><p><span>氢原子的光谱</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fptmyuftv1qWH8keTCe3g2a5gE1Q.png"></figure><span></span><p><span>----------------</span></p><span></span><p><span>玻尔原子模型</span></p><span></span><figure><img src="https://image.xyzcdn.net/FpsXTDL2wk8k3Geu3FJ2ErIHPJUU.png"></figure><span></span><p><span>---------------</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luX6wJ5y9zN6cdZGRjEHQg1xMoLy.m4a" length="19743439" type="audio/mp4"/>
+    <itunes:duration>00:20:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fsw8IhQihJz8yEXFyKncAI3-iujk.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史5（第一章2a）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6661d14294977a26efb56789</link>
+    <guid isPermaLink="false">6661d14294977a26efb56789</guid>
+    <pubDate>Fri, 07 Jun 2024 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第2节第1部分，讲述了爱迪生的第二个烦恼（灯泡发光效率低下）是如何引发普朗克提出量子物理的。</span></p><span></span><p><span>在这里我会阅读并解读《芯片简史》的内容。如有问题，欢迎在留言区提出，我会尽量解答。</span></p><span></span><p><span>感谢关注和推荐给更多朋友。</span></p><span></span><p><span>--------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>德国物理学家普朗克 （量子物理开创者）</span></p><span></span><figure><img src="https://image.xyzcdn.net/FqLU2Yb1nZNcXIPtQ3A7JohQNJDG.gif"></figure><span></span><p><span>--------------</span></p><span></span><p><span>辐射强度与温度和波长的关系：白炽灯的光只有一小部分位于可见光的波长区间。</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fng4pl4P6LachmMb2RGb19hnno_R.png"></figure><span></span><p><span>红外成像：不同颜色代表不同温度</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fp4i1MU3fhdAZTkbrTj07Eo6UiLY.jpg"></figure><span></span><p><span>---------------</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liKQP3_pG5KdOaLWXag45BOy8XFS.m4a" length="12987084" type="audio/mp4"/>
+    <itunes:duration>00:13:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlIDeV7UE-BKwvheAf38lb6bkaes.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史4（第一章1c）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665b17dd94977a26ef7adf7a</link>
+    <guid isPermaLink="false">665b17dd94977a26ef7adf7a</guid>
+    <pubDate>Sat, 01 Jun 2024 12:45:16 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第1节第3部分，我会讲解德福雷斯特是如何发明真空三极管的。</span></p><span></span><p><span>在这里我会阅读并解读《芯片简史》的内容。如有问题，欢迎在留言区提出，我会尽量解答。</span></p><span></span><p><span>感谢关注和推荐给更多朋友。</span></p><span></span><p><span>--------------</span></p><span></span><p><strong><span>附图</span></strong><span>：</span></p><span></span><p><span>真空三极管发明人：德福雷斯特</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fmivd1bygXtIc3uCxancfWMNl_sz.png"></figure><span></span><p><span>-------------------</span></p><span></span><p><span>真空三极管：中间的栅极可以调控单向电流</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fhhpc8ia0sfMHjm7PtM7BKaPy6wk.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fs-IMCYOe3XKAQaD2y6Ap0UNz5KL.png"></figure><span></span><figure><img src="https://image.xyzcdn.net/Fs_tmic6Wvr53qnjMgtZr_mqxlkC.jpg"></figure><span></span><p><span>--------------</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljiLbVVgz3LliZmXqqw1BvcACp_A.m4a" length="13965400" type="audio/mp4"/>
+    <itunes:duration>00:14:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtfwDGwRB2EG86lGw8q7XIAY0CHj.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史3（第一章1b）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665b178494977a26ef7ad113</link>
+    <guid isPermaLink="false">665b178494977a26ef7ad113</guid>
+    <pubDate>Sat, 01 Jun 2024 12:43:47 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第1节第2部分，我会讲解弗莱明是如何发明真空管的。</span></p><span></span><p><span>在这里我会阅读并解读《芯片简史》的内容。如有问题，欢迎在留言区提出，我会尽量解答。</span></p><span></span><p><span>感谢关注和推荐给更多朋友。</span></p><span></span><p><span>--------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>无线电先驱马可尼：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FiwSYF34l_tmjpBGzaAQ2NVEs4lG.jpg"></figure><span></span><p><span>-------------------------</span></p><span></span><p><span>阴极射线管发射电子的实验：电子从阴极飞向阳极，相当于沿着能量斜坡“流动”</span></p><span></span><figure><img src="https://image.xyzcdn.net/FmCYP9DLxp6qxWNLe5V_IYu1phrV.png"></figure><span></span><p><span>----------------------------</span></p><span></span><p><span>二极管整流示意图：有正有负的信号通过单向导电的整流电路后，只有正向信号保留下来</span></p><span></span><figure><img src="https://image.xyzcdn.net/Finq_1-AOgzZJrixqJgoxO1usqvz.png"></figure><span></span><p><span>--------------------------</span></p><span></span><p><span>带有玻璃罩的真空二极管</span></p><span></span><figure><img src="https://image.xyzcdn.net/FlydTzntkV2LkMD9danpqe_wFigr.jpg"></figure><span></span><p><span>----------------------</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lo6q_ucLSYAdhzR__B8AbzhFLx27.m4a" length="12607822" type="audio/mp4"/>
+    <itunes:duration>00:12:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlQDwD-nqLufZntecvopKtLmvHDc.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史2（第一章1a）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665b16d994977a26ef7ab477</link>
+    <guid isPermaLink="false">665b16d994977a26ef7ab477</guid>
+    <pubDate>Sat, 01 Jun 2024 12:40:56 +0000</pubDate>
+    <description><![CDATA[<p><span>这一集是《芯片简史》的第一章第1节第一部分。主要讲述了灯泡发明后，爱迪生遇到了一个烦恼，灯泡内表面会被熏黑，爱迪生和助手无意中发现了所谓的“爱迪生效应”。</span></p><span></span><p><span>在这里我会阅读并解读《芯片简史》的内容。如有问题，欢迎在留言区提出，我会尽量解答。</span></p><span></span><p><span>感谢关注和推荐给更多朋友。</span></p><span></span><p><span>------------------------------</span></p><span></span><p><span>附图：</span></p><span></span><p><span>爱迪生：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FmFb1qWe1Z0o-iuBu6zkY_r-a-hB.png"></figure><span></span><p><span>--------------</span></p><span></span><p><span>爱迪生在灯泡中插入一个铜片后，发现有电流从铜片流向灯丝（尽管二者之间是真空），这被称为“爱迪生效应”。</span></p><span></span><figure><img src="https://image.xyzcdn.net/FvL6lP0w3clfLI0gvi5gc8BPcTKN.jpg"></figure><span></span><p><span>----------------------</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqog2YesQQXX_bUfTscoT12PBN-k.m4a" length="14995429" type="audio/mp4"/>
+    <itunes:duration>00:15:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjzjextXBFhm5FLHlDTebQnniCTL.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>芯片简史1（前言）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665ae3ac63c334a2fb9a135a</link>
+    <guid isPermaLink="false">665ae3ac63c334a2fb9a135a</guid>
+    <pubDate>Sat, 01 Jun 2024 09:02:36 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，我是《芯片简史》的作者汪波。</span></p><span></span><p><span>在这里我会阅读并解读《芯片简史》的内容。这一集是《芯片简史》的前言，讲述了写这本书的缘起、书的主题和主要内容等。</span></p><span></span><p><span>对于非专业人士来说，理解这本书的技术部分有一定门槛。此外，这本书也有不少青少年读者。我希望能通过讲解让更多人理解芯片。</span></p><span></span><p><span>如有问题，欢迎在留言区提出，我会尽量解答。感谢关注和推荐给更多朋友。</span></p><span></span><p><strong><span>《芯片简史》的荣誉</span></strong><span>：第十九届文津图书奖、2023豆瓣科学新知年度图书、2023南国书香节十大好书、2024书香羊城十大好书、第三期新发现科普书单、环球科学2023最美阅读、21世纪经济报道年度好书2023。</span></p><span></span><p><strong><span>链接</span></strong><span>：</span><a href="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2" data-url="https://wangbo66.com/books/%e8%8a%af%e7%89%87%e7%ae%80%e5%8f%b2"><span>芯片简史介绍和勘误表</span></a><span> ，豆瓣上的</span><a href="https://book.douban.com/subject/36357053/" data-url="https://book.douban.com/subject/36357053/"><span>《芯片简史》</span></a></p><span></span><p><strong><span>公众号&amp;视频号</span></strong><span>：汪波偶遇科学</span></p><span></span><figure><img src="https://image.xyzcdn.net/Ftq1d9xcGQBclsfAVqjVgX761xHP.jpg"></figure><span></span><p><span>ps:本集中的口误：<a class="timestamp" data-timestamp="700">11:40</a>“本书的作者”应为“本书的读者”。朗读中如有错误，以原书为准。</span></p><span></span><p><span>--------</span></p><span></span><p><span>附图：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FsZ7A3Hqeub1aLSy1MUD9Ll1358G.jpg"></figure><span></span><p><span>芯片发展树：</span></p><span></span><figure><img src="https://image.xyzcdn.net/FvQiz_JfnNPJ1xicLAYR1z54GL_x.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgtsgX_qsu3cVmE9eVsdM9eqoYXR.m4a" length="17036384" type="audio/mp4"/>
+    <itunes:duration>00:17:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpSVE1VqiFReZh8Cq9WI6YavlSJH.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

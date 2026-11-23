@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>安全女王</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6597f6f2becffbdddf34bede</link>
+  <description><![CDATA[普通女生在网安的挣扎、踩坑与生存实录。
+
+关键词：网络安全 信息安全 隐私保护 安全合规 ai 人工智能 加密 信息泄露 安全风险评估 网安行业观察 安全意识 漏洞挖掘 信息收集 白帽子 攻防演练 护网 红队 女性友好 等
+主题包括 安全行业相关的 书影音分享/学习经验/职业选择/行业故事/职场经历/技术工具/女性榜样/女性独立/女性公益等。
+
+很高兴在网络安全的道路上有妳同行👭]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:43:10 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6597f6f2becffbdddf34bede.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>冰片</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png</url>
+    <title>安全女王</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6597f6f2becffbdddf34bede</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>SheSec1_她说｜赛博女保安的困境和成长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a2aa658028e84948f290ccc</link>
+    <guid isPermaLink="false">6a2aa658028e84948f290ccc</guid>
+    <pubDate>Thu, 11 Jun 2026 12:49:01 +0000</pubDate>
+    <description><![CDATA[<p><span>距离首期节目发布过去两年了，我们仍在用自己不同的方式 在网络安全这个行业中 工作。</span></p><p><span>虽然还是时常被这个行业里的乱象、各种无下限的厌女营销创飞，但是这些都不重要，重要的是持续上场，持续表达，build in public。</span></p><p><span>【本期节目为2024历史首期嘉宾重置完整版】</span></p><p><span>Who？</span></p><ul><li><p><span>主持人冰片- 甲方信息安全 测试5年转安全2年（现在是漏洞赏金猎人/女性社区技术助教）</span></p></li><li><p><span>1号嘉宾小荀-乙方红队 工作3年 擅长攻防打比赛 兼挖洞渗透安服 （现在尝到了冰片之前甲方的苦，开发对线日常暴躁中）</span></p></li></ul><p><span>话题</span></p><ul><li><p><span>谁对我影响最大？</span></p></li><li><p><span>我受过最惨痛的教训是什么?</span></p></li><li><p><span>什么最让我感到愤怒？</span></p></li></ul><p><span>录制时间：38妇女节前</span></p><p><span>Part1 :</span></p><p><span>我们分享了自己如何走进网络安全行业的真实经历，讲述了过程中我们面临到的困难，回顾了个人职业成长道路上遇到的那些影响我们的人和事。</span></p><p><span>Part2:</span></p><p><span>主要讲述了护网行动中发生的一些有趣的故事，分享了我们工作中踩过的一些坑和收获到的经验教训。探讨了女性在职业选择上的可能性，表达了我们建立女性网络安全行业互助社群的初衷。</span></p><p><span>Part3:</span></p><p><span>我们分享了自己的真实体验和观察，内容涉及性别偏见、刻板印象、性骚扰等话题，我们呼吁更安全、平等友好、健康的就业环境。</span></p><p><span>录制到发布的短短一个月不到的时间里，让我们愤怒的事情还是屡屡发生在我们身边：技术群聊里发布黄色图片的男性、微信公众号后台一直骚扰索要微信联系方式的男性、欺骗伪装混入女性社群窥探女性隐私的男性......面对结构性的压迫和性别歧视，我们选择勇敢地直面它，大声地谈论它。</span></p><p></p><h3><strong><span>扩展：</span></strong></h3><p><a href="http://www.owasp.org.cn/OWASP-CHINA/owasp-project/" data-url="http://www.owasp.org.cn/OWASP-CHINA/owasp-project/"><span>OWASP</span></a></p><p><span>书籍《你当像鸟飞往你的山》</span></p><p><span>脱口秀视频《Whitney Cummings: Can I Touch It? | Official Trailer | Netflix》</span></p><p><span>网站&nbsp;</span><a href="https://zh.gijn.org/resource/%e4%bf%9d%e6%8a%a4%e5%ae%89%e5%85%a8%e4%bb%a5%e5%8f%8a%e5%ba%94%e5%af%b9%e8%81%8c%e5%9c%ba%e6%ad%a7%e8%a7%86%e5%92%8c%e6%80%a7%e9%aa%9a%e6%89%b0%e7%9a%84%e8%b5%84%e6%ba%90/" data-url="https://zh.gijn.org/resource/%e4%bf%9d%e6%8a%a4%e5%ae%89%e5%85%a8%e4%bb%a5%e5%8f%8a%e5%ba%94%e5%af%b9%e8%81%8c%e5%9c%ba%e6%ad%a7%e8%a7%86%e5%92%8c%e6%80%a7%e9%aa%9a%e6%89%b0%e7%9a%84%e8%b5%84%e6%ba%90/"><span>给女性媒体人的工作指南（三）：保护安全以及应对职场歧视和性骚扰的资源</span></a></p><p><span>播客&nbsp;</span><a href="https://www.freebuf.com/news/389010.html" data-url="https://www.freebuf.com/news/389010.html"><span>国外安全播客节目</span></a></p><p><span>《</span><a href="https://www.xiaoyuzhoufm.com/episode/6602f4042d9eae5d0a37b6e0" data-url="https://www.xiaoyuzhoufm.com/episode/6602f4042d9eae5d0a37b6e0"><span>嘎里嘎气Gagaland EP18</span></a><span>》（当女性向你倾诉性侵犯事件时如何应对）</span></p><p><a href="https://www.xiaoyuzhoufm.com/episode/6436d2813db89cee7a16f66b" data-url="https://www.xiaoyuzhoufm.com/episode/6436d2813db89cee7a16f66b"><span>《02.真实的职场性骚扰案件，最后都怎样了？对谈企业资深法务》</span></a></p><p></p><p><span>感谢你的收听和时间～&nbsp; 我们下期节目再会?</span></p><p></p><img src="https://image.xyzcdn.net/FpkannXHuh7U2lhKQgGha9_eLJAO.jpg" alt=""><p><span>欢迎关注我们的微信公众号《安全女王》了解更多</span></p><img src="https://image.xyzcdn.net/FsEShPYu-Gi5cgdIrfbnHb5esnHd.jpg" alt=""><p><span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6597f6f2becffbdddf34bede/lptjs8mES1-oCqYwL8BjtOeO6Tw2.m4a" length="124704022" type="audio/mp4"/>
+    <itunes:duration>02:08:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从大厂黑客到香港创业：我要做一个不背刺老天奶的小说平台</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69e767301d989496e72a8a28</link>
+    <guid isPermaLink="false">69e767301d989496e72a8a28</guid>
+    <pubDate>Tue, 21 Apr 2026 12:11:13 +0000</pubDate>
+    <description><![CDATA[<h3><strong><span>Show Notes</span></strong></h3><span></span><p><strong><span>【本期简介】</span></strong></p><span></span><p><span>在信息安全行业，她是为数不多的女性渗透测试工程师之一；在内容创作领域，她是坚持写了 10 年博客的自媒体人。当网络安全行业内卷加剧，她跳出旧规则，去香港开启一场自己的创业冒险。当老天奶事件争议、创作者被霸权合同锁死时，她选择带上 AI 和 Web3 技术开垦新的主权在己、透明公平的创作家园。</span></p><span></span><p><span>本期节目，我们听听</span><strong><span>曾经的网安从业者、创业进行时的Yuki (whale3070)</span></strong><span>的故事。听她聊聊为什么在快30 岁这年选择创业，以及她如何用 AI、技术给创作者提供主权平台。</span></p><span></span><p><strong><span>【时间轴】</span></strong></p><span></span><ul><span>  </span><li><strong><span><a class="timestamp" data-timestamp="15">00:15</a></span></strong><span> 从 2016 年写到 2026 年——十年自媒体长跑 。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="52">00:52</a></span></strong><span> 成本、收益、机遇？——为什么去香港？</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="154">02:34</a> </span></strong><span>清华 AI 研究员、全栈大牛、投行高管——我的合伙人阵营 。</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="229">03:49</a> </span></strong><span>网安把我当耗材，我和网安说拜拜——为什么选择创业？</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="353">05:53</a> </span></strong><span>“老天奶”风波与晋江背刺：内容创作平台的垄断与傲慢 。——我的产品初心</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="786">13:06</a></span></strong><span> &nbsp;经验分享——如何找到第一批天使用户和天使投资人？</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="1144">19:04</a> </span></strong><span>版权 100% 归创作者｜0 抽成｜收益直达钱包｜不签约不锁人——产品介绍</span></li><span>  </span><li><strong><span><a class="timestamp" data-timestamp="1499">24:59</a> </span></strong><span>运营推广痛点，人才招募</span></li><span></span></ul><span></span><p><span>【扩展阅读】</span></p><span></span><h1><a href="https://mp.weixin.qq.com/s/WPyqCCoLUO8MJRl59ouS8A" data-url="https://mp.weixin.qq.com/s/WPyqCCoLUO8MJRl59ouS8A"><span>老天奶事件后，我们做了一个不抽成、版权归你的小说平台｜现已上线</span></a></h1><span></span><p><span>&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6597f6f2becffbdddf34bede/lkWRXqNPFzY5GbVwOb8ABgPnLmhA.m4a" length="25032439" type="audio/mp4"/>
+    <itunes:duration>00:25:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我的少女时代｜与迷茫共存的自学之路｜网络安全</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67cb316ee924d4525a0d67e2</link>
+    <guid isPermaLink="false">67cb316ee924d4525a0d67e2</guid>
+    <pubDate>Fri, 07 Mar 2025 19:31:34 +0000</pubDate>
+    <description><![CDATA[<p><span>㊗️Women 我们 38妇女节快乐！</span></p><span></span><h2><span>节目摘要</span></h2><span></span><p><span>谈话发生的时间：2024年3月 🙇‍♀️ 拖延症剪辑立正挨打 各位久等啦</span></p><span></span><p><span><a class="timestamp" data-timestamp="28">00:28</a> 国内网络安全的学习资源 （由于时间过去了一年，节目里提及的资源信息有些过时了，这一年里新增的各种ai工具已经成为缩小知识信息差的首选 比如 deepseek等。更多新资源详见公众号）</span></p><span></span><p><span><a class="timestamp" data-timestamp="465">07:45</a> 最开始写公众号的契机——少女时代的暗恋事故（不八卦的可以跳过这段）</span></p><span></span><p><span><a class="timestamp" data-timestamp="719">11:59</a> 冰片 </span><strong><span>模糊的定位，迷茫的我</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="1085">18:05</a> Annie </span><strong><span>迷茫的路上，有你有我</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="1205">20:05</a> 被vivi可爱多治愈，</span><strong><span>“人生是一场不确定性的拼图游戏”&nbsp;</span></strong></p><span></span><p><span>解锁属于你自己的惊喜盲盒</span></p><span></span><p><span><a class="timestamp" data-timestamp="1342">22:22</a> 不可错过的学习资源宝藏地 github</span></p><span></span><p><span><a class="timestamp" data-timestamp="1380">23:00</a> 记录的价值 遇见过去的自己</span></p><span></span><p><span><a class="timestamp" data-timestamp="1458">24:18</a> 不想被回旋镖击中的自己 只能直面问题</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6597f6f2becffbdddf34bede/ltT4c5HspRBxqvl0DH2O-Z87Ur6P.m4a" length="27204511" type="audio/mp4"/>
+    <itunes:duration>00:28:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Annie：加拿大求学路｜异乡魂牵处，秋来桂花香</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6724ff88cbe0e69c8b738ccf</link>
+    <guid isPermaLink="false">6724ff88cbe0e69c8b738ccf</guid>
+    <pubDate>Fri, 01 Nov 2024 16:36:19 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 加拿大网络身份验证情况</span></p><span></span><p><span><a class="timestamp" data-timestamp="70">01:10</a> 异乡人的限制-升学/工作/签证</span></p><span></span><p><span><a class="timestamp" data-timestamp="208">03:28</a> 异乡人的人身安全保护 （</span><em><span>记得保存紧急联系人电话</span></em><span>）</span></p><span></span><p><span><a class="timestamp" data-timestamp="318">05:18</a> 选择加拿大的原因？</span></p><span></span><p><span><a class="timestamp" data-timestamp="382">06:22</a> 来自Annie的异乡见闻 关于一些特殊时间/体验感受/经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="613">10:13</a> 关于饮食</span></p><span></span><p><span><a class="timestamp" data-timestamp="680">11:20</a> 君从故乡来 应知桂花香</span></p><span></span><p><span><a class="timestamp" data-timestamp="887">14:47</a> 华人在安全领域的人数谜思</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqVQuccmlo69_jP2nE0BdAS6psvA.m4a" length="20262090" type="audio/mp4"/>
+    <itunes:duration>00:20:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Annie：加拿大职场的长假/强边界感/多样性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671d4a0544ae79002c45775c</link>
+    <guid isPermaLink="false">671d4a0544ae79002c45775c</guid>
+    <pubDate>Sat, 26 Oct 2024 19:59:01 +0000</pubDate>
+    <description><![CDATA[<p><span>嘉宾介绍：阿根廷球迷Annie（对足球⚽感兴趣的朋友可以订阅收听：</span><a href="https://www.xiaoyuzhoufm.com/podcast/65d42b929768b22084c78d24" data-url="https://www.xiaoyuzhoufm.com/podcast/65d42b929768b22084c78d24"><span>www.xiaoyuzhoufm.com</span></a><span> 小宇宙「阿迷托佛」</span><a href="https://www.ximalaya.com/album/81042685" data-url="https://www.ximalaya.com/album/81042685"><span>喜马拉雅｜阿迷托佛丨阿根廷足球播客</span></a><span> </span></p><p><span>节目话题</span></p><p><span><a class="timestamp" data-timestamp="220">03:40</a> &nbsp;这个年假，慕了慕了</span></p><p><span><a class="timestamp" data-timestamp="566">09:26</a> &nbsp;抛开上班族的“35岁魔咒”，看见更多可能性。</span></p><p><span><a class="timestamp" data-timestamp="776">12:56</a> &nbsp;职场边界感，i人天堂</span></p><p><span><a class="timestamp" data-timestamp="1024">17:04</a> &nbsp;女性友好的组织、活动，良性发展</span></p><p><span><a class="timestamp" data-timestamp="1423">23:43</a> &nbsp;多样性支持 正视问题 解决问题</span></p><p><span><a class="timestamp" data-timestamp="1740">29:00</a> &nbsp;AI生成的片尾曲 cyber sisters</span></p><p><span>&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lv1f8v1-zIw_M6Pvy9jLHqHzMcPV.m4a" length="29462130" type="audio/mp4"/>
+    <itunes:duration>00:30:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Annie：加拿大海外网络安全从业实录</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6639c4f548dbc98b898a054d</link>
+    <guid isPermaLink="false">6639c4f548dbc98b898a054d</guid>
+    <pubDate>Tue, 07 May 2024 06:06:45 +0000</pubDate>
+    <description><![CDATA[<p><span>对话内容较多，考虑到时长，我们分批放送</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> Annie：自我介绍 专业、岗位、从业时间</span></p><span></span><p><span><a class="timestamp" data-timestamp="43">00:43</a> Annie：相遇 分享的初衷</span></p><span></span><p><span><a class="timestamp" data-timestamp="192">03:12</a> 职场新人视角</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a> 就业环境讨论 岗位 人数 规模 公司形态</span></p><span></span><p><span><a class="timestamp" data-timestamp="688">11:28</a> 安全咨询公司内部岗位分工 服务内容</span></p><span></span><p><span><a class="timestamp" data-timestamp="1289">21:29</a> 上下班时间 工作形式 加班情况</span></p><span></span><p><span><a class="timestamp" data-timestamp="1608">26:48</a> 吐槽：这背调也太严格了吧！？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltSDTosnF-HBnvrBQHezdkH3I0Ws.m4a" length="33256550" type="audio/mp4"/>
+    <itunes:duration>00:34:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>愤怒进行时-女王安全吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66102ecac891c06e737a1e9a</link>
+    <guid isPermaLink="false">66102ecac891c06e737a1e9a</guid>
+    <pubDate>Fri, 05 Apr 2024 17:03:06 +0000</pubDate>
+    <description><![CDATA[<p><span>录制到发布的短短一个月不到的时间里，让我们愤怒的事情还是屡屡发生在我们身边：技术群聊里发布黄色图片的男性、微信公众号后台一直骚扰索要微信联系方式的男性、欺骗伪装混入女性社群窥探女性隐私的男性...... &nbsp;</span></p><p><span>面对结构性的压迫和性别歧视，我们选择勇敢地直面它，大声地谈论它。</span></p><p><span>本期节目我们分享了自己的真实体验和观察，内容涉及性别偏见、刻板印象、性骚扰等话题，我们呼吁更安全、平等友好、健康的就业环境。</span></p><p><span>录制时间：38妇女节前</span></p><p><span>扩展阅读：</span></p><h1><span>脱口秀《Whitney Cummings: Can I Touch It? | Official Trailer | Netflix》</span></h1><h1><span>网站 </span><a href="https://zh.gijn.org/resource/%e4%bf%9d%e6%8a%a4%e5%ae%89%e5%85%a8%e4%bb%a5%e5%8f%8a%e5%ba%94%e5%af%b9%e8%81%8c%e5%9c%ba%e6%ad%a7%e8%a7%86%e5%92%8c%e6%80%a7%e9%aa%9a%e6%89%b0%e7%9a%84%e8%b5%84%e6%ba%90/" data-url="https://zh.gijn.org/resource/%e4%bf%9d%e6%8a%a4%e5%ae%89%e5%85%a8%e4%bb%a5%e5%8f%8a%e5%ba%94%e5%af%b9%e8%81%8c%e5%9c%ba%e6%ad%a7%e8%a7%86%e5%92%8c%e6%80%a7%e9%aa%9a%e6%89%b0%e7%9a%84%e8%b5%84%e6%ba%90/"><span>给女性媒体人的工作指南（三）：保护安全以及应对职场歧视和性骚扰的资源</span></a></h1><p><span>播客&nbsp;</span></p><p><span>《</span><a href="https://www.xiaoyuzhoufm.com/episode/6602f4042d9eae5d0a37b6e0" data-url="https://www.xiaoyuzhoufm.com/episode/6602f4042d9eae5d0a37b6e0"><span>嘎里嘎气Gagaland EP18</span></a><span>》（当女性向你倾诉性侵犯事件时如何应对）</span></p><p><a href="https://www.xiaoyuzhoufm.com/episode/6436d2813db89cee7a16f66b" data-url="https://www.xiaoyuzhoufm.com/episode/6436d2813db89cee7a16f66b"><span>《02.真实的职场性骚扰案件，最后都怎样了？对谈企业资深法务》</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsyEyGdif6lzLySOzciH77b0ZjAO.m4a" length="33695184" type="audio/mp4"/>
+    <itunes:duration>00:34:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI说书-扒一扒安全圈内厌女乱象</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66019c6c2d9eae5d0afcc584</link>
+    <guid isPermaLink="false">66019c6c2d9eae5d0afcc584</guid>
+    <pubDate>Mon, 25 Mar 2024 15:46:51 +0000</pubDate>
+    <description><![CDATA[<p><span>音频使用文生音ai工具合成，你会听到AI演绎的不同性别、情绪、语气的声音。</span></p><p><span>节目内容选取了一些书籍片段，展示了文字记录下历史中存在的对女性从事网络安全行业的鼓励、歧视、偏见，分享了实际行业中女性从业者的比例数据，同时也分享一些令人振奋的女性榜样。</span></p><p><span>节目内容参考书籍来源详见 notion📝 </span><a href="https://rift-preface-b50.notion.site/9a1037cce9dc49c8a9cd9a63bd76a7a2?v=9be610f99e9e43689e44b99a2d1245e0&amp;pvs=74" data-url="https://rift-preface-b50.notion.site/9a1037cce9dc49c8a9cd9a63bd76a7a2?v=9be610f99e9e43689e44b99a2d1245e0&amp;pvs=74"><span>微信读书_安全女王播客参考</span></a><span> （也可使用微信读书搜索书单《安全女王》）</span></p><p><span>#评论互动</span></p><p><span>在安全行业有哪些让你眼前一亮的女性榜样？</span></p><p><span>欢迎在评论区告诉我们 :)</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnV0i8sfvEAvOirBtfxXHJmuHGnu.m4a" length="4223033" type="audio/mp4"/>
+    <itunes:duration>00:06:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>3.8妇女节-听见她照亮她</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65e9dcf12d96b6aa806ac440</link>
+    <guid isPermaLink="false">65e9dcf12d96b6aa806ac440</guid>
+    <pubDate>Thu, 07 Mar 2024 15:27:45 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的这一期节目是三八妇女节的特别节目，我们征集了安全行业中姐妹们的投稿。听见她，照亮她。我们无法想象未曾见证的蜕变，让我们用声音记录成长的碎片。这是一份语音版的时光胶囊，如果你忘了当初为什么出发，欢迎你回来这里，找回你的答案。</span></p><span></span><p><span><a class="timestamp" data-timestamp="25">00:25</a></span></p><span></span><p><span>我是「要开心」，从学商科的背景转到现在是一名计算机取证工程师。我希望我今年继续爱自己，并继续关注到我身边的女性们，我的妈妈，家里的下一代女孩，还有我的女性朋友们，以及工作中的女性伙伴，探索女性故事，感受女性的力量。我在深圳祝我们3月8日节日快乐，每天都快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="55">00:55</a></span></p><span></span><p><span>我是「Liz」，我是一名安全服务工程师。我希望今年能继续勇敢的去选择，去负责，去做一个自由的人，我在湛江跟大家共勉，祝姐妹们三八妇女节快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="74">01:14</a></span></p><span></span><p><span>哈喽，我是「Annie」，我在加拿大，现在是一名网络安全工程师。我今年对自己的期望是在职业发展方面探索更多的方向，在专业方面有所进步。祝大家工作顺利，妇女节快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="94">01:34</a></span></p><span></span><p><span>我是「阿白」，是一名从事网络安全行业的工程师，新的一年，愿大家在属于自己的时间里，从容不迫的开启属于自己的2024，我在广东，祝你三八女神节快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="110">01:50</a></span></p><span></span><p><span>我是「Asura」，前年渗透测试岗离职，目前是全职的漏赏金猎人，我希望今年提高挖洞技术，认识不同的朋友。我在云南祝你三八妇女节快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="125">02:05</a></span></p><span></span><p><span>我是「冰片」，我是一名信息安全工程师，我今年对自己的期望是在女性公益事项中出一份力。我在广东祝你三八妇女节快乐。</span></p><span></span><p><span><a class="timestamp" data-timestamp="142">02:22</a></span></p><span></span><p><span>「小荀」：三八妇女节快要到了，我也祝我还有我周围的女性，我的妈妈，我的女性亲属，还有我的朋友们，同事们，反正只要全世界的女人啊，祝你们能够度过一个快乐的三八妇女节，希望我们都能拥有更好的人生。</span></p><span></span><p><span><a class="timestamp" data-timestamp="165">02:45</a></span></p><span></span><p><span>三八妇女节是女性在争取权利和平等的斗争中取得阶段性成果的历史印记，它是所有女性的节日。我们期望有更多的女性打破沉默，冲出束缚和枷锁。</span></p><span></span><p><span><a class="timestamp" data-timestamp="180">03:00</a></span></p><span></span><p><span>我们期望听见更多女性的声音，不止在妇女节的这一天。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fp6MBKzwbJnCID4nm47jDBlp77y1.m4a" length="3021275" type="audio/mp4"/>
+    <itunes:duration>00:03:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>安全女王第1期中：她说成长记，也曾不淡定</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65e4b77619c3a0760c27efd4</link>
+    <guid isPermaLink="false">65e4b77619c3a0760c27efd4</guid>
+    <pubDate>Sun, 03 Mar 2024 17:46:29 +0000</pubDate>
+    <description><![CDATA[<p><span>本期节目主要讲述了护网行动中发生的一些有趣的故事，分享了我们工作中踩过的一些坑和收获到的经验教训。探讨了女性在职业选择上的可能性，表达了我们建立女性网络安全行业互助社群的初衷。</span></p><p><span><a class="timestamp" data-timestamp="30">00:30</a> 防守方的吐槽大会</span></p><p><span><a class="timestamp" data-timestamp="110">01:50</a> 如何提前知道防守对象的名单？</span></p><p><span><a class="timestamp" data-timestamp="224">03:44</a> 攻击队初体验</span></p><p><span><a class="timestamp" data-timestamp="354">05:54</a> 攻击队团队分工</span></p><p><span><a class="timestamp" data-timestamp="589">09:49</a> 攻防演练的现实意义-防守方视角</span></p><p><span><a class="timestamp" data-timestamp="638">10:38</a> 攻防演练的现实意义-攻击方视角</span></p><p><span><a class="timestamp" data-timestamp="740">12:20</a> 当你接手一个乱糟糟的waf防火墙，可能会发生什么？</span></p><p><span><a class="timestamp" data-timestamp="1098">18:18</a> 想对20多岁的自己说些什么？</span></p><p><span><a class="timestamp" data-timestamp="1743">29:03</a> 学会保养内心能量的轮胎&nbsp;</span></p><p><span><a class="timestamp" data-timestamp="1843">30:43</a> 做自己故事里的女王</span></p><p><span><a class="timestamp" data-timestamp="2003">33:23</a> 做不讨人喜欢的恶女</span></p><p><span><a class="timestamp" data-timestamp="2069">34:29</a> 不和职业互为备胎</span></p><p><span><a class="timestamp" data-timestamp="2135">35:35</a> 答疑 “你们能代表全中国的安全行业女性吗？”</span></p><p><span><a class="timestamp" data-timestamp="2661">44:21</a> 社群价值 想改变什么？</span></p><p><span>扩展阅读：</span></p><p><span>《你当像鸟飞往你的山》</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltndAri3HlN9t4EG81no3WuM8MrC.m4a" length="59650209" type="audio/mp4"/>
+    <itunes:duration>00:46:45</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Zqa3hVeU1WU0FVd3RuUllXTU5pQ0JMWFVXbFgucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>安全女王第1期上：她说入行记－－网安的故事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65d1fcaeb6c9256aeef53576</link>
+    <guid isPermaLink="false">65d1fcaeb6c9256aeef53576</guid>
+    <pubDate>Sun, 18 Feb 2024 12:48:46 +0000</pubDate>
+    <description><![CDATA[<p><span>话题</span></p><ul><li><p><span>谁对我影响最大？</span></p></li><li><p><span>我受过最惨痛的教训是什么?</span></p></li></ul><p><span>我们分享了自己如何走进网络安全行业的真实经历，讲述了过程中我们面临到的困难，回顾了个人职业成长道路上遇到的那些影响我们的人和事。</span></p><p><span>参与人：</span></p><ul><li><p><span>冰片ice- 甲方信息安全 测试5年转安全2年</span></p></li><li><p><span>小荀-乙方红队 工作3年 擅长攻防打比赛 兼挖洞渗透安服</span></p></li></ul><p><span>扩展链接：</span></p><ul><li><p><a href="https://www.xiaoyuzhoufm.com/episode/5e285327418a84a04627369a" data-url="https://www.xiaoyuzhoufm.com/episode/5e285327418a84a04627369a"><span>【一席】方小顿：十二万个漏洞</span></a></p></li><li><p><a href="http://www.owasp.org.cn/OWASP-CHINA/owasp-project/" data-url="http://www.owasp.org.cn/OWASP-CHINA/owasp-project/"><span>OWASP</span></a></p></li><li><p><a href="https://www.freebuf.com/news/389010.html" data-url="https://www.freebuf.com/news/389010.html"><span>国外安全播客节目</span></a></p></li></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhyNfOi0Nin5IShVlk-l7pD0ytOo.m4a" length="48041689" type="audio/mp4"/>
+    <itunes:duration>00:48:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjUpsjj1Gsz0Ob_-IpYI0zK98czm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.0 《谈日薪三千的南阳兼职公务员》节目预告</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/659abcab1519ccb103ba4508</link>
+    <guid isPermaLink="false">659abcab1519ccb103ba4508</guid>
+    <pubDate>Sun, 07 Jan 2024 15:00:58 +0000</pubDate>
+    <description><![CDATA[<p><span>录制时间：2024年1月7日</span></p><p><span>欢迎收听今晚的safe time news 我是你们的主播文什么。</span></p><p><span>这周安全相关的热点新闻有：2024年1月4号，南阳一公务员兼职，日薪税后3000元，引起网民热议。经核实，为护网专项行动期间进行安全服务。这次事件又让护网这一安全服务进入大众视野。类似的事件之前也有发生。2023年8月，一位男大学生在小红书发文称自己：“暑假12天挣了3万多”，一度引起热议。</span></p><p><span>其实，护网只是安全工作中的一个很小的组成部分。如果你想了解更多安全工作者的真实故事，欢迎继续收听我们的其他节目。</span></p><p><span>引用说明：本期单集播客使用AI语音合成。 致敬近期大热港剧《新闻女王》。片头背景音乐来源《新闻女王》。</span></p><p><span>PS：主播位仍有空缺，欢迎有兴趣的姐妹联系我加入制作。或者查看公告进行投稿参与下一期的话题讨论。</span></p><p><span>另外后续节目主要以普通话进行，节目BGM音乐将由AI制作完成，敬请期待。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fguo4Sp1XuEFTsjVJ7qnTgdyp47w.m4a" length="666420" type="audio/mp4"/>
+    <itunes:duration>00:00:54</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqTzlfNDRqajZYX2w0UGFIMU44Zk0wQXQwMzIucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

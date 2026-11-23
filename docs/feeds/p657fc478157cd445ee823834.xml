@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>三好私房课</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/657fc478157cd445ee823834</link>
+  <description><![CDATA[本栏目是三好坏男孩电台私房课专属频道。
+左看是非，右辨黑白，上不封顶，下得来台，这里是三好私房课！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:43:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p657fc478157cd445ee823834.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoJaE87MKKbauYIGVnGgYBxMHfDE.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoJaE87MKKbauYIGVnGgYBxMHfDE.jpg</url>
+    <title>三好私房课</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/657fc478157cd445ee823834</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

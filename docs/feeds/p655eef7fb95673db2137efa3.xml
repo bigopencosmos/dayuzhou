@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>土星来电</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/655eef7fb95673db2137efa3</link>
+  <description><![CDATA[三千大千世界
+等于宇宙原子的总数
+也只等于一个围棋盘的所有路数
+
+身体是否就是心灵
+物质是否就是意识
+语言是否就是智能
+
+宇宙散漫无垠
+但只要设置一个目标
+就可以开启一个巨型通关游戏
+谁来设计，谁来执行，谁是目标？
+
+这是一档仍然由人类主导的聊天节目，讨论当下的热门科技议题，核心是人工智能、云计算、大数据为代表的数字技术和智能技术，也关心仍然在进行中的物理、生物领域的重要进展，当然我们最关心的还是人，人是否会发展出超出自身控制的技术，人如何组织起来应对可能造成的混乱，以及人是否可以最终通过驾驭技术获得自身的自由解放还是反过来加重已有的苦难。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:59:05 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p655eef7fb95673db2137efa3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>土哥不是哥</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fl4EMNlhJLi8cNP_YOs5SGBgXs34.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fl4EMNlhJLi8cNP_YOs5SGBgXs34.jpg</url>
+    <title>土星来电</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/655eef7fb95673db2137efa3</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>OpenAI政变大戏解读，AI分化人类的第一场预演？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/655f353351ba72185725b0d2</link>
+    <guid isPermaLink="false">655f353351ba72185725b0d2</guid>
+    <pubDate>Thu, 23 Nov 2023 11:19:14 +0000</pubDate>
+    <description><![CDATA[<p><span>10月6日，OpenAI举办了其第一届全球开发者大会震动行业，但仅仅10天后，OpenAI董事会突然宣布CEO Sam Altman被免职，此后几天，事件又在不断反转。这场科技圈大戏的背后，究竟受到哪些因素影响？OpenAI的董事会结构潜藏着哪些问题？“保守派”和“激进派”的核心分歧是什么？AI与人类终将面临不可调和的矛盾吗？</span></p><span></span><p><span>本期节目，我们邀请品玩及硅星人创始人骆轶航，阿里巴巴学术合作总监李贝，一起梳理和探讨了以下内容：Sam Altman和董事会之间的冲突根源，OpenAI 的非盈利组织架构对于这次事件的潜在影响，此次事件对于竞争对手、资本参与方及董事会结构的影响，人工智能发展等问题。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrOIhGgbUx0NdetvmuxTJxg-OuKz.m4a" length="114812901" type="audio/mp4"/>
+    <itunes:duration>00:59:28</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzaHR6bVhnVTZJZ1J5Ni0yZ0VvOWVzX0QzZHYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

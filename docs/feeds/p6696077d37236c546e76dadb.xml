@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>邦女郎财经列车</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6696077d37236c546e76dadb</link>
+  <description><![CDATA[《德邦基金财经列车》节目由德邦基金打造，旨在以独特的金融视角，深度剖析当下新闻热点，探索其背后的投资机遇。
+本音频专辑仅限于本基金管理人与合作平台开展投教活动之目的使用，禁止第三方机构单独摘引、截取或以其他不恰当方式转播。
+本音频专辑为客户服务材料，既不构成基金宣传推介材料，也不构成任何法律文件。本音频所载信息和观点仅供阅读者参考。
+德邦基金在本音频专辑中的所有观点仅代表德邦基金在本音频成文时的观点，德邦基金有权对其进行调整；在不同时期，德邦基金可能会发出与本音频所载不一致的观点。
+若本音频专辑转载第三方报告或资料，转载内容仅代表该第三方观点，并不代表德邦基金的观点，德邦基金不对这些信息的真实性、准确性和完整性提供任何直接或间接的声明或保证。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:39:51 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6696077d37236c546e76dadb.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Kiki_ZCwn</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FioDy2RWKTKhtcCLVnnAYRQXhrc4.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FioDy2RWKTKhtcCLVnnAYRQXhrc4.jpg</url>
+    <title>邦女郎财经列车</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6696077d37236c546e76dadb</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>AI 产业会走向何方呢？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6affee9cfe62f8f52c4e0c58</link>
+    <guid isPermaLink="false">6affee9cfe62f8f52c4e0c58</guid>
+    <pubDate>Fri, 20 Nov 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<h1><span>各位听众朋友，这里是德邦基金财经列车。聪明的投资者都在这！今天咱们就来聊聊，市场上大家在讨论的一个话题：黄仁勋卸任之后，AI 产业链可能会出现哪些变化。</span></h1><p><span>有消息传出，黄仁勋辞去了英伟达总裁、CEO 还有董事会里的所有职务，由公司的 CFO 科莱特・克雷斯临时接手。不少市场人士觉得，这可能不只是一次简单的高层换人，或是&nbsp;AI 行业里一个值得我们持续观察的事件。过去很长一段时间，AI 赛道的发展节奏，很大程度会受到创始人个人战略、产业资源和对外沟通能力的影响。市场也有声音认为，后续行业或许会慢慢转向多方共同参与、依托公司治理机制运转，供应链也会朝着更多元的方向探索，相关的变化，市场一般会从供应链、监管政策、软件生态、先进封装还有资本投入这几个方向去观察。</span></p><p><span>在黄仁勋掌舵时期，英伟达在供应链上的话语权是市场公认的。不管是台积电先进封装产能的分配，还是 PCB、光模块、CCL 这些配套厂商的准入和订单份额，产业链很多环节都是跟着英伟达的路线去投入。现在换成临时管理团队，市场普遍认为，新团队首要目标大概率是稳住公司内部、守住合规底线，很难延续之前的资源影响力，过去那种激进抢产能、快速扩张供应链的打法，或许很难原样持续。也正因如此，有不少机构在讨论，AI 硬件供应链多元化的动力会不会提升，各类备选方案落地节奏，会不会比此前市场预期更早一些。</span></p><p><span>对各大云厂商来说，英伟达平台的长期供货稳定性、技术路线的连续性，不确定性有所上升。站在云厂商角度，大家也会考虑分散风险，推进多供应商的备选方案。AMD 的 AI 加速卡、以太网互联方案，还有各大云厂商自研的芯片方案，都有机会获得更多测试验证的机会，英伟达原有封闭互联生态，也会面临其他路线的竞争。短期来看，新管理层偏审慎的风格，有可能带来订单端的观望情绪，交付节奏存在阶段性放缓的可能；拉长周期看，产业链降低单一平台依赖的讨论变多，一家主导整条产业链的格局，存在松动的可能性，这是当下市场的一种看法。</span></p><p><span>之前市场上有一种看法，黄仁勋在行业和海外监管之间，起到了一定沟通协调的作用，在出口相关规则、特供芯片审批等事项上争取过弹性空间。现在人事变动之后，新管理层需要优先应对合规相关事项，市场有担忧，后续海外高端芯片、算力相关的出口规则落地，会不会走向更严格的方向，特供芯片的政策空间存在收缩的预期。</span></p><p><span>落到国内算力产业，市场的看法也分成两面。一部分观点认为，自主可控的价值会被更多人重视，国产 GPU、自研芯片、算力基础设施的发展逻辑，会持续受到关注。但也有观点提醒，对于高度依赖进口芯片的海外算力项目、算力租赁企业，供给端的不确定性需要重新评估，行业竞争格局或许会迎来调整，具备国产供应链配套能力的厂商，有望形成差异化优势。</span></p><p><span>CUDA 这套软件生态，一直被市场看作英伟达很深的护城河。过去生态的开放尺度，很大程度跟随管理层的战略选择。这次人事调整之后，CUDA 后续怎么走，目前市场还没有统一结论，存在两种不同的推演方向。如果新团队选择收紧授权、巩固现有客户，有可能倒逼下游企业加快适配开源框架、多芯片兼容的开发平台，长期来看，CUDA 的生态优势会被慢慢稀释；如果新团队选择放宽生态门槛来稳住客户，那么其他替代方案的发展节奏，也可能受到影响。目前新团队的策略还不明朗，大家普遍在观察一个变化：CUDA 生态不再由单一决策者主导，生态壁垒逐步弱化，是不少投资者在关注的潜在方向。</span></p><p><span>过去两年，先进封装产能，是英伟达拉开和竞争对手差距很重要的一环。依靠大规模订单和产业影响力，黄仁勋在台积电 CoWoS 这类先进封装产能分配上优先级很高，竞争对手经常会遇到产能瓶颈。人事更迭之后，市场在讨论，英伟达对于先进封装产能的议价能力、分配优先级会不会有所变化，台积电在产能分配上的自主空间提升，AMD 以及其他 AI 芯片厂商，有望拿到更多先进封装产能。换句话说，先进封装，或许不再是单一企业独有的壁垒，产能分配从过去倾斜式的模式，转向多方博弈，AI 芯片赛道的竞争，也会从产能卡位，慢慢转向产品性能、服务、生态等综合能力的比拼。</span></p><p><span>过去光互联的技术路线、采购节奏，很多时候跟着英伟达的方案走，这个局面，也随着人事变动进入大家的讨论范围。谷歌、博通、AMD 其实很早就布局了自己的光互联方案：谷歌依托 TPU 集群打磨高速光交换；博通整合交换芯片和 CPO 光引擎，推进高速光交换机；AMD 也通过收购补齐硅光、CPO 相关能力，配套自家新一代加速芯片。</span></p><p><span>如果英伟达平台的确定性下降，云厂商和方案商，会更愿意布局适配多平台的光互联方案。全球算力资本开支，也有可能不再集中在北美，逐步在多地分散布局，用来对冲单一平台、单一区域的供给风险。这个逻辑之下，高速光互联产品的需求，会从单一核心大客户驱动，变成多家客户共同拉动。像 1.6T、3.2T 高速光模块、CPO、光交换这些赛道，需求结构存在重塑的可能，上游光模块、光器件企业，客户结构更加分散，抗风险能力或许会得到改善，这也是市场的一种推演。</span></p><p><span>不少市场观点提到，这次人事变动，或许是 AI 产业一个阶段的分界点：行业从创始人强驱动、快速探索的阶段，慢慢转向依靠公司制度稳定运行的阶段。以前市场给 AI 企业估值，会重点参考创始人的战略能力和资源；往后，大家可能会更多关注公司治理、继任规划、订单交付稳定性、供应链均衡性。单一赛道龙头快速红利的阶段可能慢慢过去，多方均衡的新周期正在被市场讨论。</span></p><p><span>放到整条产业链来看，单一平台带来的估值溢价，存在收敛的可能性。而那些能够适配多类客户、拥有自研技术、全球化布局的企业，有机会在新的产业环境里获得长期成长空间。</span></p><p><span>在节目的尾声，我们还要温馨提醒您，德邦基金财经列车将持续为您带来更多关于财经商业的深度剖析与投资机会。请关注我们的节目以及支付宝德邦基金财富号，获取更多精彩内容。我们下期再见，祝您生活愉快，投资顺利！</span></p><p><span>注：</span></p><p><span>本音频仅限于本基金管理人与合作平台开展投教活动之目的使用，禁止第三方机构单独摘引、截取或以其他不恰当方式转播。</span></p><p><span>德邦基金在本音频中的所有观点仅代表德邦基金在本音频成文时的观点，德邦基金有权对其进行调整；在不同时期，德邦基金可能会发出与本音频所载不一致的观点。</span></p><p><span>若本音频转载第三方报告或资料，转载内容仅代表该第三方观点，并不代表德邦基金的观点，德邦基金不对这些信息的真实性、准确性和完整性提供任何直接或间接的声明或保证。</span></p><p><span>基金有风险，投资需谨慎。基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产，但不保证基金一定盈利，也不保证最低收益。我国基金运作时间较短，不能反映股市发展的所有阶段。基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对基金业绩表现的保证。基金管理人提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识基金的风险收益特征和产品特性，认真考虑基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lg5ArNIbOuc1yZO72Ev3Kd9Eh5vI.m4a" length="7493620" type="audio/mp4"/>
+    <itunes:duration>00:07:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月20日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6affd9dea4a79edf137c1f72</link>
+    <guid isPermaLink="false">6affd9dea4a79edf137c1f72</guid>
+    <pubDate>Fri, 20 Nov 2026 05:28:49 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FlD_BTiqb9aGoSiqnrO-UBuaMOt8.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lsBQ6iQvHb5lztnJ-nLF5N-zp4wJ.m4a" length="7761025" type="audio/mp4"/>
+    <itunes:duration>00:07:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月17日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afbc687a4a79edf137a769d</link>
+    <guid isPermaLink="false">6afbc687a4a79edf137a769d</guid>
+    <pubDate>Tue, 17 Nov 2026 03:19:57 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/Fj6fl3L9w_xay2SmyVLbX8P_LoMr.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lsizZKHLSnb60xd3YamHe1J2uHc4.m4a" length="7861616" type="audio/mp4"/>
+    <itunes:duration>00:08:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>不要抄底个股，跟着大哥走</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af6bad114d01a26f8a9469b</link>
+    <guid isPermaLink="false">6af6bad114d01a26f8a9469b</guid>
+    <pubDate>Fri, 13 Nov 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>各位听众朋友，这里是德邦基金财经列车。聪明的投资者都在这！今天分享的内容叫别着急抄底个股，要不要跟随增量资金布局宽基？</span></p><p><span>近期市场有一个值得留意的现象，部分前期热门赛道出现深度回调，融资盘持续出清。但就在回调前夕，这类板块的融资余额仍在持续抬升。结合机构的跟踪统计来看，本轮融资盘的风险释放，或许还没有完全告一段落。</span></p><p><span>这也让我联想到社群里大家经常讨论的话题：不少朋友看到个股大幅回撤，会计划越跌越买，甚至动用融资工具加仓博弈反弹。</span></p><p><span>就拿大家关注的这类标的来说，表面看基本面暂未出现明显瑕疵，股价也已经回撤六七成，很容易让人萌生博弈反转的想法，期待一次高弹性的修复行情。但资本市场的不确定性，往往超出我们的预判。我们都期待行情回暖的春天，前提是，我们能否扛得住中间漫长的寒冬，这一点其实很难预判。</span></p><p><span>如果想避开个股独有的黑天鹅风险，布局宽基指数、顺着主线资金的方向去参与，对咱们普通投资者来说，或许是一个比较合适的思路。绝大多数个人投资者，很难建立成熟的选股框架，信息获取上也不具备优势，交易体系也尚在打磨之中，单一个股踩雷的潜在风险并不低。重仓抄底个股，很容易陷入深度套牢的被动局面，后面再想打理账户，会特别被动。</span></p><p><span>我们不妨回头看看近两年的行情，不少投资者大概率都遇到过两类困境： 其一，长期持有价值风格个股，阶段性跑输指数，持仓体验持续承压； 其二，则更为煎熬：在持续的震荡磨底中扛不住波动，选择割肉离场，转头追入当期热门赛道，反而再次被套。</span></p><p><span>想要尽量规避这类踏空与被套两难的局面，均衡型宽基指数，可以作为一个配置选项。无论是芯片、新能源、创新药，还是白酒、银行等板块轮动走强，宽基指数因为覆盖面广，都有机会分享板块上涨的收益，赚取市场的平均收益。</span></p><p><span>近期增量资金借道 ETF 持续入场，累计净买入规模已经突破 4000 亿，其中宽基指数 ETF 是资金重点布局的方向。那我们不妨思考，借助宽基指数跟随资金方向，采用简约的配置思路，这算不算一个赔率相对友好的方案？巴菲特也曾提到，宽基指数基金是适合普通投资者的投资工具。</span></p><p><span>有听众会问，美股长期走慢牛，长期持有大多能获得不错收益。其实两个市场的底层环境并不相同，好比性格迥异的两个人。美股市场发展时间更长，机构占比高，走势更偏向稳健上行；A 股的发展阶段相对年轻，情绪扰动更强，波动特征会更加明显。</span></p><p><span>就像与人相处，我们很难改变对方本身的特质，只能调整自己的相处方式去适配。回看 A 股历史走势，有估值高位的山峰，也有估值低位的山谷。我们可以尝试适配它的波动特征，在估值处于低位区间时适度增加布局，在估值显著抬升之后择机减仓，用适配市场节奏的方式参与其中。</span></p><p><span>这时很多朋友会有一个现实困惑：已经被套的个股，该如何处理？</span></p><p><span>说说过往的实践体会：如果持仓个股，我们没有足够的认知支撑、无法判断后续基本面变化，哪怕回撤幅度已经达到 30%，有时都会选择调仓，切换到自己更有把握的方向。从过往的结果来看，不少时候这个的选择是有效的。</span></p><p><span>但做出调仓决策，需要建立在充分认知的基础之上。很多投资者很难下定决心止损。也不必一直执着于单一标的什么时候回本。部分个股，就算持续补仓，能否回到成本线，依然存在不确定性。让我们换个思路去思考，既然已经持仓被套，不必继续在个股上追加资金摊薄成本。可以逐步搭配宽基指数进行布局，依托国内优质企业的长期成长，或许有机会逐步修复账户，甚至实现盈利。</span></p><p><span>配置均衡宽基，本质上相当于一篮子布局国内各行业龙头企业，贴合国内经济长期发展的主线，长期来看，会多一份底气。当然也要提醒大家，前面聊到宽基的诸多优势，并不是建议当下立刻重仓进场。更多是和大家传递一个配置思路：宽基指数，或许更契合普通投资者的能力圈。投资走到最后，和做人有相通之处。阅历增加之后，大家会慢慢减少低效的社交。当我们想明白投资的底层逻辑，也会慢慢舍弃胜率偏低、博弈属性更强的交易，转向更稳健、确定性相对更高的方式。</span></p><p><span>在节目的尾声，我们还要温馨提醒您，德邦基金财经列车将持续为您带来更多关于财经商业的深度剖析与投资机会。请关注我们的节目以及支付宝德邦基金财富号，获取更多精彩内容。我们下期再见，祝您生活愉快，投资顺利！</span></p><p><span>&nbsp;</span></p><p><span>注：</span></p><p><span>本音频仅限于本基金管理人与合作平台开展投教活动之目的使用，禁止第三方机构单独摘引、截取或以其他不恰当方式转播。</span></p><p><span>德邦基金在本音频中的所有观点仅代表德邦基金在本音频成文时的观点，德邦基金有权对其进行调整；在不同时期，德邦基金可能会发出与本音频所载不一致的观点。</span></p><p><span>若本音频转载第三方报告或资料，转载内容仅代表该第三方观点，并不代表德邦基金的观点，德邦基金不对这些信息的真实性、准确性和完整性提供任何直接或间接的声明或保证。</span></p><p><span>基金有风险，投资需谨慎。基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产，但不保证基金一定盈利，也不保证最低收益。我国基金运作时间较短，不能反映股市发展的所有阶段。基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对基金业绩表现的保证。基金管理人提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识基金的风险收益特征和产品特性，认真考虑基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lk7b8Q9cKevmUOSslP012XvIhKAL.m4a" length="5749700" type="audio/mp4"/>
+    <itunes:duration>00:05:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lhrMluZrWcQKpww8nSlwPlkE7peP.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月13日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af69ff914d01a26f8a93796</link>
+    <guid isPermaLink="false">6af69ff914d01a26f8a93796</guid>
+    <pubDate>Fri, 13 Nov 2026 05:35:07 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FlCRIMem6qkVjP1xle86yh0h2L3L.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lk4fYIJVNNeLwPCr3x-As1xttCzS.m4a" length="7228487" type="audio/mp4"/>
+    <itunes:duration>00:07:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月11日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af422973caef3b52f542419</link>
+    <guid isPermaLink="false">6af422973caef3b52f542419</guid>
+    <pubDate>Wed, 11 Nov 2026 08:11:02 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FpcR_711XEAPDBcOBFHNByakxakc.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/ls2cHkmvQS7CXhN5H799hviWqzCh.m4a" length="11124915" type="audio/mp4"/>
+    <itunes:duration>00:11:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月10日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af2c0f9b4a4e20202f7988b</link>
+    <guid isPermaLink="false">6af2c0f9b4a4e20202f7988b</guid>
+    <pubDate>Tue, 10 Nov 2026 07:06:23 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FgXysLqNvgoQ7_HZc4EFXr4iWeO5.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/llUcUiAF3rWyYB0EzCHhBcrGMY6o.m4a" length="9555616" type="audio/mp4"/>
+    <itunes:duration>00:09:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月6日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aed6d2f5b7c4709bfe1f529</link>
+    <guid isPermaLink="false">6aed6d2f5b7c4709bfe1f529</guid>
+    <pubDate>Fri, 06 Nov 2026 06:05:24 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/Fn6F_P1RN0iU3Ir-ZF6wBBi3US3k.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lvEXYNzca4m20_3eiAVpkQZD5p4B.m4a" length="9503802" type="audio/mp4"/>
+    <itunes:duration>00:09:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月5日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aed30425b7c4709bfe1d0c8</link>
+    <guid isPermaLink="false">6aed30425b7c4709bfe1d0c8</guid>
+    <pubDate>Fri, 06 Nov 2026 01:43:56 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FqrSmmhd-Tgr_7TzLGxS-B5CxAOu.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lr3iQhODqEi0v95A6JBEgz-QmTEN.m4a" length="8621695" type="audio/mp4"/>
+    <itunes:duration>00:08:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月4日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aead5b1c96c8942ec17260b</link>
+    <guid isPermaLink="false">6aead5b1c96c8942ec17260b</guid>
+    <pubDate>Wed, 04 Nov 2026 06:52:47 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FqsFNkf16_dvSDO8xaS5EuU-QlTT.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lgLgcSfB30AqxPKWYFRF9ciGVIAY.m4a" length="8469958" type="audio/mp4"/>
+    <itunes:duration>00:08:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>11月3日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aea9232c96c8942ec16f9d3</link>
+    <guid isPermaLink="false">6aea9232c96c8942ec16f9d3</guid>
+    <pubDate>Wed, 04 Nov 2026 02:08:02 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FnFKzcxkgDHmg3QWAQhKSbvEEjPv.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/liZUFn6NBTLoZBFKV8FlzFubuVHR.m4a" length="8463222" type="audio/mp4"/>
+    <itunes:duration>00:08:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhK4Ghi4TrYkeBIcPNRWyEy3HxO3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>新用户想充AI会员？先排队</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae2a63297726cd467596411</link>
+    <guid isPermaLink="false">6ae2a63297726cd467596411</guid>
+    <pubDate>Fri, 30 Oct 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>最近大半年，国产 AI 圈出现了一个反常识的现象：一边是模型能力越卷越强、功能越更越密，另一边却是各家公司纷纷关上了 “不限量” 的大门 —— 新用户想充会员？先排队。</span></p><p><span>今年 4 月，智谱率先宣布下架不限周额度的旧版会员套餐，替换成分档定额的新版本；到了 7 月，月之暗面 Kimi 发布 K3 模型后仅 48 小时，用户请求量就大幅超出预估，直接逼近现有算力集群的承载极限，团队随即发布公告暂停 C 端新用户订阅，把有限算力优先保障已付费用户；同期多家头部云厂商也陆续调整 AI 相关服务套餐，停止了低价不限量版本的新购与续费。不是 AI 公司放着生意不做摆架子，是真的接不住了。</span></p><p><span>接不住的，是狂飙的算力需求。</span></p><p><span>说人话，算力就是 AI 的发动机 —— 你每和 AI 聊一句话、让它整理一份文档、生成一张图片或是写一段代码，后台都在实打实消耗算力；更别说大模型训练、企业级 AI 应用的批量调用，对算力的消耗更是指数级增长。中国信通院的数据显示，今年一季度国内 AI 算力需求同比暴涨超四倍，但同期算力供给增速仅一倍出头，供需缺口被持续拉大。</span></p><p><span>这还只是开始。IDC 预测，2025 年国内智能算力规模将突破 1000EFLOPS，到 2028 年有望接近 2800EFLOPS，年复合增长率超过 46%。一边是 “人工智能 +” 向千行百业渗透，C 端个人用户、B 端企业客户的需求同步爆发；另一边是高端芯片供给受限，发动机产能爬坡需要时间，全行业都陷入了实打实的 “算力焦虑”。</span></p><p><span>缺口摆在眼前，怎么办？过去国内高端 AI 芯片高度依赖进口，随着外部环境变化，进口芯片的采购门槛升高、交付周期拉长，国产算力芯片不得不加速顶到台前，补上供给缺口。</span></p><p><span>于是你会看到，全行业都在抢国产算力的 “粮票”：华为昇腾成了各大 AI 公司的核心选择，2025 年昇腾芯片出货量超 81 万张，拿下国产 AI 芯片近半壁江山，即便如此依然一卡难求，头部互联网大厂排队等货，现货市场甚至出现了三成以上的溢价。这背后从来不是所谓的 “情怀滤镜”，是实打实的 “等米下锅”—— 从头部大模型厂商到云服务商，都在加速推进国产芯片的适配与迁移，甚至把新品发布、服务定价的节奏，直接和国产芯片的出货进度深度绑定。从芯片制造、算力集群建设到模型生态适配，整条国产算力产业链都在开足马力补产能。</span></p><p><span>看懂了这条逻辑链，你就明白：AI 会员涨价、新用户排队、新功能限量开放，从来不是 AI 公司 “飘了”，本质上是算力供给跟不上需求爆发的直接体现。每一次你为 AI 会员付费，每一次你排队等待生成结果，背后都是算力供需关系的真实折射。</span></p><p><span>而对投资者来说，这条链条里藏着更长期的产业机会：算力是整个数字经济的核心底座，当供需缺口成为行业常态，国产替代的确定性就会持续凸显 —— 从上游芯片、服务器、光模块，到中游算力运营、云服务，再到下游 AI 应用与数字化转型，整个数字经济产业链都将迎来持续的发展空间。</span></p><p><span>如果你看好国产算力与数字经济的长期趋势，不妨关注一下</span><strong><span>10 月 26 日到 10 月 30 日新发的德邦数字经济混合发起式基金</span></strong><span>。</span></p><p><span>这只基金重点聚焦数字经济主题方向，股票资产占基金资产的比例为 60%-95%，其中投资于数字经济主题相关股票的比例不低于非现金基金资产的 80%，覆盖国产算力、半导体、数字基础设施、数字产业化与产业数字化等核心赛道，一键布局数字经济全产业链机会。对数字经济、国产算力方向感兴趣的小伙伴，可以加个自选持续观察。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/Fg30rWaRw5u_kZnmbdNWnRblpRbu.m4a" length="4188283" type="audio/mp4"/>
+    <itunes:duration>00:04:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lt3fRXoXwn8zkUamHJ6q4pyeOS3d.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>10月30日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae40640c96c8942ec148d14</link>
+    <guid isPermaLink="false">6ae40640c96c8942ec148d14</guid>
+    <pubDate>Fri, 30 Oct 2026 02:54:55 +0000</pubDate>
+    <description><![CDATA[<p><span>10月30日财经速递，带您最快跟踪板块表现和市场资讯！</span></p><img src="https://image.xyzcdn.net/FjAoQoyurQw-0UdsSsTAT8sYoS04.JPG"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lh56dpZvdUbOTJxrKJ_oHncX6PUK.m4a" length="6972407" type="audio/mp4"/>
+    <itunes:duration>00:07:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhK4Ghi4TrYkeBIcPNRWyEy3HxO3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>10月29日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae2d60e97726cd4675980f7</link>
+    <guid isPermaLink="false">6ae2d60e97726cd4675980f7</guid>
+    <pubDate>Thu, 29 Oct 2026 05:16:26 +0000</pubDate>
+    <description><![CDATA[<p><span>10月29日财经速递，带您最快跟踪板块表现和市场资讯！</span></p><img src="https://image.xyzcdn.net/FtxR8M2-8zefVTsgvOYPBHdS2NTq.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lqMCV_myJbGfHi7CFZTVc_S_NDS4.m4a" length="7862368" type="audio/mp4"/>
+    <itunes:duration>00:08:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_3vcPuYoEs8-btm2ooIx3HPyJy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>10月28日财经速递</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae166adc96c8942ec136ab5</link>
+    <guid isPermaLink="false">6ae166adc96c8942ec136ab5</guid>
+    <pubDate>Wed, 28 Oct 2026 03:07:39 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FqFM1Omf4u5HGxVJ6AajjvvPXl11.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6696077d37236c546e76dadb/lpNCIArzuwuBjWscQdlDfuI_xcdR.m4a" length="9132402" type="audio/mp4"/>
+    <itunes:duration>00:09:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhK4Ghi4TrYkeBIcPNRWyEy3HxO3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

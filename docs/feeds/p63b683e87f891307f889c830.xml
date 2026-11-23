@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>GWEIResearch</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63b683e87f891307f889c830</link>
+  <description><![CDATA[「 DeFi之道 」品牌升级公告
+
+尊敬的合作伙伴以及读者朋友们：
+
+我们非常高兴地宣布，为了提供更加一致和高效的服务，我们将加密媒体品牌「 DeFi之道 」与加密会务品牌 「 Gwei Summit 」以及研究机构 Gwei Research 整合升级成新的综合品牌——Gwei。
+
+原 「 DeFi之道 」将更名为 Gwei Research，LOGO也会从「 DeFi之道 」更换为Gwei Research，诚挚感谢所有合作伙伴以及社区成员一直以来的支持与信任。
+
+我们将继续秉承我们的核心价值观，致力于为大家提供有价值的加密信息，推动行业发展，促进知识的生产、传播与交流。我们期待在这个充满活力的行业中与您携手共进，共创美好未来。
+
+再次感谢您的支持，请继续关注Gwei Research，与我们一起探索 Web3世界的无限可能！
+
+Gwei 团队（原 DeFi之道团队）
+2023年4月4日
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:13:10 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63b683e87f891307f889c830.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>夏天的夏_xYNI</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoeKY8DmLqQFGjaf2wMWC4FU-KKS.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoeKY8DmLqQFGjaf2wMWC4FU-KKS.png</url>
+    <title>GWEIResearch</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63b683e87f891307f889c830</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>以太坊新分片之旅（上）： 坎昆升级与Pro-Danksharding（EIP-4844）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/645c5be794d78eb3f7aefb63</link>
+    <guid isPermaLink="false">645c5be794d78eb3f7aefb63</guid>
+    <pubDate>Thu, 11 May 2023 03:07:18 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FmOfYGuF0kus2FJg5HImltjuYMY5.png"></figure><span></span><p><span>以太坊核心开发人员在最新一次的开发者会议中表示，Cancun-Deneb 升级预计将于今年晚些时候进行。升级将在以太坊的执行层和共识层实施新的变化，执行层的升级称为坎昆（Cancun），共识层升级称为“Deneb”。</span></p><span></span><p><span>Cancun-Deneb 升级中预期的最重大变化将是 EIP-4844，也称为“proto-danksharding”，旨在通过以太坊节点实现链下数据的临时存储和检索，以满足区块链应用的数据和存储需求，从而增强以太坊的可扩展性。</span></p><span></span><p><span>本次Space，我们将讨论Cancun-Deneb 升级的具体内容，以及EIP-4844的实施后将会给以太坊生态带来的改变。</span></p><span></span><p><span>关注</span><strong><span>「 GWEI Research 」</span></strong><span> ：</span></p><span></span><p><span>Nostr: npub18x45agcq4q7mk7tp0maxfgf2thuuln8q3cpm2zdwkzzqn457e7</span></p><span></span><p><em><span>Web:</span></em><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><em><span>www.defidaonews.com</span></em></a></p><span></span><p><em><span>Twitter：</span></em><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><em><span>twitter.com</span></em></a></p><span></span><p><em><span>公众号：GWEI Research</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgiGdNoWcKPuapQlYfY9KXZv60Ef.m4a" length="92604073" type="audio/mp4"/>
+    <itunes:duration>01:35:20</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2NGxTUXNyc1kyUHZraHlRUXZJa25wNmRFejAucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从不同角度聊一聊香港Web3见闻和看法</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643f87e466e4c00c6a7dff6f</link>
+    <guid isPermaLink="false">643f87e466e4c00c6a7dff6f</guid>
+    <pubDate>Wed, 19 Apr 2023 06:19:15 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/Fn98IzKz1SffpPZyxoosrZVPf2Hp.png"></figure><span></span><p><span>4 月中旬，香港区块链周盛况空前，GWEI Research 也以媒体品牌DeFi之道参与到了香港诸多加密活动的组织月支持中，我们邀请了4位有这自己不同视角的香港区块链周的深度参与者，与我们一起来回顾分析香港与Web3的当下与未来。</span></p><span></span><p><span>本期嘉宾：</span></p><span></span><blockquote><span>JIEMIAN News &nbsp;Head of Web3 Anderson Sima</span></blockquote><span></span><blockquote><span>新火科技资深研究员 Loki</span></blockquote><span></span><blockquote><span>Foresight 副主编 周舟</span></blockquote><span></span><blockquote><span>香港国际新经济研究院董事 Tony</span></blockquote><span></span><p><strong><span>部分提纲：</span></strong></p><span></span><blockquote><span>在主流财经媒体的角度看，你们是如何看待Web3行业的，关注点都有什么？</span></blockquote><span></span><blockquote><span>以妥协一词概括香港这次web3峰会和发展，说说为什么你会这样认为？</span></blockquote><span></span><blockquote><span>在这次香港Web3热潮中，你们也举办了「Foresight 2023」峰会，作为主办方，你觉得在香港举办Crypto峰会给你最大的感受是什么？有哪些嘉宾有意思的观点可以分享？</span></blockquote><span></span><blockquote><span>香港新经济研究院作为HK本土的Web3赋能平台，你们如何看待从去年开始港府对web3行业的态度转变？给你们的发展带来了哪些直观上的改变，从香港政策中你们有获得哪些实际的帮扶吗？</span></blockquote><span></span><p><span>关注</span><strong><span>「 GWEI Research 」</span></strong><span> ：</span></p><span></span><p><span>Nostr: npub18x45agcq4q7mk7tp0maxfgf2thuuln8q3cpm2zdwkzzqn457e7</span></p><span></span><p><em><span>Web:</span></em><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><em><span>www.defidaonews.com</span></em></a></p><span></span><p><em><span>Twitter：</span></em><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><em><span>twitter.com</span></em></a></p><span></span><p><em><span>公众号：GWEI Research</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llLqjk8sszq8gSz4dQ_5sQv1oZaJ.m4a" length="94244989" type="audio/mp4"/>
+    <itunes:duration>01:37:01</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1cncyWEdGa0tGWGE2Y2Q5RkpyWVNWM0FwMlUucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>稳定币话语权应该交给谁？——探索更优化的稳定币格局</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/641d53008aca9099d7305e2d</link>
+    <guid isPermaLink="false">641d53008aca9099d7305e2d</guid>
+    <pubDate>Fri, 24 Mar 2023 07:36:32 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FkZHtCH0T7F4E6xZvRsf4OArstZf.png"></figure><span></span><p><span>3月22日晚8点，巴比特资深记者王佳健将对话 民道老师 、Lao Bai 、妙蛙种子、duoduo ，深聊稳定币的过去、现在与未来。</span></p><span></span><p><strong><span>部分提问</span></strong><span>：</span></p><span></span><blockquote><span>1. &nbsp;&nbsp;&nbsp;&nbsp;此前，由硅谷银行引发的 USDC 短暂脱锚导致了市场对中心化稳定币的不信任，去中心化一直是Crypto行业的核心宗旨，而稳定币作为行业的核心一环，却依旧由中心化的稳定币牢牢占据着市场，即使算稳曾声势浩大，但始终没有出现有效的竞争者，各位如何看待这种现象？</span></blockquote><span></span><blockquote><span>2. &nbsp;&nbsp;&nbsp;&nbsp;3月初，Arthur Hayes 提出过一个与比特币相结合的稳定币NUSD，它由比特币与一份“比特币与美元价值的反向永期互换协议的空单”组成，还结合了DAO和CEX来共同维持 NUSD 的稳定运转，大家如何评价这一稳定币的生成方式？</span></blockquote><span></span><blockquote><span>3. &nbsp;&nbsp;&nbsp;&nbsp;除了NUSD，由借贷协议 Liquity Protocol 推出了稳定币 LUSD 引起了很多人的关注，作为去中心化稳定币的一种，LUSD 的运行机制是怎样的？相较于DAI、UST、Frax的稳定币， LUSD 有哪些创新点？</span></blockquote><span></span><blockquote><span>4. &nbsp;&nbsp;&nbsp;&nbsp;除了上述项目，稳定币赛道相继涌入和AAVE的GHO、Curve的crvUSD 和其他新的稳定币项目，大家有特别关注哪些新的稳定币项目？为什么？</span></blockquote><span></span><blockquote><span>5. &nbsp;&nbsp;&nbsp;&nbsp;稳定币作为Crypto市场的一环，影响力边界已经超出了加密圈，而其在DeFi领域的乐高叠加，本质也可以看成是货币乘数的放大，那加密稳定币是否会对传统金融的传导规律甚至货币政策等产生影响？大家怎么看待这种新业态下的金融变化？</span></blockquote><span></span><blockquote><span>7. &nbsp;&nbsp;&nbsp;&nbsp;从UST的暴雷以及USDC的脱锚中我们可以看到，在极端市场环境下，持有稳定币也不是100%安全的，那当我们面对黑天鹅的时候，最佳的应对方式是什么？（妙蛙种子</span></blockquote><span></span><blockquote><span>9. &nbsp;&nbsp;&nbsp;&nbsp;当前，USDC/USDT/BUSD稳定币三巨头依旧占据着这个市场超90%的份额，大家未来稳定币的竞争格局可能会是怎样的？（All）</span></blockquote><span></span><p><span>关注</span><strong><span>「 DeFi之道 」</span></strong><span> ：</span></p><span></span><p><span>Nostr: npub18x45agcq4q7mk7tp0maxfgf2thuuln8q3cpm2zdwkzzqn457e7</span></p><span></span><p><em><span>Web:</span></em><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><em><span>www.defidaonews.com</span></em></a></p><span></span><p><em><span>Twitter：</span></em><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><em><span>twitter.com</span></em></a></p><span></span><p><em><span>公众号：元宇宙之道</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lm4la4SyFRSAogfZmI9-Qm_Ma6Kv.m4a" length="99771475" type="audio/mp4"/>
+    <itunes:duration>01:42:43</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZseUtyQ0ZzY0lybmxSR3FRUWJxbU9hcjN2cjkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>热点闲聊：探索 #LSD 收益多层塔</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/640acd2d8be5d40013c4ac0d</link>
+    <guid isPermaLink="false">640acd2d8be5d40013c4ac0d</guid>
+    <pubDate>Fri, 10 Mar 2023 06:24:44 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FtOCGljunQhWWvHRCIcx4Gw8qJVm.png"></figure><span></span><p><span>3月9号周四晚，DeFi之道研究员 Wesely 在</span><strong><span>「 DeFi之道 」</span></strong><span>Twitter Space</span></p><span></span><p><span>对话7upDAO、头等舱研究员，一起聊一聊当前的热点赛道#LSD的多重收益构成。</span></p><span></span><p><strong><span>部分问题：</span></strong></p><span></span><blockquote><span>2. &nbsp;&nbsp;&nbsp;&nbsp;众所周知，LSD 是伴随着以太坊合并升级而成长起来的一个赛道，属于一个细分的新生领域，但发展很快，各位能先谈谈它的增长潜力主要体现在哪些方方面？</span></blockquote><span></span><blockquote><span>3. &nbsp;&nbsp;&nbsp;&nbsp;目前，以太坊的质押了1750万枚，质押率大约是14.6%，相比其他的POS公链40%-80%质押率来说，这个比例并不高，大家觉得上海升级完成之后这个比例会怎样变化，又会给LSD赛道带来哪些新改变？</span></blockquote><span></span><blockquote><span>4. &nbsp;&nbsp;&nbsp;&nbsp;如果我们按照LSD收益复杂度来分层，首先是以太坊上的直接质押，其次是通过各个服务商带来的质押资产流动性的解锁，以此衍生品为基础，再结合一些DeFi的玩法，最后就是在 Re-staking 这种新机制下的结合，每一个层级都是一次收益的叠加，你能介绍下在LSD赛道依据这个层级划分下最大化收益的路径是什么？有哪些工具或策略能优化这个收益？</span></blockquote><span></span><blockquote><span>5. &nbsp;&nbsp;&nbsp;&nbsp;我们在谈论LSD的时候往往都会提及DVT(去中心化验证技术)，DVT 可以为以太坊质押的基础设施网络带来更高的安全性和去中心化，是LSD赛道非常重要的一个补充，你如何看待DVT这一领域的发展？</span></blockquote><span></span><blockquote><span>6. &nbsp;&nbsp;&nbsp;&nbsp;除了上面谈论的技术，使用 Re-staking 机制的 Eigenlayer 也被视为是LSD领域的新结合点，被众多投资机构称为 2023 年以太坊最重要的创新，你能和大家解释一下，Re-staking机制的创新点主要体现在哪些方面？</span></blockquote><span></span><blockquote><span>7. &nbsp;&nbsp;&nbsp;&nbsp;EigenLayer 允许用户将质押在以太坊上的 ETH 进行二次质押，用于数据可用性层、预言机、Layer2等，来保护这些新网络的安全，各位觉得它能为LSD的参与者带来哪些潜在的收益？又会衍生出哪些新的应用？</span></blockquote><span></span><blockquote><span>9. &nbsp;&nbsp;&nbsp;&nbsp;从以太坊主网的直接质押到第三方质押，再到DeFi和重质押等同玩法的出现，LSD相关的利益链条是在不断拉长的，本质上也是在加杠杆，那这是否会带来风险的叠加？可能会存在哪些被忽视的风险因子？</span></blockquote><span></span><p><span>关注</span><strong><span>「 DeFi之道 」</span></strong><span> ：</span></p><span></span><p><span>Nostr: npub18x45agcq4q7mk7tp0maxfgf2thuuln8q3cpm2zdwkzzqn457e7</span></p><span></span><p><em><span>Web:</span></em><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><em><span>www.defidaonews.com</span></em></a></p><span></span><p><em><span>Twitter：</span></em><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><em><span>twitter.com</span></em></a></p><span></span><p><em><span>公众号：元宇宙之道</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/nnsOgE1Ph7DuV-yjgPsNaA1t5j0L.mp3" length="83578935" type="audio/mpeg"/>
+    <itunes:duration>01:27:03</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZneFlWTGE4Q0FzVk9jaUszWjZBQnJmX0ZFMFYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>聊聊Nostr那些事：社交协议、去代币经济、监管与破圈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63e30fce0d7e8eaa72266bf4</link>
+    <guid isPermaLink="false">63e30fce0d7e8eaa72266bf4</guid>
+    <pubDate>Wed, 08 Feb 2023 02:58:21 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FrSeem3EmFyO8eLuX2XPsys11FqJ.png"></figure><span></span><p><span>2月7日晚，巴比特资深记者王佳健在</span><strong><span>「 DeFi之道 」</span></strong><span>Twitter Space 对话BTCstudy 内容负责人阿剑老师、#nostr 早期参与者aLE以及来自律动研究院的Steven 老师，深聊 #nostr 的突破与挑战。</span></p><span></span><p><span>以下是部分提纲：</span></p><span></span><blockquote><span>2. &nbsp;&nbsp;&nbsp;&nbsp;这两天 Nostr 以及建立在该协议之上的 Damus 应用可以说是非常火了，可以和我们说说你们是从什么时候关注它的吗？</span></blockquote><span></span><blockquote><span>3. &nbsp;&nbsp;&nbsp;&nbsp;我们知道 Damus 是基于 Nostr 协议建立的应用，后者是极简化的，那可以为大家解析一下 Nostr 的具体运行原理吗？</span></blockquote><span></span><blockquote><span>4. &nbsp;&nbsp;&nbsp;&nbsp;因为 Jack Dorsey 的关系，Nostr 获得了巨大的关注度，那从你的体验感受来看，你觉得这个协议以及上面的应用，目前处于什么阶段？</span></blockquote><span></span><blockquote><span>5. &nbsp;&nbsp;&nbsp;&nbsp;和闪电网络比较类似，Nostr &nbsp;以及建立在上面的去中心化应用都不会发行 token，但很多人似乎有意或无意地把它误解成了 Web3 产品，对于这种现象，你想说些什么？</span></blockquote><span></span><blockquote><span>7. &nbsp;&nbsp;&nbsp;&nbsp;所有去中心化社交协议和应用都会面临法律监管的问题，那运行 Nostr 中继器是否也会面临这个风险？如何降低相关风险？</span></blockquote><span></span><blockquote><span>9. &nbsp;&nbsp;&nbsp;&nbsp;目前使用 Nostr 协议和相关应用的群体，很大程度上是比特币社区内部的，那在你看来，它要如何去吸引这个圈子外的群体？它的未来会是什么样的？</span></blockquote><span></span><p><span>关注</span><strong><span>「 DeFi之道 」</span></strong><span> ：</span></p><span></span><p><span>Nostr: npub18x45agcq4q7mk7tp0maxfgf2thuuln8q3cpm2zdwkzzqn457e7</span></p><span></span><p><em><span>Web:</span></em><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><em><span>www.defidaonews.com</span></em></a></p><span></span><p><em><span>Twitter：</span></em><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><em><span>twitter.com</span></em></a></p><span></span><p><em><span>公众号：元宇宙之道</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lldc3F-HSilnbcbupscTW_Sme7xJ.m4a" length="85557184" type="audio/mp4"/>
+    <itunes:duration>01:28:05</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqVGNzWDBoNWRyQ1RqdmhzVzB5amMwVTd3RE8ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>年终特辑1：2023宏观经济走向对加密行业的影响</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63b6912a289d2739647d94d5</link>
+    <guid isPermaLink="false">63b6912a289d2739647d94d5</guid>
+    <pubDate>Thu, 05 Jan 2023 08:58:17 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FvuzAwYW566vUi3Ty6X-76k15i-I.png"></figure><span></span><p><span>新旧交替之际，我们既想从残酷的过去中总结一些经验，也希望能够对即将到来的2023了解的更多。</span></p><span></span><p><span>DeFi之道Twitter Space 年终特辑，邀请中文推特最关注宏观经济的多位专业老师与一起探讨2023年整体的宏观经济走势以及将会对币圈产生哪些影响，尝试从未知中捕捉确定性！</span></p><span></span><p><span>关注DeFi之道：</span></p><span></span><p><span>Web:</span><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><span>www.defidaonews.com</span></a></p><span></span><p><span>Twitter：</span><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><span>twitter.com</span></a></p><span></span><p><span>公众号：元宇宙之道</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljbFoXyzDy88V5Hh-JEyteLvm2L5.m4a" length="91944966" type="audio/mp4"/>
+    <itunes:duration>01:34:39</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z1c3VwSDBOaFZaWmxZVTBlVFJZZ2JDT2lqOHYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>年终特辑2: 2023比特币发展展望</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63b68bca289d2739647d94d2</link>
+    <guid isPermaLink="false">63b68bca289d2739647d94d2</guid>
+    <pubDate>Thu, 05 Jan 2023 08:35:21 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FoiNyhR891ympV8vEoFkwwfyFwRi.png"></figure><span></span><p><span>在辞旧迎新之际畅快地讨论比特币！</span></p><span></span><p><span>BTCStudy 内容负责人阿剑老师、</span><a href="https://twitter.com/HashKey_Capital" data-url="https://twitter.com/HashKey_Capital"><span>HashKey</span></a><span> Jeffrey Hu、Blockstream中国市场经理以及RGB 核心贡献者Federico共同探索比特币网络发展。</span></p><span></span><p><span>关注DeFi之道：</span></p><span></span><p><span>Web:<a data-url="https://www.defidaonews.com/" href="https://www.defidaonews.com/">www.defidaonews.com</a></span></p><span></span><p><span>Twitter：</span><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><span>twitter.com</span></a></p><span></span><p><span>公众号：元宇宙之道</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls5JZqRM_W695DLT913yGtF77aBo.m4a" length="105151525" type="audio/mp4"/>
+    <itunes:duration>01:48:15</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtSjE3eG5EUVB0bEtsVE4xd2pCR2MwQ0l6QlMucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>年终特辑3： 2023以太坊发展展望</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63b6892bda83c49d996a5cfe</link>
+    <guid isPermaLink="false">63b6892bda83c49d996a5cfe</guid>
+    <pubDate>Thu, 05 Jan 2023 08:24:10 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FnrkxPtynJgJDdsALXjo0VM3JF7v.png"></figure><span></span><p><span>潘老师、民道老师、老白 以及欧易研究院研究员 Shirley 聚焦以太坊，探讨2023 ETH 将会带给我们哪些惊喜~</span></p><span></span><p><span>关注DeFi之道：</span></p><span></span><p><span>Web:</span><a href="https://www.defidaonews.com/" data-url="https://www.defidaonews.com/"><span>www.defidaonews.com</span></a></p><span></span><p><span>Twitter：</span><a href="https://twitter.com/8BTC_OFFICIAL" data-url="https://twitter.com/8BTC_OFFICIAL"><span>twitter.com</span></a></p><span></span><p><span>公众号：元宇宙之道</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls62P1lwyVU63MuKT5xRtZrnFhvH.m4a" length="110665109" type="audio/mp4"/>
+    <itunes:duration>01:53:56</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxVVZHcVljb1NBWGtUUkktSnFJdklsOFVwTFQucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

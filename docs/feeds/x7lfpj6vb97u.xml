@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>垫脚石SteppingStone</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/659128053732942ce035fb0d</link>
+  <description><![CDATA[希望我的内容能够给刷到的朋友们一些启发。我想做的就是一块垫脚石，如果大家碰巧走到了这里，需要帮助，那踩着我翻过去就好啦！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:24:48 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/x7lfpj6vb97u.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>matsuzaka</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/lpXNNGyQfSdY4GVn-D3nq-V5XoCd.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/lpXNNGyQfSdY4GVn-D3nq-V5XoCd.jpg</url>
+    <title>垫脚石SteppingStone</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/659128053732942ce035fb0d</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>001|我们因何分裂？在爱与理解被当作笑话的年代 选择做一个蠢蛋</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6592a32ced98191e9b9eb365</link>
+    <guid isPermaLink="false">6592a32ced98191e9b9eb365</guid>
+    <pubDate>Mon, 01 Jan 2024 11:34:04 +0000</pubDate>
+    <description><![CDATA[<p><span>hello友友们！我是松坂贝拉，大家可以叫我贝拉或者阿梅（因为我用的是蜡笔小新里玫瑰班班主任松坂老师的姓）。在展开其他话题的讨论前，我想用一期不成熟的节目来聊聊我对于现在网络上各种身份标签各自为营这一现象的想法。我也觉得在当前的环境下，传播“love&amp;peace”的行为有作秀的嫌疑。但我肯定不能让所有人满意，那不如让自己满意。希望本期内容能为大家提供一个新的视角，帮助大家摆脱一点负面情绪！</span></p><p><span><a class="timestamp" data-timestamp="35">00:35</a> 【理解】的重要性</span></p><p><span><a class="timestamp" data-timestamp="227">03:47</a> 人们对于理解他人的意愿在下降</span></p><p><span><a class="timestamp" data-timestamp="846">14:06</a> 为什么【爱】成了一个笑话</span></p><p><span><a class="timestamp" data-timestamp="1224">20:24</a> 当我们在自称“厌男”的时候，我们在“厌”什么</span></p><p><span><a class="timestamp" data-timestamp="1661">27:41</a> 婚女与单女，导致分裂的从不仅仅是选择</span></p><p><span><a class="timestamp" data-timestamp="2589">43:09</a> 改变认知很难，但也会有收获&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li-CLuDdUVVu4Pie8bkaAghrCrkC.m4a" length="43682339" type="audio/mp4"/>
+    <itunes:duration>00:45:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lpXNNGyQfSdY4GVn-D3nq-V5XoCd.jpg"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

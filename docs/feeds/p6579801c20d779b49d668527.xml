@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>六壬酒肆</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6579801c20d779b49d668527</link>
+  <description><![CDATA[对抗路法师，只做传统文化讲解 🛰️leisun6r]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:52:08 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6579801c20d779b49d668527.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>雷笋子</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FhWph5X3ivVf27knuno94kBjF2FX.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FhWph5X3ivVf27knuno94kBjF2FX.jpg</url>
+    <title>六壬酒肆</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6579801c20d779b49d668527</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>人死以后，去了哪里？｜能量振动 第二集</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af9d98bfe62f8f52c4ba381</link>
+    <guid isPermaLink="false">6af9d98bfe62f8f52c4ba381</guid>
+    <pubDate>Mon, 16 Nov 2026 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>hello，大家好。这期是「能量振动」的第二期，也就是久司道夫关于灵性世界的理论核心。</span></p><p><span>但本期内容无法证实也无法被证伪，因为如同彼岸一样，至今没有任何论据能够支撑彼岸存在，也无法证伪彼岸不存在。</span></p><img src="https://image.xyzcdn.net/FoqREzrEzr0dQIr2vFPf6T3n55Db.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6579801c20d779b49d668527/ltQLasZjiiJNlfiXbAKoBAwl_HUd.m4a" length="7999883" type="audio/mp4"/>
+    <itunes:duration>00:08:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhWph5X3ivVf27knuno94kBjF2FX.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你所吃的食物塑造你成为什么样的人｜能量振动 第一集</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6adb7f8197726cd46756bdc7</link>
+    <guid isPermaLink="false">6adb7f8197726cd46756bdc7</guid>
+    <pubDate>Sat, 24 Oct 2026 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>hello，大家好。雷笋携六壬酒肆回归了，经历了三个月蛰伏和六壬授课，携带着重新诊断生活的思路，重新出发。</span></p><p><span>在和我的学员沟通中，我意识到一直以来没有人和我说清楚一些很底层的信息，这些信息就是我们在进行预测的时候，到底是什么东西左右着我们的生活。</span></p><p><span>很巧的一个机缘巧合，我正好听完了久司道夫在1985年的分享，解开了我一直以来在进行大六壬实践中的一些疑惑。但是久司道夫浓重的日式英语，真的很难听懂且理解，因此花费一些时间，和大家分享。</span></p><p><span>这将会成为一个专辑，专辑名为「能量振动」，也就是久司道夫的理论核心。</span></p><img src="https://image.xyzcdn.net/FoqREzrEzr0dQIr2vFPf6T3n55Db.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6579801c20d779b49d668527/lg3PNr7-V135W2ZM8zWzBn8ILSqz.m4a" length="22471382" type="audio/mp4"/>
+    <itunes:duration>00:23:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhWph5X3ivVf27knuno94kBjF2FX.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

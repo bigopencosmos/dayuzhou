@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Ro有所思</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/642b08ae56cc49951ea7cb4b</link>
+  <description><![CDATA[前腾讯主美，现硅谷大厂动画设计师。聊聊动画，创作和互联网行业。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:34:02 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p642b08ae56cc49951ea7cb4b.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Rofix</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmJmX-rQbv70KJxeSGIdvRxF1eY0.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmJmX-rQbv70KJxeSGIdvRxF1eY0.jpg</url>
+    <title>Ro有所思</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/642b08ae56cc49951ea7cb4b</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>如何改动让《深海》的剧情更好</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6441faafa79cc8147011bfe8</link>
+    <guid isPermaLink="false">6441faafa79cc8147011bfe8</guid>
+    <pubDate>Fri, 21 Apr 2023 02:53:33 +0000</pubDate>
+    <description><![CDATA[<p><span>《深海》展现了全球第一梯队的3D动画技术，但它的剧情的确可以做的更好。虽然参宿脑补的南河陪自己度过了数月时光，打打闹闹，经营酒店，深夜谈心。但现实中的南河只是在海上漂了十几个小时，没有和参宿建立对等的羁绊，而且还为了逗参宿开心浪费了大量体力，在没有人物弧光的情况下牺牲了自己。影片的演出很优秀，十分感人，但剧情的拧巴也让其口碑褒贬不一，有些遗憾。</span></p><span></span><p><span>本播客源于B站Rofix每周六上午直播录播。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll8YDnrGFNH_4AYaj79yTwofngPZ.m4a" length="23773686" type="audio/mp4"/>
+    <itunes:duration>00:24:21</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2LWMwdzdHS2hFbUd5bm5ySi1icENTWWRBT1QucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI会对动画行业产生什么影响</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/642c754fa79cc81470a35fdf</link>
+    <guid isPermaLink="false">642c754fa79cc81470a35fdf</guid>
+    <pubDate>Tue, 04 Apr 2023 19:06:53 +0000</pubDate>
+    <description><![CDATA[<p><span>B站Rofix周六上午直播的片段节选，对最近抵制AI的风波进行了讨论，并畅想了AI作为生产力工具后的行业形势。</span></p><p><span>作为直播录音，主播可能会对一些观众评论作出反应，并发表评论。</span></p><p><span>Rofix会每周六上午在Bilibili进行直播</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqEyJVAtJ1YELJiFVVAJFxs5j0ki.m4a" length="32436338" type="audio/mp4"/>
+    <itunes:duration>00:34:26</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Znelp3SmJmUVhVeWNOclloQzlDUUt5WFd4SFQucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

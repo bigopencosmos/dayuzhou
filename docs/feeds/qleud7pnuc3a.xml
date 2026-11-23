@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>观未来：AI+教育</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/654b46b39da6ed7e74bc9764</link>
+  <description><![CDATA[《观未来：AI+教育》这档节目，由阿萌老师创办，从事互联网工作多年，讲AI对教育、个人成长和职业发展的影响，尽可能中立地分析新兴AI应用和技术，并试图把所思所得分享给收听的你。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:10:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/qleud7pnuc3a.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>AIedu观未来</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png</url>
+    <title>观未来：AI+教育</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/654b46b39da6ed7e74bc9764</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>26.谁是现在最聪明的 AI</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6acb06cf195d838e2af0094a</link>
+    <guid isPermaLink="false">6acb06cf195d838e2af0094a</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>来自10月初的大模型成绩单，听听谁位列前茅，中国公司目前在世界模型的排名表现又如何，你来问“魔镜魔镜，谁是现在最聪明的AI”，第三方评测机构Artificial analysis的排名成绩单可以给你一个中立客观的答案。</span></p><p></p><p><strong><span>节目时间线：</span></strong></p><p><span><a class="timestamp" data-timestamp="118">01:58</a> </span><strong><span>怎么阅读成绩单</span></strong></p><p><span><a class="timestamp" data-timestamp="278">04:38</a> 第一名和第二名来自同一家公司</span></p><p><span><a class="timestamp" data-timestamp="444">07:24</a> 取得平衡 </span></p><p><span><a class="timestamp" data-timestamp="478">07:58</a> 第二家排名靠前的公司</span></p><p><span><a class="timestamp" data-timestamp="600">10:00</a> 第三家公司， 也是一家“大厂”</span></p><p><span><a class="timestamp" data-timestamp="755">12:35</a> </span><strong><span>前三家公司的定位和模型的发展策略</span></strong></p><p><span><a class="timestamp" data-timestamp="805">13:25</a> </span><strong><span>中国公司的位置</span></strong></p><p><span><a class="timestamp" data-timestamp="881">14:41</a> 客观存在差距</span></p><p><span><a class="timestamp" data-timestamp="916">15:16</a> 开源的意义 </span></p><p><span><a class="timestamp" data-timestamp="958">15:58</a> 直接进入总结</span></p><p><span><a class="timestamp" data-timestamp="1087">18:07</a> </span><strong><span>应该用最聪明的还是最适合的</span></strong></p><p></p><p></p><p><strong><span>欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会</span></strong></p><p><span>第三方大模型评测机构Artificial analysis: </span><a href="https://artificialanalysis.ai/models" data-url="https://artificialanalysis.ai/models"><span>artificialanalysis.ai</span></a></p><p><span>播客Intro/Outro音乐：使用Suno制作 </span><a href="https://suno.com/s/mYeeuVQAg6ecccAp" data-url="https://suno.com/s/mYeeuVQAg6ecccAp"><span>suno.com</span></a><span> </span></p><p><em><span>欢迎你来点赞、收藏、分享和关注我的播客。</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lrDT3Z4cmUzZhbPvekBAzgfAhDCI.m4a" length="19004851" type="audio/mp4"/>
+    <itunes:duration>00:19:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>26</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>25.给大模型、Agent和自己建一本错题集</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa94e5d9d3264778169a6f1</link>
+    <guid isPermaLink="false">6aa94e5d9d3264778169a6f1</guid>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>AI Agent 最难处理的错误，往往不是“做错了”，而是在第一步就替你做了未经确认的假设。本期从真实产品协作中的截图/Figma、需求范围、文档类型、文件备份、原型适配与流程逻辑反馈出发，聊聊如何给大模型和 Agent 建一本错题集：把每次返工变成下一次必须经过的检查。</span></p><p><span>节目时间线：</span></p><p><span><a class="timestamp" data-timestamp="85">01:25</a> 最近一次被AI气笑</span></p><p><span><a class="timestamp" data-timestamp="194">03:14</a> 建错题集比找一个更强的模型在某种程度上更重要</span></p><p><span><a class="timestamp" data-timestamp="257">04:17</a> 别再记“我错了”，记“下次我该怎么做”</span></p><p><span><a class="timestamp" data-timestamp="468">07:48</a> 给大模型的错题集：先问“依据是什么”，再问“写得好不好”</span></p><p><span><a class="timestamp" data-timestamp="805">13:25</a> 给 Agent 的错题集：别只看结果，要看它最早在哪儿拐错了弯</span></p><p><span><a class="timestamp" data-timestamp="1089">18:09</a> 讲到自己：别用“AI 不行”结束一次返工</span></p><p><span><a class="timestamp" data-timestamp="1215">20:15</a> 今天，不要仅仅是收藏，写下你的第一道错题</span></p><p></p><p></p><p><strong><span>欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会</span></strong></p><p><span>播客Intro/Outro音乐：Give Me Peace by chillity</span></p><p><span>Music promoted by Audio Library: </span><a href="https://links.al/youtube" data-url="https://links.al/youtube"><span>links.al</span></a></p><p><em><span>欢迎你来点赞、收藏、分享和关注我的播客。</span></em></p><p></p><p></p><p></p><p></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/llVITV3-MyHfB3Dh0l2jsmQm2Nqt.m4a" length="22973462" type="audio/mp4"/>
+    <itunes:duration>00:23:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>25</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>24.文科生的AI突围战（下）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a77e7e0c4079d62c57f79fd</link>
+    <guid isPermaLink="false">6a77e7e0c4079d62c57f79fd</guid>
+    <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>上期我们聊了文科生怎么在职场上用AI完成降维打击，上期结尾我留了一个问题：效率提上来了，省下来的时间，你打算用来干嘛？</span></p><p><span>这期就是问题的答案。</span></p><p><span>我们聊的不是"怎么更努力地打工"，而是怎么把溢出的能力变成真正属于自己的资产。一个人怎么活成一家数字公司，怎么把多年积累的经验从"卖时间"变成"卖系统"，以及在节目最后，我也给大家泼了一盆冷水，聊了那些文科生最容易踩的AI的坑。</span></p><p><span>节目时间线：</span></p><p><span><a class="timestamp" data-timestamp="70">01:10</a> 上期回顾与本期切入：省下来的时间，用来干嘛？</span></p><p><span><a class="timestamp" data-timestamp="255">04:15</a> 一个人的数字公司：从"发推文"到"内容杠杆系统"</span></p><p><span><a class="timestamp" data-timestamp="403">06:43</a> 从"卖时间"到"卖系统"：打破收入天花板</span></p><p><span><a class="timestamp" data-timestamp="699">11:39</a> 避坑指南：外包给AI，不代表被AI驾驭</span></p><p><span><a class="timestamp" data-timestamp="778">12:58</a> 避坑指南：迷信"AI一键搞定"的代价</span></p><p><span><a class="timestamp" data-timestamp="864">14:24</a> 终局思维：文科生在AI时代的真正护城河</span></p><p><strong><span>欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会</span></strong></p><p><span>播客Intro/Outro音乐：Dusk by Next Route</span></p><p><em><span>记得点赞、收藏、分享和关注我的播客呀，也欢迎留下你的点评。</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkj5Cxg8eJI1rnH838JYcZJd3nC9.m4a" length="16231288" type="audio/mp4"/>
+    <itunes:duration>00:16:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>24</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>23.文科生的AI突围战（上）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6dbf711b5e24969ce73a3b</link>
+    <guid isPermaLink="false">6a6dbf711b5e24969ce73a3b</guid>
+    <pubDate>Mon, 03 Aug 2026 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>最近看到了很多关于文科生在AI时代如何自处的讨论，有人焦虑被替代，有人把大模型当成高级打字机。其实，作为文科生，我们长期训练出来的人性洞察、文字敏锐和结构化表达，恰恰是AI时代最稀缺的“总监素质”。出于想打破这种认知壁垒的初衷，我总结出了文科生利用AI实现职场降维打击的三个大招，不妨来听听。</span></p><p><span>节目时间线：</span></p><p><span><a class="timestamp" data-timestamp="49">00:49</a> 为什么我们在用AI，却感觉没用一样？</span></p><p><span><a class="timestamp" data-timestamp="146">02:26</a> 认知重构：把AI从玩具变成武器</span></p><p><span><a class="timestamp" data-timestamp="239">03:59</a> 为什么文科生天生就是“超级实习生”的优秀总监？</span></p><p><span><a class="timestamp" data-timestamp="313">05:13</a> 【对比】技术型写法 vs 文科生写法的Prompt差异</span></p><p><span><a class="timestamp" data-timestamp="416">06:56</a> 文科生被严重低估的优势：品味与批判性思维</span></p><p><span><a class="timestamp" data-timestamp="500">08:20</a> 【大招一】从处理信息到构建竞争情报雷达</span></p><p><span><a class="timestamp" data-timestamp="633">10:33</a> 【大招二】从写句文案到导演一场完整的传播战役</span></p><p><span><a class="timestamp" data-timestamp="857">14:17</a> 【大招三】Vibe Coding + AI影像，文科生的造物革命</span></p><p><span><a class="timestamp" data-timestamp="1076">17:56</a>  本期核心总结与下期悬念预告</span></p><p><span>欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会</span></p><p></p><p><span>播客Intro/Outro音乐：</span></p><p><span>Music: Serenity by MEZCLA </span><a href="https://soundcloud.com/mezcla20000254" data-url="https://soundcloud.com/mezcla20000254"><span>soundcloud.com</span></a><br><span>Vice Versa by Scandinavianz </span><a href="https://soundcloud.com/scandinavianz" data-url="https://soundcloud.com/scandinavianz"><span>soundcloud.com</span></a><br></p><p><span>记得点赞、收藏、分享和关注我的播客呀</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/llUC15diE5pgzx-4jCIc8MiOPxC1.m4a" length="20288463" type="audio/mp4"/>
+    <itunes:duration>00:20:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>23</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>22.毕业之后的第一个暑假</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a4f60bd1e32575f5eb3bb0d</link>
+    <guid isPermaLink="false">6a4f60bd1e32575f5eb3bb0d</guid>
+    <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在2026年的这个暑假，有可能你毕业了，你迎来了一个新的身份和不可知的未来。来听听怎么渡过毕业之后的第一个暑假吧。本期播客简短且干货满满，听完带着收获走。</span></p><p></p><p><span>节目时间线：</span></p><ul><li><p><span><a class="timestamp" data-timestamp="81">01:21</a> “毕业”的多重含义</span></p></li><li><p><span><a class="timestamp" data-timestamp="182">03:02</a> 暑假可以做的三件事 </span></p></li><li><p><span><a class="timestamp" data-timestamp="335">05:35</a> 规划暑假是一种能力</span></p></li><li><p><span><a class="timestamp" data-timestamp="410">06:50</a> 核心能力一</span></p></li><li><p><span><a class="timestamp" data-timestamp="489">08:09</a> 核心能力二</span></p></li><li><p><span><a class="timestamp" data-timestamp="639">10:39</a> 核心能力三</span></p></li><li><p><span><a class="timestamp" data-timestamp="758">12:38</a> 核心能力四</span></p></li></ul><p></p><blockquote><p><span>播客Intro/Outro音乐：Music: Jungle by Qlowdy </span><a href="https://soundcloud.com/qlowdymusic" data-url="https://soundcloud.com/qlowdymusic"><span>soundcloud.com</span></a></p><p><span>License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0</span></p><p><span>Free Download / Stream: </span><a href="https://links.al/AuX" data-url="https://links.al/AuX"><span>links.al</span></a></p><p><span>Music promoted by Audio Library: </span><a href="https://links.al/youtube" data-url="https://links.al/youtube"><span>links.al</span></a></p><p><span>欢迎点赞、收藏、分享和关注我的播客呀</span></p></blockquote><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lon_gge03PoOg2M5zCsE5JWH8CKj.m4a" length="17981970" type="audio/mp4"/>
+    <itunes:duration>00:18:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>22</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>21.高考报考之AI辅助报考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a20bf447444b5722232fd2d</link>
+    <guid isPermaLink="false">6a20bf447444b5722232fd2d</guid>
+    <pubDate>Fri, 05 Jun 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>随着高考的即将到来，参加报考的学生们和学生的家长也需要面对报考哪所学校和哪些专业的“重要议题”，本期我来讲讲孩子适合学什么、专业到底学什么、以及家长与孩子意见不一致时如何理性决策。</span></p><p><span>节目时间线：</span></p><ul><li><p><span><a class="timestamp" data-timestamp="116">01:56</a> AI辅助报考用到哪些工具</span></p></li><li><p><span><a class="timestamp" data-timestamp="172">02:52</a> 孩子到底适合学什么</span></p></li><li><p><span><a class="timestamp" data-timestamp="527">08:47</a> 报了这个专业，将来学什么</span></p></li><li><p><span><a class="timestamp" data-timestamp="819">13:39</a> 家长与孩子意见不一致时怎么办</span></p></li><li><p><span><a class="timestamp" data-timestamp="1127">18:47</a> 做一个小小的实验</span></p></li></ul><p></p><blockquote><p><span>播客Intro/Outro音乐：Music: Night Waves by Qlowdy </span><a href="https://soundcloud.com/qlowdymusic" data-url="https://soundcloud.com/qlowdymusic"><span>soundcloud.com</span></a></p><p><span>License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0</span></p><p><span>Free Download / Stream: </span><a href="https://links.al/BH4" data-url="https://links.al/BH4"><span>links.al</span></a></p><p><span>Music promoted by Audio Library: </span><a href="https://links.al/youtube" data-url="https://links.al/youtube"><span>links.al</span></a><br></p></blockquote><blockquote><p><span>本期播客提到的模型使用的</span><a href="https://my.feishu.cn/docx/FB0xdHoESo3hvexKB4ocixdCn6f?from=from_copylink" data-url="https://my.feishu.cn/docx/FB0xdHoESo3hvexKB4ocixdCn6f?from=from_copylink"><span>提示词</span></a></p><p><span>欢迎点赞、收藏、分享和关注我的播客呀</span></p></blockquote><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/luXPzlUbMWJ6H0YpcGBZsyCPjaOI.m4a" length="20792076" type="audio/mp4"/>
+    <itunes:duration>00:21:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>21</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>20.我对高考有话说</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a07e1ea1b7bd502953e34c3</link>
+    <guid isPermaLink="false">6a07e1ea1b7bd502953e34c3</guid>
+    <pubDate>Sat, 16 May 2026 03:24:03 +0000</pubDate>
+    <description><![CDATA[<p><span>终于有专题了，在不能做专题的时候，我的想法是攒一个高考的专题，能帮到报考的学生和家长就是好事，没帮到至少普及了一些当前最新的讯息和认知，避免有些家长被割韭菜，dt帮助具体的人。现在做到了，很高兴地在比较紧张的时间里录了一期，如果没讲到位还请多多包涵，后面持续更新，交作业。</span></p><p><span>节目时间线：</span></p><ul><li><p><span><a class="timestamp" data-timestamp="81">01:21</a> 2026年高考模式解析</span></p></li><li><p><span><a class="timestamp" data-timestamp="232">03:52</a> 选科与报考专业的关系</span></p></li><li><p><span><a class="timestamp" data-timestamp="609">10:09</a> 报考时考虑点什么</span></p></li><li><p><span><a class="timestamp" data-timestamp="803">13:23</a> 一个小小总结 </span></p></li><li><p><span><a class="timestamp" data-timestamp="890">14:50</a> 2026年高考新增报考专业</span></p></li></ul><p></p><blockquote><p><span>播客Intro/Outro音乐：Music: For her by Wanheda </span><a href="https://soundcloud.com/user-724527508" data-url="https://soundcloud.com/user-724527508"><span>soundcloud.com</span></a></p><p><span>License: Creative Commons — Attribution-ShareAlike 3.0 Unported - CC BY-SA 3.0</span></p><p><span>Free Download / Stream: </span><a href="https://links.al/lks" data-url="https://links.al/lks"><span>links.al</span></a></p><p><span>Music promoted by Audio Library: </span><a href="https://links.al/youtube" data-url="https://links.al/youtube"><span>links.al</span></a><br></p></blockquote><blockquote><p><span>欢迎点赞、收藏、分享和关注我的播客呀 </span></p></blockquote><p></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/luQR-HsauLbkx063rwG7E5VRjAeY.m4a" length="20278010" type="audio/mp4"/>
+    <itunes:duration>00:20:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>20</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>19.AI的工具性与创意性两者兼得吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69e46b131d989496e7f6242d</link>
+    <guid isPermaLink="false">69e46b131d989496e7f6242d</guid>
+    <pubDate>Mon, 20 Apr 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p></p><p><span>似乎伴随着AI的发展，AI的工具性与创意性，类比于鱼与熊掌不可兼得，AI生成的内容越来越可控，但似乎也安全得没有突破了，也许你会有一个疑问“难道我不可以两个都要吗？”“我想又保证质量又想有些飞的突破常规的点”，本期我们来聊聊，没准你两个都可以得到呢</span></p><p><span>节目时间线：</span></p><p><span><a class="timestamp" data-timestamp="119">01:59</a> 完美的AI</span></p><p><span><a class="timestamp" data-timestamp="236">03:56</a> 近亲繁殖的AI（Habsburg AI）</span></p><p><span><a class="timestamp" data-timestamp="345">05:45</a> AI与人类对齐的利弊</span></p><p><span><a class="timestamp" data-timestamp="467">07:47</a> 人类的持续创新与AI的自我重复</span></p><p><span><a class="timestamp" data-timestamp="596">09:56</a> RLHF（基于人类反馈的强化学习）影响到大模型的创造力和人类的输出</span></p><p><span><a class="timestamp" data-timestamp="742">12:22</a> </span><strong><span>Prose Sandwich（散文三明治法）的上层、中层与下层</span></strong></p><p><span><a class="timestamp" data-timestamp="1007">16:47</a> 举个例子</span></p><p><span><a class="timestamp" data-timestamp="1085">18:05</a> 变量的引入</span></p><p><span><a class="timestamp" data-timestamp="1154">19:14</a> 高阶玩家可尝试</span></p><p><span><a class="timestamp" data-timestamp="1358">22:38</a> </span><strong><span>新的内容主题征集，你的意见超重要</span></strong></p><blockquote><p><span>你想收听哪个主题/话题，来加小助手微信guanweilai2026，或者在评论区留言，我们一起共创/实现你的愿望</span></p></blockquote><blockquote><p><span>参考链接：</span><a href="https://www.ibm.com/think/topics/model-collapse" data-url="https://www.ibm.com/think/topics/model-collapse"><span>what is model collapse</span></a><span> &nbsp;</span><a href="https://anderson-review.ucla.edu/ai-from-ai-a-future-of-generic-and-biased-online-content/" data-url="https://anderson-review.ucla.edu/ai-from-ai-a-future-of-generic-and-biased-online-content/"><span>AI from AI: a Future of Generic and Biased Online Content?</span></a><span> &nbsp;</span><a href="https://link.springer.com/article/10.1007/s12559-026-10568-9" data-url="https://link.springer.com/article/10.1007/s12559-026-10568-9"><span>LLM Alignment should go beyond Harmlessness–Helpfulness and incorporate Human Agency</span></a></p></blockquote><blockquote><p><span>播客Intro/Outro音乐：Music: Pixel Duck by Johny Grimes </span><a href="https://soundcloud.com/johny-grimes" data-url="https://soundcloud.com/johny-grimes"><span>soundcloud.com</span></a><span> License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: </span><a href="https://links.al/O90" data-url="https://links.al/O90"><span>links.al</span></a><span> Music promoted by Audio Library: </span><a href="https://links.al/youtube" data-url="https://links.al/youtube"><span>links.al</span></a></p></blockquote><blockquote><p><span>欢迎点赞、收藏、分享和关注我的播客呀</span></p></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkbhDJFV8h-MJ4SWBH93LbUXqSLO.m4a" length="24093772" type="audio/mp4"/>
+    <itunes:duration>00:24:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>18.如何用AI来学习大学课程</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c480ee852cf1b8bbe74758</link>
+    <guid isPermaLink="false">69c480ee852cf1b8bbe74758</guid>
+    <pubDate>Thu, 26 Mar 2026 00:45:36 +0000</pubDate>
+    <description><![CDATA[<p><span>最近看到了很多微博和贴子在讲一个人如何利用有限的AI资源学会了看似很困难的大学课程，出于好奇与兴趣，我快速上手了网络热议的方法，并总结出了自己的AI学习大学课程的公式，不妨来听听。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="129">02:09</a> 何为表演学习</span></p><span></span><p><span><a class="timestamp" data-timestamp="203">03:23</a> 怎么判断自己有没有“中表演学习的招”</span></p><span></span><p><span><a class="timestamp" data-timestamp="320">05:20</a> 【干货】大学课程学习公式</span></p><span></span><p><span><a class="timestamp" data-timestamp="649">10:49</a> 【做法】具体讲讲公式里的每一项如何去做&nbsp;</span></p><span></span><p><span><a class="timestamp" data-timestamp="1258">20:58</a> 【AI含量100%】AI怎么帮助我们学习大学课程？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1587">26:27</a> 【实例】用AI学AI</span></p><span></span><blockquote><strong><span>如果你想有机会和主播线上、线下交流，欢迎加小助手微信guanweilai2026，邀请进群，每月组织一次线上会，不定期组织线下交流会（北京、天津）</span></strong></blockquote><span></span><blockquote><span>播客Intro/Outro音乐：</span></blockquote><span></span><blockquote><span>Music: Night Ride by Joshua Moses </span><a href="https://soundcloud.com/joshuamosesmusic" data-url="https://soundcloud.com/joshuamosesmusic"><span>soundcloud.com</span></a></blockquote><span></span><blockquote><span>License: Creative Commons — Attribution 4.0 International — CC BY 4.0</span></blockquote><span></span><blockquote><span>Free Download / Stream: </span><a href="https://audiolibrary.com.co/joshua-moses/night-ride" data-url="https://audiolibrary.com.co/joshua-moses/night-ride"><span>audiolibrary.com.co</span></a></blockquote><span></span><blockquote><span>Music promoted by Audio Library: </span><a href="https://youtu.be/tJdcn6cGdC0" data-url="https://youtu.be/tJdcn6cGdC0"><span>youtu.be</span></a></blockquote><span></span><blockquote><span>灵感来源：</span><a href="https://waytoagi.feishu.cn/wiki/Mbg5w582MiGZuQkiiDIcF1O0n9e?from=from_copylink" data-url="https://waytoagi.feishu.cn/wiki/Mbg5w582MiGZuQkiiDIcF1O0n9e?from=from_copylink"><span>飞书文章</span></a><span> </span><a href="https://weibo.com/1355610915/5275213725963932" data-url="https://weibo.com/1355610915/5275213725963932"><span>微博</span></a></blockquote><span></span><blockquote><span>记得点赞、收藏、分享和关注我的播客呀</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lvIlp9XGA_S8RbE7alK5ATUwQbdm.m4a" length="35241620" type="audio/mp4"/>
+    <itunes:duration>00:36:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>17.The Bitter Lesson与原子化</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69a7cd820ed7deec90624f53</link>
+    <guid isPermaLink="false">69a7cd820ed7deec90624f53</guid>
+    <pubDate>Thu, 05 Mar 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期从阿萌老师最近感触很深的一篇文章开启（文末附链接），引申到有了AI之后每个人可能面临的原子化生活形态，再聊聊如何抵御原子化，希望可以启发到你。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="26">00:26</a> The bitter lesson, 我把它译为苦涩的一课</span></p><span></span><p><span><a class="timestamp" data-timestamp="82">01:22</a> </span><strong><span>启示1: 通用方法的巨大作用</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="141">02:21</a> </span><strong><span>启示2:设计元方法元工具去发现世界的复杂性</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="219">03:39</a> 过去听疗愈音乐付费找平台，现在？</span></p><span></span><p><span><a class="timestamp" data-timestamp="304">05:04</a> 过去记录心情找平台担心隐私，现在？</span></p><span></span><p><span><a class="timestamp" data-timestamp="377">06:17</a> 过去学代码付费上课，现在？</span></p><span></span><p><span><a class="timestamp" data-timestamp="416">06:56</a> 当日问，当日毕 【一日事，一日毕】</span></p><span></span><p><span><a class="timestamp" data-timestamp="497">08:17</a> 原子化是好事还是坏事？</span></p><span></span><p><span><a class="timestamp" data-timestamp="578">09:38</a> </span><strong><span>如何抵抗原子化</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="956">15:56</a> 有所保留与敞开心扉</span></p><span></span><p><span><a class="timestamp" data-timestamp="1116">18:36</a> 有迷失有焦虑，都不要紧</span></p><span></span><blockquote><span>播客Intro/Outro音乐：Youtube Audio Library， Music: Early Bird by Jay Someday </span><a href="https://soundcloud.com/jaysomeday" data-url="https://soundcloud.com/jaysomeday"><span>soundcloud.com</span></a><span>License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0Free Download / Stream: </span><a href="https://audiolibrary.com.co/jay-someday/early-bird" data-url="https://audiolibrary.com.co/jay-someday/early-bird"><span>audiolibrary.com.co</span></a><span>Music promoted by Audio Library: </span><a href="https://youtu.be/97cUPR_2yLs" data-url="https://youtu.be/97cUPR_2yLs"><span>youtu.be</span></a></blockquote><span></span><blockquote><span>播客剪辑：descript</span></blockquote><span></span><p><span>我的播客已上线QQ音乐、豆瓣和Apple podcast, 搜索“观未来：AI+教育”可同步收听</span></p><span></span><blockquote><strong><span>记得点赞、收藏、分享和关注我的播客呀</span></strong></blockquote><span></span><blockquote><a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html" data-url="http://www.incompleteideas.net/IncIdeas/BitterLesson.html"><em><span>The bitter lesson 原文链接</span></em></a></blockquote><span></span><blockquote><a href="https://my.feishu.cn/docx/BwxMdUrhcoFfb6xFX9ccRD65nPd" data-url="https://my.feishu.cn/docx/BwxMdUrhcoFfb6xFX9ccRD65nPd"><em><span>疗愈音乐提示词模版参考（请用于个人使用，勿商用）</span></em></a></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/ljvkx2DB_7kC7M2UmwxAB7eTh7yw.m4a" length="19781024" type="audio/mp4"/>
+    <itunes:duration>00:20:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>16.也谈空杯心态</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6986dc2ea22480add6ef5a2d</link>
+    <guid isPermaLink="false">6986dc2ea22480add6ef5a2d</guid>
+    <pubDate>Mon, 09 Feb 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期从最近爆火的OpenClaw入手，谈谈在AI应用大爆发的时代，我们每一个普通人可以拥有的空杯心态。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="35">00:35</a> OpenClaw 一匹黑马</span></p><span></span><p><span><a class="timestamp" data-timestamp="197">03:17</a> 新时代的OTT</span></p><span></span><p><span><a class="timestamp" data-timestamp="305">05:05</a> 一些成功应用AI让自己变得更多的三个案例</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a> </span><strong><span>利亚姆·奥特利 Liam Ottley 无代码创业者</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="404">06:44</a> </span><strong><span>麦凯·里格利 McKay Wrigley AI代码指挥人</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="595">09:55</a> </span><strong><span>Rowan Cheung 自动化内容媒体人</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="709">11:49</a> 一点个人进步：从一年前无代码基础到发布代码至github</span></p><span></span><p><span><a class="timestamp" data-timestamp="751">12:31</a> 对技术的祛魅</span></p><span></span><p><span><a class="timestamp" data-timestamp="799">13:19</a> 从Rundown AI列举的教育工作者和学生应用AI的例子看看教育人如何使用AI</span></p><span></span><p><span><a class="timestamp" data-timestamp="900">15:00</a> 展开讲学生场景的应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="994">16:34</a> </span><strong><span>划重点：教育从业者和学生在内容需求的两个定位差异</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="1155">19:15</a> 互动式/自主式学习对应的是空杯心态</span></p><span></span><p><span><a class="timestamp" data-timestamp="1245">20:45</a> 放下你的Ego（自我）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1302">21:42</a> </span><strong><span>没时间？听最后一段总结，再回到感兴趣的片段</span></strong></p><span></span><blockquote><span>播客Intro/Outro音乐：Youtube Audio Library， 推荐来源OpenClaw</span></blockquote><span></span><blockquote><span>播客AI剪辑：descript, 推荐来源OpenClaw</span></blockquote><span></span><blockquote><a href="https://my.feishu.cn/docx/LYGFdU1IOoMzIcxEC0YcKNVpnvh?from=from_copylink" data-url="https://my.feishu.cn/docx/LYGFdU1IOoMzIcxEC0YcKNVpnvh?from=from_copylink"><span>三个案例人物信息</span></a></blockquote><span></span><blockquote><span>记得点赞、分享和关注我的播客呀</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/luGEcSBq_2Y4ziXN3knZWUutq_Da.m4a" length="23765684" type="audio/mp4"/>
+    <itunes:duration>00:24:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmENcz7dYqeLRErIsPCXVfc5Hn8f.png"/>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>15.海外提效&amp;学习产品提名会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/696c5431ef1cf272a7fac519</link>
+    <guid isPermaLink="false">696c5431ef1cf272a7fac519</guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期挑选了2025-2026年</span><strong><span>海外ARR*超过1亿美元的AI应用公司</span></strong><span>中我使用过验证过体验的产品推荐给听友们（无商广，放心食用）</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="52">00:52</a> AI PPT制作</span></p><span></span><p><span><a class="timestamp" data-timestamp="189">03:09</a> 那些年的PPT模版</span></p><span></span><p><span><a class="timestamp" data-timestamp="251">04:11</a> 一个意外发现：用做PPT的方式学会做网页</span></p><span></span><p><span><a class="timestamp" data-timestamp="393">06:33</a> AI 视频制作</span></p><span></span><p><span><a class="timestamp" data-timestamp="477">07:57</a> 一个意外发现：用做视频的方式学会当众演讲</span></p><span></span><p><span><a class="timestamp" data-timestamp="584">09:44</a> 那些年的数字人</span></p><span></span><p><span><a class="timestamp" data-timestamp="638">10:38</a> AI 搜索</span></p><span></span><p><span><a class="timestamp" data-timestamp="650">10:50</a> 那些年的搜索</span></p><span></span><p><span><a class="timestamp" data-timestamp="753">12:33</a> 一个意外发现：用做研究的方式学会信息整合</span></p><span></span><p><span><a class="timestamp" data-timestamp="1006">16:46</a> 通用agent提名</span></p><span></span><p><span><a class="timestamp" data-timestamp="1235">20:35</a> 另一个建站工具</span></p><span></span><p><span><a class="timestamp" data-timestamp="1386">23:06</a> 可以欣赏音乐了</span></p><span></span><blockquote><span>ARR计算方式为按月收入推算年收入（有夸大的嫌疑，须谨慎参考）</span></blockquote><span></span><blockquote><span>本期封面图片：Minimax</span></blockquote><span></span><blockquote><span>播客背景音乐：Suno生成，歌词由我完成，Gemini辅助润色</span></blockquote><span></span><blockquote><span>非常感谢</span><a href="https://www.feedspot.com/fs/tk/GEbRwJMb6e9LFBMc1vdK%2BhFD%2BLBgT%2BnnFePmHAr4SPoQFMuyZCLnGx0UFkjXy0zO4w7A9Y9S8PYR3R9KHAkj2RdWCPChI%2BLlVSAVSAUIWscVR%2FnkoVkiKhMUIFLTD04IHUn79Z1IHR9GICpaAwVV%2FRJDB%2FShGPIcShYVTgjSHszkFMW0Zg8SKVcU7kvW9Ez%2BEFYJ8pNNEhtSEhpR0MFaEh9H0cCUWB8iVCgmVQ%3D%3D" data-url="https://www.feedspot.com/fs/tk/GEbRwJMb6e9LFBMc1vdK%2BhFD%2BLBgT%2BnnFePmHAr4SPoQFMuyZCLnGx0UFkjXy0zO4w7A9Y9S8PYR3R9KHAkj2RdWCPChI%2BLlVSAVSAUIWscVR%2FnkoVkiKhMUIFLTD04IHUn79Z1IHR9GICpaAwVV%2FRJDB%2FShGPIcShYVTgjSHszkFMW0Zg8SKVcU7kvW9Ez%2BEFYJ8pNNEhtSEhpR0MFaEh9H0cCUWB8iVCgmVQ%3D%3D"><span>podcast.feedspot.com</span></a><span> 对我的播客的认可，荣获2025年TOP 25中文最佳教育播客</span></blockquote><span></span><blockquote><span>记得点赞、分享和关注我的播客呀</span></blockquote><span></span><blockquote><span>节目中提到的产品名称将在评论区揭晓</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/luHvtC5Z7PzGZwBQYX6OjYe0wxXc.m4a" length="23685913" type="audio/mp4"/>
+    <itunes:duration>00:24:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpmUseE2XzgPn575I7yTrwVScDha.png"/>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>14.AI+教育实践一瞥</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/694d066763a654fa60ca47e2</link>
+    <guid isPermaLink="false">694d066763a654fa60ca47e2</guid>
+    <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>聊一下近期参加的清华大中小学人工智能通识教育年终研讨会所学所得。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="67">01:07</a> 什么是AIGE 通识教育</span></p><span></span><p><span><a class="timestamp" data-timestamp="112">01:52</a> 区分通识和赋能</span></p><span></span><p><span><a class="timestamp" data-timestamp="300">05:00</a> 跨学科融合，重点在“融合”，感受一下</span></p><span></span><p><span><a class="timestamp" data-timestamp="407">06:47</a> 清华附中的实际应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="551">09:11</a> 中学老师同样可以做到熟练应用AI</span></p><span></span><p><span><a class="timestamp" data-timestamp="581">09:41</a> 学生&amp;老师使用自己制作的智能体</span></p><span></span><p><span><a class="timestamp" data-timestamp="636">10:36</a> 三首诗，猜哪一首是真人写的（难倒在场所有学生）</span></p><span></span><p><span><a class="timestamp" data-timestamp="806">13:26</a> 思辩性提问：哪些职业受到AI的影响比较大</span></p><span></span><p><span><a class="timestamp" data-timestamp="960">16:00</a> 一点所得</span></p><span></span><p><span><a class="timestamp" data-timestamp="1145">19:05</a> 人类不是至高无上的，AI也并非天才</span></p><span></span><p><span><a class="timestamp" data-timestamp="1227">20:27</a> 提前祝2026快乐🎉</span></p><span></span><blockquote><span>封面图片：Minimax</span></blockquote><span></span><blockquote><span>播客背景音乐：Minimax生成，歌词由我完成，Gemini辅助润色</span></blockquote><span></span><blockquote><span>记得点赞、分享和关注我的播客呀</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lhJTqZZEnGowMer950cMX0SI7YkA.m4a" length="21116937" type="audio/mp4"/>
+    <itunes:duration>00:21:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft7_2xRu85Kcm_6MGzedtNypeDpV.png"/>
+    <itunes:episode>14</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>13.AI重塑教育后会平等还是更加不平等</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6942258e5e8cb26fdf4180b3</link>
+    <guid isPermaLink="false">6942258e5e8cb26fdf4180b3</guid>
+    <pubDate>Wed, 17 Dec 2025 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期聊一个相对比较大的话题，再次回归到教育的主命题上，和各位探讨一下在AI的加持下，教育会平等还是不平等。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="39">00:39</a> 在线教育语境下的平等</span></p><span></span><p><span><a class="timestamp" data-timestamp="110">01:50</a> 再度回忆“双减”</span></p><span></span><p><span><a class="timestamp" data-timestamp="182">03:02</a> AI+教育结合的场景较少</span></p><span></span><p><span><a class="timestamp" data-timestamp="252">04:12</a> 假设一：AI的参与会使教育更平等</span></p><span></span><p><span><a class="timestamp" data-timestamp="315">05:15</a> 假设二：AI的参与会使教育更加不平等</span></p><span></span><p><span><a class="timestamp" data-timestamp="332">05:32</a> 一则媒体报道</span></p><span></span><p><span><a class="timestamp" data-timestamp="375">06:15</a> 一则论文</span></p><span></span><p><span><a class="timestamp" data-timestamp="440">07:20</a> 手机多用少用似乎都不太好</span></p><span></span><p><span><a class="timestamp" data-timestamp="485">08:05</a> 继续列举支持“不平等”的假设的假设</span></p><span></span><p><span><a class="timestamp" data-timestamp="565">09:25</a> 本期彩蛋</span></p><span></span><blockquote><span>封面图片：千问</span></blockquote><span></span><blockquote><span>播客背景音乐：Suno生成，歌词和歌曲风格均由Gemini生成</span></blockquote><span></span><blockquote><span>记得点赞、分享和关注我的播客呀</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lnFNbWF2o0j2c318TaWiP0B2RwOO.m4a" length="17580086" type="audio/mp4"/>
+    <itunes:duration>00:18:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhOjorenzD-bbHX9Tv0FOVlMJf0J.png"/>
+    <itunes:episode>13</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>12.Amazon裁员的背后代表着什么</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6912da4316425737d0a7d677</link>
+    <guid isPermaLink="false">6912da4316425737d0a7d677</guid>
+    <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本月热度很大的一件事是亚马逊裁员，这次裁员的规模也是创下了这家美国电商公司的史上最多人数，让阿萌老师带着你穿过现象看本质，找到原因和对我们的启发。</span></p><span></span><p><span>节目时间线：</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="0">00:00</a> </span></strong><span>欢迎与开场： 重磅：亚马逊史上最大裁员超3万人，官方：由AI战略转型驱动。</span></p><span></span><p><span><a class="timestamp" data-timestamp="202">03:22</a> 裁员波及范围： 不只是白领和工程师，15%的HR岗位也受影响？</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="249">04:09</a> </span></strong><span>战略结构性变革： VP公开解释：裁员旨在“消除官僚作风”，实现结构性变革</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="399">06:39</a> </span></strong><span>组织扁平化与AI Agent： 削减初中级管理层，引入AI Agent取代日常管理工作</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="447">07:27</a> </span></strong><span>独家视角：AI重塑客户体验： 利用AI重塑全生态“客户体验”，而非仅提升效率</span></p><span></span><p><span><a class="timestamp" data-timestamp="600">10:00</a> 财务推测分析： 裁员是为了资助110亿的AWS项目？数据分析揭秘</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="773">12:53</a> </span></strong><span>裁员原因总结与个人应对策略： 面对经济和AI趋势，普通人如何积极积累自动化技能</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="940">15:40</a> </span></strong><span>未来工作风险预测： 标准化执行岗位会被AI取代吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1033">17:13</a> 人类的价值与战略角色： 若AI也能制定战略，我们应如何成为AI的管理者？</span></p><span></span><p><span>💡 Amazon 官方文件：</span><a href="https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai" data-url="https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai"><span>6月CEO撰文</span></a><span> </span><a href="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction" data-url="https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction"><span>10月VP撰文</span></a></p><span></span><blockquote><span>封面图片：Suno背景音乐配图</span></blockquote><span></span><blockquote><span>播客背景音乐：Suno生成 &nbsp;音乐prompt由chatgpt生成</span></blockquote><span></span><blockquote><em><span>“A warm, modern instrumental for a tech podcast about change and resilience during the Amazon layoffs. Reflective yet optimistic, conveying hope and renewal. Confident intro with calm electronic pulse and light piano; smooth interlude with gentle synths; uplifting outro with soft strings and bright piano. Ambient electronic / cinematic pop, hopeful and professional mood, moderate tempo (90–110 BPM)</span></em><span>”</span></blockquote><span></span><blockquote><span>节目时间线由NotebookLM辅助生成</span></blockquote><span></span><blockquote><span>记得点赞收藏和关注我的播客呀</span></blockquote><span></span><blockquote><span>如果对你有启发和帮助，可以考虑支持一杯咖啡☕️</span></blockquote>]]></description>
+    <enclosure url="https://media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkb-1ch6NNpeilKwVWiBqEiff-Yw.m4a" length="18714780" type="audio/mp4"/>
+    <itunes:duration>00:19:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmATeDrWTM8IXjZkYDulxOyOr5bw.png"/>
+    <itunes:episode>12</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

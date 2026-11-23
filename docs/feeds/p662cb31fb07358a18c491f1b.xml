@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>宇宙来信</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/662cb31fb07358a18c491f1b</link>
+  <description><![CDATA[鲁米说，“宇宙中的一切都在你体内，向内寻求一切的答案。”那么把宇宙想借由“李向”说的话，记录下来。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:12:10 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662cb31fb07358a18c491f1b.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>李向</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fkkzg6QGpzc6KLUq71CxXoYfvWFh.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fkkzg6QGpzc6KLUq71CxXoYfvWFh.jpg</url>
+    <title>宇宙来信</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/662cb31fb07358a18c491f1b</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

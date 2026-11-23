@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>宋雯婷｜“昨天晚上Radio”</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/61696cf272b73afc23f0eb77</link>
+  <description><![CDATA[一档瞎聊天的访谈节目。
+曾用名：昨天晚上Radio
+进群添加：woshimaidou-
+
+
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:23:54 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61696cf272b73afc23f0eb77.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>过儿_u5Xj</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Ft2430WoBmDrsQ7Obf8gxLhuHd1Y.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Ft2430WoBmDrsQ7Obf8gxLhuHd1Y.png</url>
+    <title>宋雯婷｜“昨天晚上Radio”</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/61696cf272b73afc23f0eb77</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

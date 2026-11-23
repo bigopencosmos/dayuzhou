@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>长夏</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64218699cff36df8a142ef28</link>
+  <description><![CDATA[长夏似太古，日静如小年]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:30:19 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64218699cff36df8a142ef28.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>猫完</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrlqOleG-DD1lQudd-iMbzu9Ex0j.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrlqOleG-DD1lQudd-iMbzu9Ex0j.png</url>
+    <title>长夏</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64218699cff36df8a142ef28</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>长夏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/651f225f0432a31578f779b4</link>
+    <guid isPermaLink="false">651f225f0432a31578f779b4</guid>
+    <pubDate>Fri, 06 Oct 2023 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>章节</span></strong></p><p><span><a class="timestamp" data-timestamp="99">01:39</a> 中法班</span></p><p><span><a class="timestamp" data-timestamp="302">05:02</a> 罗斯柴尔德</span></p><p><span><a class="timestamp" data-timestamp="905">15:05</a> 摩根大通</span></p><p><span><a class="timestamp" data-timestamp="1385">23:05</a> 面馆、放羊、运动员</span></p><p><span><a class="timestamp" data-timestamp="1738">28:58</a> 狼性</span></p><p><span><a class="timestamp" data-timestamp="1857">30:57</a> 交易员</span></p><p><span><a class="timestamp" data-timestamp="2068">34:28</a> 读博</span></p><p><span><a class="timestamp" data-timestamp="3062">51:02</a> 退休</span></p><p><span><a class="timestamp" data-timestamp="3925">1:05:25</a> 名利场</span></p><p><span><a class="timestamp" data-timestamp="4123">1:08:43</a> Volar</span></p><p><span><a class="timestamp" data-timestamp="4245">1:10:45</a> 八卦</span></p><p><span><a class="timestamp" data-timestamp="4337">1:12:17</a> 平静</span></p><p><span><a class="timestamp" data-timestamp="4752">1:19:12</a> 梦想之地</span></p><p><span><a class="timestamp" data-timestamp="4990">1:23:10</a> 退休</span></p><p><span><a class="timestamp" data-timestamp="5470">1:31:10</a> 能量的消耗</span></p><p><span><a class="timestamp" data-timestamp="5710">1:35:10</a> 能力的结构</span></p><p><span><a class="timestamp" data-timestamp="5804">1:36:44</a> 冒险与自由</span></p><p><span><a class="timestamp" data-timestamp="6121">1:42:01</a> 丁元英与《天道》</span></p><p><span><a class="timestamp" data-timestamp="6260">1:44:20</a> 鲸伏</span></p><p><span><a class="timestamp" data-timestamp="6415">1:46:55</a> 从冬至夏</span></p><p><span><a class="timestamp" data-timestamp="7355">2:02:35</a> 不真实</span></p><p><strong><span>预告</span></strong></p><p><span>下期与花总聊养老、生命延长、脑机互联与人工智能</span></p><p><strong><span>联系</span></strong></p><p><span>微博@鲸伏，微信dewbot</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llPs1-MORQ-mGWc6tgTninCM9wb8.m4a" length="128969681" type="audio/mp4"/>
+    <itunes:duration>02:15:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjCPssdya6guzVe0LnteimzNCU8Z.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

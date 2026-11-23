@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>产品键盘侠PKW</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/621b9dc86465bb1bb83bffec</link>
+  <description><![CDATA[记录一些具体的业务思考，不求泛用，但求甚解。
+
+关于我：
+
+一直做线下交易业务，做过网约车产品经理，现在做零售运营。共性是始终都在离用户最近的团队，始终在做有关于用户价值的权衡和探索。
+
+虽然不再是产品经理，但依然笃信思辨，对于产品经理的身份认同未曾改变。但归根结底，在真实世界面前，不过是一个产品键盘侠（Product Keyboard Warrior）罢了。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:42:26 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p621b9dc86465bb1bb83bffec.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>EvglS3</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg</url>
+    <title>产品键盘侠PKW</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/621b9dc86465bb1bb83bffec</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>#30 聊聊售后业务中的平衡之道 Ⅱ（硬核向）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67e00a23dd11f9c8c18d733f</link>
+    <guid isPermaLink="false">67e00a23dd11f9c8c18d733f</guid>
+    <pubDate>Sun, 23 Mar 2025 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>售后业务的核心职责是解决问题、保障体验，但这个过程需要在成本约束下寻求平衡 —— 最近我对这个老生常谈的话题有了一些更深的理解，可能还是那些事儿，但感觉思考得比之前更系统，也更有操作性了。</span></p><span></span><p><span>以下为第二部分：</span></p><span></span><p><span><a class="timestamp" data-timestamp="53">00:53</a> 判定类问题的解法之一：用运营效率收敛模糊度</span></p><span></span><p><span><a class="timestamp" data-timestamp="334">05:34</a> 管理模糊度首先是一个资源分配问题，其次才是策略问题和协同问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="555">09:15</a> 关于管理模糊度，几个搭配进退、动态调节的例子</span></p><span></span><p><span><a class="timestamp" data-timestamp="934">15:34</a> 资损并不是一个风险概率或算术题，而是一个复杂的经营问题，是体验的镜像</span></p><span></span><p><span><a class="timestamp" data-timestamp="1063">17:43</a> 售后承接的是双边诉求各自积攒一段时间后的波次式脉冲</span></p><span></span><p><span><a class="timestamp" data-timestamp="1259">20:59</a> 所谓的平衡、所谓业务阶段的演进，就像是在玩华容道一样，售后也是这样</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/621b9dc86465bb1bb83bffec/lpzbel0dYoZJppL8XDfqq0jHHC4H.m4a" length="22915789" type="audio/mp4"/>
+    <itunes:duration>00:23:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#29 聊聊售后业务中的平衡之道 Ⅰ（硬核向）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67d68a750766616acd49b51a</link>
+    <guid isPermaLink="false">67d68a750766616acd49b51a</guid>
+    <pubDate>Sun, 16 Mar 2025 08:27:55 +0000</pubDate>
+    <description><![CDATA[<p><span>售后业务的核心职责是解决问题、保障体验，但这个过程需要在成本约束下寻求平衡 —— 最近我对这个老生常谈的话题有了一些更深的理解，可能还是那些事儿，但感觉思考得比之前更系统，也更有操作性了。</span></p><span></span><p><span>以下为第一部分：</span></p><span></span><p><span><a class="timestamp" data-timestamp="146">02:26</a> 不同阶段当然需要有相适配的策略，但背后有一个统一的规律</span></p><span></span><p><span><a class="timestamp" data-timestamp="283">04:43</a> 售后业务有两个成本约束，他们决定了售后的资源边界</span></p><span></span><p><span><a class="timestamp" data-timestamp="601">10:01</a> 真正考验判断力的阶段，怎么选择、怎么取舍、怎么躲过回旋镖</span></p><span></span><p><span><a class="timestamp" data-timestamp="900">15:00</a> 面对两类问题，怎么用三种思考逻辑把约束变成资源用出去</span></p><span></span><p><span><a class="timestamp" data-timestamp="1014">16:54</a> 规则类问题是售后业务的基本框架，决定了如何定调</span></p><span></span><p><span><a class="timestamp" data-timestamp="1224">20:24</a> 两个具体的案例，都是关于什么时候可以退款</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/621b9dc86465bb1bb83bffec/lnXVFXrdbrRkTQr-TGw-DlT9Wr3J.m4a" length="23800450" type="audio/mp4"/>
+    <itunes:duration>00:24:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#28 零售的逻辑：关于淘宝/多多/社区团购的学习笔记</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6739b5b4f373fe5d4deec2a0</link>
+    <guid isPermaLink="false">6739b5b4f373fe5d4deec2a0</guid>
+    <pubDate>Sun, 17 Nov 2024 09:25:20 +0000</pubDate>
+    <description><![CDATA[<p><span>近期对零售、对电商、对拼多多、对淘宝、对社区团购的一些思考和笔记，把之前许多模模糊糊的理解和体感串在一起了。主要聊到零售是一门流通生意，关键是以什么样的方式解决什么商品的流通效率（<a class="timestamp" data-timestamp="71">01:11</a>）。并尝试讨论了下面 3 个有趣的问题：</span></p><p><strong><span>问题 1：对于同样的商品，为什么淘宝就是不如多多便宜？为什么淘宝就是没法把价格降下去？</span></strong></p><p><span>（该部分学习自即刻@黑黑无常，在此鸣谢）</span></p><p><span><a class="timestamp" data-timestamp="147">02:27</a> 淘宝&amp;抖音的逻辑</span></p><p><span><a class="timestamp" data-timestamp="353">05:53</a> 多多的逻辑</span></p><p><span><a class="timestamp" data-timestamp="486">08:06</a> 京东的逻辑</span></p><p><span><a class="timestamp" data-timestamp="558">09:18</a> 更好的东西在合适的模式下，可以卖出更合理的价格</span></p><p><strong><span>问题 2：对于同样的商品，为什么多多的社区团购也不如多多电商便宜？社区团购的成本不是更低、时效更快嘛？</span></strong></p><p><span><a class="timestamp" data-timestamp="636">10:36</a> 最初比较狭隘的猜测：平台收入和选择</span></p><p><span><a class="timestamp" data-timestamp="763">12:43</a> 从供需匹配和时效性理解背后的原因仍是流通效率</span></p><p><strong><span>问题 3：社区团购解决了什么品类的流通效率？</span></strong></p><p><span><a class="timestamp" data-timestamp="969">16:09</a> 生鲜电商的逻辑</span></p><p><span><a class="timestamp" data-timestamp="1059">17:39</a> 海量供给和履约确定性压缩了计划性消费的提前量</span></p><p><span><a class="timestamp" data-timestamp="1177">19:37</a> 社区团购的优势场景</span></p><p><span><a class="timestamp" data-timestamp="1245">20:45</a> 总结：理解零售，就是要理解如何让特定商品以最优的效率到达需要它的人手中</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljzyRi40R1PuUgxiTDeSJ8myw8W-.m4a" length="21820149" type="audio/mp4"/>
+    <itunes:duration>00:22:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#27 如何突破边界困境</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6726d52333c798676ff97732</link>
+    <guid isPermaLink="false">6726d52333c798676ff97732</guid>
+    <pubDate>Sun, 03 Nov 2024 12:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊怎么识别一个方向会不会越做越窄，怎么理解和突破边界困境：</span></p><span></span><p><span><a class="timestamp" data-timestamp="23">00:23</a> 可闭环指标 R 和开放型的 0 问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="198">03:18</a> 组织分工会有惯性，但挡不住隔壁有个特种兵</span></p><span></span><p><span><a class="timestamp" data-timestamp="261">04:21</a> 以公心保留火种，做体验和做策略的殊途同归</span></p><span></span><p><span><a class="timestamp" data-timestamp="421">07:01</a> 一个案例：你眼中不属于你的问题，或许在别人眼中是你最应该解决的问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="587">09:47</a> 大部分方向其实都是在玩一个爬绳子的游戏</span></p><span></span><p><span><a class="timestamp" data-timestamp="770">12:50</a> 从 0 问题到千千万万</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llSoJc1gHg2cqNHLdVMFrdkc8qH6.m4a" length="13692909" type="audio/mp4"/>
+    <itunes:duration>00:14:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#26 业务皆有周期&amp;审核策略更优解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671e1c8ceb46cd6655125a3f</link>
+    <guid isPermaLink="false">671e1c8ceb46cd6655125a3f</guid>
+    <pubDate>Sun, 27 Oct 2024 10:57:16 +0000</pubDate>
+    <description><![CDATA[<p><span>这周随手记录的思考里，两个还算有头有尾的想法：</span></p><span></span><p><strong><span>业务皆有周期</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="78">01:18</a> 任何业务方向都有「周期」，就像一个业务也会受到宏观经济的影响</span></p><span></span><p><span><a class="timestamp" data-timestamp="196">03:16</a> 任何一个方向并不是越精深越好，也要适时寻找新价值，让自己变得更宽</span></p><span></span><p><span><a class="timestamp" data-timestamp="273">04:33</a> 理解「周期」的意义在于更好地接受它，然后学会提前观察它、识别它</span></p><span></span><p><strong><span>审核策略更优解</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="468">07:48</a> 关于模糊问题的策略设计，旧认知是上下游的互相兜底让双方都能更游刃有余</span></p><span></span><p><span><a class="timestamp" data-timestamp="595">09:55</a> 但问题在于，模糊问题反而更需要唯一的、明确的结论，而不是不同人给出不同的解读，互相兜底变成了循环依赖</span></p><span></span><p><span><a class="timestamp" data-timestamp="741">12:21</a> 每一个方向都应该努力让证据链在自己这环变得更健壮，而不是半吊子甩给下游</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrb4zhKBLPo4hGgQXU7WAUESs19K.m4a" length="14513714" type="audio/mp4"/>
+    <itunes:duration>00:14:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#25 售后方向怎么做深做宽</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671638dbdb2cf82757d70959</link>
+    <guid isPermaLink="false">671638dbdb2cf82757d70959</guid>
+    <pubDate>Mon, 21 Oct 2024 11:19:55 +0000</pubDate>
+    <description><![CDATA[<p><span>当你逐渐理解一个业务本身，再带着这些理解回来看某一个方向的时候，确实会有一些新的思考：</span></p><span></span><p><span><a class="timestamp" data-timestamp="36">00:36</a> 国内零售太卷了，差异化的机会反而给到了零售渠道</span></p><span></span><p><span><a class="timestamp" data-timestamp="177">02:57</a> 低增长环境下，售后是线上零售挽回用户的关键阵地</span></p><span></span><p><span><a class="timestamp" data-timestamp="280">04:40</a> 第一件事：把既有的解决方案做好 / 给定原则和指标优化</span></p><span></span><p><span><a class="timestamp" data-timestamp="329">05:29</a> 第二件事：给出更好的解决方案 / 售后多少带点销售属性</span></p><span></span><p><span><a class="timestamp" data-timestamp="509">08:29</a> 第三件事：覆盖更微弱的信号 / 还是要主动把资源花出去</span></p><span></span><p><span><a class="timestamp" data-timestamp="669">11:09</a> 第四件事：把方案自助化 / 每一种配比都是一个平行宇宙</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lowDoNAHR7TycJ73KVItGtFvyGYr.m4a" length="15555083" type="audio/mp4"/>
+    <itunes:duration>00:15:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#24 如何更快理解业务</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66d694675a91beebb36c22f6</link>
+    <guid isPermaLink="false">66d694675a91beebb36c22f6</guid>
+    <pubDate>Tue, 03 Sep 2024 04:45:27 +0000</pubDate>
+    <description><![CDATA[<p><span>两个迁移性还不错的思路：</span></p><span></span><p><span><a class="timestamp" data-timestamp="50">00:50</a> 关键是让业务信息自动涌向自己</span></p><span></span><p><span><a class="timestamp" data-timestamp="238">03:58</a> 放出拦路虎，慢慢吃经验升级</span></p><span></span><p><span><a class="timestamp" data-timestamp="378">06:18</a> 另一个比较扎实，比较厚积薄发的思路</span></p><span></span><p><span><a class="timestamp" data-timestamp="547">09:07</a> 对重要但多数人没有体感的议题形成掌控力</span></p><span></span><p><span><a class="timestamp" data-timestamp="722">12:02</a> 在更多的灰色地带中，拥有更深入的视角</span></p><span></span><p><span>前序内容：</span></p><span></span><p><a href="https://www.xiaoyuzhoufm.com/episodes/63b8f609289d2739647d95f3" data-url="https://www.xiaoyuzhoufm.com/episodes/63b8f609289d2739647d95f3"><span>&nbsp;#8 懂业务的内涵&amp;产品经理更擅长什么</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvYReDt7Oz8xkajrqbtpGcDXV4RH.m4a" length="14033700" type="audio/mp4"/>
+    <itunes:duration>00:14:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#23 再聊产品经理转运营/业务</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66c214bfdb5e6d6bf9325411</link>
+    <guid isPermaLink="false">66c214bfdb5e6d6bf9325411</guid>
+    <pubDate>Mon, 19 Aug 2024 02:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>尝试一种更简单的形式，把最近一段时间针对相同话题的碎片思考串在一起讲一讲：</span></p><span></span><p><span><a class="timestamp" data-timestamp="49">00:49</a> 零散的信号做不成一锤子买卖，反而让产品经理离用户更远了</span></p><span></span><p><span><a class="timestamp" data-timestamp="301">05:01</a> 产品和运营各自的不容易，一个要写 PRD，一个要面对丛林沟通</span></p><span></span><p><span><a class="timestamp" data-timestamp="531">08:51</a> 产品转业务、转运营，难的不在一跳，而是二跳时的定位和心态</span></p><span></span><p><strong><span>前序内容：</span></strong></p><span></span><p><a href="https://www.xiaoyuzhoufm.com/episodes/63f0d49751a4e4150ac027db" data-url="https://www.xiaoyuzhoufm.com/episodes/63f0d49751a4e4150ac027db"><span>#12 产品经理和运营的差异 Ⅰ：认知和反思</span></a></p><span></span><p><a href="https://www.xiaoyuzhoufm.com/episodes/63f869d679d1c9aec86c1a6e" data-url="https://www.xiaoyuzhoufm.com/episodes/63f869d679d1c9aec86c1a6e"><span>#13 产品经理和运营的差异 Ⅱ：收获</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln1A2Zf9Ha8B5ZnYSGi-TX-OhkJu.m4a" length="14535207" type="audio/mp4"/>
+    <itunes:duration>00:14:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#22 决策应该基于体感，逻辑只能过滤风险</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66555307c59d1e575727113f</link>
+    <guid isPermaLink="false">66555307c59d1e575727113f</guid>
+    <pubDate>Tue, 28 May 2024 03:44:07 +0000</pubDate>
+    <description><![CDATA[<p><span>关于汇报和决策的一些新理解：</span></p><span></span><p><span><a class="timestamp" data-timestamp="34">00:34</a> 科学决策是自我要求，但高质量的决策并不全部来自事无巨细的盘算</span></p><span></span><p><span><a class="timestamp" data-timestamp="100">01:40</a> 过去：充分理解和思考 Why 是借事修人，好比日常挥刀五百下</span></p><span></span><p><span><a class="timestamp" data-timestamp="222">03:42</a> 实际：老板早就有自己的判断了，你汇报的作用是提供依据/子弹/台阶</span></p><span></span><p><span><a class="timestamp" data-timestamp="300">05:00</a> 一个案例：一切都是为了解决问题，你是老板的抓手，不是老板的参谋</span></p><span></span><p><span><a class="timestamp" data-timestamp="613">10:13</a> 展开聊聊：老板到底关不关注分析的严谨性</span></p><span></span><p><span><a class="timestamp" data-timestamp="728">12:08</a> 展开聊聊：如何看待老板用体感做决策</span></p><span></span><p><span><a class="timestamp" data-timestamp="939">15:39</a> 汇报的真正价值是信息输入、铺垫认知</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrwny1DqUZMklcwxFlup3R0Gqh1a.m4a" length="16728026" type="audio/mp4"/>
+    <itunes:duration>00:17:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#21调研见闻：真实世界的交易场景</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65fafe0600c2a01e157c656a</link>
+    <guid isPermaLink="false">65fafe0600c2a01e157c656a</guid>
+    <pubDate>Wed, 20 Mar 2024 19:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>上周去一线调研，对交易产品的用户场景有了一些认知迭代，觉得还挺有意思的，也 echo 了「键盘侠」这个播客主题。</span></p><p><span><a class="timestamp" data-timestamp="83">01:23</a> 先讲一个更容易理解的业务场景</span></p><p><span><a class="timestamp" data-timestamp="220">03:40</a> 说回这次调研：从冰冷的管理考核，到层层转移和加热的人情世故</span></p><p><span><a class="timestamp" data-timestamp="602">10:02</a> 触动：归根结底还是个键盘侠</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnsbplompPM_gLbWjIKWEcil6OQw.m4a" length="13411010" type="audio/mp4"/>
+    <itunes:duration>00:13:40</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZubGVwMXVMOGQ1VmpFY3ZLb2xQdVM4Vm8tNVYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#20 复盘：内在动力和变得具体</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65e48039da891a9cd9c86c31</link>
+    <guid isPermaLink="false">65e48039da891a9cd9c86c31</guid>
+    <pubDate>Sun, 03 Mar 2024 13:50:49 +0000</pubDate>
+    <description><![CDATA[<p><span>一个「大厂奋斗逼」阶段性复盘，聊到了以下内容：</span></p><p><span><a class="timestamp" data-timestamp="26">00:26</a> 述职的意义：真诚地面对自己，创造成长的正反馈</span></p><p><span><a class="timestamp" data-timestamp="241">04:01</a> 接受了自己的优劣势都来自于强内在动力</span></p><p><span><a class="timestamp" data-timestamp="540">09:00</a> 具体的力量、in the zone</span></p><p><span><a class="timestamp" data-timestamp="893">14:53</a> 彼得原理推演版：团队永远无法处在最满意的状态</span></p><p><span><a class="timestamp" data-timestamp="994">16:34</a> 通过关注噪音找到新的信号</span></p><p><span><a class="timestamp" data-timestamp="1226">20:26</a> 试着先开枪再瞄准</span></p><p><span><a class="timestamp" data-timestamp="1427">23:47</a> 关注人设、掌握自主权</span></p><p><span><a class="timestamp" data-timestamp="1634">27:14</a> 把自己当作这里的人，兼容更多不一样的人</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmuW35Fr-3Y9cPMtE-xYQ2KphUVA.m4a" length="28759932" type="audio/mp4"/>
+    <itunes:duration>00:29:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#19 交易业务的判责怎么做</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65a88f0d6d045a7f5e20f428</link>
+    <guid isPermaLink="false">65a88f0d6d045a7f5e20f428</guid>
+    <pubDate>Thu, 18 Jan 2024 02:38:05 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊我在判责这个业务方向做了半年的一些思考</span></p><p><span>【Part 1】</span></p><p><span><a class="timestamp" data-timestamp="184">03:04</a> 判责的业务价值：判定和落实管理责任</span></p><p><span><a class="timestamp" data-timestamp="243">04:03</a> 表层：策略角度，拆解和策略保障</span></p><p><span><a class="timestamp" data-timestamp="504">08:24</a> 内在：管理角度，为管理赋能的抓手</span></p><p><span><a class="timestamp" data-timestamp="685">11:25</a> 外延：经营角度，成本分摊的依据</span></p><p><span><a class="timestamp" data-timestamp="994">16:34</a> 挑战：准不容易被感受到，不准才容易被感受到</span></p><p><span>【Part 2】</span></p><p><span><a class="timestamp" data-timestamp="1060">17:40</a> 准的构成和难点</span></p><p><span><a class="timestamp" data-timestamp="1080">18:00</a> 结果/责任 = 特征 + 规则</span></p><p><span><a class="timestamp" data-timestamp="1212">20:12</a> 规则的准确率很难被量化</span></p><p><span><a class="timestamp" data-timestamp="1406">23:26</a> 模糊性的来源：很难实锤+成本/时效约束</span></p><p><span><a class="timestamp" data-timestamp="1549">25:49</a> 模糊性的结果：真相存在每个人心中，自证很难</span></p><p><span>【Part 3】</span></p><p><span><a class="timestamp" data-timestamp="1610">26:50</a> 准的解题思路</span></p><p><span><a class="timestamp" data-timestamp="1622">27:02</a> 特征审核：明确能明确的+找到最粗壮的大腿</span></p><p><span><a class="timestamp" data-timestamp="1732">28:52</a> 人审：搞懂人审约等于搞懂判责</span></p><p><span><a class="timestamp" data-timestamp="2151">35:51</a> 不审：有些场景下是更好的选择</span></p><p><span><a class="timestamp" data-timestamp="2285">38:05</a> 大腿：尽职尽责、盖棺定论</span></p><p><span><a class="timestamp" data-timestamp="2506">41:46</a> 规则设计：足够白盒和健壮</span></p><p><span><a class="timestamp" data-timestamp="2588">43:08</a> 追求充分但不是严格还原物理世界</span></p><p><span>【Part 4】</span></p><p><span><a class="timestamp" data-timestamp="2909">48:29</a> 一些还在思考的问题</span></p><p><span><a class="timestamp" data-timestamp="2924">48:44</a> 判罚模式：对标法律诉讼/仲裁</span></p><p><span><a class="timestamp" data-timestamp="3112">51:52</a> 对人做功：真正的中立是下场斡旋</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liJh1bQQV-4iptCe0bZ1SNzI-xSl.m4a" length="55751543" type="audio/mp4"/>
+    <itunes:duration>00:56:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#18 关于分工的几个新理解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64d0807980c9ec4c5f95def3</link>
+    <guid isPermaLink="false">64d0807980c9ec4c5f95def3</guid>
+    <pubDate>Mon, 07 Aug 2023 05:26:17 +0000</pubDate>
+    <description><![CDATA[<p><span>从过去被动的、想要挣脱外部阻力成长的视角，切换到了怎么对全局更有掌控感、管理成本更低的视角，对分工的一些新理解。</span></p><span></span><p><span><a class="timestamp" data-timestamp="50">00:50</a> 理解组织内部分工模式的基础</span></p><span></span><p><span><a class="timestamp" data-timestamp="331">05:31</a> 产品和运营内部分工时，需要考虑因素是不同的</span></p><span></span><p><span><a class="timestamp" data-timestamp="599">09:59</a> 什么样的工作内容，适合什么样的分工模式</span></p><span></span><p><span><a class="timestamp" data-timestamp="795">13:15</a> 每个方向的成长都是在做好工具的同时，挣脱工具的束缚</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpDKCl28Zu5hHMqTXnAsMDZBZEFd.m4a" length="14946720" type="audio/mp4"/>
+    <itunes:duration>00:15:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#17 把它们当作一类问题</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64c72a4cb3f6c440a87698a4</link>
+    <guid isPermaLink="false">64c72a4cb3f6c440a87698a4</guid>
+    <pubDate>Mon, 31 Jul 2023 03:28:12 +0000</pubDate>
+    <description><![CDATA[<p><span>一个近期感触很深的思考方式：以「一类问题」的视角去理解挑战和困难</span></p><span></span><p><span>当然这个思维方式也有一些前提条件：</span></p><span></span><p><span>1. 你的角色，你能调动的资源</span></p><span></span><p><span>2. 你自身的诉求，是有限游戏还是无限游戏</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnjxKgUwQN_U9q_vkgB9Q-lHpJ6v.m4a" length="9201262" type="audio/mp4"/>
+    <itunes:duration>00:09:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#16 价值难以量化的方向怎么做</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/648eeab7e16019bcbcfd7d53</link>
+    <guid isPermaLink="false">648eeab7e16019bcbcfd7d53</guid>
+    <pubDate>Sun, 18 Jun 2023 11:29:59 +0000</pubDate>
+    <description><![CDATA[<p><span>以用户体验/体验治理为例，聊聊这类方向怎么做</span></p><span></span><p><span><a class="timestamp" data-timestamp="202">03:22</a> 一场关于「信任」的游戏</span></p><span></span><p><span><a class="timestamp" data-timestamp="317">05:17</a> 从业务目标、方向策略、指标、项目和资源分别说开去</span></p><span></span><p><span><a class="timestamp" data-timestamp="718">11:58</a> 核心困境：资源不可控、不闭环</span></p><span></span><p><span><a class="timestamp" data-timestamp="957">15:57</a> 观念改变：自上而下和潜移默化</span></p><span></span><p><span><a class="timestamp" data-timestamp="1094">18:14</a> 这类方向的额外收益和弊端</span></p><span></span><figure><img src="https://image.xyzcdn.net/FoqzhdUts1JT2eP0ayrrGmRR5UJ9.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqDQ8Kjn0PvMHi9FgWneHjKvSbjX.m4a" length="20512878" type="audio/mp4"/>
+    <itunes:duration>00:20:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrqkpqqT5jzgi1bshkOU-jRF2Aql.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

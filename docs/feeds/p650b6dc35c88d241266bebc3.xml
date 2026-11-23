@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>英国日记</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/650b6dc35c88d241266bebc3</link>
+  <description><![CDATA[小黄鱼播客制作人婉莹在英国一个月期间的旅行看展记录。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:10:43 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p650b6dc35c88d241266bebc3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>wanying</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Frnhj0-ffzxrHu8v9bhRwczFTXka.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Frnhj0-ffzxrHu8v9bhRwczFTXka.jpg</url>
+    <title>英国日记</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/650b6dc35c88d241266bebc3</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>做不了｜设计电波</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/625abab273621c934edf90c6</link>
+  <description><![CDATA[做不了电台是一档想到啥说啥的聊天节目，由三位互联网大厂的设计人共同创建。目前没有确定排期，可能会意外更新。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:15:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/m7wfvublajft.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>明恩Mingn</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FtWqe6_828Dui-55L9CV2_BsKMDd.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FtWqe6_828Dui-55L9CV2_BsKMDd.jpg</url>
+    <title>做不了｜设计电波</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/625abab273621c934edf90c6</link>
+  </image>
+  <itunes:category text="Arts"/>
+  <item>
+    <title>E22 AI 时代，设计师的能力边界和品味</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa96ac39d3264778169b54d</link>
+    <guid isPermaLink="false">6aa96ac39d3264778169b54d</guid>
+    <pubDate>Tue, 15 Sep 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>半年前，我们还在节目里说「AI 就这？」。</span></p><p><span>半年后，多少有点被打脸了。</span></p><p><span>AI 已经真正开始进入设计师的日常工作：写代码、做 Demo、拆产品、参与 Agent 行为设计。很多以前觉得离设计师很远的事情，现在真的开始变成工作流的一部分。</span></p><p><span>但做得越多，我们也越发现，AI 并没有简单地让「人人都成为 Builder」。它扩大了设计师的能力边界，也带来了新的问题：设计师到底该做到哪里？AI 是在提升设计质量，还是只是在加速执行？哪些变化真的有价值，哪些只是被 AI 热潮推着走？当所有 AI 产品都变成输入框和 Chat，新的产品范式又会从哪里出现？</span></p><p><span>这期我们和一位 AI 创业公司的设计负责人 guangxi 一起，聊了聊这半年被 AI 改变的设计工作、踩过的坑，以及 Agent 产品设计、Harness、GUI、Taste 和下一代产品可能长什么样。</span></p><p><strong><span>时间轴</span></strong></p><p><span><a class="timestamp" data-timestamp="164">02:44</a> AI 正在怎么改变设计师的工作</span><br><span><a class="timestamp" data-timestamp="583">09:43</a> 从人人都是 Builder到重新认识职能边界</span><br><span><a class="timestamp" data-timestamp="1110">18:30</a> AI 提升的是设计质量，还是只是生产效率</span><br><span><a class="timestamp" data-timestamp="2223">37:03</a> Harness、模型能力，以及那些可能半年后就过时的设计</span><br><span><a class="timestamp" data-timestamp="2626">43:46</a> 聊天框之外：语音、主动 AI 与下一代产品范式</span><br><span><a class="timestamp" data-timestamp="2946">49:06</a> AI 时代为什么反而更需要产品打磨和 Taste</span><br><span><a class="timestamp" data-timestamp="4250">1:10:50</a> 半年之后，设计师的工作还会是什么样</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/625abab273621c934edf90c6/lkLt2G2GUz_NRC9ja2X9_ebT40Qk.m4a" length="74335976" type="audio/mp4"/>
+    <itunes:duration>01:16:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhLjqZvHVqRvtMjw_5CpkdXeVgl0.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E21 AI 就这？设计师的焦虑与平静</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/692db7400d5237d4de6ebdca</link>
+    <guid isPermaLink="false">692db7400d5237d4de6ebdca</guid>
+    <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们三个人从各自的工作现场出发，聊了聊这三年 AI 浪潮之下，</span><strong><span>体验设计师的日常到底变了多少</span></strong><span>：</span><br><span>谁的工作真的被改写了？谁只是被 KPI 和口号裹挟？以及，当“AI”成了业务的万能解药，我们到底该紧张，还是该冷静。</span></p><span></span><h3><strong><span><a class="timestamp" data-timestamp="40">00:40</a> </span></strong><span>工作流程里的 AI</span></h3><span></span><h3><span><a class="timestamp" data-timestamp="350">05:50</a> AI 成为“业务万能解药”</span></h3><span></span><h3><span><a class="timestamp" data-timestamp="640">10:40</a> 设计工具的落差</span></h3><span></span><h3><span><a class="timestamp" data-timestamp="860">14:20</a> 设计师焦虑与职业延展</span></h3><span></span><h3><strong><span><a class="timestamp" data-timestamp="1230">20:30</a> 团队对 AI 的混乱预期</span></strong></h3><span></span><h3><strong><span><a class="timestamp" data-timestamp="1505">25:05</a> </span></strong><span>真实结论：AI 就那样</span></h3>]]></description>
+    <enclosure url="https://media.xyzcdn.net/625abab273621c934edf90c6/lrzJchMIzaWDzLuWeM7AjS6MHcpc.m4a" length="35627578" type="audio/mp4"/>
+    <itunes:duration>00:36:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FocpUqh3LqYwOVpeqLBz-4PN099W.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E20 从大厂到AI创业：一位设计师的第三次成长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68c2e80ba56ca3e0c4f3c0c0</link>
+    <guid isPermaLink="false">68c2e80ba56ca3e0c4f3c0c0</guid>
+    <pubDate>Thu, 11 Sep 2025 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期我们邀请到了 AI Product Studio One2X 的设计合伙人不一，聊聊他 12 年的设计经历与人生选择。他的职业路径从创业到大厂，再到如今的 AI 团队；在此之外，他还开过设计公司、酒吧和理发店。一路走来，他始终坚持做创造，思考在卷的环境中如何找到设计师的价值，也许能为正在职场探索的你带来启发。</span></p><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> 开场：嘉宾自我介绍与背景</span><br><span><a class="timestamp" data-timestamp="180">03:00</a> 为什么选择设计</span><br><span><a class="timestamp" data-timestamp="570">09:30</a> 三段关键成长：初创、大厂、独立</span><br><span><a class="timestamp" data-timestamp="1230">20:30</a> 行业变化：设计师价值与“卷”</span><br><span><a class="timestamp" data-timestamp="1650">27:30</a> 管理还是专家：拒绝管理的理由</span><br><span><a class="timestamp" data-timestamp="2100">35:00</a> 大厂 vs 创业：三条路的选择</span><br><span><a class="timestamp" data-timestamp="2580">43:00</a> 招聘标准：好奇心、输出力与审美</span><br><span><a class="timestamp" data-timestamp="3000">50:00</a> 给年轻设计师的建议</span></p><span></span><p><span>不一的微信：noone_wcp</span></p><span></span><p><span>不一的公众号：Minus Lab减法实验室</span></p><span></span><p><a href="https://one2x-ai.feishu.cn/docx/HYkPdrmaoo10FLxNHj4cpeTvnce" data-url="https://one2x-ai.feishu.cn/docx/HYkPdrmaoo10FLxNHj4cpeTvnce"><span>One2X公司介绍</span></a></p><span></span><p><a href="https://one2x-ai.feishu.cn/wiki/QNqww0PiIi08Nfk1TdXcVCEnnBe" data-url="https://one2x-ai.feishu.cn/wiki/QNqww0PiIi08Nfk1TdXcVCEnnBe"><span>One2X设计师招募</span></a></p><span></span><h1><br></h1>]]></description>
+    <enclosure url="https://media.xyzcdn.net/625abab273621c934edf90c6/lmYk1TzFdNCXwtZvF_qwIGt6uaUf.m4a" length="67905443" type="audio/mp4"/>
+    <itunes:duration>01:12:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FocpUqh3LqYwOVpeqLBz-4PN099W.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E19 和 Nothing 的第一位软件设计师聊聊</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68499ce8096eb0bc795416d1</link>
+    <guid isPermaLink="false">68499ce8096eb0bc795416d1</guid>
+    <pubDate>Wed, 11 Jun 2025 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>简介：</span></strong></p><span></span><p><span>本期请来了一位特别的朋友，雨杭 —— Nothing 的第一位软件设计师。</span></p><span></span><p><span>我们从他是怎么“被看到”，加入一家还没公开的初创公司开始聊起，聊到了他参与打造 ear (1)、与 Teenage Engineering 的合作、Nothing OS 的设计演进，以及在国际团队里做设计的各种现场体验。</span></p><span></span><p><span>如果你对初创设计、软硬件结合的产品，或设计师的成长路径感兴趣，这期值得听听看。</span></p><span></span><p><strong><span>内容目录：</span></strong><br><span><a class="timestamp" data-timestamp="120">02:00</a> 如何加入Nothing</span><br><span><a class="timestamp" data-timestamp="390">06:30</a> 打造第一款产品 ear (1)</span><br><span><a class="timestamp" data-timestamp="690">11:30</a> 和Teenage Engineering合作</span><br><span><a class="timestamp" data-timestamp="1170">19:30</a> Nothing OS 三代的演进</span><br><span><a class="timestamp" data-timestamp="1440">24:00</a> 被框架限制的创造力</span><br><span><a class="timestamp" data-timestamp="1605">26:45</a> 为什么离开Nothing</span><br><span><a class="timestamp" data-timestamp="1920">32:00</a> 对设计师的建议</span></p><span></span><p><strong><span>嘉宾介绍：</span></strong></p><span></span><p><span>雨杭：X</span><strong><span> </span></strong><span>@7luyuhang</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/625abab273621c934edf90c6/lvbX2ANy5Bf4iaMLOqYxxQ3TuY8_.m4a" length="37048804" type="audio/mp4"/>
+    <itunes:duration>00:37:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FocpUqh3LqYwOVpeqLBz-4PN099W.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E18 三年了，设计师眼中的AI产品设计</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6835e62c31215eb5060ce76b</link>
+    <guid isPermaLink="false">6835e62c31215eb5060ce76b</guid>
+    <pubDate>Tue, 27 May 2025 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>三年前，ChatGPT的诞生似乎为AI产品设计打开了新天地。那么，经过三年的发展，设计师如何看待这场AI革命？在这一期播客中，我们回顾了AI产品设计的进化，探讨了ChatGPT和其他AI工具如何影响了设计师的日常工作，国内外AI产品设计的异同，以及在AI技术带来的变化下，设计师们的挑战与机遇。</span></p><span></span><p><span><a class="timestamp" data-timestamp="198">03:18</a> AI初印象</span></p><span></span><p><span><a class="timestamp" data-timestamp="389">06:29</a> AI功能价值</span></p><span></span><p><span><a class="timestamp" data-timestamp="779">12:59</a> 中美商业模式差异</span></p><span></span><p><span><a class="timestamp" data-timestamp="1116">18:36</a> 产品设计对比</span></p><span></span><p><span><a class="timestamp" data-timestamp="2652">44:12</a> 桌面端AI</span></p><span></span><p><strong><span>感谢收听！</span></strong><br><span>如果你喜欢这期节目，别忘了订阅、点赞、分享！也欢迎在评论区留言与我们互动，分享你对AI产品设计的看法。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/625abab273621c934edf90c6/ltKjNfbp3GF3NtFOxJaLPp0GJk19.m4a" length="51487303" type="audio/mp4"/>
+    <itunes:duration>00:52:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnWio8WD0gY6WAFuk3xrBiFy3jOz.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E17 2024，我们的年终漫谈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/676447341e823e72d33a91a7</link>
+    <guid isPermaLink="false">676447341e823e72d33a91a7</guid>
+    <pubDate>Thu, 19 Dec 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见，我们三赶在年底前为大家录制了今年的最后一期节目，我们聊了今年工作和生活的变化也展望了明年的期待，也欢迎大家在评论区分享你们的对今年的总结 👀</span></p><span></span><p><span><a class="timestamp" data-timestamp="58">00:58</a> 工作的感受</span><br><span><a class="timestamp" data-timestamp="1666">27:46</a> 最大的收获</span></p><span></span><p><span><a class="timestamp" data-timestamp="2040">34:00</a> 明年想做的事</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llp520qyYtIUbc0UhB9LuWmK_c4Q.m4a" length="38634735" type="audio/mp4"/>
+    <itunes:duration>00:39:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FliX8BrRDzFtRHWTHewSL5a4J6yx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E16 终于打卡！校招生的第一次跳槽</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668ff45c8fcadceb90ab2d1a</link>
+    <guid isPermaLink="false">668ff45c8fcadceb90ab2d1a</guid>
+    <pubDate>Thu, 11 Jul 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们聊了聊校招生的第一次离职，我们三位都经历了在大厂实习，校招加入大厂到离开大厂选择新的工作机会。每个阶段都是是基于上一个阶段的收获做的新选择，也对我们职业产生了巨大影响。希望也能帮助到将要进入职场或是正在考虑新机会的你。</span></p><span></span><p><span><a class="timestamp" data-timestamp="96">1:36</a> 如何选择第一份校招工作</span></p><span></span><p><span><a class="timestamp" data-timestamp="1403">23:23</a> 校招工作和实习有什么区别</span></p><span></span><p><span><a class="timestamp" data-timestamp="2253">37:33</a> 跳槽解决了什么问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="2609">43:29</a> 如何正确的跳槽</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkGRskMBBl0iITBF3N-g-_8xyNo3.m4a" length="52325153" type="audio/mp4"/>
+    <itunes:duration>00:52:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FliX8BrRDzFtRHWTHewSL5a4J6yx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E15 闲聊企业办公产品，飞书竟是唯一受害者</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662e3f165fb33c1b2b22a4ae</link>
+    <guid isPermaLink="false">662e3f165fb33c1b2b22a4ae</guid>
+    <pubDate>Sun, 28 Apr 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们聊了聊每个打工人都要用的企业办公产品，我们三个碰巧在实习和正式工作中都使用过主流的三款产品因此也可以聊聊它们有意思的产品设计，感兴趣的朋友来听听。</span></p><span></span><p><span><a class="timestamp" data-timestamp="149">2:29</a> 三款产品的起点各不一样</span></p><span></span><p><span><a class="timestamp" data-timestamp="505">8:25</a> 标志的产品设计</span></p><span></span><p><span><a class="timestamp" data-timestamp="2054">34:14</a> 微信办公的体验</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrmw173KlsurkCGoYyAB2ONNkz3c.m4a" length="42502075" type="audio/mp4"/>
+    <itunes:duration>00:42:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fo2xapOUILMiQPBkdixgsXOikS2Z.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E14 2023出国游大盘点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65c0f73f35dd8780ed8c8001</link>
+    <guid isPermaLink="false">65c0f73f35dd8780ed8c8001</guid>
+    <pubDate>Mon, 05 Feb 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期首次邀请返厂嘉宾亚瑟来一起聊聊2023年我们几个设计师都出国去哪玩了，内容涵盖热门的日本，韩国，泰国以及欧洲，想要在2024年出国旅游的朋友一定不要错过。</span></p><p><span><a class="timestamp" data-timestamp="43">00:43</a> 为啥要出国玩</span></p><p><span><a class="timestamp" data-timestamp="338">05:38</a> 日本</span></p><p><span><a class="timestamp" data-timestamp="782">13:02</a> 韩国</span></p><p><span><a class="timestamp" data-timestamp="1279">21:19</a> 泰国</span></p><p><span><a class="timestamp" data-timestamp="1802">30:02</a> 挪威，中欧</span></p><p><span><a class="timestamp" data-timestamp="2213">36:53</a> 设计师旅行的特点</span></p><p><span>附上各位设计师在旅途中的推荐的美食和一些佳作：</span></p><p><span>67:</span></p><p><span>京都：和風屋えん。</span></p><p><span>大阪：座銀（心斋桥店）</span></p><figure><img src="https://image.xyzcdn.net/FkxKI9Y1IqvIsAiqGSw96D4AYAKx.png"></figure><figure><img src="https://image.xyzcdn.net/FnjpBlhwQZu4IatjKYJZ5u0_8cAm.png"></figure><p><span>约安</span></p><p><span>日光-东照宫</span></p><figure><img src="https://image.xyzcdn.net/FhIVveLEVWA0kM_lsIj9OIw7_hFn.png"></figure><p><span>伊豆-大室山</span></p><figure><img src="https://image.xyzcdn.net/FvJ6P0iN4cNwE-eQ8AHR0orHO4xh.png"></figure><p><span>亚瑟：</span></p><p><span>曼谷水门寺</span></p><figure><img src="https://image.xyzcdn.net/FhLWmU6VL7vlXkvl5Pqrk4TPrtoV.png"></figure><p><span>明恩</span></p><p><span>挪威</span></p><figure><img src="https://image.xyzcdn.net/FiL-LKcsyO8Kv6d44AzC__i2SiYz.png"></figure><p><span>维也纳</span></p><figure><img src="https://image.xyzcdn.net/FiHDUYIJV8nwUPW_WeCjv7Mlrrr8.png"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmr3BHHPxN6h9maAIHR2NG0ikQT6.m4a" length="46817983" type="audio/mp4"/>
+    <itunes:duration>00:47:14</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg4QnJSRHpGdFJIV1RIZXdTTDVhNEo2eXgucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E13 北上广深杭设计师生活实录</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/657714268593f10bf906134e</link>
+    <guid isPermaLink="false">657714268593f10bf906134e</guid>
+    <pubDate>Mon, 11 Dec 2023 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期启发于三位主播录到现在也没有在线下聚齐过，于是就想聊聊各自所在城市的整体体验，涵盖了部分吐槽和偏爱，欢迎在评论区聊聊你们所在的城市以及为啥选择现在的城市。</span></p><span></span><p><span><a class="timestamp" data-timestamp="37">00:37</a> 大湾区</span></p><span></span><p><span><a class="timestamp" data-timestamp="220">03:40</a> 包邮区</span></p><span></span><p><span><a class="timestamp" data-timestamp="1669">27:49</a> 北京</span></p><span></span><p><span><a class="timestamp" data-timestamp="1939">32:19</a> 工作&gt;城市还是城市&gt;工作</span></p><span></span><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll0ouoUg3c6fnrWm4_GZRurovHvS.m4a" length="40060391" type="audio/mp4"/>
+    <itunes:duration>00:40:37</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsaVg4QnJSRHpGdFJIV1RIZXdTTDVhNEo2eXgucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E12 设计驱动是个伪命题吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6542710b5250ea2baa6f0eae</link>
+    <guid isPermaLink="false">6542710b5250ea2baa6f0eae</guid>
+    <pubDate>Thu, 02 Nov 2023 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期启发于小红书热贴《为什么大厂UED很少发UI UX文章了》，我们聊了聊在2023年对“设计驱动”这个词的理解和观察，希望大家也能有所收获，欢迎在评论区聊聊你对设计驱动的理解 👋</span></p><span></span><p><span><a class="timestamp" data-timestamp="60">1:00</a> 提到设计驱动第一反应是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="511">8:31</a> 对设计驱动定义的不同</span></p><span></span><p><span><a class="timestamp" data-timestamp="904">15:04</a> 为什么我们会觉得有的公司特别设计驱动</span></p><span></span><p><span><a class="timestamp" data-timestamp="1243">20:43</a> 局内人对设计驱动的看法</span></p><span></span><p><span><a class="timestamp" data-timestamp="2227">37:07</a> 还怎么”设计驱动“</span></p><span></span><p><a href="https://arc.net/" data-url="https://arc.net/"><span>Arc Brower</span></a></p><span></span><p><a href="https://www.airbnb.com/" data-url="https://www.airbnb.com/"><span>Airbnb</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvteniKDc01Pmlz-vl-Wylg76ImQ.m4a" length="41238730" type="audio/mp4"/>
+    <itunes:duration>00:41:35</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtXzg1cGthdGlNcE52Vi1JZWt1eVNab1lpT3UucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E11 内幕揭秘，短视频产品背后的那些体验设计</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64ff34fae490c5dee5f6875a</link>
+    <guid isPermaLink="false">64ff34fae490c5dee5f6875a</guid>
+    <pubDate>Mon, 11 Sep 2023 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们聊了聊短视频产品的体验设计，从鼻祖Musical.ly聊到了后来的抖音TikTok，视频号。部分内容涵盖了某位主播的独家内幕揭秘，感兴趣的朋友来听听～</span></p><span></span><p><span>也感谢大家的订阅，做不了电波达到了1000粉丝的里程碑，后续也会持续给大家带来更好的内容。</span></p><span></span><p><span><a class="timestamp" data-timestamp="113">01:53</a> 从Musical.ly开始</span></p><span></span><p><span><a class="timestamp" data-timestamp="294">4:54</a> 抖音再次发明了"电视"</span></p><span></span><p><span><a class="timestamp" data-timestamp="828">13:48</a> 对发短视频的偏好</span></p><span></span><p><span><a class="timestamp" data-timestamp="1068">17:48</a> 抖音在发布工具上的优势</span></p><span></span><p><span><a class="timestamp" data-timestamp="1325">22:05</a> 抖音上的音乐</span></p><span></span><p><span><a class="timestamp" data-timestamp="1700">28:20</a> 视频号迷思</span></p><span></span><p><span><a class="timestamp" data-timestamp="2476">41:16</a> 抖音的关键改版</span></p><span></span><p><span><a class="timestamp" data-timestamp="2920">48:40</a> 大产品的设计创新</span></p><span></span><p><a href="https://www.bilibili.com/video/BV1Py4y1q7v4/" data-url="https://www.bilibili.com/video/BV1Py4y1q7v4/"><span>Alex Zhu 分享</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luqagLX9fw8MkjMiuM4SngScuYBX.m4a" length="51845122" type="audio/mp4"/>
+    <itunes:duration>00:53:05</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtXzg1cGthdGlNcE52Vi1JZWt1eVNab1lpT3UucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E10 没负责过MasterGo的锤子设计师不是好的独立开发者</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64c7d2a499e1e7669e7f1861</link>
+    <guid isPermaLink="false">64c7d2a499e1e7669e7f1861</guid>
+    <pubDate>Mon, 31 Jul 2023 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>这期很开心邀请到了前锤子科技UI设计师&amp;前MasterGo产品设计师左子祯来聊一聊他的个人经历以及设计师做自媒体和独立开发的心得，希望大家都能从他的经历中有所收获。</span></p><span></span><p><span><a class="timestamp" data-timestamp="303">5:03</a> 在锤子科技和方迟老师学习</span></p><span></span><p><span><a class="timestamp" data-timestamp="579">9:39</a> 锤子特别的工作经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="1062">17:42</a> 为什么跳槽去MasterGo</span></p><span></span><p><span><a class="timestamp" data-timestamp="1517">25:17</a> 从0做一个产品，有哪些困难</span></p><span></span><p><span><a class="timestamp" data-timestamp="1892">31:32</a> 没有产品经理，设计怎么做</span></p><span></span><p><span><a class="timestamp" data-timestamp="2030">33:50</a> 每个设计师都要有自己的东西</span></p><span></span><p><span><a class="timestamp" data-timestamp="2531">42:11</a> 访谈经典问题</span></p><span></span><p><span>子祯联系方式</span></p><span></span><p><a href="https://twitter.com/zuozizhen" data-url="https://twitter.com/zuozizhen"><span>Twitter</span></a></p><span></span><p><a href="https://www.xiaohongshu.com/user/profile/5c5f7e25000000001000fc79" data-url="https://www.xiaohongshu.com/user/profile/5c5f7e25000000001000fc79"><span>小红书</span></a></p><span></span><p><a href="https://zuozizhen.com/" data-url="https://zuozizhen.com/"><span>个人网站</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll4n_gk6SCpW1NW8lkrVz3AaZmmw.m4a" length="43615722" type="audio/mp4"/>
+    <itunes:duration>00:44:41</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtXzg1cGthdGlNcE52Vi1JZWt1eVNab1lpT3UucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E9 闲扯了解AIGC的心路历程</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/646f779353a5e5ea1411bb46</link>
+    <guid isPermaLink="false">646f779353a5e5ea1411bb46</guid>
+    <pubDate>Thu, 25 May 2023 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，久违的拖更后想跟大家聊聊我们关于这阵AIGC浪潮的看法，从最开始的不愿意尝试到尝试后的惊叹，我们三非常真实地表达设计师在面对这轮浪潮中从头到尾的的心路历程，过程中的讨论仅代表三人浅薄的思考，可以轻松收听。</span></p><span></span><p><br><span><a class="timestamp" data-timestamp="52">00:52</a> 怎么看AIGC突然就火起来了</span></p><span></span><p><span><a class="timestamp" data-timestamp="216">3:36</a> 使用的第一款AIGC产品是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="521">8:41</a> Midjourney的使用体验</span></p><span></span><p><span><a class="timestamp" data-timestamp="995">16:35</a> GPT的使用体验</span></p><span></span><p><span><a class="timestamp" data-timestamp="1176">19:36</a> 其他AIGC产品</span></p><span></span><p><span><a class="timestamp" data-timestamp="1495">24:55</a> 突然多了很多AIGC产品</span></p><span></span><p><span><a class="timestamp" data-timestamp="1662">27:42</a> 如何学习AIGC</span></p><span></span><p><span><a class="timestamp" data-timestamp="1806">30:06</a> 对AI的担忧</span></p><span></span><p><span>过程中提到的产品</span></p><span></span><ul><span>  </span><li><a href="https://chat.openai.com/chat" data-url="https://chat.openai.com/chat"><span>ChatGPT</span></a></li><span>  </span><li><a href="https://b.jimmylv.cn/" data-url="https://b.jimmylv.cn/"><span>BibiGPT</span></a></li><span>  </span><li><a href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F" data-url="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F"><span>Midjourney</span></a></li><span>  </span><li><a href="https://heypi.com/talk" data-url="https://heypi.com/talk"><span>Pi&nbsp;</span></a></li><span>  </span><li><a href="https://www.notion.so/product/ai" data-url="https://www.notion.so/product/ai"><span>Notion AI</span></a></li><span>  </span><li><a href="https://novelai.net/" data-url="https://novelai.net/"><span>NovelAI</span></a></li><span></span></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltsrCYhixhv_21Yq3NdFnQspVRhi.m4a" length="33639282" type="audio/mp4"/>
+    <itunes:duration>00:34:27</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtXzg1cGthdGlNcE52Vi1JZWt1eVNab1lpT3UucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E8 那些年关于面试的奇闻逸事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64245d0c179eec5331ae483d</link>
+    <guid isPermaLink="false">64245d0c179eec5331ae483d</guid>
+    <pubDate>Wed, 29 Mar 2023 23:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期三位主播很随意的回忆了一下过往面试中的各种有趣见闻，有建议也有吐槽。</span></p><span></span><p><span><a class="timestamp" data-timestamp="88">1:28</a> 社招和校招面试的区别</span></p><span></span><p><span><a class="timestamp" data-timestamp="390">6:30</a> 讲一个不在作品集里的项目</span></p><span></span><p><span><a class="timestamp" data-timestamp="687">11:27</a> 与总监的面试经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="891">14:51</a> 印象很差的面试经历</span></p><span></span><p><span><a class="timestamp" data-timestamp="1146">19:06</a> 面试者和求职者的关系是平等的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1231">20:31</a> 给面试官提问的环节</span></p><span></span><p><span>有类似面试经历的朋友也欢迎在评论区讨论 👋</span></p><span></span><p><br><span></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhOxmKA9y7tIYEF8LClE8oDdxVZE.m4a" length="26039910" type="audio/mp4"/>
+    <itunes:duration>00:26:37</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZtXzg1cGthdGlNcE52Vi1JZWt1eVNab1lpT3UucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

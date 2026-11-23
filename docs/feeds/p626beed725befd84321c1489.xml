@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>软豆腐SoftTofu</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/626beed725befd84321c1489</link>
+  <description><![CDATA[从女性游戏设计师视角聊聊广义游戏]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:10:07 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p626beed725befd84321c1489.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png</url>
+    <title>软豆腐SoftTofu</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/626beed725befd84321c1489</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>《33号远征队》《The Alters》：游戏里的道德选择，为什么总像一场骗局？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6355d1a3fec224d5a2ce2c</link>
+    <guid isPermaLink="false">6a6355d1a3fec224d5a2ce2c</guid>
+    <pubDate>Fri, 24 Jul 2026 12:15:21 +0000</pubDate>
+    <description><![CDATA[<p><span>继续评2025年的几个热门游戏：33号远征队，The Alters 多重人生。都好玩，又都有些令人遗憾。同时进行一些主播个人喜好的安利！</span></p><p></p><p><span><a class="timestamp" data-timestamp="207">03:27</a> 33号远征队的弹反设计</span></p><p><span><a class="timestamp" data-timestamp="408">06:48</a> 大逃杀氛围</span></p><p><span><a class="timestamp" data-timestamp="598">09:58</a> 游戏的两个主题：如何面对死亡，我是谁</span></p><p><span><a class="timestamp" data-timestamp="1050">17:30</a> 介绍The Alters</span></p><p><span><a class="timestamp" data-timestamp="1380">23:00</a> 游戏机制的根本问题：最优解需要预知未来</span></p><p><span><a class="timestamp" data-timestamp="1474">24:34</a> 对多重人生的批判：游戏只需要为自己的受众负责吗</span></p><p><span><a class="timestamp" data-timestamp="1936">32:16</a> Before Your Eyes：用眨眼回溯人生</span></p><p></p><p><span>本期参考阅读/观看：</span></p><h1><a href="https://www.youtube.com/watch?v=Q_zVt0u9BR8&amp;t=1505s" data-url="https://www.youtube.com/watch?v=Q_zVt0u9BR8&amp;t=1505s"><strong><span>The Award Clair Obscur Didn’t Deserve To Win</span></strong></a><strong><span> by The Architect of Games</span></strong></h1><p><strong><span>《长日将尽》 by 石黑一雄</span></strong></p><p><a href="https://book.douban.com/subject/14278377/" data-url="https://book.douban.com/subject/14278377/"><strong><span>《不堪抄》</span></strong></a><strong><span> by 柳具足</span></strong></p><p><a href="https://read.douban.com/ebook/7564925/?icn=from-author-page" data-url="https://read.douban.com/ebook/7564925/?icn=from-author-page"><strong><span>《七桥会》</span></strong></a><strong><span>by 柳具足</span></strong></p><p><a href="https://www.bilibili.com/bangumi/play/ep25302?from_spmid=666.19.0.0" data-url="https://www.bilibili.com/bangumi/play/ep25302?from_spmid=666.19.0.0"><strong><span>《永生之酒》</span></strong></a></p><p><a href="https://www.bilibili.com/video/BV1eQREYpE2U?spm_id_from=333.788.videopod.sections&amp;vd_source=2edfe367f54209482430cf036993a750" data-url="https://www.bilibili.com/video/BV1eQREYpE2U?spm_id_from=333.788.videopod.sections&amp;vd_source=2edfe367f54209482430cf036993a750"><strong><span>《回转企鹅罐》</span></strong></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/626beed725befd84321c1489/lqijls2lcasAaarma3qrVwk1SoXT.m4a" length="40018251" type="audio/mp4"/>
+    <itunes:duration>00:41:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Hades和苏丹的游戏：怎么独立游戏都是 roguelike？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5a1c0ca3fec224d59f2d32</link>
+    <guid isPermaLink="false">6a5a1c0ca3fec224d59f2d32</guid>
+    <pubDate>Fri, 17 Jul 2026 12:18:30 +0000</pubDate>
+    <description><![CDATA[<p><span>这一期想聊一个有些极端、但越想越合理的结论：很多独立游戏都在不同程度上变成了 roguelike。Roguelike不只是“随机地图”+ “永久死亡”，更像一套解决重复、控制成本、持续提供新鲜感的结构工具：失败、重开、随机与局外成长，既是玩家体验，也是开发方法。动作roguelike用随机来构筑 build，Into the Breach用随机来生成谜面，而有些游戏的随机却会和叙事/道德选择打架。都是随机，为什么有时成立、有时却不行？</span></p><p><span>提到的游戏：Hades, Into the Breach, 苏丹的游戏, Wildermyth, Splatoon 3 DLC Side Order</span></p><p><span>（纠错+致歉：节目里把Into the Breach都说成2019年上线了，其实是2018年！）</span></p><p></p><p><span><a class="timestamp" data-timestamp="124">02:04</a> roguelike的定义</span></p><p><span><a class="timestamp" data-timestamp="243">04:03</a> 介绍一下著名现代roguelite：Hades</span></p><p><span><a class="timestamp" data-timestamp="659">10:59</a> 从随机里找确定性（build）</span></p><p><span><a class="timestamp" data-timestamp="685">11:25</a> 叙事策略：把“宏大叙事”降维成家庭情景剧</span></p><p><span><a class="timestamp" data-timestamp="769">12:49</a> Hades的叙事主题：寻找真相</span></p><p><span><a class="timestamp" data-timestamp="828">13:48</a> Hades II的叙事主题：改变命运</span></p><p><span><a class="timestamp" data-timestamp="910">15:10</a> “落地”：机制、美术、文本互相翻译彼此</span></p><p><span><a class="timestamp" data-timestamp="963">16:03</a> 简要介绍Into the Breach&nbsp;</span></p><p><span><a class="timestamp" data-timestamp="1235">20:35</a> Telegraphed attack：信息全摊开，随机只负责“出题”</span></p><p><span><a class="timestamp" data-timestamp="1409">23:29</a> 负反馈问题：机甲减员/掉电后，为何更难翻盘</span></p><p><span><a class="timestamp" data-timestamp="1644">27:24</a> 开发者怎么确保一定有解</span></p><p><span><a class="timestamp" data-timestamp="1808">30:08</a> 独立开发者需要铭记：多烂的游戏，都会有人觉得好玩</span></p><p><span><a class="timestamp" data-timestamp="1894">31:34</a> 所有的游戏都是roguelike：随机随机随机</span></p><p><span><a class="timestamp" data-timestamp="1950">32:30</a> 介绍：苏丹的游戏</span></p><p><span><a class="timestamp" data-timestamp="2245">37:25</a> 叙事roguelike的核心问题</span></p><p><span><a class="timestamp" data-timestamp="2432">40:32</a> 当核心决策变成道德选择，随机不再带来新鲜</span></p><p><span><a class="timestamp" data-timestamp="2689">44:49</a> 苏丹的游戏对照组：Wildermyth</span></p><p><span><a class="timestamp" data-timestamp="2883">48:03</a> 投射关系：玩家不是单一主角，选择的道德负担更小</span></p><p><span><a class="timestamp" data-timestamp="2924">48:44</a> Splatoon3 DLC Side Order</span></p><p><span><a class="timestamp" data-timestamp="3048">50:48</a> 关卡无厘头命名：形容词×场景×规则的笛卡尔积</span></p><p><span><a class="timestamp" data-timestamp="3166">52:46</a> 实际的随机：固定关卡池抽取 + 芯片真随机</span></p><p><span><a class="timestamp" data-timestamp="3377">56:17</a> 设计启示：随机的成本控制、可预测性与惊喜之间的交易</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/626beed725befd84321c1489/lsjBH1dBD9Vz6Q9uDEwYW85PmL_u.m4a" length="55808097" type="audio/mp4"/>
+    <itunes:duration>00:57:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>谁能不看攻略打通《动物井》？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6739fc2c43dc3a438754ca26</link>
+    <guid isPermaLink="false">6739fc2c43dc3a438754ca26</guid>
+    <pubDate>Sun, 17 Nov 2024 14:33:17 +0000</pubDate>
+    <description><![CDATA[<p><span>主播的年度游戏回顾。今年又是不玩3A的一年，趁金摇杆和TGA公布前，不带奖项高光偏见地聊下今年几个高人气独立游戏。</span></p><span></span><p><span>也想知道大家今年都玩了什么，年度最佳和年度最烂都是什么呢？期待听众朋友们的评论！</span></p><span></span><p><span>本期所有音乐都来自Sayonara Wild Heart OST</span></p><span></span><p><strong><span><a class="timestamp" data-timestamp="16">00:16</a> </span></strong><span>对今年玩过游戏的整体回顾</span></p><span></span><p><span><a class="timestamp" data-timestamp="164">02:44</a> 夸奖Cocoon</span></p><span></span><p><span><a class="timestamp" data-timestamp="488">8:08</a> 发行商Annapurna</span></p><span></span><p><span><a class="timestamp" data-timestamp="535">08:55</a> 对Sayonara Wild Heart又爱又恨</span></p><span></span><p><span><a class="timestamp" data-timestamp="761">12:41</a> 爆评Lorelei and the Laser Eyes</span></p><span></span><p><span><a class="timestamp" data-timestamp="1329">22:09</a> 简单介绍动物井</span></p><span></span><p><span><a class="timestamp" data-timestamp="1491">24:51</a> 最爱的道具：妙妙圈</span></p><span></span><p><span><a class="timestamp" data-timestamp="1575">26:15</a>谁能不看攻略打通Animal Well</span></p><span></span><p><span><a class="timestamp" data-timestamp="1909">31:49</a> 上头Balatro</span></p><span></span><p><span>*节目里不小心把月下夜想曲说成了月下狂想曲</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llWYwB-nt6Ho1SuyBAmCVEkOH-FW.m4a" length="52670197" type="audio/mp4"/>
+    <itunes:duration>00:36:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>《恋与深空》：不需要和三次元男性发展亲密关系，是我人生的一大亮点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671e03cceb46cd66550db6d1</link>
+    <guid isPermaLink="false">671e03cceb46cd66550db6d1</guid>
+    <pubDate>Sun, 27 Oct 2024 09:11:39 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见！最近玩了《恋与深空》非常上头，想和大家分享一下对这个游戏的感想和思考。</span></p><span></span><p><span>3D乙游是否比2D乙游更沉浸？女性玩家该如何评价它的战斗系统？我在这个游戏中感受到的快乐究竟是怎样一种情感？</span></p><span></span><p><span>【提到的书和游戏】</span></p><span></span><p><span>Fourth Wing，奇异人生 Life is Strange，Undertale，传送门 Portals，最终幻想15，异度之刃3，《爱的多重奏》</span></p><span></span><p><span>【推荐视频】（请自行搜索）</span></p><span></span><p><span>Can We Make Talking as Much Fun as Shooting?</span></p><span></span><p><span><a class="timestamp" data-timestamp="64">1:04</a> 玩恋与深空的原因是读了Fourth Wing</span><br><span><a class="timestamp" data-timestamp="281">4:41</a> 对《恋与深空》的初印象</span><br><span><a class="timestamp" data-timestamp="342">5:42</a> 变成星推的契机</span><br><span><a class="timestamp" data-timestamp="447">7:27</a> 简单介绍《恋与深空》的背景故事和男主</span><br><span><a class="timestamp" data-timestamp="590">9:50</a> 被歧视的女性玩家：女人的喜好是略低一等的</span><br><span><a class="timestamp" data-timestamp="664">11:04</a> 《恋与深空》设计3D战斗是对女玩家的认可？</span><br><span><a class="timestamp" data-timestamp="770">12:50</a> 认为战斗 = 电子游戏，是一种浅薄的观点</span><br><span><a class="timestamp" data-timestamp="868">14:28</a> 暴力不是唯一的游戏机制</span><br><span><a class="timestamp" data-timestamp="960">16:00</a> 深空做战斗系统是一个非常正确的选择</span><br><span><a class="timestamp" data-timestamp="1000">16:40</a> 深空战斗系统的问题之一：自动锁敌</span><br><span><a class="timestamp" data-timestamp="1195">19:55</a> 问题二:闪避技能的不统一</span><br><span><a class="timestamp" data-timestamp="1299">21:39</a> 问题三：技能动画和时停</span><br><span><a class="timestamp" data-timestamp="1372">22:52</a> 深空设计战斗的思路还是卡牌</span><br><span><a class="timestamp" data-timestamp="1464">24:24</a> 战斗中最重要的资源是时间而非信息</span><br><span><a class="timestamp" data-timestamp="1494">24:54</a> 问题四：男主陪伴战斗</span><br><span><a class="timestamp" data-timestamp="1554">25:54</a> npc战斗的两个参考方向：ff15和异度之刃</span><br><span><a class="timestamp" data-timestamp="1600">26:40</a> 深空做的好的地方是战斗的外部系统：日卡月卡和芯核</span><br><span><a class="timestamp" data-timestamp="1690">28:10</a> 玩家的负面评价：内容太少</span><br><span><a class="timestamp" data-timestamp="1831">30:31</a> 叠纸最大的bug是不需要做满分设计也能赚钱</span><br><span><a class="timestamp" data-timestamp="1917">31:57</a> 深空最大的优点是人设塑造成功</span><br><span><a class="timestamp" data-timestamp="2020">33:40</a> 3D乙游vs 2D乙游</span><br><span><a class="timestamp" data-timestamp="2137">35:37</a> 二创是深空设计的出发点之一</span><br><span><a class="timestamp" data-timestamp="2205">36:45</a> 手游更适合做系统型玩法，而不是内容型玩法</span><br><span><a class="timestamp" data-timestamp="2273">37:53</a> 牵绊度系统</span><br><span><a class="timestamp" data-timestamp="2370">39:30</a> 排外性和社区化之间并不矛盾</span><br><span><a class="timestamp" data-timestamp="2501">41:41</a> 爱男主其实是在探寻自我，是一种很健康的关系</span><br><span><a class="timestamp" data-timestamp="2616">43:36</a> 如何做陪伴式乙游</span><br><span><a class="timestamp" data-timestamp="2697">44:57</a> 如何面对男主的虚拟性</span><br><span><a class="timestamp" data-timestamp="2771">46:11</a> 玩《恋与深空》，做幸福女人</span><br><span><a class="timestamp" data-timestamp="2809">46:49</a> 乙女游戏应该探索“爱”的多种形态</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj0Xqb4ek9yye2xiq0v33urjlt1G.m4a" length="73211507" type="audio/mp4"/>
+    <itunes:duration>00:50:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>《明日传奇》读后感：看书不如追剧，打游戏不如做游戏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6559b98ec9e7cfe025d15740</link>
+    <guid isPermaLink="false">6559b98ec9e7cfe025d15740</guid>
+    <pubDate>Sun, 19 Nov 2023 07:30:21 +0000</pubDate>
+    <description><![CDATA[<p><span>S01 Ep04</span></p><span></span><p><span>打游戏的同时也要看书，和大家推荐一本以独立游戏为主题的小说《明日传奇》：Tomorrow, and tomorrow, and tomorrow by Gabrielle Zevin</span></p><span></span><p><span>【抽奖环节】在本期播客下留言+订阅的听众友友里按十五分之一的比例抽几本中文版《明日传奇》，截止日期到2023年12月31日。没有赞助，主播自费鼓励大家一起做读书人！</span></p><span></span><p><span><a class="timestamp" data-timestamp="85">1:25</a> 故事简介</span></p><span></span><p><span><a class="timestamp" data-timestamp="232">3:52</a> 《明日传奇》的两个有意思的主题</span></p><span></span><p><span><a class="timestamp" data-timestamp="447">7:27</a> 什么才是独立游戏？</span></p><span></span><p><span><a class="timestamp" data-timestamp="620">10:20</a> 拉踩一下国产独立游戏</span></p><span></span><p><span><a class="timestamp" data-timestamp="800">13:20</a> 作者写得好的地方</span></p><span></span><p><span><a class="timestamp" data-timestamp="833">13:53</a> 电子游戏和青少年暴力：布朗诉娱乐商业协会案</span></p><span></span><p><span><a class="timestamp" data-timestamp="993">16:33</a> 小说主旨：restart</span></p><span></span><p><span><a class="timestamp" data-timestamp="1146">19:06</a> 游戏是一种没有产出的行为</span></p><span></span><p><span><a class="timestamp" data-timestamp="1213">20:13</a> 探讨同样主题的日剧《重启人生》</span></p><span></span><p><span><a class="timestamp" data-timestamp="1265">21:05</a> 《重启人生》中两个相互矛盾的主题</span></p><span></span><p><span><a class="timestamp" data-timestamp="1324">22:04</a> 电子游戏主题小说还可以写些什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1366">22:46</a> sam和sadie之间的复杂情感关系</span></p><span></span><p><span><a class="timestamp" data-timestamp="1534">25:34</a> 设计游戏是想象具体的玩家</span></p><span></span><p><span><a class="timestamp" data-timestamp="1592">26:32</a> 沉浸感的另一面是排他性</span></p><span></span><p><span><a class="timestamp" data-timestamp="1639">27:19</a> 商业游戏不能做自我表达吗？</span></p><span></span><p><span>提到的游戏，书籍和电视剧：</span></p><span></span><p><span>Bastion，Transistor，Hades，开发商：SuperGiant</span><br><span>UnderTale，OxenFree，尼尔：机械纪元</span><br><span>Homo Ludens，《游戏的人》作者：Huizinga, Johan</span><br><span>《重启人生》主演：安藤樱</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltmxagORotQWvJixyAoEqDpfoWwq.m4a" length="42353399" type="audio/mp4"/>
+    <itunes:duration>00:29:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>游戏设计师们应该从《塞尔达传说》中学到什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65102fc2bbe351e616c20b60</link>
+    <guid isPermaLink="false">65102fc2bbe351e616c20b60</guid>
+    <pubDate>Sun, 24 Sep 2023 12:46:58 +0000</pubDate>
+    <description><![CDATA[<p><span>S01 Ep03</span></p><span></span><p><span>永远赶不上潮流的拖延症主播，因为塞尔达传说：王国之泪太震撼了，强迫自己录播客，从game designer的角度分析一下王国之泪的游戏设计。</span></p><span></span><p><span><a class="timestamp" data-timestamp="4">00:04</a>推荐一本独立游戏制作相关的小说《明日传奇》</span></p><span></span><p><span><a class="timestamp" data-timestamp="124">02:04</a> 回顾ns上塞尔达两作的基本情况</span></p><span></span><p><span><a class="timestamp" data-timestamp="208">03:28</a> 对王国之泪中四个新机制的分析</span></p><span></span><p><span><a class="timestamp" data-timestamp="517">08:37</a> 核心功能建造</span></p><span></span><p><span><a class="timestamp" data-timestamp="812">13:32</a> 王国之泪对建造功能的拓展设计</span></p><span></span><p><span><a class="timestamp" data-timestamp="1212">20:12</a> 最喜欢的几个游戏体验</span></p><span></span><p><span><a class="timestamp" data-timestamp="1851">30:51</a> 为什么王国之泪也有差评</span></p><span></span><p><span><a class="timestamp" data-timestamp="2075">34:35</a> 评一评原神</span></p><span></span><p><span>推荐的书籍：《心想事成的创意整理术》作者：玉树真一郎</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgZbum_eiXtZQF1s1rP_-158GQFS.m4a" length="57908739" type="audio/mp4"/>
+    <itunes:duration>00:39:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>乙女游戏玩家，从来都不是恋爱脑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63ba92a5da83c49d996a5ed0</link>
+    <guid isPermaLink="false">63ba92a5da83c49d996a5ed0</guid>
+    <pubDate>Sun, 08 Jan 2023 09:53:41 +0000</pubDate>
+    <description><![CDATA[<p><span>S01 Ep02</span></p><span></span><p><span>时隔八个月的第二期节目（🙇‍♀️），和嘉宾叉烧一起聊了聊乙女游戏的游戏系统和设计思路。男玩家有gal game，女玩家有otome，我们玩恋爱游戏的时候只有性别在反转吗？</span></p><span></span><p><span>欢迎听友留言给主播种草、推荐一些想在下个乙女游戏专题听到的乙女游戏！</span></p><span></span><p><span>【剧透预警】包含一些不影响游戏体验的游戏片段描述（也可看作卖安利），涉及源平飞花、even if TEMPEST（宵暗魔女）、女王蜂、Jack Jeanne</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loBmX3ykl1XRN57vDUTynoo-RND3.m4a" length="52699482" type="audio/mp4"/>
+    <itunes:duration>00:36:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZlYs4xhZS-96ZiOp-8BUO4gvx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>谢谢竹节虫，谢谢所有的叙事游戏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/62720436a679bbb043f60a39</link>
+    <guid isPermaLink="false">62720436a679bbb043f60a39</guid>
+    <pubDate>Wed, 04 May 2022 04:42:30 +0000</pubDate>
+    <description><![CDATA[<p><span>S01 Ep01</span><br><span>从AI梦境档案、十三机兵到极乐迪斯科，我们在叙事游戏中想要的究竟是什么？</span><br><span>【剧透预警】包含一些不太影响游戏体验的剧透，但请还未通关超凡双生且计划通关的听友谨慎点开</span><br><span> </span><br><span>Colossal Cave Adventure网页版本：</span><a href="http://rickadams.org/adventure/advent/" data-url="http://rickadams.org/adventure/advent/"><span>rickadams.org</span></a><br><span>ZA/UM在2021GDC上的talk：</span><a href="https://www.gdcvault.com/play/1027160/-Disco-Elysium-Meaningless-Choices" data-url="https://www.gdcvault.com/play/1027160/-Disco-Elysium-Meaningless-Choices"><span>www.gdcvault.com</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvwTFDuugHW_TN1iAM1fEYaUnnKT.m4a" length="39218243" type="audio/mp4"/>
+    <itunes:duration>00:26:59</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzVmFJWnh2VDAwUDNnQ0FjWW5uZkU3N21xZWoucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

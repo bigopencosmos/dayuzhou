@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>正悟股道</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/653a1a99a534b8a0aeb3f570</link>
+  <description><![CDATA[《交易之道》是一档投资交易类播客节目，话题将以缠论技术为底层核心，结合当下市场，分享我们的交易策略、买卖技巧、交易心态、仓位管理等直击交易本质的思考，旨在帮助广大投资交易者认清股市的真相，制定更明智的投资决策，迈向致富之道，脱离赔钱、亏损与恐惧的轮回。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:36:49 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p653a1a99a534b8a0aeb3f570.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>范米索</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9kZGE5LWF1ZGlvZnJlZWhpZ2hxcHMvQTUvNEIvR01Db09TY0pEOTBQQUFMV0NBSno1ajZzLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9kZGE5LWF1ZGlvZnJlZWhpZ2hxcHMvQTUvNEIvR01Db09TY0pEOTBQQUFMV0NBSno1ajZzLmpwZWc=.jpeg</url>
+    <title>正悟股道</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/653a1a99a534b8a0aeb3f570</link>
+  </image>
+  <itunes:category text="Business"/>
+</channel>
+</rss>

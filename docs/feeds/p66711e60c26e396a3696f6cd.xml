@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>业语</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66711e60c26e396a3696f6cd</link>
+  <description><![CDATA[今天工作还顺利吗？我们是一档浅谈行业趣闻，剖析行业经验的节目，帮你答疑解惑，顺利工作，开心挣钱。
+
+欢迎参加线下学习互助讨论组。坐标：北京
+
+欢迎关注小红书同名账号]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:48:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66711e60c26e396a3696f6cd.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>李根_UYsn</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg</url>
+    <title>业语</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66711e60c26e396a3696f6cd</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>孤岛·业语：IT行业的整体变化与当下价值</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a62e932a3fec224d5a29068</link>
+    <guid isPermaLink="false">6a62e932a3fec224d5a29068</guid>
+    <pubDate>Fri, 24 Jul 2026 04:46:24 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><p><span>各位听众老爷们好！我们又出现啦！上一期筹备了业语的线下据点现在我们还是决定恢复线上啦，北京市通州区槐树院3号院E座F1的孤岛 Isolated Island Bar，这个小聚点过几个月后就慢慢关闭咯，还有想来的朋友们抓抓紧。也依然欢迎大家来分享自己的行业见闻，我们的超级新鲜精酿管够！</span></p><p><span>本期业语，延续IT行业话题，邀请从业近20年的丹丹分享后端/维护侧经验。她认为，相比刚入行时，如今个人层面的职场压力未必更大，但外部环境、行业竞争和市场变化更复杂；IT整体薪资福利长期处于较高水平，尤其是大数据、AI等新方向仍具吸引力。丹丹强调，后端工作更考验排查问题、协调沟通、承压处理和复盘能力，很多时候没有显性的成就反馈，适合偏“侦探型”、享受找出真相的人。对于非科班新人，她建议以商业视角看待入行：初期可适当降低薪资预期，用机会换经验，再通过几年积累把价值追平甚至反超。她也提到，传统赛道与新兴赛道、国内与外资、大厂与管理岗各有取舍，选择时应更多基于投入产出和长期规划，而不是单纯情绪或想象。</span></p><p><span>本期主题：IT行业的整体变化与当下价值</span></p><p><strong><span>1. IT行业的整体变化与当下价值</span></strong></p><p><span>- </span><strong><span>行业机会</span></strong><span>：20年前IT处于风口期，机会更多；如今环境更复杂，但IT仍是相对优先的职业选择。</span></p><p><span>- </span><strong><span>薪资水平</span></strong><span>：IT薪资福利整体高于许多行业，且近年来随着大数据、AI等发展仍保持上升态势。</span></p><p><span>- </span><strong><span>趋势判断</span></strong><span>：传统IT逐渐趋于饱和，新兴IT方向仍存在明显缺口，行业内部分化加大。</span></p><p><span> </span><strong><span>2. 后端/维护侧工作的核心能力</span></strong></p><p><span>- </span><strong><span>解决问题</span></strong><span>：后端不只是技术执行，更强调定位问题、拆解线索、找到触发点并推动解决。</span></p><p><span>- </span><strong><span>沟通协调</span></strong><span>：面对用户投诉、情绪化表达和多渠道反馈时，需要先安抚再收集有效信息。</span></p><p><span>- </span><strong><span>经验沉淀</span></strong><span>：很多能力并非纯学术训练获得，而是在长期工作中逐渐积累、打磨出来的。</span></p><p><span> </span><strong><span>3. 后端工作的压力来源与成就感特点</span></strong></p><p><span>- </span><strong><span>压力形态</span></strong><span>：前端更多是按周期推进，后端常面对小时级、天级的突发问题，压力更集中。</span></p><p><span>- </span><strong><span>不确定性</span></strong><span>：大量电话、反馈和碎片信息会让排查更难，需要在混乱中迅速缩小怀疑范围。</span></p><p><span>- </span><strong><span>成就感稀缺</span></strong><span>：问题解决后通常没有明显表扬或奖励，更多是“无消息即好消息”。</span></p><p><span> </span><strong><span>4. 什么样的人更适合后端工作</span></strong></p><p><span>- </span><strong><span>兴趣匹配</span></strong><span>：喜欢推理、侦探、找真相、分析线索的人更容易适应这类工作。</span></p><p><span>- </span><strong><span>动机差异</span></strong><span>：如果特别依赖外界夸赞或可见成果，可能较难长期坚持。</span></p><p><span>- </span><strong><span>内在反馈</span></strong><span>：这份工作的满足感更多来自“我找到了问题本质”，而非外部认可。</span></p><p><span> </span><strong><span>5. 新人入行、薪资与赛道选择策略</span></strong></p><p><span>- </span><strong><span>薪资预期</span></strong><span>：非科班或跨行进入时，可接受低于市场均值的起点，以“商业交易”视角进入行业。</span></p><p><span>- </span><strong><span>长期回收</span></strong><span>：先用较低起薪换经验和平台，再通过几年积累把早期损失补回来。</span></p><p><span>- </span><strong><span>赛道选择</span></strong><span>：若两条路可选，优先考虑新兴方向如AI；但若起点条件不足，传统赛道也可作为过渡。</span></p><p><strong><span>6. 工作节奏、管理岗位与职业规划</span></strong></p><p><span>- </span><strong><span>工作时间</span></strong><span>：她所在的外企/客户环境更强调固定交付与责任，而不只是简单的“下班自由”。</span></p><p><span>- </span><strong><span>管理层取舍</span></strong><span>：升到管理岗位会遇到更多责任和压力，收益未必与压力同比例增长。</span></p><p><span>- </span><strong><span>职业规划</span></strong><span>：20到40岁仍有很多机会，关键是先想清楚自己想走技术线还是管理线。</span></p><p><span>### </span><strong><span>7. 职场观念：把工作视为商业决策</span></strong></p><p><span>- </span><strong><span>ROI思维</span></strong><span>：要明确自己投入什么、获得什么、未来如何回收价值。</span></p><p><span>- </span><strong><span>理性判断</span></strong><span>：职场不应只凭情绪、喜好或“我觉得应该怎样”来决策。</span></p><p><span>- </span><strong><span>长期计划</span></strong><span>：进入行业前就应设定阶段性目标，包括薪资、成长和回报路径。</span></p><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66711e60c26e396a3696f6cd/lq6cWqiF__YPwijdeZxaG-VXOSbA.m4a" length="25338843" type="audio/mp4"/>
+    <itunes:duration>00:26:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>孤岛·业语：IT行业老兵拆解，应届生入行指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69cbe813e2c8be31550a472c</link>
+    <guid isPermaLink="false">69cbe813e2c8be31550a472c</guid>
+    <pubDate>Tue, 31 Mar 2026 15:31:10 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>各位听众我们又出现啦！最近为了筹备个业语的线下据点拖更了好久好久，不过终于搞定了，就在北京市通州区槐树院3号院E座F1的孤岛 Isolated Island Bar，欢迎感兴趣的各位常来坐坐，也欢迎大家来分享自己的行业见闻，我们的超级新鲜精酿管够！</span></p><span></span><p><span>另外呢，本期因为嘉宾身份需要一点神秘感，声音做了特殊处理，其实本人声音很有磁性哈哈。</span></p><span></span><p><span>本期业语，邀请拥有近 20 年 IT 行业从业经验、兼具内资大厂与外资五百强履历的嘉宾老王，聚焦 IT 应届生求职核心痛点，深度对比内资与外资企业的适配人群、发展差异，解答学历门槛、内推作用、薪资谈判、入行策略等高频问题，给新人提供了贴合当下市场环境的可落地求职建议。</span></p><span></span><p><span>本期主题：应届生IT入行避坑 &amp; 选对赛道</span></p><span></span><p><span>节目中，老王结合自身从业经历，拆解了内资 IT 企业与外资企业的核心差异与适配人群：内资企业整体更稳定，更适合性格内向、希望踏实深耕业务、不喜高频跨部门沟通博弈的人群；外企更具挑战性，极度看重跨区域、跨部门的沟通能力，更适合善于表达、乐于团队协作、希望实现自我突破的人群。同时针对当下市场环境，老王指出，外资企业虽面临利润下滑、缩编调整的现状，但中国市场仍是其核心战略市场，应届生入行依然有充足的机会。</span></p><span></span><p><span>针对应届生求职的高频困惑，节目也给出了可落地的实用建议：学历门槛上，本科学历即可投递，985/211 院校为加分项，普通二本对口专业应届生的入行成功率约 30%-40%，内推可额外提升约 10% 的成功率；入行策略上，建议应届生优先拿到行业入场券，无需过度纠结初始入职部门，IT 行业内部转岗相对灵活，可入职后再通过能力提升实现调岗；薪资谈判上，建议应届生合理放低初始薪资预期，优先保障入行机会，避免因薪资要价过高错失机会，谈判时可先询问岗位薪资范围，掌握沟通主动权。</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66711e60c26e396a3696f6cd/lrd4tLp4e_V_ROpHS7HoLgV3D-yI.m4a" length="21781816" type="audio/mp4"/>
+    <itunes:duration>00:22:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>资本·业语：3.香港证监会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68e1ef8a8e321a0d6ff53927</link>
+    <guid isPermaLink="false">68e1ef8a8e321a0d6ff53927</guid>
+    <pubDate>Sun, 05 Oct 2025 04:21:21 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>香港证监会在我心中的印象几乎全部来源于古天乐的窃听风云、反贪风暴等等影视作品。大佬们保险箱里藏着个手机，沟通内幕交易种种，但现实中是什么样呢？</span></p><span></span><p><span>这一期听武律师聊完真是长见识，几个记忆犹新的点：面对香港证监会，你无权保持沉默，你所说的一切都会成为呈堂证供，你不说话就直接定罪；香港证监会自负盈亏；最后十分钟还有一小段武律师曾经接受香港证监会问询的经历分享哦。</span></p><span></span><p><span>我们这一期依然是由在跨境并购领域深耕多年的武律师，带我们来看看真正的香港证监会是什么样的。</span></p><span></span><p><span>本期主题：香港证监会</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>武律师履历：曾任职于北京市司法局，前红圈所香港及内地上市与并购团队，香港上市公司执行董事与法律总监，多家上市公司独立董事，现中铸万丘律师事务所合伙人、主任。</span></p><span></span><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66711e60c26e396a3696f6cd/lhvMBKYW2P3yanYZI22NPEJGpLKG.m4a" length="56376428" type="audio/mp4"/>
+    <itunes:duration>00:58:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>金融·业语：2.如何选“基”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6831451bdce640bfdd8e869c</link>
+    <guid isPermaLink="false">6831451bdce640bfdd8e869c</guid>
+    <pubDate>Sat, 24 May 2025 04:11:42 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>2025年了，你的基金赚钱了吗？不知道听众伙伴们有多少人基金还在深套。可能有人会觉得，当初看起来手拿把攥，销售人员说的天花乱坠的产品，我还认真研究了回撤、基金经理的风格能力、基金公司的管理水平等等，看起来形势大好的过往业绩，怎么现在赔成这样。</span></p><span></span><p><span>低利率高通胀时代，希望能给大家分享一点小小的体会，给大家作为参考，帮助大家守好钱袋子。</span></p><span></span><p><span>本期主题：金融消费者如何保护自己</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66711e60c26e396a3696f6cd/lu7zEaWHAlvK-Fyo6UsOx52j91Ga.m4a" length="56235616" type="audio/mp4"/>
+    <itunes:duration>00:38:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>资本·业语：2.并购中的报价和对赌</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67de223bdd11f9c8c14d3dc6</link>
+    <guid isPermaLink="false">67de223bdd11f9c8c14d3dc6</guid>
+    <pubDate>Sat, 22 Mar 2025 02:43:20 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>从菜场买土豆到顶流公司千亿并购，砍价，都是不可或缺的环节，大家是否好奇过，并购活动中的条款和条件是如何达成一致的，同样是交易，和二手平台买卖个东西，他们的思路有哪些本质上的不同，是什么导致了这些不一样？</span></p><span></span><p><span>我们这一期依然是由在跨境并购领域深耕多年的武律师，带我们来看看并购交易中谈判的艺术。</span></p><span></span><p><span>本期主题：并购中的报价与对赌</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>武律师履历：曾任职于北京市司法局，前红圈所香港及内地上市与并购团队，香港上市公司执行董事与法律总监，多家上市公司独立董事，现中铸万丘律师事务所合伙人、主任。</span></p><span></span><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66711e60c26e396a3696f6cd/lrKrG9UI6erhzfcLclRGI_mIO7JS.m4a" length="20224701" type="audio/mp4"/>
+    <itunes:duration>00:27:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>注册·业语：4.仿制药注册策略探讨 part II</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67778e3815a5fd520eba30e6</link>
+    <guid isPermaLink="false">67778e3815a5fd520eba30e6</guid>
+    <pubDate>Fri, 03 Jan 2025 07:17:14 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>工欲善其事，必先利其器。药品注册的策略可以说是一件重“器”。书接上回，以外用凝胶贴膏为例，出现过多家企业仿制，后又主动撤回的，主要就是没有考虑法规和政策变化信息。那么在仿制药注册中，如何规避此类风险呢。</span></p><span></span><p><span>本期主题：化药仿制药注册策略</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsEDcQMItex5lYSvBJOxpF147Ib7.m4a" length="7508091" type="audio/mp4"/>
+    <itunes:duration>00:10:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>注册·业语：4.仿制药注册策略探讨 part I</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/676b8b171e823e72d393714d</link>
+    <guid isPermaLink="false">676b8b171e823e72d393714d</guid>
+    <pubDate>Wed, 25 Dec 2024 04:47:49 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>工欲善其事，必先利其器。药品注册的策略可以说是一件重“器”。这一期节目，从事药品注册工作数十年的张老师为我们讲解化药仿制药的注册策略。</span></p><span></span><p><span>本期主题：化药仿制药注册策略</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>内容索引：</span></p><span></span><p><span><a class="timestamp" data-timestamp="61">01:01</a>选题立项</span></p><span></span><p><span><a class="timestamp" data-timestamp="342">05:42</a>参比制剂选择的原则</span></p><span></span><p><span><a class="timestamp" data-timestamp="723">12:03</a>特殊仿制药</span></p><span></span><p><span><a class="timestamp" data-timestamp="986">16:26</a>安全性依据</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrcvHo00sM0cJv-boY5PsHvFhDJz.m4a" length="12848890" type="audio/mp4"/>
+    <itunes:duration>00:17:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>注册·业语：3. 药品注册相关法律法规</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67569d5817cd5416ad9f6df9</link>
+    <guid isPermaLink="false">67569d5817cd5416ad9f6df9</guid>
+    <pubDate>Thu, 12 Dec 2024 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>药品注册相关的法律法规和技术指导原则，是注册人员非常重要的参考和学习资料。这一期节目，我们邀请从事药品注册工作数十年的张老师给我们介绍药品从研发到上市期间相关的法律框架。在此基础上，新入行的注册人员可以着重学习与自己所从事的药品领域相关的法律法规，并进行整理和归纳，形成自己的检索体系。</span></p><span></span><p><span>本期主题：药械注册相关法律法规</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>内容索引：</span></p><span></span><p><span><a class="timestamp" data-timestamp="156">02:36</a>药品注册通用法规</span></p><span></span><p><span><a class="timestamp" data-timestamp="203">03:23</a> 研发相关的法律法规</span></p><span></span><p><span><a class="timestamp" data-timestamp="312">05:12</a>上市后相关法律法规</span></p><span></span><p><span><a class="timestamp" data-timestamp="525">08:45</a> 如何检索相关研发以及法律信息</span></p><span></span><p><span><a class="timestamp" data-timestamp="633">10:33</a> 如何学习新颁布的法律法规</span></p><span></span><p><span><a class="timestamp" data-timestamp="793">13:13</a> 如何将法规运用到实践中</span></p><span></span><p><span><a class="timestamp" data-timestamp="966">16:06</a> 新法替换旧法时，如何应用？</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkHu5U95aGnf4lpf-0ofhaDugwMn.m4a" length="19862476" type="audio/mp4"/>
+    <itunes:duration>00:20:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>临床研究·业语：6.如何提高研究参与者入组效率Part II</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67568f4117cd5416ad9aa516</link>
+    <guid isPermaLink="false">67568f4117cd5416ad9aa516</guid>
+    <pubDate>Mon, 09 Dec 2024 06:39:16 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>上一期入组的节目中，我们讨论了研究者的责任，这一期我们着重讨论申办方在入组阶段的的职责。</span></p><span></span><p><span>有请曾供职全球TOP10国际药厂，首席医学官，中国临床研究行业的早期贡献、参与者之一，大家熟悉的郭老师，来为我们答疑解惑。</span></p><span></span><p><span>本期主题：如何提高研究参与者入组效率</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>内容索引：</span></p><span></span><p><span><a class="timestamp" data-timestamp="34">00:34</a>入组阶段申办方的职责</span></p><span></span><p><span><a class="timestamp" data-timestamp="211">03:31</a> CRA跨领域工作时需要注意的事项</span></p><span></span><p><span><a class="timestamp" data-timestamp="533">08:53</a> CRA如何协助PI提高入组的效率</span></p><span></span><p><span><a class="timestamp" data-timestamp="1476">24:36</a> 受试者病情进展时，CRA如何应对</span></p><span></span><p><span><a class="timestamp" data-timestamp="1886">31:26</a> 申办方计划以及预算的合理性</span></p><span></span><p><span><a class="timestamp" data-timestamp="2173">36:13</a> 入组节奏的把握</span></p><span></span><p><span><a class="timestamp" data-timestamp="2269">37:49</a> 监查报告需要提交给医院吗？&nbsp;</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件或留言探讨任何问题</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，若有任何疑问，欢迎与我们联系探讨。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqTc6AHwnqVR-6Bw54gbOcq8ceNs.m4a" length="39565090" type="audio/mp4"/>
+    <itunes:duration>00:40:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtRTiKN25VDj_MZn5x6KF2zhMcXe.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>药械合规 · 业语：1. 加速启动：申办方如何与研究机构进行合同谈判</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6749921cc3b2a2f33467a4c5</link>
+    <guid isPermaLink="false">6749921cc3b2a2f33467a4c5</guid>
+    <pubDate>Fri, 29 Nov 2024 10:11:07 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><p><span>在药物和医疗器械临床试验过程中，申办方和研究机构对于ICF和CTA的谈判过程通常耗时较长，对研究项目的立项和启动产生直接影响。不同的申办方亦或是研究机构，对于ICF和CTA内容的关注点和期待也存在差异。</span></p><p><span>这期节目，我们请主持人Bin与大家介绍一下他的过往实务经验，总结申办方与研究机构在CTA商谈过程中所遇到的挑战、解决方案或修改意见。希望对关注临床研究启动的临研人有帮助。</span></p><p><span>嘉宾：Bin，律师。生物学与法学专业，具有专利代理人资格，服务的客户包括内外资医药与医疗器械研发企业、CRO/SMO、QA等。</span></p><p><span>本期主题：申办方如何与研究机构进行合同谈判</span></p><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自已岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾为听众朋友们解读身边行业。</span></p><p><span>内容索引：</span></p><p><span><a class="timestamp" data-timestamp="114">01:54</a> 机构如何看待受试者赔偿条款&nbsp;</span></p><p><span><a class="timestamp" data-timestamp="927">15:27</a> 数据责任条款</span></p><p><span><a class="timestamp" data-timestamp="1315">21:55</a> &nbsp;site要求sponsor进行QA</span></p><p><span><a class="timestamp" data-timestamp="1710">28:30</a> 专利和发表条款&nbsp;</span></p><p><span>联系方式：legalaffairs@grandhills.com.cn 欢迎向我们发送邮件探讨任何问题。</span></p><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrD62GBYRhDeASX_AKRxxzLxjruQ.m4a" length="33933891" type="audio/mp4"/>
+    <itunes:duration>00:34:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>临床研究·业语：5.如何提高研究参与者入组效率 Part I</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67481f8fd193b6fc8578f96d</link>
+    <guid isPermaLink="false">67481f8fd193b6fc8578f96d</guid>
+    <pubDate>Thu, 28 Nov 2024 07:47:38 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><p><span>临床研究中的研究参与者入组问题是个老大难了。入组速度和质量很大程度上影响了试验进展的速度和效果，因此入组问题往往是各大药厂的关注重点，也是我们听到各位小伙伴感到压力山大的难点。</span></p><p><span>有请曾供职全球TOP10国际药厂，首席医学官，中国临床研究行业的早期贡献、参与者之一，大家熟悉的郭老师，来为我们答疑解惑。</span></p><p><span>本期主题：如何提高研究参与者入组效率</span></p><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><p><span>内容索引：</span></p><p><span><a class="timestamp" data-timestamp="60">01:00</a>入组为何重要</span></p><p><span><a class="timestamp" data-timestamp="770">12:50</a>药厂是否有霸王条款</span></p><p><span><a class="timestamp" data-timestamp="1044">17:24</a>如何选择研究者</span></p><p><span><a class="timestamp" data-timestamp="1376">22:56</a>如何向PI发问</span></p><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件或留言探讨任何问题</span></p><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，若有任何疑问，欢迎与我们联系探讨。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lov940U0TN_v8R7tRrEv0VUlfdVd.m4a" length="25769915" type="audio/mp4"/>
+    <itunes:duration>00:26:36</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>资本·业语：1.跨境并购 交易背后的故事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673af28df373fe5d4d2f6d15</link>
+    <guid isPermaLink="false">673af28df373fe5d4d2f6d15</guid>
+    <pubDate>Mon, 18 Nov 2024 09:44:14 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><p><span>与诉讼律师相比，资本并购的世界中，非诉律师更多地是在幕后进行工作。特别是跨境并购的律师，需要了解不同国家的法律、商业文化和监管要求。</span></p><p><span>我们这一期邀请到了在跨境并购领域深耕多年的武律师，带我们来看看并购交易中遇到的趣闻和挑战。</span></p><p><span>武律师履历：曾任职于北京市司法局，前红圈所香港及内地上市与并购团队，香港上市公司执行董事与法律总监，多家上市公司独立董事，现中铸万丘律师事务所合伙人、主任。</span></p><p><span>本期主题：跨境并购：交易背后的故事</span></p><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><p><span>内容索引：</span></p><p><span><a class="timestamp" data-timestamp="60">1:00</a> 林业权并购的背景</span></p><p><span><a class="timestamp" data-timestamp="240">4:00</a> 俄罗斯尽调的经历和感受</span></p><p><span><a class="timestamp" data-timestamp="775">12:55</a> 并购交易中的商业谈判</span></p><p><span><a class="timestamp" data-timestamp="1140">19:00</a> 香港与内地律师环境对比</span></p><p><span><a class="timestamp" data-timestamp="1500">25:00</a> 菲律宾尽调的经历和感受</span></p><p><span><a class="timestamp" data-timestamp="1980">33:00</a> 澳洲尽调的经历和感受</span></p><p><span><a class="timestamp" data-timestamp="2160">36:00</a> 并购中律师需要关注的事项以及并购条款分析</span></p><p><span><a class="timestamp" data-timestamp="2619">43:39</a> 并购交易中的估值方法与策略</span></p><p><span>联系方式：legalaffairs@grandhills.com.cn &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvqURVOJg7Mn4eYRm009JZG-bgYS.m4a" length="66470819" type="audio/mp4"/>
+    <itunes:duration>01:08:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>注册·业语：2.药械注册行业初入行的素质和能力要求</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6728625133c798676f442c95</link>
+    <guid isPermaLink="false">6728625133c798676f442c95</guid>
+    <pubDate>Mon, 04 Nov 2024 05:59:59 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><p><span>上一期注册业语我们聊了药械注册行业的概况，那么如何才能进入这个行业工作呢，怎么才能知道自己是否契合这个行业？</span></p><p><span>今天我们再次请到从事药品注册工作十数年的张老师来为我们答疑解惑。</span></p><p><span>本期主题：药械注册行业初入行的素质和能力要求</span></p><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><p><span>内容索引：</span></p><p><span><a class="timestamp" data-timestamp="88">01:28</a>素质和专业知识需求</span></p><p><span><a class="timestamp" data-timestamp="387">06:27</a>法律法规和标准要求</span></p><p><span><a class="timestamp" data-timestamp="520">08:40</a>项目管理知识体系</span></p><p><span><a class="timestamp" data-timestamp="675">11:15</a>招聘者看重什么</span></p><p><span><a class="timestamp" data-timestamp="1484">24:44</a>时间管理大师</span></p><p><span><a class="timestamp" data-timestamp="1982">33:02</a>新手一般从什么项目开始</span></p><p><span><a class="timestamp" data-timestamp="2280">38:00</a>资料提炼能力</span></p><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrH9T8hkfy3Ulfo4yRAvsTBc0Vbu.m4a" length="33858242" type="audio/mp4"/>
+    <itunes:duration>00:46:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>临床研究·业语：4.临床研究岗位概述 part III</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6719d9d3db2cf82757930b29</link>
+    <guid isPermaLink="false">6719d9d3db2cf82757930b29</guid>
+    <pubDate>Thu, 24 Oct 2024 05:23:31 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>对于医学、药学、生物学等应届生及从业者来说，在临床研究行业中有哪些可选择的职位，如何选择适合自己的岗位？</span></p><span></span><p><span>我们再次请到了曾供职全球TOP10国际药厂，首席医学官，中国临床研究行业的早期贡献、参与者之一，郭老师，来为我们答疑解惑。</span></p><span></span><p><span>本期主题：临床研究行业岗位概述</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>内容索引：</span></p><span></span><p><span><a class="timestamp" data-timestamp="14">00:14</a>CRA能否零经验入行</span></p><span></span><p><span><a class="timestamp" data-timestamp="83">01:23</a>如何打动招聘方</span></p><span></span><p><span><a class="timestamp" data-timestamp="207">03:27</a>如何选择东家</span></p><span></span><p><span><a class="timestamp" data-timestamp="487">08:07</a>职业发展</span></p><span></span><p><span><a class="timestamp" data-timestamp="613">10:13</a>三条发展路径</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件或留言探讨任何问题</span></p><span></span><p><span>本期相关：临床研究行业概述及岗位分工</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsFSuWR0Sp0G8B2tEA3Xwr6SqVsS.m4a" length="12192844" type="audio/mp4"/>
+    <itunes:duration>00:16:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>临床研究·业语：3.临床研究岗位概述 part II</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/670f46bddb2cf82757966ea5</link>
+    <guid isPermaLink="false">670f46bddb2cf82757966ea5</guid>
+    <pubDate>Wed, 16 Oct 2024 04:53:17 +0000</pubDate>
+    <description><![CDATA[<p><span>前言：</span></p><span></span><p><span>对于医学、药学、生物学等应届生及从业者来说，在临床研究行业中有哪些可选择的职位，如何选择适合自己的岗位？</span></p><span></span><p><span>我们再次请到了曾供职全球TOP10国际药厂，首席医学官，中国临床研究行业的早期贡献、参与者之一，郭老师，来为我们答疑解惑。</span></p><span></span><p><span>本期主题：临床研究行业岗位概述</span></p><span></span><p><span>栏目介绍：都说隔行如隔山，可即使在行业内，受限于自己岗位的接触范围，仍然可能不知道行业的整体思维，或者上下游、上下级的思维是什么样的。为此，我们做了这一档浅谈行业趣闻，剖析行业经验的节目，邀请各行各业的嘉宾来为听众朋友们解读身边行业。</span></p><span></span><p><span>内容索引：</span></p><span></span><p><span><a class="timestamp" data-timestamp="14">00:14</a>CRC人员流动性高</span></p><span></span><p><span><a class="timestamp" data-timestamp="135">02:15</a>如何判断公司是否稳定</span></p><span></span><p><span><a class="timestamp" data-timestamp="284">04:44</a>内资外资哪个好</span></p><span></span><p><span><a class="timestamp" data-timestamp="368">06:08</a>CRC和CRA的合作</span></p><span></span><p><span><a class="timestamp" data-timestamp="552">09:12</a>遇到CRA派发的任务，CRC怎么办</span></p><span></span><p><span><a class="timestamp" data-timestamp="875">14:35</a>岗位职责分工</span></p><span></span><p><span><a class="timestamp" data-timestamp="1088">18:08</a>什么情况下医院会退回CRC</span></p><span></span><p><span><a class="timestamp" data-timestamp="1228">20:28</a>如何与PI（主要研究者）沟通</span></p><span></span><p><span>联系方式：</span><a href="mailto:legalaffairs@grandhills.com.cn"><span>legalaffairs@grandhills.com.cn</span></a><span> &nbsp;&nbsp;&nbsp;&nbsp;欢迎向我们发送邮件探讨任何问题</span></p><span></span><p><span>本期相关：临床研究行业概述及岗位分工</span></p><span></span><p><span>免责声明：栏目内容仅为行业知识分享，不构成对投资、税务、法律等方面的建议或保证，如您有相关疑问，请咨询行业专业人士。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnom4LIvOes3iN_fu-1iYzIbwqir.m4a" length="16317490" type="audio/mp4"/>
+    <itunes:duration>00:22:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuBS6x3AWKex2CY7c3uVU1kjIqEk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

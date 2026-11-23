@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>下课去哪玩</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6576b18f5cef7e9848e972ae</link>
+  <description><![CDATA[江湖故事，都市传说，风花雪月，家长里短，吃喝玩乐，人生一梦。
+
+放松点儿，人生不就那么回事儿嘛。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:16:06 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6576b18f5cef7e9848e972ae.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FvdbWnvhDfom4lgDorcTA_CWBC3N.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FvdbWnvhDfom4lgDorcTA_CWBC3N.jpg</url>
+    <title>下课去哪玩</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6576b18f5cef7e9848e972ae</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>【第五回】故人入我梦，明我长相忆。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67471bc18d1233fb0d8dc7c2</link>
+    <guid isPermaLink="false">67471bc18d1233fb0d8dc7c2</guid>
+    <pubDate>Thu, 28 Nov 2024 02:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>一些矫情的回忆讲给你听。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll65ZJUtw8zJ6pTEL4ezjZsub15f.m4a" length="22565841" type="audio/mp4"/>
+    <itunes:duration>00:19:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FryCapaPqWihw7Z55opUIKDNEv-k.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【第四回】如果你觉得我是错的，那你证明了你是对的也没用。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673b342e43dc3a4387991ef1</link>
+    <guid isPermaLink="false">673b342e43dc3a4387991ef1</guid>
+    <pubDate>Mon, 18 Nov 2024 12:46:05 +0000</pubDate>
+    <description><![CDATA[<p><span>闲聊一个故事，希望你开心。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/looNN8j28-8MXBsiNK-OJaz7odHU.m4a" length="19893797" type="audio/mp4"/>
+    <itunes:duration>00:16:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft7BvitwtTEnz2yZCb6aJhyGpjjr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【第三回】放下助人情结后，狗还拿不拿耗子了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666bf964c26e396a36c239c6</link>
+    <guid isPermaLink="false">666bf964c26e396a36c239c6</guid>
+    <pubDate>Fri, 14 Jun 2024 08:03:47 +0000</pubDate>
+    <description><![CDATA[<p><span>久违了各位，希望你们喜欢今天的故事。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lih3UcVWoJuU4VzXrKwKObFivVPI.m4a" length="22043360" type="audio/mp4"/>
+    <itunes:duration>00:14:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft7BvitwtTEnz2yZCb6aJhyGpjjr.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【第二回】圣诞不端饺子碗，气死耶稣没人管。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6585443120d779b49dc74f75</link>
+    <guid isPermaLink="false">6585443120d779b49dc74f75</guid>
+    <pubDate>Sun, 24 Dec 2023 06:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>祝您各位圣诞吃好喝好玩好。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llsLDmb1MCJAsvqkdKslKHDSNKOH.m4a" length="20601666" type="audio/mp4"/>
+    <itunes:duration>00:17:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZpU2x6dXdKUVBJOENNR3I5c3BoY2VaQklZenYucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【第一回】众网友齐斗批评怪，赛博爹春风吹又生。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65828ef1991e2ee6080e02b3</link>
+    <guid isPermaLink="false">65828ef1991e2ee6080e02b3</guid>
+    <pubDate>Wed, 20 Dec 2023 06:51:28 +0000</pubDate>
+    <description><![CDATA[<p><span>祝你时刻都能武装自己反击欺凌。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljcLL_6oNzuRzW5OmWm9I3avygp2.m4a" length="15501130" type="audio/mp4"/>
+    <itunes:duration>00:12:47</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvTmdNbXdha2FxNENDTElVT0t3UDM2VXVNd18ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>【前言？】欢迎你，也欢迎我自己。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/657be96420d779b49d7c1d4f</link>
+    <guid isPermaLink="false">657be96420d779b49d7c1d4f</guid>
+    <pubDate>Fri, 15 Dec 2023 05:51:31 +0000</pubDate>
+    <description><![CDATA[<p><span>第一次录单人内容，多少显得有点儿僵硬和尴尬，见谅。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li2X2W7In66NNsAJRMZQvMHmwFqJ.m4a" length="7541083" type="audio/mp4"/>
+    <itunes:duration>00:05:55</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZvTmdNbXdha2FxNENDTElVT0t3UDM2VXVNd18ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>内娱过往2008-2023</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65fad911696bd9a8795cb44e</link>
+  <description><![CDATA[这是一册内地娱乐行业的大众回忆录，也是一本内地娱乐观众的私人记事簿。我们将从2008年的一首《北京欢迎你》聊起，梳理讨论其背后关键词在这十六年间的起落变化，及其所涉的人际沉浮、流行演变、时代风潮。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:01:49 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65fad911696bd9a8795cb44e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrDy34cl1IgsHxl52sB-Dng1JqqU.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrDy34cl1IgsHxl52sB-Dng1JqqU.jpg</url>
+    <title>内娱过往2008-2023</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65fad911696bd9a8795cb44e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

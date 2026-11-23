@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>随便说两句</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6514f8b18cce5536e3949926</link>
+  <description><![CDATA[嗷呜嗷呜]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:04:51 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6514f8b18cce5536e3949926.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>陈诺诺咿呀咿呀哟</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg</url>
+    <title>随便说两句</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6514f8b18cce5536e3949926</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>美国资本市场都在做什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66556051c59d1e57572a1fdd</link>
+    <guid isPermaLink="false">66556051c59d1e57572a1fdd</guid>
+    <pubDate>Tue, 28 May 2024 04:40:49 +0000</pubDate>
+    <description><![CDATA[<p><span>•	微博新号：陈诺诺咿呀咿呀哟</span></p><p><span>•	亚洲资本市场鬼故事</span></p><p><span>•	美国资本市场做什么？</span></p><p><span>o	融资项目</span></p><p><span>o	法律咨询</span></p><p><span>•	融资项目</span></p><p><span>o	IPO/follow-on offering/de-SPAC</span></p><p><span>•	法律咨询</span></p><p><span>o	围绕SEC和证券交易所的规定而进行的披露（财报，关键事件等等）</span></p><p><span>o	股东大会，提议</span></p><p><span>o	董事会会议文件</span></p><p><span>o	ESG</span></p><p><span>•	为什么我觉得美国资本市场很有趣</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpzd06mVlpfiqgluTVJMmTNYsD3t.m4a" length="11667403" type="audio/mp4"/>
+    <itunes:duration>00:24:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>为什么华尔街和大律所充满鬼故事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6579120c6396a4645a9dcaad</link>
+    <guid isPermaLink="false">6579120c6396a4645a9dcaad</guid>
+    <pubDate>Wed, 13 Dec 2023 02:08:12 +0000</pubDate>
+    <description><![CDATA[<p><span>因为我们都是洗衣机，你会因为让洗衣机重复洗两次衣服而跟洗衣机道歉吗？不，你会为了节省电费让洗衣机在半夜运行。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ll4iFvCnVQtQ37cm9XMaWioQe6jf.m4a" length="30996870" type="audio/mp4"/>
+    <itunes:duration>00:18:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>律所的涨薪和降薪逻辑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/656e7e73e3f90e0c69bf1304</link>
+    <guid isPermaLink="false">656e7e73e3f90e0c69bf1304</guid>
+    <pubDate>Tue, 05 Dec 2023 01:35:47 +0000</pubDate>
+    <description><![CDATA[<p><span>涨工资了，好事还是坏事？</span></p><p><span>- 什么叫Cravath Scale？</span></p><p><span>- Milbank为什么最近老是涨工资？这家律所是什么样的？</span></p><p><span>- 市场环境变好了吗？为什么涨工资？</span></p><p></p><p><span>对律师而言涨工资意味着什么？</span></p><p><span>- 对生活真的有变化吗？</span></p><p><span>- 更多的压榨？要裁员了？</span></p><p><span>- 除了工资以外，big law还有什么吸引人的地方？</span></p><p></p><p><span>红圈降薪和biglaw涨薪为什么是一套逻辑</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpQ88LYi0qEa4wyGC3nRXtRvUs3O.m4a" length="42087058" type="audio/mp4"/>
+    <itunes:duration>00:24:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>看完电影《公平竞争》，吐槽几句华尔街工作环境</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6525f489a3b0404cbfeaaeaa</link>
+    <guid isPermaLink="false">6525f489a3b0404cbfeaaeaa</guid>
+    <pubDate>Wed, 11 Oct 2023 01:04:08 +0000</pubDate>
+    <description><![CDATA[<ul><li><p><span>Fair Play，公平竞争，一对在基金工作的情侣因为女生升职，男生变成了她的下属，而开始撕逼的故事</span></p></li><li><p><span>剧情比较尴尬</span></p></li><li><p><span>华尔街白男工作环境 - 爱好（滑雪，棒球，高尔夫，脱衣舞，乡村俱乐部），成长环境（私立学校，藤校），家庭背景（中产以上），直男癌聊天话题，喝酒 （diet cock, 迈凯伦威士忌）</span></p></li><li><p><span>女性在工作场合 - 质疑白男，融入白男，变成白男</span></p></li><li><p><span>自我怀疑？弱点？</span></p></li><li><p><span>律所工作环境</span></p></li></ul>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrWpQZCc57cGga5FLHRyjmSuTk7N.m4a" length="26746384" type="audio/mp4"/>
+    <itunes:duration>00:15:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>为什么在美国找工作那么难</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/651b7c4319dde7bf6aeb41de</link>
+    <guid isPermaLink="false">651b7c4319dde7bf6aeb41de</guid>
+    <pubDate>Tue, 03 Oct 2023 02:28:19 +0000</pubDate>
+    <description><![CDATA[<p><span>- 为什么现在在美国工作很难找？法律，金融，Tech行业，H1B抽签</span></p><p><span>- 从零开始找工作：合理使用ChatGPT</span></p><p><span>- 找工作的资源：Handshake，Symplicity，LinkedIn</span></p><p><span>- Networking</span></p><p><span>- 面试准备</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk5UIcGu540jnaYoqHLvvA5v10fY.m4a" length="43884634" type="audio/mp4"/>
+    <itunes:duration>00:25:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>美国法律行业猎头使用指南</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/651620e350cf691d24dcfc09</link>
+    <guid isPermaLink="false">651620e350cf691d24dcfc09</guid>
+    <pubDate>Fri, 29 Sep 2023 00:57:07 +0000</pubDate>
+    <description><![CDATA[<p><span>1. 找猎头和内推哪个靠谱？</span></p><p><span>2. 什么时候开始和猎头沟通？</span></p><p><span>3. 如何挑选满意的猎头？用一个猎头还是很多个猎头？</span></p><p><span>4. 猎头的哪些行为需要避雷</span></p><p><span>5. 我自己找猎头的经验</span></p><p><span>6. 急着找工作怎么办？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lg_FKf37Iiw4MkHxc0CoPhXEFD3f.m4a" length="49041954" type="audio/mp4"/>
+    <itunes:duration>00:28:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lkDEhSzLPhDv8BUEuNFCzxIR8GuQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

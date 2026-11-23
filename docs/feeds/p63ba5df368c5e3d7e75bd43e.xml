@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ABCDE</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/63ba5df368c5e3d7e75bd43e</link>
+  <description><![CDATA[投资是一种修行]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:43:25 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63ba5df368c5e3d7e75bd43e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>BMAN</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg</url>
+    <title>ABCDE</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/63ba5df368c5e3d7e75bd43e</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>S1E12[CN]特朗普上台后对Crypto的影响？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/669cd5308fcadceb90d3449c</link>
+    <guid isPermaLink="false">669cd5308fcadceb90d3449c</guid>
+    <pubDate>Sun, 21 Jul 2024 09:30:24 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/loD7DaixhpGf95fURzH1TIoIGp8l.m4a" length="12420363" type="audio/mp4"/>
+    <itunes:duration>00:13:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>S1E10[CN] - 牛市下半场？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6639b177565d3f8fe3322987</link>
+    <guid isPermaLink="false">6639b177565d3f8fe3322987</guid>
+    <pubDate>Tue, 07 May 2024 04:43:35 +0000</pubDate>
+    <description><![CDATA[<p><span>在这一轮的加密货币市场中，是否会出现类似于2021年的山寨币季现象？本轮缺乏共识、资金分散以及FDV（全流通市值）过高。目前还没有出现像2021年那样的山寨币季。</span></p><span></span><p><span>在过去的山寨币季中，全球范围内的大量增量用户加入了市场，尤其是在疫情之后，全球经济实行了宽松货币政策。这包括了DeFi夏季活动，人们积极涌入挖矿，而场外交易人员也从中获益。</span></p><span></span><p><span>这一轮市场的重要节点包括：美国大选可能会提高市场流动性；美国的中期选举阶段对市场也会产生影响，尤其是在11月大选后的头两个月，市场表现应该不错；此外，美国的债务问题也给市场带来了一定压力。而十月份的财报季也可能会提振市场情绪，比如Coinbase等公司的财报数据，以及NVIDIA等公司的表现是否符合预期。此外，美国金融会计准则委员会(FASB)的新规定将于2025年生效，这对市场走向也产生极大影响。</span></p><span></span><p><span>在这一轮市场中，资金分散，而不像上一轮市场那样聚焦于少数目标。虽然VC币解锁较多，但估值普遍偏高，而Meme板块则成为了散户偏好的领域。在比特币领域，Ordi西方不再像以前那样接盘，而Arc20和Runes板块则备受关注。</span></p><span></span><p><span>新的市场叙事关注于人工智能(AI)领域，需要关注传统股票市场中的AI逻辑。目前，AI主要集中在上游领域，例如算力方面，而应用层面仍处于早期阶段。算力短缺是当前AI领域的主要难题之一，尽管去中心化算力无法进行大规模运算，但也存在一些垂直化AI的机会。另外，60%的数据源是相似数据，这可能导致重复的能源和算力消耗。对于中小型AI企业来说，当前的成本相当高，因此共享型AI有着较大的发展潜力。</span></p><span></span><p><span>在质押和积分领域，Eigenlayer的代币发行不仅仅是为了市场炒作，而是为了让代币回归其实用价值，为Eigen提供安全性保障。积分时代尽管不会结束，但热度确实有所下降。在质押领域，关键是需要通过代币空投奖励来提高冷启动的安全性。未来，APR收入可能会变成新的Appchain的奖励费用。</span></p><span></span><p><span>ZK板块仍然值得关注，如Cysic等硬件板块。ZK layer2 的生态发展限制了其技术的落地，需要更多的应用去推进技术的更迭。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrgJnyubiJ1nAhyxvShzcQg9kFMp.m4a" length="122574877" type="audio/mp4"/>
+    <itunes:duration>01:24:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>S1E02 - Pobu &amp; Siyuan: ZK硬件加速的未来</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/640676abc5d7e6e06061f340</link>
+    <guid isPermaLink="false">640676abc5d7e6e06061f340</guid>
+    <pubDate>Mon, 06 Mar 2023 23:26:35 +0000</pubDate>
+    <description><![CDATA[<p><span>1、怎么用小白听得懂的话来解释什么是ZK硬件加速？</span></p><span></span><p><span>2、怎么看待Vitalik说以太坊fully-ZKSnarked的end game，ZK硬件加速在其中有什么作用？</span></p><span></span><p><span>3、以太坊通往fully-ZKSnarked的路径是怎么样的，未来ZK还有什么应用场景？</span></p><span></span><p><span>4、如何看待中国跟美国的芯片之争，中国的芯片距离美国有多少差距？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lh-kxo-TP_K6k8T4iCzzh90b-Nmz.m4a" length="43437310" type="audio/mp4"/>
+    <itunes:duration>01:00:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>S1E01 - BMAN&amp;Laobai: 2022年终总结和2023年展望</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/63ba8945289d2739647d96ae</link>
+    <guid isPermaLink="false">63ba8945289d2739647d96ae</guid>
+    <pubDate>Sun, 08 Jan 2023 09:13:41 +0000</pubDate>
+    <description><![CDATA[<p><span>1、回顾2022年，今年都有什么难忘的事情？有什么感想和体验？</span></p><span></span><p><span>2、2022年有哪些印象深刻的创新？有用过什么比较好的产品？</span></p><span></span><p><span>3、2023年会关注哪些方向？有哪些是行业内还缺少的东西还没有解决的痛点？</span></p><span></span><p><span>我们聊了关于做VC的体验，全链上游戏的未来，ZK和模块化的发展。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpfWte6tpGa1NLXMaJPu7UNzgGAN.m4a" length="49083173" type="audio/mp4"/>
+    <itunes:duration>00:50:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiJOWU0157nERpAr5LDn-3tCUQCJ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

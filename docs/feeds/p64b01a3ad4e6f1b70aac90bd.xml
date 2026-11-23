@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>荒野路标</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64b01a3ad4e6f1b70aac90bd</link>
+  <description><![CDATA[直播期间的某些问题和现象的解答和讨论，希望可以在有限的范畴内给予大家一个相对正确的方向。
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:40:32 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64b01a3ad4e6f1b70aac90bd.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>就叫老张好了</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png</url>
+    <title>荒野路标</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64b01a3ad4e6f1b70aac90bd</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>连麦丨投了100家面了20家拿到1个offer，到底谁在说行情好？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add9a30c96c8942ec11d272</link>
+    <guid isPermaLink="false">6add9a30c96c8942ec11d272</guid>
+    <pubDate>Sun, 25 Oct 2026 05:58:15 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lu5sxN6-agMzDvmn7YsnqNy0tTQa.m4a" length="12566961" type="audio/mp4"/>
+    <itunes:duration>00:12:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨环境转FPGA，全课题组都选研究所，但我只想进私企</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add99f097726cd467574505</link>
+    <guid isPermaLink="false">6add99f097726cd467574505</guid>
+    <pubDate>Sun, 25 Oct 2026 05:57:49 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lrD0KCQ9BQ1RjJqCKnPjf50yXK4Q.m4a" length="20746594" type="audio/mp4"/>
+    <itunes:duration>00:21:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨硕导给的课题他不懂课题组也没人懂，搞计算还没卡，我该怎么办？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add99a6c96c8942ec11d232</link>
+    <guid isPermaLink="false">6add99a6c96c8942ec11d232</guid>
+    <pubDate>Sun, 25 Oct 2026 05:57:17 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/ljEtR3zec4XahlBcTfT0M0L5y48I.m4a" length="16093878" type="audio/mp4"/>
+    <itunes:duration>00:16:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨博导人很好不压力人，但不给课题没有资源怎么办？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add98f197726cd46757449c</link>
+    <guid isPermaLink="false">6add98f197726cd46757449c</guid>
+    <pubDate>Sun, 25 Oct 2026 05:54:45 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lraGSIcKnFIPRt0QIwOY4Cur1jj9.m4a" length="28131993" type="audio/mp4"/>
+    <itunes:duration>00:28:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨JJW开50W还有签字费，行情真好了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6add98a6c96c8942ec11d1e1</link>
+    <guid isPermaLink="false">6add98a6c96c8942ec11d1e1</guid>
+    <pubDate>Sun, 25 Oct 2026 05:52:23 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/luxpX2XgWG9If7lCgNz0exKwwkjA.m4a" length="8858378" type="audio/mp4"/>
+    <itunes:duration>00:09:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨C9博士就别担心就业了，你只要尽快想清楚自己要干嘛</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a53a02f4adef2b36562d19b</link>
+    <guid isPermaLink="false">6a53a02f4adef2b36562d19b</guid>
+    <pubDate>Sun, 12 Jul 2026 14:20:21 +0000</pubDate>
+    <description><![CDATA[<p><span>*音频总结由阿里通义生成</span></p><p><span>一位在物理学博士阶段已进入第五年的学生，目前在非大公司参与AI图像识别项目的实习，发现自己所学与实际工作差距较大，对职业道路感到迷茫。他考虑是否应继续当前的学术路径，或转向如半导体测试或集成电路设计等其他领域。在与经验丰富的专业人士的交流中，讨论了工作与个人发展、技能提升的重要性，以及对不同就业环境（大厂、小公司、研究机构）的考量。建议强调了明确职业目标、补充相关技能和利用名校背景的重要性，同时指出了面临的挑战和解决方案。</span></p><p><strong><span><a class="timestamp" data-timestamp="0">00:00</a></span></strong><strong><span> 博士生实习与专业方向不匹配的困惑与应对</span></strong></p><p><span>一名上海交通大学的博士生，专业为物理学，目前在一家非大公司实习，负责的工作与自身专业及博士研究方向存在较大差异，感到困惑。他正面临是否毕业后继续从事与博士专业强相关工作，或转向数据分析类岗位的选择。考虑到学术道路的不确定性，他计划两手准备，白天实习，晚上进行科研，同时考虑是否需要补一个博后来提升就业竞争力。</span></p><p><strong><span><a class="timestamp" data-timestamp="307">05:07</a></span></strong><strong><span> 探索职业方向与实习选择的考量</span></strong></p><p><span>对话围绕个人职业规划展开，讨论了DFT、AT测试及AI图像识别三个不同领域的职业可能性。发言者表达了对当前就业方向的探索状态，以及在实习选择上的佛系态度，强调了在科研强度下对时间分配的考量，指出可能因科研压力而未选择大厂实习，同时暗示了对导师期望的考虑。</span></p><p><strong><span><a class="timestamp" data-timestamp="620">10:20</a></span></strong><strong><span> 博士求职者探讨职业期望与大厂选择</span></strong></p><p><span>对话围绕博士求职者的未来职业规划展开，求职者表达了对大厂工作的偏好，尽管意识到部分大厂风评不佳，但仍倾向于选择规模较大的企业。求职者对于具体期望尚不明确，包括理想工作类型、公司名称、期望薪资等，但倾向于不考虑小公司。</span></p><p><strong><span><a class="timestamp" data-timestamp="806">13:26</a></span></strong><strong><span> 博士毕业生就业去向与薪资探讨</span></strong></p><p><span>对话围绕已毕业博士生的就业情况展开，提及几位师兄师姐的就业方向，包括医疗器械数据分析和银行管培生职位，薪资待遇未详述但暗示C9博士生在私企的月薪可达30至35K。讨论强调个人职业规划的重要性，建议根据自身价值和学历背景设定合理薪资期望，同时指出博士延毕后应尽早实现毕业并规划就业方向。</span></p><p><strong><span><a class="timestamp" data-timestamp="1048">17:28</a></span></strong><strong><span> 博士就业方向与技能点选择探讨</span></strong></p><p><span>对话围绕博士生就业方向的选择展开，强调读博期间自我技能点的加成对就业的重要性。讨论了AI领域，尤其是图像识别工程师的角色，以及个人在半导体物理与IC设计领域的兴趣和可能的就业机会。参与者反思了实习经历与长期项目投入的价值，表达了对简历清晰性和职业目标明确性的担忧，同时提到了博士生倾向于选择与专业相关或结合市场热门方向的就业路径。</span></p><p><strong><span><a class="timestamp" data-timestamp="1494">24:54</a></span></strong><strong><span> 求职策略与技能补足的重要性</span></strong></p><p><span>对话围绕求职者如何利用自身学历优势及补足技能展开，指出并非所有实习经历都需写入简历，强调名校背景在求职中的优势。讨论了秋招经验对个人能力认知的重要性，建议求职者明确方向、补充相关技能，并通过虚拟项目提升技术面试表现，以更好地适应岗位需求。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/liD-EDMtNPOlhqTEq2_H9AQDYXHT.m4a" length="30204358" type="audio/mp4"/>
+    <itunes:duration>00:31:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>连麦丨你干教培都年薪30W了，怎么还想回去读个研呢？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a53a0974adef2b36562d1d9</link>
+    <guid isPermaLink="false">6a53a0974adef2b36562d1d9</guid>
+    <pubDate>Sun, 12 Jul 2026 14:18:59 +0000</pubDate>
+    <description><![CDATA[<p><span>*音频总结由阿里通义生成</span></p><p><span>此人毕业于2021年，曾从中国科学技术大学本科毕业后通过保研调剂进入国科大，后选择退学。退学后，他尝试过多种工作，包括在老家和深圳的私立中学任教，因薪资与工作状态不满而频繁换工作，目前在深圳附近的中山市一所私立中学工作，年收入约30万。尽管经济独立，但他因无学位感到遗憾，朋友建议他考虑考研或出国深造。对话中探讨了非全日制学习解决学位问题的可能性，以及利用AI工具和Web编程等探索新职业方向的前景，最终聚焦于继续教育与职业发展的深化选择。</span></p><p><strong><span><a class="timestamp" data-timestamp="0">00:00</a></span></strong><strong><span> 退学硕士寻求学位路径建议</span></strong></p><p><span>对话围绕一名退学硕士的教育背景与职业经历展开，该人士本科毕业于中国科学技术大学，硕士期间因导师问题导致退学，后从事教育工作。尽管薪资可观，但因缺乏学位证书而心存遗憾，现寻求继续深造的建议，包括考研或出国等途径。</span></p><p><strong><span><a class="timestamp" data-timestamp="199">03:19</a></span></strong><strong><span> 探讨非全日制硕士教育与职业发展的平衡</span></strong></p><p><span>对话围绕着通过非全日制教育途径获得硕士学历展开，讨论了个人对完成未竟学业的执念以及如何在不影响职业发展的情况下，选择合适的教育路径。参与者强调了避免‘水硕’的重要性，建议在本地选择合适的非全日制项目，同时指出远程学习的可行性与局限性。对话还提及了深圳作为教育资源丰富的城市，为追求进一步学术或科研发展的人提供了便利。</span></p><p><strong><span><a class="timestamp" data-timestamp="306">05:06</a></span></strong><strong><span> 探讨教培行业从业者转型科研或AI领域的可能性</span></strong></p><p><span>对话围绕一名教培行业从业者对于当前工作重复性高、缺乏个人成长空间的不满，探讨了通过非全日制研究生教育、转向AI工具开发或产品设计等方式，实现职业转型和科研兴趣满足的可能性。参与者强调了个人经济独立的优势，以及非全日制教育在提升个人竞争力和为教培事业增加价值方面的潜力，同时讨论了价格因素和水数据等非全日制教育的潜在问题。</span></p><p><strong><span><a class="timestamp" data-timestamp="489">08:09</a></span></strong><strong><span> 探索AI工具与兴趣项目结合的可能性</span></strong></p><p><span>对话围绕利用AI工具进行web coding和实现个人兴趣项目展开，建议尝试与现有工作无关的新领域，如宠物养成游戏开发，强调兴趣驱动的项目实践价值，同时提及考研与职业规划的考量及风险。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/llYte9j0p2XQXF2LWrZwPR7C-Gf1.m4a" length="11493613" type="audio/mp4"/>
+    <itunes:duration>00:11:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>富裕地区的技校原来长这样？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a39296f2e335a35a807790e</link>
+    <guid isPermaLink="false">6a39296f2e335a35a807790e</guid>
+    <pubDate>Mon, 22 Jun 2026 12:35:21 +0000</pubDate>
+    <description><![CDATA[<p><span>在浙江，职业教育，特别是技校和职高的发展面临多方面挑战，包括生源素质下降、教育资源不足以及教育环境变化。尽管如此，浙江在技能竞赛和高技能人才培养上取得显著成就，政府与企业对职业教育的重视和支持日益增加。技术，尤其是AI在教育中的应用，虽面临理论与实践脱节的问题，但未来前景被看好。对话强调了职业教育的未来发展方向，需通过改革和创新提升教育质量，应对当前挑战，展现对职业教育发展的积极展望。</span></p><p><strong><span><a class="timestamp" data-timestamp="0">00:00</a></span></strong><strong><span> 技校教育与学历认证政策解析</span></strong><br><span>对话探讨了技校教育面向初中毕业生的特点，以及技校学生可选择的不同教育路径，包括中级工、高级工和技术毕业证的获取，及其在浙江的学历认可情况。特别提到了技校教育与台湾学历互认的挑战，以及浙江在技校教育探索上的领先地位和相关政策支持，如一流技师建设项目的经费投入和专业建设要求。</span><br><br><strong><span><a class="timestamp" data-timestamp="217">03:37</a></span></strong><strong><span> 深圳与浙江在精加工及技能比赛领域的对比</span></strong><br><span>讨论了深圳在绩效管理、技能比赛以及精加工方面的优势，指出深圳与浙江在定制化服务和设备引入上的差异，强调了广东对外开放带来的成熟产业链与浙江中小工厂的自我发展策略之间的区别。</span><br><br><strong><span><a class="timestamp" data-timestamp="299">04:59</a></span></strong><strong><span> 技师与高级工毕业学生的职业发展路径及市场需求</span></strong><br><span>讨论了技师和高级工毕业生的职业选择，包括当兵和进入基层岗位如会计、烹饪、园林等。提到学校依托于硝酸民企，结合浙江工业4.0工厂的建设，对机器人、电器、图纸绘制、数控等方向有大量用工需求。学校通过定向培养，每年招收700名学生，其中5到10名拔尖学生进入高分录取，展现了技术人才的培养与市场需求的紧密结合。</span><br><br><strong><span><a class="timestamp" data-timestamp="460">07:40</a></span></strong><strong><span> 浙江省职高招生分数与技术工人素质提升</span></strong><br><span>对话讨论了浙江省职高招生分数降至接近普高末尾水平的现象，以及随着时代进步，对技术工人素质要求的提升。提及了学校与企业合作，五年制技师班的培养模式，以及优质企业合作的重要性。</span><br><br><strong><span><a class="timestamp" data-timestamp="597">09:57</a></span></strong><strong><span> 教育压力与学生心理承压能力的变迁</span></strong><br><span>对话讨论了近年来学生心理承压能力下降的现象，指出分数低的学生不仅天赋可能不足，家庭和教育背景也较弱，易出现心理问题。学校虽提供良好平台，但面临学生增多的压力，需关注学生成长与心态成熟度的提升。</span><br><br><strong><span><a class="timestamp" data-timestamp="743">12:23</a></span></strong><strong><span> 技校生学习态度与教育现状探讨</span></strong><br><span>对话围绕技校生的学习态度展开，指出部分学生因能力限制或环境影响而缺乏学习动力。通过竞赛集训队学生的努力表现，展示了积极改变的可能性。同时，讨论了教育资源分配不均对西北地区学生的影响，强调了技工教育在AI时代的重要性及未来发展趋势，认为具备主观能动性和探索精神的人才更适应未来产业需求。</span><br><br><strong><span><a class="timestamp" data-timestamp="971">16:11</a></span></strong><strong><span> 技工教育与教师责任化问题探讨</span></strong><br><span>对话围绕技工教育及教师责任化问题展开，指出教师在教育过程中面临的自我保护与教育责任之间的矛盾。教师虽有良好教育意图，但受制于学生心理疾病发病率高及疫情后社交影响，教育成效受限。强调了教育思路需调整，以应对当前学生内驱力不足及心理健康挑战。</span><br><br><strong><span><a class="timestamp" data-timestamp="1110">18:30</a></span></strong><strong><span> 时间感知与教育影响：青少年成长的多维思考</span></strong><br><span>讨论了青少年时期时间感知较慢对个人成长的影响，以及教育体系中去责任化现象对学生心理素质的影响。提出在特定环境下，学生展现出对实践技能的强烈兴趣，强调教师引导的重要性，同时反思了现代教育体系与人才成长的关系。</span><br><br><strong><span><a class="timestamp" data-timestamp="1476">24:36</a></span></strong><strong><span> 学校考试与毕业机制探讨</span></strong><br><span>对话围绕学校考试难度、补考政策及毕业要求展开，指出即使考试内容简化，仍有多数学生不及格，需通过多次补考或清考才能毕业，且需通过中级工、高级工等专业证书考试，否则可能面临留级，最终仅有约50%学生能顺利毕业。</span><br><br><strong><span><a class="timestamp" data-timestamp="1619">26:59</a></span></strong><strong><span> 技工学校半军事化管理与学生素质培养</span></strong><br><span>对话围绕技工学校的管理方式和学生素质培养展开，提到学校采用半军事化管理，严格控制手机使用和禁止抽烟等行为，以此提高学生整体素质。尽管管理严格，学校仍面临扩招带来的生源质量参差不齐问题，以及由此引发的家长投诉增多。学校在处理违纪学生时，采取开除并帮助转学的措施，但对一些不合理投诉只能向上级反映，难以解决。</span><br><br><strong><span><a class="timestamp" data-timestamp="1911">31:51</a></span></strong><strong><span> 学校管理压力与离谱投诉案例</span></strong><br><span>学校为保障学生安全采取分批放学措施，却遭遇高年级学生投诉。同时，学校严格纪律，如考试作弊处分，但学生以未明令禁止手表为由申诉，反映学生投诉行为增多及管理难度加大。</span><br><br><strong><span><a class="timestamp" data-timestamp="2122">35:22</a></span></strong><strong><span> 技工教育与区域经济发展的互动关系</span></strong><br><span>对话探讨了技工教育如何服务于地方经济，特别是在浙江这样的经济发达地区，技工教育的毕业生能够找到与技能匹配的工作，薪资待遇优于部分大学毕业生。技工教育的实用性确保了学生即使在外来务工的情况下，也能凭借技术获得较高的收入，尤其是在制造业和服务业领域。此外，对话还提到了优秀技工学生有机会进入高等学府的实验室工作，展示了技工教育的高潜力和广阔前景。</span><br><br><strong><span><a class="timestamp" data-timestamp="2328">38:48</a></span></strong><strong><span> 教师工资与工作压力的探讨</span></strong><br><span>对话围绕教师工资及工作压力展开，指出尽管教师工资有所提高，尤其是编内与合同教师差距不大，但工作量和压力显著增加，远超普通学校。教育局和人社局设定了较高目标，期望值高，即便非高考压力也存在。提及优秀学生有机会成为合同教师，硕士学历为入职门槛。整体讨论了教育环境、教师待遇与个人发展之间的关系。</span><br><br><strong><span><a class="timestamp" data-timestamp="2565">42:45</a></span></strong><strong><span> 教育与地方经济：共同富裕示范区的探索与挑战</span></strong><br><span>讨论了教育在不同层次和地区的差异性，尤其是浙江作为共同富裕示范区在兜底性教育方面的探索。指出教育需资源支持，地方经济能力影响教育质量。浙江通过人才补贴和技能竞赛激励，成功培养出具备竞争力的学生。但全国范围内推广面临挑战，需提升蓝领地位和待遇，地方经济能力是关键因素。</span><br><br><strong><span><a class="timestamp" data-timestamp="2754">45:54</a></span></strong><strong><span> 教育与经济：资源、竞赛与学生发展</span></strong><br><span>对话围绕教育资源、竞赛活动与学生发展之间的关系展开。参与者讨论了经济支持对教育的重要性，包括设备购置、竞赛参与和企业合作。他们强调了浙江地区的教育优势，以及学校如何通过引入外部资源、组织活动和搭建平台来提升学生能力。同时，提到了教师在教学之外承担的额外工作，如竞赛指导和社团活动组织，以及学校面临的压力和挑战。</span><br><br><strong><span><a class="timestamp" data-timestamp="3241">54:01</a></span></strong><strong><span> 地区产业优势与教育成果的相互促进</span></strong><br><span>对话强调了地区产业优势对教育成果的重要性，特别是浙江的3D打印、工业设计等领域的合作案例，展示了学生就业与企业需求的紧密联系。同时，指出了外来务工人员的经济压力及产业复苏带来的积极变化，体现了地区优势在促进教育与经济发展中的关键作用。</span><br><br><strong><span><a class="timestamp" data-timestamp="3549">59:09</a></span></strong><strong><span> 经济环境与AI产业的现状与未来</span></strong><br><span>对话围绕经济环境的正面变化展开，提及外贸数据爆表，尤其是对美贸易，以及政府鼓励企业用人民币换美元购买矿产的政策。同时，讨论了人民币在东南亚的直接交易增多，以及江浙沪等地因经济红利出现的低欲望就业现象。在AI领域，从起初认为存在较大泡沫到认识到应用端的进步，表达了对AI未来融入生活的期待。</span><br><br><strong><span><a class="timestamp" data-timestamp="4021">01:07:01</a></span></strong><strong><span> 浙江企业与政府对AI应用的探索与挑战</span></strong><br><span>对话围绕浙江地区企业主与政府对AI应用的态度和实践展开，企业主因AI的热度而邀请博主进行培训，政府则在教育领域推动AI的使用，如比赛要求使用AI工具。尽管存在认知差异，AI在教育和服务行业的应用前景被看好，但资源匮乏和技术认知不足仍是挑战。讨论还涉及职业院校向大学转型的趋势，以及优秀学生培养的案例，强调资源在技工教育中的重要性。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lkymXhSiXat-OLrlYtW4Mq_A4qVn.m4a" length="73965098" type="audio/mp4"/>
+    <itunes:duration>01:16:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>丹麦留子讲述德国工作生活的好与坏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69d11f3de2c8be315560d32e</link>
+    <guid isPermaLink="false">69d11f3de2c8be315560d32e</guid>
+    <pubDate>Sat, 04 Apr 2026 14:35:59 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 德国工作与生活的行政效率体验</span><br><span>对话围绕从丹麦到德国工作的经历，重点讨论了德国行政效率低下，包括签证审批和拘留卡申请流程缓慢，导致实际工作开始时间延迟。此外，还提到了对国内高强度工作的不适应，以及回国工作与留在欧洲之间的个人选择。</span><br><span></span><br><span><a class="timestamp" data-timestamp="174">02:54</a> 德国与丹麦生活体验及AI发展现状探讨</span><br><span>对话围绕在德国的生活体验展开，提及德国与丹麦在生活便利性、人文热情度上的差异，以及德国AI发展受限于GDPR政策的情况。在德国，尽管税负较重，但生活成本相对可控，且存在罢工等社会现象。工作环境方面，讨论了从传统钢铁行业转向IOT技术的趋势。此外，还提到了欧洲对AI发展的限制措施，以及东西德间在人文素质上的差异。</span><br><span></span><br><span><a class="timestamp" data-timestamp="600">10:00</a> 德国工作体验：福利与文化差异</span><br><span>分享者描述了在德国工作的经历，包括未满整月即获全月薪资、年假政策优厚以及工会与管理层直接对话的场景。这些福利和企业文化让分享者感到惊喜，尤其是HR主动提醒安排年假，体现了对员工休息权的尊重。尽管工作强度适中，但分享者认为德国工作环境有助于积累经验，同时也指出若计划回国发展，需考虑两地工作强度的差异。整体而言，分享者对德国的工作体验持正面态度。</span><br><span></span><br><span><a class="timestamp" data-timestamp="1076">17:56</a> 德国职场文化与社交体验</span><br><span>对话围绕在德国工作的职场体验展开，包括职场人际关系的淡漠、通过参与社团活动结识当地人的方法，以及学习德语的挑战与成本。讨论了公司提供的学习德语时间而非直接报销费用的情况，以及税收对个人经济的影响。</span><br><span></span><br><span><a class="timestamp" data-timestamp="1456">24:16</a> 海外饮食困扰与体重变化</span><br><span>讨论了在国外食堂饮食不佳导致的健康问题，以及因食物不适应引发的体重快速下降。提及了国内美食丰富，但国外生活成本可能上涨，影响生活质量。</span><br><span></span><br><span><a class="timestamp" data-timestamp="1607">26:47</a> 德国治安与经济发展现状探讨</span><br><span>对话围绕德国治安、经济政策及科技发展展开。提及德国东西部治安差异，以及经济政策实施不力导致民众生活恶化。讨论了德国在机器人自动化领域的优势，但AI发展受限于政策。欧盟内部问题影响德国经济发展，需探索新的增长方向。</span><br><span></span><br><span><a class="timestamp" data-timestamp="1881">31:21</a> 德国工业现状与个人职业规划探讨</span><br><span>对话围绕德国工业，特别是钢铁加工与能源行业的现状展开，提到行业停滞与新发展方向。个人职业规划方面，讨论了在德国工作20年攒500万的目标，以及投资ETF跑赢通胀的前提条件。此外，还提及了德国工作环境的压力较小，但长远规划需考虑生活成本与攒钱效率。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/ljISpT4Pz-TLAgEP3A_akT5G-X0K.m4a" length="34655596" type="audio/mp4"/>
+    <itunes:duration>00:35:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>你领导讲行情差，只是想让你留在公司罢了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69d11edee2c8be315560cb73</link>
+    <guid isPermaLink="false">69d11edee2c8be315560cb73</guid>
+    <pubDate>Sat, 04 Apr 2026 14:24:39 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> AI与IC行业转型：实习经历与职业规划</span><br><span>对话围绕AI技术对IC行业的影响及个人职业规划展开。分享者提到在TPU初创公司的实习经历，讨论了AI在工作中的应用与硬件工程师岗位的未来。领导提出AI可能取代部分工作，同时提供了转正机会，但强调可能是最后一个硬件HC。室友在英伟达的实习经历展示了AI与内网的深度融合，引发对行业变革的思考。</span><br><span></span><br><span><a class="timestamp" data-timestamp="195">03:15</a> 职场晋升与公司策略探讨</span><br><span>对话围绕个人在公司的职业发展及公司留人策略展开，提及高速接口VIP接入工作、AI在行业应用的影响、以及领导通过承诺未来工作机会和道德约束的方式试图留住人才。此外，讨论了实习生转正情况、个人职业规划与公司HC（招聘名额）策略的关系，表达了对公司未来发展的不确定性与个人职业路径选择的思考。</span><br><span></span><br><span><a class="timestamp" data-timestamp="413">06:53</a> 应届生就业选择与实习经历分享</span><br><span>对话围绕应届生就业前景展开，提及当前就业市场较好，初创公司也是不错的选择。实习生分享了在大公司和平头哥等芯片公司实习的经历，以及如何平衡实验室要求和公司实习的策略。双方还讨论了秋招结果的后续可能采访，以及个人对上海实习的考虑。实习生强调了实习机会的可获取性，并表达了对个人职业发展的思考。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/llJOGoDrqoRpgh5ykff6B0YWtg-q.m4a" length="10615687" type="audio/mp4"/>
+    <itunes:duration>00:10:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我说行情好起来了你信吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c11b8f5058f5000cd89abd</link>
+    <guid isPermaLink="false">69c11b8f5058f5000cd89abd</guid>
+    <pubDate>Mon, 23 Mar 2026 10:54:15 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 研究生职业方向选择困境一名研究生在材料专业本科后，经工作再考入集成电路工程专业，面临毕业年龄较大，对进入集成电路行业感到迷茫，主要纠结于选择IC设计、验证或嵌入式方向。期间，曾咨询他人意见，考虑自身背景，但仍不确定最佳职业路径。对话中提及利用研一空闲时间积累实习经验的建议，但因专业背景和技能空白，对如何着手感到困惑。</span></p><span></span><p><span><a class="timestamp" data-timestamp="205">03:25</a> 数字IC行业行情与职业规划探讨讨论了数字IC行业行情变化，本科毕业生进入后端设计岗位的现象，以及AE岗位的工作性质。建议根据个人背景和兴趣选择合适的职业方向，如后端设计或AE岗位，强调实际技能和经验的重要性，鼓励在校期间有针对性地学习和准备。</span></p><span></span><p><span><a class="timestamp" data-timestamp="457">07:37</a> 行业复苏与技术学习路径探讨对话围绕技术学习路径展开，讨论了不同技术方向的难度及学习资源获取方法，强调了行业复苏迹象，特别是AI和芯片领域的发展前景，鼓励积极学习与尝试。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lkoyHdZOtiQU5XcLBfCcroeZZ4Y0.m4a" length="9871839" type="audio/mp4"/>
+    <itunes:duration>00:10:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>国企出差，去了非洲最危险的地方</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c11b6e5058f5000cd89680</link>
+    <guid isPermaLink="false">69c11b6e5058f5000cd89680</guid>
+    <pubDate>Mon, 23 Mar 2026 10:53:43 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 在非洲刚果金修水电站的冒险经历对话中讲述了在非洲刚果金参与修水电站项目的经历。项目所在地区相对安全，但邻近城市和矿区存在武装冲突。项目组在偏僻村庄工作，配备当地警察保障安全。工作内容包括地质和水文勘探等前期调研。尽管环境艰苦，团队仍顺利完成任务。</span></p><span></span><p><span><a class="timestamp" data-timestamp="193">03:13</a> 在非洲水电站项目中的生活与挑战对话描述了在非洲一个即将施工的水电站项目中，参与者面临的恶劣生活环境，包括缺乏电力和自来水，以及高发的疟疾等健康风险。项目团队住在布卡马村，使用皮卡车从井中取水，日常洗漱和烹饪用水来源于此，而饮用水则需购买桶装水。项目期间正值雨季，村庄被洪水淹没，物资难以进入。尽管面临诸多挑战，团队仍计划在雨季过后返回继续工作，预计在5、6月份进行为期一个月的施工。</span></p><span></span><p><span><a class="timestamp" data-timestamp="417">06:57</a> 在非洲投资与生活的挑战与机遇讨论了在非洲投资和生活的经历，包括季节特点、海关检查中的小费文化、货币贬值以及投资水电项目的机会。提到尽管环境混乱，但为普通人提供了更多赚钱机会，同时也指出了社会稳定性对阶层流动的影响。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/ltVuRNdtB-KXeBndFz80Otn8adEd.m4a" length="10432223" type="audio/mp4"/>
+    <itunes:duration>00:10:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>北邮读研，到底是选设计还是选验证？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69c11b255058f5000cd89033</link>
+    <guid isPermaLink="false">69c11b255058f5000cd89033</guid>
+    <pubDate>Mon, 23 Mar 2026 10:52:33 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 研究生设计方向与就业需求不匹配的困惑对话讨论了研二学生在设计方向项目与大厂招聘需求不匹配的情况下的就业困惑。学生们认为设计方向项目较为悬，而学习验证知识又显得时间紧迫。他们面临选择设计或验证方向的两难境地，担心设计方向的就业难度及验证方向学习时间不足的问题。对话还提到，学生认为学校任务的紧迫性可能影响了他们对设计方向就业难度的判断。</span></p><span></span><p><span><a class="timestamp" data-timestamp="136">02:16</a> 探讨实习方向与提升路径对话围绕实习选择与职业规划展开，强调了选择实习岗位时应考虑个人成长与薪资收益，建议在寒暑假期间争取大厂实习机会以增加背书能力。同时，指出设计与验证工程师岗位间的转岗可能性，鼓励从设计转向验证学习，以拓宽职业道路。还提及了高校教师与企业合作项目可能带来的廉价技术工作机会，提醒要通过实际项目积累经验，以提升竞争力。</span></p><span></span><p><span><a class="timestamp" data-timestamp="304">05:04</a> 实习生简历构建与职场适应策略对话围绕实习生如何构建简历及职场适应展开，讨论了在实习中参与项目的重要性，以及如何通过与同事建立良好关系获取职业建议。提到即使在实习中无法直接参与核心技术工作，了解和掌握相关知识也能为简历增色。同时，强调了在寻找实习机会时，应优先考虑知名大厂，并通过寒暑假时间积极参与实习，以提升个人竞争力。最后，鼓励实习生面对困难时保持勇气和积极态度，主动寻求帮助和解决问题。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lnTMKzCO1bBHDIek4a_E0RblRxoh.m4a" length="9856798" type="audio/mp4"/>
+    <itunes:duration>00:10:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2026.02.14丨压力都是自己给的，无论是性取向，还是考研。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6991c105de29766da9ac4554</link>
+    <guid isPermaLink="false">6991c105de29766da9ac4554</guid>
+    <pubDate>Sun, 15 Feb 2026 12:54:31 +0000</pubDate>
+    <description><![CDATA[<p><span>1、​up你好，我是某中等985但非28所的大三学生，微电子专业。目前我的成绩只能保本校。(不放实习，数字流不了片，模拟一年能流片两次)</span></p><span></span><p><span>​我的导师是做riscv微处理器加固设计的，这跟数字ic设计有关吗？上海相关就业岗位多吗？工资大概多少呀？</span></p><span></span><p><span>​如果走模拟方向的话，考虑到现在模拟坑位太少，大概能找到什么样的工作呀？</span></p><span></span><p><span>我这个情况，up更推荐模拟还是数字呀。</span></p><span></span><p><span>2、up主您好，我是成电学电子信息工程的大三学生，目前准备保研，我目前在本校找的ic的他们都没机会流片，能流片的组门槛比较高我又不太能进得去。成电长三角研究院倒是有校企联培的有流片机会，但是我不是很了解联培也不太敢去。我打算硕士毕业就业。我现在比较担心没有办法进到一个能流片的组，如果方便的话，您能给我一些建议吗</span></p><span></span><p><span>3、老张您好，我想咨询您一下关于后续选择的问题，我目前是电子科技大学研二在读，本科是深圳的双非一本，本硕专业都是生物医学工程，我目前研究生阶段做的东西主要是脑科学，偏向于精神病神经调控方面的东西，但我个人对目前做的东西其实不感兴趣，但我们组不放实习，我想问一下，我后续是把重心放在找工作上还是读博好呢，我联系了一些外校的导师，做llm，ai方面的，也有回复的，我想的是读博的话我就和他们去做一些ai方面的科研，后续博士往这方面转，然后就业的话我家是在深圳，我以后大概率会回深圳，但目前不知道自己能找什么样的工作，感觉比较迷茫，因此希望能得到一些启发</span></p><span></span><p><span>4、我从去年夏天就开始关注老师您的视频，现在是一名高三生，我的性取向有些问题。我很羡慕您不婚的勇气，我觉得我这个性取向估计这辈子也找不到另一半了，对女生也没有感觉 我好担心我的以后。我是一个很怕孤独的人，所以我有好多朋友，但是我们突然想到，过不了几年我们就没法这么无忧无虑玩下去了，我会成为他们的异类，我就好焦虑，学习也不想搞了。我现在甚至有点轻生的念头，因为觉得未来没有任何希望，没有任何吸引我继续活下去的事物…</span></p><span></span><p><span>5、up你好，我几年前就在看你的视频了。</span></p><span></span><p><span>我是一名中山大学微电子专业的大四学生，绩点中游。本科有一个省级优秀的大创（毫米波、嵌入式相关，非ic设计），目前在做的毕业设计是adc设计，未来也想入行模拟ic，无实习经历。</span></p><span></span><p><span>25年一年在备战考研，考复旦微，发挥中规中矩，因为不知道能不能上岸，一直在焦虑，考试完一个多月什么也没干。</span></p><span></span><p><span>考本校研的舍友在积极准备春招，我的很好的朋友也拿到了互联网大厂的offer，而我这段时间就陷入了自我逃避。</span></p><span></span><p><span>摆在我面前的有三条路，其一幸运上岸了最好，其二没上岸准备春招，其三考研二战（之前考虑过出国，但ic设计还是国内硕性价比高）。</span></p><span></span><p><span>如果投春招，我本科没有实习经历，没有ic设计对口的，毕业设计可能赶不上招聘窗口，也不一定有理想的岗位。但如果考研二战，又觉得这个决心很难下，会比第一年要更痛苦。</span></p><span></span><p><span>我希望up能谈谈您的看法，或者有没有其他的路可以走，我担心初试如果没过，会陷入更深的迷茫</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/lgyS18fL0QM6uApRYF9wl1xGzLMn.m4a" length="14796453" type="audio/mp4"/>
+    <itunes:duration>00:15:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2026.01.31丨只是向钱看的话，没必要搞这个。</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69808f81b4be4c149b9fbde6</link>
+    <guid isPermaLink="false">69808f81b4be4c149b9fbde6</guid>
+    <pubDate>Mon, 02 Feb 2026 11:53:23 +0000</pubDate>
+    <description><![CDATA[<p><span>1、up你好，我是苏州大学数学系的大三学生，今年末考研，目前也在纠结考研方向，然后也是受互联网影响吧，了解到集成电路也是个不错的行业，又看了您的视频，现在也在犹豫要不要跨考集成电路，我也在b站上看了数电和模电的课程，看下来的感受就是不讨厌，学是能学下去，但是也没有这方面的热情，我就在想我适合跨考这种电子信息相关专业（比如集成电路）并从事这一行业吗，我想知道这一行业是比较需要喜爱和热情才能做好，或者说有不错的收入的那种行业吗，因为我考虑这个专业说实话就是感觉收入还不错，本身个人没有特别感兴趣，对于我这种情况您觉得适合进入这个行业吗？</span></p><span></span><p><span>2、张哥，双非一本师范文，24年考公失败，毕业入职云南三线城市的国企一线操作岗一年。年到手12-15，有倒班（四班倒上2休2一周工作时间固定48h），无节假日，有加班工资。工作环境差，扬尘噪音，有人身伤亡风险。感到很难过。打听到公司对本科3-5年可以转非一线岗，但是工资有所下降。</span></p><span></span><p><span>目前的思路如下：</span></p><span></span><p><span>1.熬3-5年，其间通过考证或读非全硕加快转岗进度。</span></p><span></span><p><span>2.辞职，有一个做教培的前辈希望跟着他干一段时间入行或者考公。</span></p><span></span><p><span>总而言之，毕竟我只干了一年单一职业，对于这份工作和整个大环境的理解还是比较薄弱的。就目前而言我认为待遇在同一环境下在平均线以上，但是不知道是否与恶劣的环境和相对高的风险系数相匹配。我个人目前是以前两个方向为主。希望张哥锐评一下工作，并且就国企内技能提升和非全的专业方向给一些建议，如果需要连麦指导也可通知我，谢谢张哥。</span></p><span></span><p><span>3、老张你好，目前我是上海华师大集成电路研一，方向主要是做TCAD硬件仿真。请问这个未来对口的企业和岗位大概有什么？工作环境与薪资待遇在行业中算如何呢？有必要去自学数字设计或嵌入式等考虑转型吗？</span></p><span></span><p><span>4、up您好，目前我在南理工微电子专业大二就读，现在的成绩距离稳定保研28所有距离，请问接下来的方向还是主攻课内专业课争取保外，还是主要聚焦科研和论文积累经验保本校呢？</span></p><span></span><p><span>5、老张您好，目前我是双非电子信息工程大二，我对模拟IC很感兴趣目前已经在学了考研考清华832或者复旦881选到设计的老师，找模拟IC设计的工作能行嘛</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64b01a3ad4e6f1b70aac90bd/ltA-ZMjBrrvGz0QGBNoub055oJzm.m4a" length="14371900" type="audio/mp4"/>
+    <itunes:duration>00:14:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPlYkHJfFm-tmnJ9k2WEB2Rg1iU.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

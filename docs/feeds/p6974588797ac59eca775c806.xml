@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>扬声</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6974588797ac59eca775c806</link>
+  <description><![CDATA[大家好我是张扬，这里是我的播客节目《扬声》。
+在这里，我将和大家一起深入不同领域，通过深度访谈、独家现场、纪实体验，探寻时代浪潮与多元关系中的人物和事件。
+让我们一同走进光环内外，用讨论照见彼此，用探索靠近本质。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:39:18 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6974588797ac59eca775c806.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpixZMLCVHmvQrAWg4KukNt_ALdb.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpixZMLCVHmvQrAWg4KukNt_ALdb.jpg</url>
+    <title>扬声</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6974588797ac59eca775c806</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>EP03 对话宇树科技王兴兴：谁能把机器人用的大模型做出来，完全足够拿诺贝尔奖了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/698b262aa22480add68803d2</link>
+    <guid isPermaLink="false">698b262aa22480add68803d2</guid>
+    <pubDate>Tue, 10 Feb 2026 12:49:25 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好我是张扬，欢迎来到我的播客节目《扬声》，本期我的采访嘉宾是宇树科技创始人王兴兴。</span></p><span></span><p><span>【本期介绍】</span></p><span></span><p><span>这两年，机器人好像一直在试图闯入我们的生活。</span></p><span></span><p><span>2025年春晚，宇树机器人的舞蹈表演刷屏全网。在那之后，机器人好像越来越多地出现在各种活动、各大舞台上，在惊叹于它们持续进步的同时，也不禁产生更多的思考，甚至困惑：</span></p><span></span><p><span>在我们真实的物理世界中，一切似乎并没有发生什么实质的变化，我们依然要自己叠衣服、自己吃饭、自己亲自上班。</span></p><span></span><p><span>机器人什么时候能真正走进我们的生活？</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>王兴兴：宇树科技创始人</span></p><span></span><p><span>【内容提要】</span></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="200">03:20</a> 春晚机器人爆火对整个机器人行业是好事</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="261">04:21</a> 王兴兴谈创业成本控制、行业选择与商业化问题</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="524">08:44</a> 硕士期间独立研发机器狗，延毕参赛获8万奖金</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="859">14:19</a> 机器人AI大模型为何比语言模型难做？数据从哪来？</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="992">16:32</a> 谁能做出机器人用的大模型，谁就是最厉害的AI公司和机器人公司，足以拿诺贝尔奖</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="1222">20:22</a> 给年轻创业者的建议：首笔投资要尽量友好</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="1449">24:09</a> 王兴兴自白：不爱运动不玩游戏，生活被工作占满</span></a></p><span></span><p><a href="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000" data-url="https://bw4qtd6dgw0.feishu.cn/minutes/obcnshy2hytw61761171uzui?t=255000"><span><a class="timestamp" data-timestamp="1999">33:19</a> 王兴兴说这个时代是“人类智能升级的临界点”</span></a></p><span></span><figure><img src="https://image.xyzcdn.net/FkY1uyhdgyVzpIdLQUnKX9AmCimu.jpg"></figure><span></span><p><span>在和王兴兴的聊天过程中，我感受到了这样的特质：严谨、务实，对未来充满期待。他说自己从小就爱动手做东西，旁人视角下的他可能像在“捡垃圾”，而他却用捡来的“边角料”把一个个想法拼凑成形。很多人的想法止步于“想”，而王兴兴更在意的是“怎么落地”。</span></p><span></span><p><span>改变往往不是从多么宏大的口号开始的，而是有可能开始于一个人反复琢磨“这东西能不能再稳定一点、再便宜一点、再好用一点”。然后，机器人真的第一次站稳、第一次跑起来，第一次在人群中出现，慢慢地，不再让人感到惊讶。</span></p><span></span><p><span>不知道什么时候，机器人可以帮我把我的桌子收拾一下，我很期待。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6974588797ac59eca775c806/lr1NKVN9usC6JbzGvJOGke8Qqcpl.m4a" length="35950809" type="audio/mp4"/>
+    <itunes:duration>00:37:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fid6OKcJbXeR7oTQ2SgZs8B5L-iI.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP02 对话泡泡玛特王宁：有时梦想说得太早，没人能懂</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/697ddf3fb4be4c149b5fb91b</link>
+    <guid isPermaLink="false">697ddf3fb4be4c149b5fb91b</guid>
+    <pubDate>Sat, 31 Jan 2026 11:01:29 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好我是张扬，欢迎来到我的播客节目《扬声》，本期我的采访嘉宾是泡泡玛特创始人王宁。</span></p><span></span><p><span>【本期介绍】</span></p><span></span><p><span>去年，LABUBU在全球范围内爆火，一个表情灵动、带点小叛逆的毛绒玩偶，为什么能在全球走红，成为现象级IP？</span></p><span></span><p><span>在王宁看来，潮玩是一种能为大家提供情绪价值的产品。</span></p><span></span><p><span>这背后，其实是消费市场正在发生的深刻变化。人们购买的不仅是物品的功能或品质，更是一种情感的共鸣与确认：面对未知的期待，心愿达成瞬间迸发的惊喜，与共同爱好者之间的圈子认同……“情绪”本身已悄然成为衡量价值的重要元素之一，甚至足以构成最直接的消费理由。</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>王宁：泡泡玛特创始人</span></p><span></span><p><span>【内容提要】</span></p><span></span><p><span><a class="timestamp" data-timestamp="65">01:05</a> 在泡泡玛特公司探访王宁的办公室</span></p><span></span><p><span><a class="timestamp" data-timestamp="244">04:04</a> 大人能喜欢玩具吗？童心分不分年龄？</span></p><span></span><p><span><a class="timestamp" data-timestamp="370">06:10</a> 早9点的泡泡玛特全员晨会</span></p><span></span><p><span><a class="timestamp" data-timestamp="777">12:57</a> 王宁谈创业选择：创业初期想要活久一点，围棋生意更适合我们</span></p><span></span><p><span><a class="timestamp" data-timestamp="1476">24:36</a> 团队如何炼成：把愿意相信的人汇聚到一起，找到一群平凡的人，一起去做成不平凡的事儿</span></p><span></span><p><span><a class="timestamp" data-timestamp="1810">30:10</a> 王宁回忆北漂经历：从安宁庄合租房开始</span></p><span></span><p><span><a class="timestamp" data-timestamp="2351">39:11</a> 王宁分享创业故事：有时梦想说得太早，没人能懂</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnVP3GAJA7w52nGRHlNIzFcstaK2.jpg"></figure><span></span><p><span>如果只看标签，王宁似乎很容易被外界概括，但真正坐下来聊过之后，你会发现他并不急着证明什么，反而很怕别人给他立人设，他说自己和团队很平凡，会犯错、会脆弱、也会迷茫，而故事的丰富，恰恰来自于那些挫折。</span></p><span></span><p><span>当我问他：“如果有一天大家不喜欢泡泡玛特了，你有想过这件事吗？”他说他想做一件更长远、更浪漫的事。他更希望的，是让大家拥有一段“感性的回忆”，就像80年代我们扔沙包、跳皮筋、玩铁皮青蛙一样，很多年后，当人们回忆现在这个时代，LABUBU也能成为像那些不过时的卡带一样的时代回忆。</span></p><span></span><p><span>泡泡玛特的下一个十年，又会把“童话”写到哪里？我们不妨先把问题留在这里。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6974588797ac59eca775c806/lihw-uxbwGP2aFLGh8PTt-x0Vz03.m4a" length="45176851" type="audio/mp4"/>
+    <itunes:duration>00:46:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fhv3zm-GZ9gwnmWW8GMsZh-a5Jnk.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP01 对话辛芷蕾：太累的时候，我会去鹤岗挖一把土带走</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6974a705ef1cf272a7353f7f</link>
+    <guid isPermaLink="false">6974a705ef1cf272a7353f7f</guid>
+    <pubDate>Sat, 24 Jan 2026 11:14:10 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好我是张扬，欢迎来到我的播客节目《扬声》，本期我的采访嘉宾是演员辛芷蕾，这次我跟她一起回到了她的老家鹤岗，不得不说，鹤岗小串真的很好吃……</span></p><span></span><p><span>【本期介绍】</span></p><span></span><p><span>获得威尼斯国际电影节最佳女演员奖后，辛芷蕾回了一趟老家鹤岗。</span></p><span></span><p><span>在那里，都遇到了哪些趣事？</span></p><span></span><p><span>她怎样看待艺术电影的创作与票房？</span></p><span></span><p><span>又如何回应向她涌来的赞美和争议？</span></p><span></span><p><span>放下奖杯，她该怎么写人生新阶段的剧本？</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>辛芷蕾：中国演员</span></p><span></span><p><span>【内容提要】</span></p><span></span><p><span><a class="timestamp" data-timestamp="120">02:00</a> 红毯背后的代价：碳水是东北人的命，却是辛芷蕾的“天敌”</span></p><span></span><p><span><a class="timestamp" data-timestamp="199">03:19</a> “国际巨星”玩笑成真：梦想到实现，原来从敢说出口开始</span></p><span></span><p><span><a class="timestamp" data-timestamp="448">07:28</a> 成为思想独立的演员：与前经纪人的解约、决定剪短发、化自己喜欢的妆</span></p><span></span><p><span><a class="timestamp" data-timestamp="689">11:29</a> 鹤岗城市地图：打过工的饺子馆、必吃的三分熟小串与鹤岗涮肚</span></p><span></span><p><span><a class="timestamp" data-timestamp="990">16:30</a> 家乡的一捧土：“脚底没根”是演员的职业病，辛芷蕾带走鹤岗的土放在家里</span></p><span></span><p><span><a class="timestamp" data-timestamp="1305">21:45</a> 想红，是为了有选择权：在团队都看不懂剧本的时候，辛芷蕾为什么执意接下《日掛中天》</span></p><span></span><p><span><a class="timestamp" data-timestamp="1526">25:26</a> 辛芷蕾的演技课：表演不是教出来的，是像绣花一样，一针一针从生活里悟出来的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1999">33:19</a> 地小志气高：鹤岗家乡父老对辛芷蕾说：“把全龙族最硬的鳞都给了你。”</span></p><span></span><p><span><a class="timestamp" data-timestamp="2181">36:21</a> 放下奖杯重新出发：威尼斯影后是意外的礼物，放下奖杯，辛芷蕾说：“好的电影会说话，请给时间一点时间。”</span></p><span></span><figure><img src="https://image.xyzcdn.net/FlPZQImQFZnGfLdyfyXxRugK0xgA.jpg"></figure><span></span><p><span>从鹤岗出发，辛芷蕾用了十几年的时间，走到了威尼斯。从《绣春刀》中的女侠丁白缨，到《繁花》中的老板娘李李，再到《日掛中天》中的曾美云，辛芷蕾贡献出许多令人印象深刻的表演。</span></p><span></span><p><span>演员个体的故事，亦是行业的注脚，折射着中国电影的多元探索与尝试……</span></p><span></span><p><span>而中国电影将走向何处？答案并非既定，它更像一个由所有从业者共同书写的开放命题。票房固然是市场的度量，讲好故事更是创作的初心，但如何让二者得以兼顾，乃至走出一条既属于我们、又能与世界对话的道路？这仍然需要每一位电影人在一次次创作中，持续摸索属于自己的答案。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6974588797ac59eca775c806/lr32ZkNybnLiuxowN94kziAfP9C3.m4a" length="39331985" type="audio/mp4"/>
+    <itunes:duration>00:40:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjpHbKcVXtYr52fPVoDQYdjrXApA.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

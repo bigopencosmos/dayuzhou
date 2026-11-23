@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AI产品黄叔</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6639f7aadec649c5f5019bad</link>
+  <description><![CDATA[每天分享自己在AI产品层面的思考
+欢迎加我vx：product2023
+围观朋友圈]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:12:33 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6639f7aadec649c5f5019bad.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg</url>
+    <title>AI产品黄叔</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6639f7aadec649c5f5019bad</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>opus让人变成导演</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af674093caef3b52f550134</link>
+    <guid isPermaLink="false">6af674093caef3b52f550134</guid>
+    <pubDate>Fri, 13 Nov 2026 02:24:16 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/FmkU-UMppRYwQLwjjOdXxM_qEcDT.m4a" length="3950867" type="audio/mp4"/>
+    <itunes:duration>00:09:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vibe 视频！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae947af97726cd4675bdd2a</link>
+    <guid isPermaLink="false">6ae947af97726cd4675bdd2a</guid>
+    <pubDate>Tue, 03 Nov 2026 02:36:58 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/lomgEa_RQD8KhYgxPOG8VAsvNJob.m4a" length="6381231" type="audio/mp4"/>
+    <itunes:duration>00:12:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI时代，人依然需要被筛选，太残酷了太真实了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad96e40b381c0fcba19d807</link>
+    <guid isPermaLink="false">6ad96e40b381c0fcba19d807</guid>
+    <pubDate>Thu, 22 Oct 2026 02:04:02 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/lkrBFePEm6AcS1bkZqY4yQbbVv00.m4a" length="10349456" type="audio/mp4"/>
+    <itunes:duration>00:10:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>即使是AI时代，人也是过去的总和</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6acd939fe742e36efcc21430</link>
+    <guid isPermaLink="false">6acd939fe742e36efcc21430</guid>
+    <pubDate>Tue, 13 Oct 2026 02:14:55 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/lqOnXPJjksxnz7BntgNgJkwhI086.m4a" length="10137263" type="audio/mp4"/>
+    <itunes:duration>00:10:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Opus5.5是最重要的奇点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ac84e03195d838e2aef02c5</link>
+    <guid isPermaLink="false">6ac84e03195d838e2aef02c5</guid>
+    <pubDate>Fri, 09 Oct 2026 02:20:00 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/lhoWyXKvSkFjrjuARVsqKiJ9p9hf.m4a" length="5652716" type="audio/mp4"/>
+    <itunes:duration>00:14:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Opus5.5让我进一步理解了Agent-First</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aba3df1e742e36efcbc38ca</link>
+    <guid isPermaLink="false">6aba3df1e742e36efcbc38ca</guid>
+    <pubDate>Mon, 28 Sep 2026 10:16:09 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/ljsMHV4oQdbOSlq5gYbURE3tyj4K.m4a" length="5080543" type="audio/mp4"/>
+    <itunes:duration>00:10:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI对知识管理的打击是毁灭性的</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aac9dc9051af796b9e9f049</link>
+    <guid isPermaLink="false">6aac9dc9051af796b9e9f049</guid>
+    <pubDate>Fri, 18 Sep 2026 02:16:53 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/luclCPYOmuzYlZh4715OQDKhEfVf.m4a" length="6634407" type="audio/mp4"/>
+    <itunes:duration>00:06:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>挖掘ChatGPT Live的价值：在场➕共思</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aab4e459d326477816a5eb1</link>
+    <guid isPermaLink="false">6aab4e459d326477816a5eb1</guid>
+    <pubDate>Thu, 17 Sep 2026 02:20:49 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/FlqLWrrfS48heccaP8t2DEIzevfz.m4a" length="3802515" type="audio/mp4"/>
+    <itunes:duration>00:09:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>最近追求AI/Agent深度内容的一些收获</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa3547f9d326477816750c3</link>
+    <guid isPermaLink="false">6aa3547f9d326477816750c3</guid>
+    <pubDate>Fri, 11 Sep 2026 01:09:59 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/llbMsHY3FmFQvCPU1a4jPGwW-9bk.m4a" length="14425341" type="audio/mp4"/>
+    <itunes:duration>00:14:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Agent时代要投喂自己高质量的token</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9e213fa0210c197dce983d</link>
+    <guid isPermaLink="false">6a9e213fa0210c197dce983d</guid>
+    <pubDate>Mon, 07 Sep 2026 02:28:44 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/FuX4aRbjTpE7-k9gYKTwlfuXPlMN.m4a" length="2208604" type="audio/mp4"/>
+    <itunes:duration>00:05:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>在AI时代创作高质量的内容真的很舒服</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9a2729a0210c197dcd3661</link>
+    <guid isPermaLink="false">6a9a2729a0210c197dcd3661</guid>
+    <pubDate>Fri, 04 Sep 2026 02:05:44 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/Fsm3tXOFaXVzJlRpu60DeTm0r0Es.m4a" length="3176079" type="audio/mp4"/>
+    <itunes:duration>00:08:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>grokbot第一次让我看到了全自动化远程办公的可能性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a978553a0210c197dcc00f1</link>
+    <guid isPermaLink="false">6a978553a0210c197dcc00f1</guid>
+    <pubDate>Wed, 02 Sep 2026 02:10:10 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/FpCqTSkeq3sMqulnrKoyC0uSV5Rw.m4a" length="3682553" type="audio/mp4"/>
+    <itunes:duration>00:09:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从孙哥想到的Agent工作流</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a90f1211352af56ff3d40b4</link>
+    <guid isPermaLink="false">6a90f1211352af56ff3d40b4</guid>
+    <pubDate>Fri, 28 Aug 2026 02:26:08 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/FtWTLUjMmZGjKHbZnE26Ja1tyGWb.m4a" length="3757439" type="audio/mp4"/>
+    <itunes:duration>00:09:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2个月opc+agentic组织招聘的踩坑经验</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8e77541352af56ff3c34b5</link>
+    <guid isPermaLink="false">6a8e77541352af56ff3c34b5</guid>
+    <pubDate>Wed, 26 Aug 2026 05:20:52 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/ll7M2lR2w4F53GfUppMDqeFV9KbG.m4a" length="5195032" type="audio/mp4"/>
+    <itunes:duration>00:11:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>深度内容真的是AI时代稀缺的，黄叔准备努力！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a8662921352af56ff38fb44</link>
+    <guid isPermaLink="false">6a8662921352af56ff38fb44</guid>
+    <pubDate>Thu, 20 Aug 2026 02:15:22 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6639f7aadec649c5f5019bad/lllQxZrxNRq0XKkE9JXdsKqJ7idz.m4a" length="5535320" type="audio/mp4"/>
+    <itunes:duration>00:14:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FubKWbcMM78QGTwBWkw5k0lSXhAF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

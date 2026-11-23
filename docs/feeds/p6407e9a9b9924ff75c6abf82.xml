@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>小欧读书之希利尔讲世界地理</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6407e9a9b9924ff75c6abf82</link>
+  <description><![CDATA[《希利尔讲世界地理》中，希利尔以旅行家的独特体验，给孩子们带来了世界各地的有趣见闻，让他们放眼去看地平线后面的大千世界。如何学习地理，希利尔有自己独到的见解：地图和地名是最重要的，但是晕头转向的标题、注释和家庭作业对搞清地图毫无帮助，于是他将地图化成了迷宫、动物园、老奶奶，等等。在希利尔笔下，世界各地的风物人情仿佛触手可及。读完本书，你便和这个风趣幽默的天才老师一起，环绕地球旅行一周啦！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:23:15 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6407e9a9b9924ff75c6abf82.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>ID_Owen</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png</url>
+    <title>小欧读书之希利尔讲世界地理</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6407e9a9b9924ff75c6abf82</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>63.食人族不是传说（已完结）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643579b3a79cc814703fc24c</link>
+    <guid isPermaLink="false">643579b3a79cc814703fc24c</guid>
+    <pubDate>Tue, 11 Apr 2023 15:16:03 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkuENErlsTu8j0NOg5vQqSjnODJU.m4a" length="9109664" type="audio/mp4"/>
+    <itunes:duration>00:05:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>63</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>62.四面环水的大洲</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643575e566e4c00c6ad582a8</link>
+    <guid isPermaLink="false">643575e566e4c00c6ad582a8</guid>
+    <pubDate>Tue, 11 Apr 2023 14:59:49 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llj-E266T_yZm20khn-AE0VctuBs.m4a" length="13685289" type="audio/mp4"/>
+    <itunes:duration>00:08:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>62</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>61.钻石王国</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643573639361a4e7c347811c</link>
+    <guid isPermaLink="false">643573639361a4e7c347811c</guid>
+    <pubDate>Tue, 11 Apr 2023 14:49:07 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpwwHQqO0tqYQwUvyK4BZ3-Dj7Zv.m4a" length="12137087" type="audio/mp4"/>
+    <itunes:duration>00:07:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>61</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>60.动物的天堂—非洲</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6435706a66e4c00c6ad4df94</link>
+    <guid isPermaLink="false">6435706a66e4c00c6ad4df94</guid>
+    <pubDate>Tue, 11 Apr 2023 14:36:26 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lg5NEHqnonc5TqqUCh6liGa-uPhi.m4a" length="12518421" type="audio/mp4"/>
+    <itunes:duration>00:07:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>60</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>59.世界最大沙漠中的绿洲</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64356dc766e4c00c6ad497b5</link>
+    <guid isPermaLink="false">64356dc766e4c00c6ad497b5</guid>
+    <pubDate>Tue, 11 Apr 2023 14:25:11 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loYVN_UmX3SSxFcgqYihrxqiUP4i.m4a" length="12001273" type="audio/mp4"/>
+    <itunes:duration>00:07:03</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>59</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>58.黑暗的大陆</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64356b619361a4e7c3468902</link>
+    <guid isPermaLink="false">64356b619361a4e7c3468902</guid>
+    <pubDate>Tue, 11 Apr 2023 14:14:57 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqoPbFEYnFnPk_1vqPZ43_AepsT6.m4a" length="14846292" type="audio/mp4"/>
+    <itunes:duration>00:08:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>58</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>57.白银之都</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6434298866e4c00c6abd02cc</link>
+    <guid isPermaLink="false">6434298866e4c00c6abd02cc</guid>
+    <pubDate>Mon, 10 Apr 2023 15:21:44 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvbiThfonN110loQAk-9efq-LhE0.m4a" length="13498509" type="audio/mp4"/>
+    <itunes:duration>00:07:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>57</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>56.安第斯脚下的天堂</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/643423b466e4c00c6abc6567</link>
+    <guid isPermaLink="false">643423b466e4c00c6abc6567</guid>
+    <pubDate>Mon, 10 Apr 2023 14:56:52 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lniKLg2y7aQbN3Mxvmr57UwkeWop.m4a" length="13468344" type="audio/mp4"/>
+    <itunes:duration>00:07:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>56</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>55.埋葬宝藏的南美洲北部</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6434212b66e4c00c6abc1dd6</link>
+    <guid isPermaLink="false">6434212b66e4c00c6abc1dd6</guid>
+    <pubDate>Mon, 10 Apr 2023 14:46:03 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luAN-RaibfXR9xc9yXzcg5E4QnEN.m4a" length="11102858" type="audio/mp4"/>
+    <itunes:duration>00:06:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>55</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>54.海盗聚集的地方</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64341f00a79cc8147025b426</link>
+    <guid isPermaLink="false">64341f00a79cc8147025b426</guid>
+    <pubDate>Mon, 10 Apr 2023 14:36:48 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljhLg8KIAUbM5RrAfxOn_oZjA67N.m4a" length="10786464" type="audio/mp4"/>
+    <itunes:duration>00:06:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>54</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>53.两个大洋的咽喉-巴拿马海峡</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64341d0e9361a4e7c32def6e</link>
+    <guid isPermaLink="false">64341d0e9361a4e7c32def6e</guid>
+    <pubDate>Mon, 10 Apr 2023 14:28:30 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lgntWGFOqV6BQQD17v3FYDdNs43n.m4a" length="10966680" type="audio/mp4"/>
+    <itunes:duration>00:06:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>53</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>52.战神的国度</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6432d70066e4c00c6aa25723</link>
+    <guid isPermaLink="false">6432d70066e4c00c6aa25723</guid>
+    <pubDate>Sun, 09 Apr 2023 15:17:20 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llydqLqlm1snVsz0ymPDZIL8USBm.m4a" length="14279747" type="audio/mp4"/>
+    <itunes:duration>00:08:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>52</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>51.天高地阔的加拿大</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6432d39a66e4c00c6aa20f49</link>
+    <guid isPermaLink="false">6432d39a66e4c00c6aa20f49</guid>
+    <pubDate>Sun, 09 Apr 2023 15:02:50 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrqy8uRBOGMwXZNfS2G5P42fvUZs.m4a" length="10571342" type="audio/mp4"/>
+    <itunes:duration>00:06:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>51</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>50.“世界之最”的聚集地</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6432d1119361a4e7c3142955</link>
+    <guid isPermaLink="false">6432d1119361a4e7c3142955</guid>
+    <pubDate>Sun, 09 Apr 2023 14:52:01 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkkAJlXe6t42ZVD63sATO11-Ax15.m4a" length="12362587" type="audio/mp4"/>
+    <itunes:duration>00:07:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>50</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>49.科罗拉多大峡谷</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6432cde8a79cc814700b585d</link>
+    <guid isPermaLink="false">6432cde8a79cc814700b585d</guid>
+    <pubDate>Sun, 09 Apr 2023 14:38:32 +0000</pubDate>
+    <description><![CDATA[<p><span>希利尔讲世界地理</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liQRHnYdp5y-zLMQp6iZCK3ts27H.m4a" length="12554963" type="audio/mp4"/>
+    <itunes:duration>00:07:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi9owab6icWwlJF6etXSs-Gpn1Ya.png"/>
+    <itunes:episode>49</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

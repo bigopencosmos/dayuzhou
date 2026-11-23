@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>左兜进右兜</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/668515070bc5d7cc7086d329</link>
+  <description><![CDATA[一档拆解华尔街机构研报的中文播客。
+每期节目，我们选取高盛、摩根士丹利、摩根大通、美国银行等全球机构的最新研究报告，围绕三个问题展开：
+机构在研究什么？
+这些逻辑是否成立？
+普通投资者能从中看到什么信号？
+节目内容主要围绕：
+AI科技股、全球市场趋势、机构资金逻辑、交易中的真实思考。
+不追热点，不贩卖情绪。
+只做一件事：把复杂的机构研究，讲清楚。
+关于制作方式：本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:16:39 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/jmntx6tqrwxh.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Yunn_waEG</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg</url>
+    <title>左兜进右兜</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/668515070bc5d7cc7086d329</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>这周亏了14%｜港美股技术周复盘｜20261122</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b02adc477e5b18a3330f57b</link>
+    <guid isPermaLink="false">6b02adc477e5b18a3330f57b</guid>
+    <pubDate>Sun, 22 Nov 2026 09:09:49 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>模型这周净值跌了13.92%，距前高回撤21.07%，年内最大。英伟达财报超预期，一周反而跌了23%。这周的卖盘，更像一次被动去杠杆。</span></p><p><span>────────</span></p><p><span>🎯 本期内容</span></p><p><span>港美股技术周复盘 · 2026.11.16 至 11.20</span></p><p><span>同期 SPY：-8.56%｜本周模型：-13.92%｜年初至今：+29.42%</span></p><p><span>完整图表版见公众号文章《这周亏了14%｜港美股技术周复盘｜20261122》</span></p><p><span>────────</span></p><p><span>📊 三个核心问题</span></p><p><span>1. 财报超预期、IPO创纪录，股价为什么反而大跌</span></p><p><span>2. CTA越跌越卖，杠杆产品为什么最先受伤</span></p><p><span>3. 日K线找不到支撑了，月K线上这次跌到了哪里</span></p><p><span>────────</span></p><p><span>📈 本周指数月K线：粉白均线月支撑位</span></p><p><span>（仅作辅助观察，不作交易依据）</span></p><p><span>道指：49000｜46555</span></p><p><span>纳斯达克综合指数：23778｜21800</span></p><p><span>QQQ：645｜589</span></p><p><span>标普<a class="timestamp" data-timestamp="30007">500:7</a>041｜6597</span></p><p><span>罗素2000 ETF（IWM）：263｜244</span></p><p><span>各主要指数基本刚跌破第一个支撑位置。本月尚未结束，月K线需等月底走完再观察。</span></p><p><span>────────</span></p><p><span>📋 本周模型完成交易（5笔，每笔账户占比5%）</span></p><p><span>DELL · X模型｜11/16 → 11/19｜+5.28%</span></p><p><span>TSM · X模型｜11/17 → 11/19｜+5.12%</span></p><p><span>TNA · Z模型｜11/11 → 11/18｜-14.28%（止损）</span></p><p><span>UNH · Y模型｜11/11 → 11/20｜-14.44%（止损）</span></p><p><span>UGL · Z模型｜11/09 → 11/18｜-15.68%（止损）</span></p><p><span>已平仓合计账户贡献：-1.69%（与周收益率口径不同）</span></p><p><span>完整交易档案：right-pocket.com/track-record</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>内容与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lkvGGAwbG8r0SVyGvPuNmiX8jEvK.m4a" length="7158083" type="audio/mp4"/>
+    <itunes:duration>00:07:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>摩根大通、花旗观点：股市跌成这样，美联储会不会放慢加息？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0152b277e5b18a333098d5</link>
+    <guid isPermaLink="false">6b0152b277e5b18a333098d5</guid>
+    <pubDate>Sat, 21 Nov 2026 11:57:25 +0000</pubDate>
+    <description><![CDATA[<p><span>纳指一周跌约10%，全年涨幅抹平。摩根大通预计美联储12月、1月、3月连加三次，花旗认为AI抛售会让美联储在1月停一下。两家的分歧只差一次会议。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>摩根大通｜跨资产策略《Fed on the Clock: No Room for Error》（2026-11-21）</span></p><p><span>花旗｜美国利率周报《Hawks with chips on their shoulders》（2026-11-20）</span></p><p><span>花旗｜量化研究《Measuring the Crowded Trade in Global Equities: The AI Reset》（2026-11-20）</span></p><p><span>市场数据与新闻：截至2026-11-20收盘的公开报道</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 纳指跌到全年转负，美联储会因此放慢加息吗？</span></p><p><span>2. 摩根大通和花旗的加息路径，差别为什么在一月？</span></p><p><span>3. 这轮下跌是经济走弱，还是拥挤仓位在集中出清？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/ls6zLdUxrjW6GbiGwhcDDMKHzawV.m4a" length="13474671" type="audio/mp4"/>
+    <itunes:duration>00:13:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlrTFD4D7A1ZOJixuArKadUlROdS.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>UBS、花旗点评：阿里巴巴2QFY27，买不到高端芯片，阿里云靠什么守住千亿美元目标？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6affccc5fe62f8f52c4dfb95</link>
+    <guid isPermaLink="false">6affccc5fe62f8f52c4dfb95</guid>
+    <pubDate>Fri, 20 Nov 2026 04:38:01 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>本季阿里云收入涨53%，下一财年增速指引却降到30%-45%。高端芯片受限后，2030年千亿美元目标为何不变？瑞银、花旗两份点评拆开来看。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>瑞银 UBS｜First Read: Alibaba Group — 2QFY27 beat; Cloud floor set above feared; T-head ramp offers re-rating catalyst｜2026年11月20日</span></p><p><span>花旗 Citi｜Alibaba Group Holding — Navigating Uncertainty With Sensible Cloud Outlook Revision｜2026年11月19日</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 出口新规下，阿里云明年增速为何只剩三到四成半？</span></p><p><span>2. 算力越紧，阿里云利润率为什么反而往上走？</span></p><p><span>3. 平头哥芯片产能，能不能撑起2030年千亿美元目标？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/liNFgFSmM1ehjc3G_1bsxvLBYEUu.m4a" length="9343372" type="audio/mp4"/>
+    <itunes:duration>00:09:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>高盛、UBS：腾讯Q3点评：AI 进展亮眼，利润还需时间追赶</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afe6fd2a4a79edf137b8856</link>
+    <guid isPermaLink="false">6afe6fd2a4a79edf137b8856</guid>
+    <pubDate>Thu, 19 Nov 2026 03:50:17 +0000</pubDate>
+    <description><![CDATA[<p><span>腾讯三季度收入涨8%，经营利润降6%，资本开支加预付款单季花掉1510亿。高盛和瑞银都下调目标价，都认为现金压力在见顶。利润的坎为什么在2027年？</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>高盛：Tencent Holdings (0700.HK) 3Q26 review: EPS reset; FCF pressure peaking as new AI products scale</span></p><p><span>发布日期：2026年11月19日｜评级：买入｜目标价：610港元（前值650港元）</span></p><p><span>瑞银：First Read, Tencent Holdings: 3Q26 miss; AI progress impresses, but earnings need time to catch up</span></p><p><span>发布日期：2026年11月19日｜评级：买入｜目标价：660港元（前值740港元）</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 收入涨8%，腾讯经营利润为什么反而降了6%？</span></p><p><span>2. 单季1510亿流向资本开支和预付款，钱花在了哪？</span></p><p><span>3. 现金压力今年见顶，利润的坎为什么落在2027年？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/ljBnsCNmiDVk4IaEnlOwXAvG7nL0.m4a" length="9322986" type="audio/mp4"/>
+    <itunes:duration>00:09:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>英伟达业绩超预期还上调指引，估值反而压到8倍多</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afd2e53a4a79edf137b0d85</link>
+    <guid isPermaLink="false">6afd2e53a4a79edf137b0d85</guid>
+    <pubDate>Wed, 18 Nov 2026 05:20:45 +0000</pubDate>
+    <description><![CDATA[<p><span>英伟达业绩超预期、上调明年指引，股价却只有明年预期盈利的8倍多。创始人离任、云端租用新规、5180亿美元承诺，市场到底在给什么打折？</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>高盛｜英伟达：不确定性之下展望依然强劲，股东回报与生态支持并重｜2026年11月17日</span></p><p><span>瑞银｜美国针对云端算力租用的新出口管制：影响评估｜2026年11月17日</span></p><p><span>────────</span></p><p><span>🎯 本期三个核心问题</span></p><p><span>1. 瑞银估新规影响一成需求，英伟达为何反而上调指引？</span></p><p><span>2. 高盛为何说风险对盈利影响有限，对估值影响更大？</span></p><p><span>3. 5180亿美元承诺里，哪部分才是在替客户扛需求？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lmji6GaGw9wXmjfsBbvYN2MmKewT.m4a" length="9873451" type="audio/mp4"/>
+    <itunes:duration>00:10:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>J.P. Morgan：生产率繁荣，AI 的功劳没那么大</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afa729ba4a79edf1379e62c</link>
+    <guid isPermaLink="false">6afa729ba4a79edf1379e62c</guid>
+    <pubDate>Mon, 16 Nov 2026 03:05:16 +0000</pubDate>
+    <description><![CDATA[<p><span>⚡ 本期速览</span></p><p><span>美国劳动生产率三年涨了2.6%，但拆开后真正的技术红利只占三分之一，过去一年还停滞了。摩根大通认为，AI繁荣仍停在只花钱、没回报的第一阶段。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：J.P. Morgan 摩根大通 全球经济研究</span></p><p><span>标题：The productivity boom is less than meets the AI</span></p><p><span>收录于：Global Data Watch - Losing my religion</span></p><p><span>报告日期：2026年11月10日（周刊版本11月13日）</span></p><p><span>作者：Joseph Lupton、Bruce Kasman、Nora Szentivanyi</span></p><p><span>核心工具：旧金山联储劳动生产率三因子分解、技术冲击两阶段框架</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 美国劳动生产率的涨幅里，技术只占三分之一？</span></p><p><span>2. 资本深化撑起来的繁荣，为什么会撞到天花板？</span></p><p><span>3. 正向的技术冲击，为什么配着更高的利率？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/loV9U7n6fyllmXdSBOv9T5pa_9UQ.m4a" length="14055490" type="audio/mp4"/>
+    <itunes:duration>00:14:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>黑天鹅砸下来的时候，你凭什么还按原计划下单｜港美股技术周复盘｜20261115</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af97604a4a79edf13798d78</link>
+    <guid isPermaLink="false">6af97604a4a79edf13798d78</guid>
+    <pubDate>Sun, 15 Nov 2026 09:08:38 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>英伟达人事风波连续发酵一周，各种解释满天飞。模型没有因此改一笔计划。本周净值回升 7.37%，距年内前高还差 8.31%。</span></p><p><span>────────</span></p><p><span>🎯 本期内容</span></p><p><span>港美股技术周复盘 · 2026.11.09 – 11.13</span></p><p><span>同期 SPY：+2.59%｜本周模型：+7.37%</span></p><p><span>完整图表版见公众号文章《黑天鹅之下，按计划交易》</span></p><img src="https://image.xyzcdn.net/FtFvM__BOVx_iTXrlE0KmebEcX00.png"><p><span>────────</span></p><p><span>📊 三个核心问题</span></p><p><span>1. 黑天鹅来了，原定的交易计划要不要动</span></p><p><span>2. 下一任英伟达 CEO，内部人选的优势在哪</span></p><p><span>3. 市场温度回到 60 以上，意味着什么</span></p><img src="https://image.xyzcdn.net/FqnkW9_gAoIt2J2Hswz7dOCHhqvP.png"><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>内容与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lo-HshKqoDKFjowf_8bWO8WMaeFw.m4a" length="7520935" type="audio/mp4"/>
+    <itunes:duration>00:07:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>高盛：对英伟达宣布管理层变动的看法</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af67ef614d01a26f8a9260f</link>
+    <guid isPermaLink="false">6af67ef614d01a26f8a9260f</guid>
+    <pubDate>Fri, 13 Nov 2026 03:12:30 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>黄仁勋辞任英伟达首席执行官。高盛维持买入，但把目标价从300美元降到220美元：盈利预测没动，砍的是估值倍数。参照物是苹果失去乔布斯前后的倍数走势。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：高盛 Goldman Sachs</span></p><p><span>标题：Nvidia Corp. (NVDA): Our thoughts on the company's announced management transition</span></p><p><span>中文标题：英伟达：对公司宣布管理层变动的看法</span></p><p><span>发布日期：2026年11月12日</span></p><p><span>评级：买入（维持）</span></p><p><span>目标价：220美元（原300美元），对应22倍市盈率（原30倍）</span></p><p><span>补充参考：瑞银存储研报（2026年11月12日）、摩根大通鸿海研报（2026年11月13日）</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 黄仁勋离任，英伟达赚钱的能力会变吗？</span></p><p><span>2. 盈利预测不动，高盛为什么砍了估值倍数？</span></p><p><span>3. 苹果失去乔布斯后的倍数走势，能参考多少？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lmA4yEXb1NRSyQZKcV67Vi6nsyK9.m4a" length="8541854" type="audio/mp4"/>
+    <itunes:duration>00:08:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>瑞银：二零二七年展望：估值杀完之后</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af52ca93caef3b52f548072</link>
+    <guid isPermaLink="false">6af52ca93caef3b52f548072</guid>
+    <pubDate>Thu, 12 Nov 2026 03:08:22 +0000</pubDate>
+    <description><![CDATA[<p><span>🎯 本期速览</span></p><p><span>2026年标普利润涨约33%，前瞻市盈率却从22倍跌到17.7倍。瑞银拆解市场在怕什么，也摆出它看2027年的三条依据，以及这些依据背后的前提。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：瑞银（UBS）美股策略团队</span></p><p><span>报告：Outlook 2027: After the derating, how to invest</span></p><p><span>中文：《2027年展望：估值杀完之后》</span></p><p><span>日期：2026年11月10日</span></p><p><span>类型：宏观策略 / 年度展望</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 利润涨了三成多，标普估值为什么反而跌两成？</span></p><p><span>2. 估值大跌之后的下一年，历史上标普怎么走？</span></p><p><span>3. 暂停建数据中心，会怎样改写2028年的利润？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lpHQXf5e-RfPcSqL17zeRlxcLsp2.m4a" length="10477283" type="audio/mp4"/>
+    <itunes:duration>00:10:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>摩根大通：谁在买超大规模云厂商的债？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af4081714d01a26f8a835a2</link>
+    <guid isPermaLink="false">6af4081714d01a26f8a835a2</guid>
+    <pubDate>Wed, 11 Nov 2026 06:18:44 +0000</pubDate>
+    <description><![CDATA[<p><span>今年云厂商发了2320亿美元高等级债，市场担心保险公司已经吃饱。摩根大通翻了持仓数据：保险只持25%，资管占了一半多。下一波GPU融资，可能要给出更高的利差。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：摩根大通（J.P. Morgan）北美信用研究</span></p><p><span>标题：Who is buying all the hyperscaler bonds?（谁在买超大规模云厂商的债？）</span></p><p><span>日期：2026年11月10日</span></p><p><span>类型：主题研究｜美国高等级信用债</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 今年两千多亿美元的云厂商债，到底是谁在买？</span></p><p><span>2. 保险公司对AI相关债的敞口，真的已经满了吗？</span></p><p><span>3. 下一波GPU融资，为什么可能要给出更高利差？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/liM4g6k7WRLqY73v35jxXqownk_h.m4a" length="11575876" type="audio/mp4"/>
+    <itunes:duration>00:11:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>摩根士丹利：存储：中期选举后的关键争论</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af29f085b7c4709bfe3d3f4</link>
+    <guid isPermaLink="false">6af29f085b7c4709bfe3d3f4</guid>
+    <pubDate>Tue, 10 Nov 2026 04:36:55 +0000</pubDate>
+    <description><![CDATA[<p><span>费城半导体指数的市盈率从6月高点几乎腰斩，盈利预期反而涨了24%。大摩认为估值已跌得差不多，存储接下来要看2028年新产能投放后，盈利会不会被砍。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：摩根士丹利（Morgan Stanley）</span></p><p><span>标题：Memory – Key Debate Post Mid-terms（存储：中期选举后的关键争论）</span></p><p><span>发布日期：2026年11月9日</span></p><p><span>类型：行业研究｜亚洲科技·存储</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 芯片股估值腰斩，为什么盈利预期反而在涨？</span></p><p><span>2. 存储的2028盈利悬崖，风险到底来自哪一边？</span></p><p><span>3. 大摩上调近期盈利，为什么反而大砍目标价？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lhgT3T8fjhH-oKw3jJEiFw_q0suO.m4a" length="11390207" type="audio/mp4"/>
+    <itunes:duration>00:11:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>大摩：中国电商股：留在牌桌上的代价</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af13f9ab4a4e20202f6e5c6</link>
+    <guid isPermaLink="false">6af13f9ab4a4e20202f6e5c6</guid>
+    <pubDate>Mon, 09 Nov 2026 03:37:31 +0000</pubDate>
+    <description><![CDATA[<p><span>📝 本期速览</span></p><p><span>中国电商不怎么增长了，平台却停不下来花钱。大摩认为市场等的"成熟红利"可能不会来，低估值也未必托得住。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：摩根士丹利</span></p><p><span>标题：China – E-Commerce: The Cost of Staying Relevant（不掉队的代价）</span></p><p><span>发布日期：2026年11月8日</span></p><p><span>类型：行业研究</span></p><p><span>覆盖：阿里巴巴、拼多多、京东、美团、快手、携程、同程旅行、唯品会</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. 行业增速只剩3%，平台为什么还在烧钱？</span></p><p><span>2. 新增成交额73%归拼多多和抖音，意味着什么？</span></p><p><span>3. 账上现金很多，为什么低估值也未必托得住？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lvrn_jfGd0XpiIhXS9G9L6Zp8kQU.m4a" length="11752108" type="audio/mp4"/>
+    <itunes:duration>00:12:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>回撤19.46%｜港美股技术周复盘｜20261108</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af004525b7c4709bfe2c03e</link>
+    <guid isPermaLink="false">6af004525b7c4709bfe2c03e</guid>
+    <pubDate>Sun, 08 Nov 2026 05:12:31 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>选举周AI板块暴跌，纳指单日跌5.5%，模型单日回撤11.85%，距前高回撤到19.46%，年内最大。九笔止损之后，模型持仓为什么反而更大了？</span></p><p><span>────────</span></p><p><span>📄 本期信息</span></p><p><span>栏目：港美股技术周复盘</span></p><p><span>日期：2026年11月8日</span></p><p><span>统计区间：2026.11.02–11.06</span></p><p><span>周复盘图文版（含K线图）：[公众号链接]</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>- 单日回撤11.85%，模型为什么不停下来等跌完？</span></p><p><span>- 九笔止损离场之后，模型持仓为什么反而更大了？</span></p><p><span>- QQQ一口气跌到644，这轮调整像七月还是三月？</span></p><p><span>────────</span></p><p><span>📈 本周模型交易（2026.11.02–11.06）</span></p><p><span>完成交易11笔，2盈9亏</span></p><p><span>11/05 盘中按规则止损离场9笔，X模型同日被动进场18笔</span></p><p><span>已平仓合计账户贡献 -4.25%（不等于周收益率）</span></p><p><span>本周模型 -5.33%，同期SPY -2.70%</span></p><p><span>11/05单日 -11.85%，年内最大单日跌幅</span></p><p><span>11/05距前高回撤 -19.46%，年内最大回撤（前高10/29）</span></p><p><span>周五反弹 +6.02%，周末距前高回撤 -14.61%</span></p><p><span>年初至今：模型 +40.02%，标普500 +6.92%</span></p><p><span>完整记录：right-pocket.com/track-record</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目内容为右兜个人的市场观察、历史模型交易记录与方法复盘，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>节目提及的指数、股票、价位，均为对历史走势的描述与观察，</span></p><p><span>不代表买卖时点或操作建议。</span></p><p><span>节目提及的个股，模型可能正在持有，存在利益关联。</span></p><p><span>模型交易记录为历史表现，历史表现不代表未来结果。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/louXqpkJTYHF3ECLgDo_qUA_wkhs.m4a" length="5909338" type="audio/mp4"/>
+    <itunes:duration>00:06:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>摩根士丹利 美国经济周报：AI 对增长的拉动在上升，政治风险也在上升</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aeec3555b7c4709bfe2633e</link>
+    <guid isPermaLink="false">6aeec3555b7c4709bfe2633e</guid>
+    <pubDate>Sat, 07 Nov 2026 06:28:37 +0000</pubDate>
+    <description><![CDATA[<p><span>📄 本期速览</span></p><p><span>三季度AI相关投资贡献美国增长0.9个点，是2024年的四倍多，几乎都花在建机房、添设备上。中期选举后州一级审批成了新变量，大摩判断变的是节奏和地点，不是终点。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span></p><p><span>机构：摩根士丹利 美国经济团队</span></p><p><span>标题：AI's growth contribution is rising, but so are political risks（AI对增长的拉动在上升，政治风险也在上升）</span></p><p><span>类型：美国经济周报</span></p><p><span>发布：2026年11月6日</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><p><span>1. AI投资拉动1.6个点，GDP为何只记0.9？</span></p><p><span>2. 人均产出增速达二十年均值两倍，AI挤掉了多少岗位？</span></p><p><span>3. 中期选举之后，美国AI投资会在哪一环被拖慢？</span></p><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span></p><p><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span></p><p><span>网站：right-pocket.com</span></p><p><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span></p><p><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span></p><p><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span></p><p><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span></p><p><span>不构成任何投资建议、要约或推介。</span></p><p><span>本节目提及的所有公司、股票、价格、评级，</span></p><p><span>均为对第三方机构研报内容的整理与解读，</span></p><p><span>不代表节目主理人或制作团队的持仓或推荐。</span></p><p><span>投资有风险，决策需独立判断，</span></p><p><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span></p><p><span>主播：小柒（AI）</span></p><p><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span></p><p><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/ln1aQRVrJBIukUsifOqTLnTQEmPJ.m4a" length="9136184" type="audio/mp4"/>
+    <itunes:duration>00:09:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Bernstein：AI 实验室的数据中心与算力承诺，对云厂商和新云意味着什么</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aec2074123b1af647f13223</link>
+    <guid isPermaLink="false">6aec2074123b1af647f13223</guid>
+    <pubDate>Thu, 05 Nov 2026 06:23:28 +0000</pubDate>
+    <description><![CDATA[<p><span>🎯 本期速览</span><br><span>伯恩斯坦把 OpenAI 的 7500 亿合同拆到 6140 亿。合同灵活护住了云厂商，风险没消失，挪到了芯片厂和没人兜底的那一圈。</span></p><p><span>────────</span></p><p><span>📄 报告信息</span><br><span>机构：伯恩斯坦（Bernstein）</span><br><span>标题：What are the AI Lab datacenter / compute commitments and what does it mean for hyperscalers and neoclouds?</span><br><span>日期：2026 年 11 月 3 日</span><br><span>对照材料：Citrini Research《State of the Themes》开篇部分</span></p><p><span>────────</span></p><p><span>🎯 三个核心问题</span></p><ol><li><p><span>7500 亿美元合同为何不等于 7500 亿现金？</span></p></li><li><p><span>OpenAI 收入增速能否一直跑赢算力支出？</span></p></li><li><p><span>合同的弹性，最后由谁来承担风险？</span></p></li></ol><p><span>────────</span></p><p><span>📊 关于 RightPocket 量化模型系统</span><br><span>RightPocket 是右兜独立运营的美股量化交易模型平台，包含策略模型、盘前交易信号与三级风险预警系统。所有交易记录公开透明。</span><br><span>网站：right-pocket.com</span><br><span>实盘业绩：right-pocket.com/performance</span></p><p><span>────────</span></p><p><span>🔗 加入我们</span><br><span>知识星球「研报精选｜左兜进右兜」：每日精选外资研报，附 IMA 研报知识库</span><br><span>RightPocket 美股量化交易模型独立站会员：模型信号与实盘业绩</span><br><span>会员入口：right-pocket.com</span></p><p><span>────────</span></p><p><span>⚠️ 风险提示</span></p><p><span>本节目所有内容仅为公开信息的研究分析与个人观点分享，</span><br><span>不构成任何投资建议、要约或推介。</span><br><span>本节目提及的所有公司、股票、价格、评级，</span><br><span>均为对第三方机构研报内容的整理与解读，</span><br><span>不代表节目主理人或制作团队的持仓或推荐。</span><br><span>投资有风险，决策需独立判断，</span><br><span>或咨询所在司法辖区的持牌专业人士。</span></p><p><span>────────</span></p><p><span>🎙 本期制作</span><br><span>主播：小柒（AI）</span><br><span>选题与观点：右兜</span></p><p><span>本节目由右兜负责选题与观点输出，AI 协助完成翻译、脚本提炼与播客录制，</span><br><span>AI 主播小柒担任声音呈现。把 AI 用好，比假装不用 AI 更值得信赖。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668515070bc5d7cc7086d329/lro--U6SkmyT3aUPKj06B54m4F1t.m4a" length="12869278" type="audio/mp4"/>
+    <itunes:duration>00:13:15</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiC1B1ZUi4RJah_BR5pmVwXXqyBO.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

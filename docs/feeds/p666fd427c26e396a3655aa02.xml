@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>出海那些事</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/666fd427c26e396a3655aa02</link>
+  <description><![CDATA[扬帆出海：专注服务中国互联网出海！旗下《出海那些事》由Akamai携手扬帆出海共同打造的全网首档聚焦【互联网行业出海浪潮下的新鲜事】文化类漫谈节目在2024年再次启航。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 09:14:57 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p666fd427c26e396a3655aa02.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FlrIMbU5OOgrAqt2yzUrMscxLEn7.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FlrIMbU5OOgrAqt2yzUrMscxLEn7.png</url>
+    <title>出海那些事</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/666fd427c26e396a3655aa02</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>资本火热入局，AI应用创业成吸金王者？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66728663b6a8412729d6b7b4</link>
+    <guid isPermaLink="false">66728663b6a8412729d6b7b4</guid>
+    <pubDate>Wed, 19 Jun 2024 07:18:57 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第三季第二集—资本火热入局，AI应用创业成吸金王者？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lk6KeEZGtSmcqvC77BbCHpXTvHZK.m4a" length="24099509" type="audio/mp4"/>
+    <itunes:duration>00:24:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqEggfmc-ERoWVXKUZdtvj6QDY1q.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>从“新”出发，迈山越海</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66728643c26e396a36ddf4b1</link>
+    <guid isPermaLink="false">66728643c26e396a36ddf4b1</guid>
+    <pubDate>Wed, 19 Jun 2024 07:18:25 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第三季第一集—从“新”出发，迈山越海</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljYtgAqERHtMkwAWbJJ_4fWkPQmR.m4a" length="33259965" type="audio/mp4"/>
+    <itunes:duration>00:34:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlyAqkD_MZOxBrTB4wo5WtgO5fye.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>掘金出海新赛道 短剧出海爆款修炼手册</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66728609c26e396a36dddc0b</link>
+    <guid isPermaLink="false">66728609c26e396a36dddc0b</guid>
+    <pubDate>Wed, 19 Jun 2024 07:17:28 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第二季第五集—掘金出海新赛道 短剧出海爆款修炼手册</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lt5pdUSyoCx5EIV1qXcLSNmVzud1.m4a" length="50640073" type="audio/mp4"/>
+    <itunes:duration>00:52:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FitLYbaVAJ3rNPu2I7JBS_MKHFqT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI科技最前沿 新时代下游戏厂商的机遇与挑战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667285dcb6a8412729d6833d</link>
+    <guid isPermaLink="false">667285dcb6a8412729d6833d</guid>
+    <pubDate>Wed, 19 Jun 2024 07:16:43 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第二季第四期—AI科技最前沿 新时代下游戏厂商的机遇与挑战</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj8UeRYpuK-iEg2a_QbGCOk-6Crj.m4a" length="49290875" type="audio/mp4"/>
+    <itunes:duration>00:50:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgAH9pH4X-WIxPsQ9W-RwCuA4bJw.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>与AIGC共舞，探寻世界的未来式</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66728578b6a8412729d66869</link>
+    <guid isPermaLink="false">66728578b6a8412729d66869</guid>
+    <pubDate>Wed, 19 Jun 2024 07:15:03 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第二季第三集—与AIGC共舞，探寻世界的未来式</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsBVvCE0RYxG2C8Usq3LAo_2uL9N.m4a" length="48494226" type="audio/mp4"/>
+    <itunes:duration>00:49:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqiCLyLZMGfUj0P1vsa6Yf7mdcGA.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2023出海正当时，不同国家地域的行业出海趋势与实操挑战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66728041c26e396a36dc0ef9</link>
+    <guid isPermaLink="false">66728041c26e396a36dc0ef9</guid>
+    <pubDate>Wed, 19 Jun 2024 06:52:48 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第二季第二集—2023出海正当时，不同国家地域的行业出海趋势与实操挑战</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lur4Uiqo4QeUv1JvDqO6wx5YWRxO.m4a" length="60593358" type="audio/mp4"/>
+    <itunes:duration>01:02:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fva_nqF2oYn2MF2FciW-7c_Fj5o6.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>赢销海外，跨境电商的营销启示录</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66727ec9b6a8412729d451b3</link>
+    <guid isPermaLink="false">66727ec9b6a8412729d451b3</guid>
+    <pubDate>Wed, 19 Jun 2024 06:46:32 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第二季第一集—赢销海外，跨境电商的营销启示录</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lsyrWxUTxuhgwWmWQP4dak5p7wYY.m4a" length="48459903" type="audio/mp4"/>
+    <itunes:duration>00:49:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrWxe0FL_3vBik6avlNcTpZZSsZJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>开启元宇宙之旅，探索未来世界B面</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66727e92c26e396a36db87ac</link>
+    <guid isPermaLink="false">66727e92c26e396a36db87ac</guid>
+    <pubDate>Wed, 19 Jun 2024 06:45:37 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第一季第三集—开启元宇宙之旅，探索未来世界B面</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ln8jCLwEhnvVp--Pm87VmtB1oC7D.m4a" length="58438149" type="audio/mp4"/>
+    <itunes:duration>01:00:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpK0KEipOjdLJLODWPK8eib5_Ike.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>跨境电商网红带货的机遇与挑战</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66727e3cb6a8412729d424cc</link>
+    <guid isPermaLink="false">66727e3cb6a8412729d424cc</guid>
+    <pubDate>Wed, 19 Jun 2024 06:44:11 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第一季第二集—跨境电商网红带货的机遇与挑战</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lg8WeQyX7TlTfTWlkFaxuCzTog9i.m4a" length="64806895" type="audio/mp4"/>
+    <itunes:duration>01:06:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlYw65H45z91v4ZqvixP2gd-tjHp.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>互联网出海年度总结与展望</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6672789bb6a8412729d26855</link>
+    <guid isPermaLink="false">6672789bb6a8412729d26855</guid>
+    <pubDate>Wed, 19 Jun 2024 06:20:10 +0000</pubDate>
+    <description><![CDATA[<p><span>《出海那些事儿》第一季第一集—2021-2022，互联网出海年度总结与展望</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ls9rzeUbEfwnpRFPCxGHT2OY3NyQ.m4a" length="66176358" type="audio/mp4"/>
+    <itunes:duration>01:08:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvZ8M5OTc1JrVCo5F-ICrkrI_z2G.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>猿来如此</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/616ce832bbbe908cc645b51f</link>
+  <description><![CDATA[这里没有高深的理论，只有和你一样关心科技和生活的普通人。每一期，我用最简单的语言聊聊新技术、行业故事，还有那些让人会心一笑的小发现。关注《猿来如此》，和我一起，慢慢变好。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:20:10 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/9eerfh6qf8mf.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>一个张赫</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FvySQOPeq2hMXhcI_-Ch7PBANemw.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FvySQOPeq2hMXhcI_-Ch7PBANemw.png</url>
+    <title>猿来如此</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/616ce832bbbe908cc645b51f</link>
+  </image>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>ChatGPT Wallet 零信任支付</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af9cb55fe62f8f52c4b9d37</link>
+    <guid isPermaLink="false">6af9cb55fe62f8f52c4b9d37</guid>
+    <pubDate>Sun, 15 Nov 2026 15:14:46 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>OpenAI</span></strong><span>联合各大支付网络推出了</span><strong><span>ChatGPT Wallet</span></strong><span>，旨在赋能AI代理安全地代表用户完成线上交易。通过利用</span><strong><span>支付令牌</span></strong><span>代替实际卡片信息，该功能有效保护了用户的财务隐私，同时保留了原有的奖励与争议保护机制。虽然目前的初期版本要求用户对每笔消费进行指纹或面容等生物识别验证，但未来计划引入</span><strong><span>消费限额</span></strong><span>和预设条件来实现更完全的自动化购物。为了配合这一变革，相关行业正在推进如</span><strong><span>通用商业协议</span></strong><span>等标准化方案，并指导商家调整防火墙设置以允许合法的AI请求，从而推动智能商务在未来实现更顺畅的普及。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lpxlwm-kB_FAdBZKgJ0jthVludwr.m4a" length="13373171" type="audio/mp4"/>
+    <itunes:duration>00:18:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiOVl9FMqsQQZFFSMHdccw4RaS1M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>英伟达CEO黄仁勋深陷间谍绯闻调查</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af159c2b4a4e20202f6f5b9</link>
+    <guid isPermaLink="false">6af159c2b4a4e20202f6f5b9</guid>
+    <pubDate>Mon, 09 Nov 2026 05:41:46 +0000</pubDate>
+    <description><![CDATA[<p><span>站在全球AI算力巅峰的英伟达，为何突然陷入了一场涉及国际情报的巨大风波？本期节目我们将深度拆解英伟达CEO黄仁勋近期的“间谍绯闻”危机。从新加坡神秘数据中心高管的接近，到美国最高情报机构的机密备忘录；从一封震惊全网的内部致歉信，到华盛顿政界截然不同的施压态度。这不仅仅是一桩科技圈的八卦，更是中美科技脱钩背景下，一场波谲云诡的情报与算力博弈。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lp86-byvmgA7gLXE1Nshq_6c8_R0.m4a" length="16143017" type="audio/mp4"/>
+    <itunes:duration>00:16:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsrMNiGwb1VCBsxeFA_pWBe6nh4a.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>什么是 Graph Engineering？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a6055f2a3fec224d5a17493</link>
+    <guid isPermaLink="false">6a6055f2a3fec224d5a17493</guid>
+    <pubDate>Wed, 22 Jul 2026 05:36:02 +0000</pubDate>
+    <description><![CDATA[<p><span>Graph Engineering，白话说就是“执行图工程”：把多个 Agent、普通函数、工具和人工检查点，组织成一张可执行、可恢复、可观察的工作图。它解决的不是“怎样再加一个 Agent”，而是谁先做、结果交给谁、失败退回哪里，以及什么时候必须停下来等人。本文会用一张假设的内容生产图讲清它的五个部分、六类风险，以及哪些任务根本不该用 Graph。</span></p><p><span>设想一个团队已经有调研 Agent、写作 Agent 和审核 Agent：三个执行者都会干活，但仍要有人复制上一步的结果，决定下一个调谁，失败后再凭经验判断重跑哪段。表面上自动化了三个动作，实际上只是多了三个需要人工盯着的执行者。问题不一定是 Agent 不够聪明，而是协作关系还藏在聊天记录、Prompt 和操作人的脑子里。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/ljy6s24YBWo6Q2lJ1RmwsJf8r3Lq.m4a" length="11338549" type="audio/mp4"/>
+    <itunes:duration>00:11:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqQyOsv012wZCUEoRevp2S46mj6f.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Gemini 3.5 Pro 等了半天没来，Google 先端上来的却是它俩</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5fa6c5a3fec224d5a13c6a</link>
+    <guid isPermaLink="false">6a5fa6c5a3fec224d5a13c6a</guid>
+    <pubDate>Tue, 21 Jul 2026 17:16:38 +0000</pubDate>
+    <description><![CDATA[<p><span>大家盯着 Gemini 3.5 Pro 等了半天，Google 先端上来的却是 Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite。先把最容易传歪的地方说清楚：3.5 Pro 没有取消，Google 的官方说法仍是“正在与合作伙伴测试”，只是没有公布新的开放日期。</span></p><p><span>真正值得追新的，不是型号又多了两个，而是 Google 把高频 AI 工作拆成了两层：3.6 Flash 是更高效的主力工作层，负责复杂编码、多步骤 Agent、多模态理解和界面操作；3.5 Flash-Lite 是低成本、高吞吐的执行层，适合分类、抽取、翻译、路由和大批量文档处理。一个处理不确定性，一个处理规模，这比争论“Flash 能不能代替 Pro”更接近真实工作。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/ltt5mJ90VW07UM8UiAcQGh1Z0Okh.m4a" length="11094861" type="audio/mp4"/>
+    <itunes:duration>00:11:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlSlE8IzXG3W1k07BIg73yKCDhCX.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>GPT‑Live 真正厉害的，不是更像人，而是 AI 终于不再等你说完</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5cf3de6356eb2d9be516c4</link>
+    <guid isPermaLink="false">6a5cf3de6356eb2d9be516c4</guid>
+    <pubDate>Sun, 19 Jul 2026 16:33:50 +0000</pubDate>
+    <description><![CDATA[<p><span>GPT‑Live厉害的，不是嗓子像人，而是AI边说边听，能被打断。它让语音助手从“对讲机”变成“电话”，可自然不等于可靠。截至7月16日，API未开放，旧Realtime案例不是新模型成绩。客服要用，补确认、接管和回滚。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lsArTGspap9RZ_1zZchQwKU_DJCI.m4a" length="10437675" type="audio/mp4"/>
+    <itunes:duration>00:10:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fs326-jFuIv4zts6cAqefbYNLMv-.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>什么是 HTML-in-Canvas？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a2b618743a22a69558254aa</link>
+    <guid isPermaLink="false">6a2b618743a22a69558254aa</guid>
+    <pubDate>Fri, 12 Jun 2026 01:33:52 +0000</pubDate>
+    <description><![CDATA[<p><span>Google I/O 2026 上，Chrome 团队推了一个很容易被低估的新 Web 平台特性：HTML-in-Canvas。</span></p><p><span>很多人第一眼看到这个名字，脑子里会冒出一句话：哦，不就是终于可以在 canvas 里写 HTML 了吗？</span></p><p><span>这理解不能说错，但太浅了。</span></p><p><span>HTML-in-Canvas 真正重要的地方，不是“Canvas 能不能塞一个 div”。它动的是前端一条存在了很多年的边界：DOM 负责语义、交互和浏览器能力，Canvas / WebGL / WebGPU 负责像素、图形和 GPU 管线。过去这两套世界像两个国家，边境线画得很硬。你要 DOM 的可访问性、复制、查找、翻译、表单和 DevTools，就老老实实待在 DOM 里。你要 shader、3D、游戏、复杂画布和极致视觉控制，就进 canvas，但很多浏览器能力要自己重造，或者直接放弃。</span></p><p><span>HTML-in-Canvas 的变化是：浏览器开始给这两个国家修桥。</span></p><p><span>说白了，它不是让 Canvas 变成 DOM，也不是让 DOM 消失。它更像是让真实 DOM 变成图形管线的一种输入。</span></p><p><span>这就有意思了。</span></p><p><span>先说它到底是什么</span></p><p><span>按 Chrome 官方介绍，HTML-in-Canvas 是一个实验性 API，目前已经进入 origin trial。它允许你把 DOM 内容直接绘制进 2D canvas，或者作为 WebGL / WebGPU texture 使用，同时保留交互、可访问性和浏览器内建能力。</span></p><p><span>人话版是：</span></p><p><span>你可以写一个真实的 HTML 组件，比如一个表单、一段富文本、一个设置面板、一个复杂卡片。它不是截图，不是手搓像素，不是用 JS 模拟 CSS。它仍然是 DOM。然后你可以把这个 DOM 的渲染结果画进 canvas，甚至贴到一个 3D 物体表面上。</span></p><p><span>更关键的是，它还尽量保留浏览器能力。</span></p><p><span>文本可以被选中，内容可以被复制，页面查找能找到，屏幕阅读器能读，浏览器翻译能处理，DevTools 能检查，扩展也可能继续工作。</span></p><p><span>以前 canvas 应用最尴尬的地方就在这里：画面看起来很高级，但对浏览器来说经常只是一张大图。用户看到的是文字，浏览器看到的是像素。用户以为这是界面，辅助技术可能只看到一块空白。</span></p><p><span>这就像你开了一家装修很豪华的店，但门口没有门牌，消防图也没有，导盲系统也进不去。普通人看着炫，真到基础能力上，全是坑。</span></p><p><span>HTML-in-Canvas 要补的，就是这个坑。</span></p><p><span>过去为什么这么难？</span></p><p><span>前端一直有两套 UI 世界。</span></p><p><span>第一套是 DOM 世界。</span></p><p><span>DOM 的好处不是“能写 div”这么简单。它真正值钱的是浏览器几十年积累下来的能力：文本布局、换行、国际化、双向文字、表单控件、焦点管理、选择复制、右键菜单、无障碍树、页面查找、浏览器翻译、自动填充、缩放、暗色模式、扩展、DevTools。</span></p><p><span>这些东西你平时不觉得牛，是因为浏览器替你兜底太久了。</span></p><p><span>第二套是 Canvas / WebGL / WebGPU 世界。</span></p><p><span>它的好处也很明显：你可以直接控制像素，进 GPU，做 3D，跑 shader，做游戏，做白板，做设计工具，做复杂可视化。Figma、Miro、Google Docs 这类复杂应用，很多地方都离不开这种底层图形能力。</span></p><p><span>问题是，这两套世界以前很难同时拿。</span></p><p><span>你用 DOM，就很难把一个真实按钮贴到 3D 模型上，然后让它被玻璃折射、被 shader 扭曲、跟着模型旋转。</span></p><p><span>你用 Canvas，就要开始重造很多浏览器已经做好的东西。比如文本换行、光标、输入框、复制粘贴、焦点、可访问性。重造到最后，你会怀疑人生：我不是做一个 3D 面板吗，怎么突然在写半个浏览器？</span></p><p><span>这就是 HTML-in-Canvas 的背景。</span></p><p><span>大多数人以为前端缺的是更炫的渲染 API。但真相是，前端真正缺的是一条能把“语义 UI”和“图形管线”接起来的路。</span></p><p><span>它怎么工作？</span></p><p><span>HTML-in-Canvas 的核心设计可以拆成几个部分。</span></p><p><span>第一，在 <canvas> 上加 layoutsubtree。</canvas></span></p><p><span>这一步的意思是：让 canvas 里面的子元素参与布局和 hit testing。也就是说，你可以把 DOM 子节点放到 canvas 里，它们会像真实 DOM 一样被浏览器布局、参与可访问性和交互计算。但它们不会自动显示出来。想显示，必须显式绘制。</span></p><p><span>第二，用 drawElementImage() 把 DOM 画进 2D canvas。</span></p><p><span>比如你有一个 <div>，里面是文本、按钮、输入框、CSS 样式。你在 canvas 的 paint event 里调用 ctx.drawElementImage(element, x, y)，浏览器就会把这个元素的渲染结果画到 canvas 上。</div></span></p><p><span>第三，如果你在 WebGL 里，可以用 texElementImage2D；如果在 WebGPU 里，可以用 copyElementImageToTexture。</span></p><p><span>这一步才是很多 3D 开发者眼睛一亮的地方。因为 HTML 不只是画到 2D canvas，它还可以成为 texture。texture 意味着它可以贴到 3D 物体上，可以进 shader，可以被 post-processing 处理，可以成为沉浸式场景的一部分。</span></p><p><span>第四，要同步 transform。</span></p><p><span>这是最容易被忽略、但最关键的一步。</span></p><p><span>你看到的 HTML 已经被画到 canvas 里了，但真实 DOM 仍然要知道自己“在屏幕的哪里”。不然用户点击画面上的按钮，浏览器不知道该把这个点击交给哪个真实 DOM 元素；屏幕阅读器、hover、focus、选中文本也会错位。</span></p><p><span>所以 drawElementImage() 会返回一个 transform。你要把这个 transform 应用到元素的 CSS transform 上。3D 场景里则可以用 getElementTransform() 辅助计算。说白了，视觉位置和真实 DOM 位置必须对齐。</span></p><p><span>这也是为什么它不是“截一张图塞进 canvas”。截图不会有焦点，不会有输入，不会有可访问性，不会有浏览器查找。HTML-in-Canvas 玩的是活的 DOM。</span></p><p><span>这和 html2canvas 有什么区别？</span></p><p><span>很多人会问：这不就是官方版 html2canvas 吗？</span></p><p><span>不是。</span></p><p><span>html2canvas 文档自己说得很清楚，它会遍历 DOM，读取元素信息，然后构建一个页面表示。它不是浏览器截图。它能画对多少，取决于它理解多少 CSS、多少布局细节、多少边界情况。</span></p><p><span>这就像你照着网页临摹一幅画。画得再像，也还是临摹。</span></p><p><span>HTML-in-Canvas 更接近浏览器自己把那层真实 HTML 渲染结果交给你当素材。它不是第三方库猜浏览器怎么画，而是浏览器平台提供“把 DOM 绘制进 canvas / texture”的能力。</span></p><p><span>还有一种老办法是 DOM overlay。</span></p><p><span>比如你在 WebGL canvas 上面盖一个绝对定位的 div，看起来像在 3D 场景里。但它本质上是贴在画面外面的透明贴纸。它可以交互，但它没有真正进入 3D 管线。它不能自然被 shader 处理，不能真实贴在一个旋转的 3D 屏幕上，也很难和复杂后处理融在一起。</span></p><p><span>DOM overlay 像把字幕贴在电视屏幕外面。</span></p><p><span>HTML-in-Canvas 是把字幕送进画面信号里。</span></p><p><span>差别就在这。</span></p><p><span>它带来的第一个变化：Canvas 应用不用再那么“装瞎”</span></p><p><span>Canvas 应用有个老问题：用户看得到，浏览器看不懂。</span></p><p><span>你在 canvas 里画了一个图表，用户看到坐标轴、图例、tooltip、按钮。但对浏览器来说，那可能就是一堆像素。你要想支持无障碍、搜索、复制、翻译、右键、自动填充，就得自己额外维护一套 fallback DOM 或自定义逻辑。</span></p><p><span>很多团队不是不知道该做，而是成本太高。</span></p><p><span>结果就是大量 canvas 应用变成“视觉上很强，浏览器能力很弱”。尤其是复杂白板、设计工具、图表工具、游戏 UI、3D 场景，一旦进入 canvas，很多普通网页里默认免费的能力突然都变成工程债。</span></p><p><span>HTML-in-Canvas 的价值，是让真实 DOM 可以继续存在于浏览器语义系统里，同时又能被画进 canvas。</span></p><p><span>这对大型 canvas-based 应用很重要。比如官方提到 Google Docs、Miro、Figma 这类重量级 Web 应用。它们不一定会马上把所有 UI 改掉，但某些复杂组件、嵌入式面板、文本区域、可访问内容，未来有机会少写很多自研逻辑。</span></p><p><span>你以为这只是省几行代码。</span></p><p><span>不，这是把“可访问性”和“浏览器能力”从补丁变回地基。</span></p><p><span>第二个变化：3D 和 WebXR 终于能吃上真实 Web UI</span></p><p><span>做过 WebGL / Three.js / WebXR 的人都知道，3D 里的 UI 很折磨。</span></p><p><span>你想在 3D 场景里的一个电脑屏幕上放一个网页界面。简单做法是贴一张图片，不能交互。高级一点，用 canvas texture，自己画内容。再高级，用 DOM overlay，让一个 HTML 面板跟着 3D 位置走。但它经常有遮挡、透视、事件、深度关系和真实嵌入感的问题。</span></p><p><span>所以很多 3D UI 最后都变成手搓。</span></p><p><span>按钮自己画，输入框自己写，布局自己算，hover 自己做，focus 自己接，事件自己 raycast。写着写着，你不是在做产品，你是在复刻浏览器。</span></p><p><span>HTML-in-Canvas 的想象空间就在这里：你可以用 HTML / CSS 写 UI，再把它作为 texture 放进 3D 场景。</span></p><p><span>Three.js r184 已经加了 HTMLTexture。PlayCanvas 也有 HTML-in-Canvas 文档，讲如何把 live HTML / CSS 渲染成 WebGL texture，并保留 hit testing、focus 和 accessibility。</span></p><p><span>这说明生态已经开始接线了。</span></p><p><span>对游戏、WebXR、沉浸式官网、3D 产品展示来说，这不是小改动。以前你要在“网页 UI 的成熟能力”和“3D 世界的真实嵌入感”之间选一个。现在至少有机会两个都要。</span></p><p><span>当然，别激动过头。</span></p><p><span>3D transform、hit testing、texture 更新、fallback、浏览器兼容，还是工程活。HTML-in-Canvas 不是仙丹，它只是把最底层那堵墙打开了一扇门。</span></p><p><span>门开了，不等于路铺好了。</span></p><p><span>第三个变化：AI Agent 更容易读懂“视觉应用”</span></p><p><span>这个点很多人会忽略，但我觉得很关键。</span></p><p><span>Google 在 I/O 2026 的语境里，不只是讲 Web UI，还在讲 agentic web。HTML-in-Canvas 官方介绍里也提到，内容如果仍然是 DOM，爬虫和 AI agent 可以更容易索引和读取 2D / 3D 场景里的文本。</span></p><p><span>这句话背后其实很重。</span></p><p><span>AI agent 要操作网页，最怕什么？怕界面只有像素，没有语义。</span></p><p><span>如果一个按钮只是 canvas 上的一块蓝色矩形，agent 要理解它，只能靠视觉识别、坐标推断、截图 OCR。能做，但脆。像让人隔着毛玻璃修电路。</span></p><p><span>如果那个按钮背后仍是 DOM，里面有真实文本、真实 role、真实 input、真实 form、真实可访问性信息，那 agent 操作它就稳定得多。</span></p><p><span>这也是为什么我说 HTML-in-Canvas 不是单纯视觉特性。它和 AI 原生 Web 是有关系的。未来的 UI 可能既要被人看，也要被 agent 读；既要能进 GPU 管线，也要保留语义；既要炫，也要能被浏览器工具理解。</span></p><p><span>很多人以为 AI 时代的 UI 会变成一堆生成出来的炫酷画面。</span></p><p><span>但真相是，AI 时代更需要结构化 UI。</span></p><p><span>没有结构，agent 就只能猜。猜得越多，系统越不可靠。</span></p><p><span>第四个变化：前端分工会重新洗牌</span></p><p><span>过去前端经常有一种隐形分工：</span></p><p><span>做业务页面的人在 DOM / CSS / React 里打转。</span></p><p><span>做创意视觉、游戏、3D、白板、设计工具的人在 Canvas / WebGL / WebGPU 里打转。</span></p><p><span>两边互相看不上也互相羡慕。DOM 这边觉得 canvas 那边炫但不好维护；canvas 那边觉得 DOM 这边啰嗦但能力成熟。</span></p><p><span>HTML-in-Canvas 会让这个分界变薄。</span></p><p><span>未来一个前端工程师可能不能只懂“组件怎么写”，也不能只懂“shader 怎么跑”。更值钱的是你能不能理解 UI 的三层：</span></p><p><span>语义层：这个界面对用户、浏览器、辅助技术、agent 来说是什么。</span></p><p><span>交互层：用户如何点击、输入、选中、复制、聚焦。</span></p><p><span>图形层：它如何被绘制、变形、合成、进入 2D / 3D / GPU 管线。</span></p><p><span>以前这三层经常绑在一起。DOM 页面三层都交给浏览器。Canvas 应用三层很多要自己写。</span></p><p><span>HTML-in-Canvas 的意义，是让这三层有机会重新组合。</span></p><p><span>这才是真正的变化。</span></p><p><span>但现在别把它吹成生产神技</span></p><p><span>这里要泼一盆冷水。</span></p><p><span>HTML-in-Canvas 现在还很早。</span></p><p><span>Chrome 官方写得很清楚，Chrome 148 到 150 是 origin trial。要本地测试，需要 Chrome Canary 149+，还要打开 chrome://flags/#canvas-draw-element。WICG explainer 也还在持续更新。TAG、Mozilla、WebKit 的相关讨论还没完全收束。</span></p><p><span>所以别看几个 demo 很炸，就开始喊“前端未来已来，马上重构所有项目”。</span></p><p><span>这事儿没那么简单。</span></p><p><span>第一，浏览器兼容是现实问题。你不能指望所有用户立刻支持。</span></p><p><span>第二，性能不是白送的。HTML-in-Canvas 通过 JS 驱动绘制，滚动、动画、频繁 texture 更新都要评估。把一大坨复杂 DOM 塞进 canvas，不会自动变快。</span></p><p><span>第三，安全和隐私有限制。跨源 iframe、跨源资源、用户敏感状态，不可能让你随便画进 canvas 再读像素。</span></p><p><span>第四，工程复杂度还在。特别是 3D 场景里的 transform 同步，想做得稳定，需要框架和引擎继续封装。</span></p><p><span>所以正确姿势是什么？</span></p><p><span>如果你是普通业务前端，现在不用焦虑，也不用为了跟风硬学。</span></p><p><span>如果你做 3D、游戏、WebXR、数据可视化、白板、设计工具、富文档编辑器，建议第一时间跟踪。不是马上上生产，而是做 demo、测边界、看生态封装。</span></p><p><span>如果你在做 AI 生成 UI 或 agent 可操作界面，那更要关注。因为这类技术会影响未来“界面如何既给人看，也给机器读”。</span></p><p><span>我真正看重的是什么</span></p><p><span>我看重的不是 API 名字。</span></p><p><span>前端这几年不缺新 API。很多 API 出来，热闹两天，然后消失在兼容性、复杂度和真实需求里。</span></p><p><span>HTML-in-Canvas 真正值得看的，是它背后的方向：浏览器正在承认，Web App 已经不是传统文档页面了。</span></p><p><span>现在的 Web 上有设计工具、视频编辑器、3D 展厅、AI coding IDE、白板、游戏、数据大屏、沉浸式课程、agent 操作界面。它们既需要 DOM 的语义和浏览器能力，也需要 GPU 的图形能力。</span></p><p><span>过去我们总在两边来回横跳。</span></p><p><span>要么在 DOM 里装作自己是原生应用。</span></p><p><span>要么在 canvas 里装作自己是浏览器。</span></p><p><span>HTML-in-Canvas 的出现，说明平台层开始补这块拼图。</span></p><p><span>这才是变革。</span></p><p><span>不是“Canvas 可以写 HTML 了”。</span></p><p><span>而是 Web UI 终于开始从二维页面，走向一个更混合的渲染模型：语义是语义，交互是交互，图形是图形，它们可以被组合，而不是被迫绑定在一套技术里。</span></p><p><span>最后说句实话</span></p><p><span>很多技术热点都喜欢用一句话把人骗进去：</span></p><p><span>“这会改变前端。”</span></p><p><span>大多数时候，这句话是空的。因为真正改变前端的，不是某个 API 多酷，而是它有没有改变开发者做选择的方式。</span></p><p><span>HTML-in-Canvas 这次有这个苗头。</span></p><p><span>以前你的选择是：要 DOM，还是要 Canvas？</span></p><p><span>以后可能变成：哪一层用 DOM，哪一层进 Canvas，哪一层交给 GPU，哪一层保留给浏览器和 AI agent？</span></p><p><span>这就是从“选阵营”变成“做架构”。</span></p><p><span>对普通人来说，这不是明天就能变现的新技能。</span></p><p><span>但对前端开发者来说，这是一个非常好的信号：浏览器平台还在进化，而且进化方向不是让你背更多黑话，而是把过去那些别扭的边界慢慢拆掉。</span></p><p><span>说白了，HTML-in-Canvas 不是终点。</span></p><p><span>它只是告诉你：Web UI 的墙，已经开始松了。</span></p><p><span>墙一松，新的东西就会长出来。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lopmLBc8qBileUxrTaHz64idE5-G.m4a" length="10922552" type="audio/mp4"/>
+    <itunes:duration>00:11:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpkQARbHutRrLoDTYQHsCoBOJqE5.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>什么是 Loop Engineering？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a27d0507444b5722235f945</link>
+    <guid isPermaLink="false">6a27d0507444b5722235f945</guid>
+    <pubDate>Tue, 09 Jun 2026 08:48:28 +0000</pubDate>
+    <description><![CDATA[<p><span>这两天有句话在 AI 开发圈里传得很猛。</span></p><p><span>Claude Code 的 Boris Cherny 被转述说：</span></p><p><span>&gt; I don't prompt Claude anymore. I have loops running that prompt Claude and figuring out what to do. My job is to write loops.</span></p><p><span>翻成人话就是：我已经不再手动 prompt Claude 了。我有一堆 loop 在跑，它们会去 prompt Claude，自己判断下一步该做什么。我的工作是写这些 loop。</span></p><p><span>很多人看到这句话，第一反应是：好家伙，Prompt Engineering 又过气了？现在要改名 Loop Engineering 了？</span></p><p><span>先别急着换头像简介。</span></p><p><span>大多数人以为 Loop Engineering 是“不用再写 prompt，让 AI 自己干”。但真相是：Prompt 没消失，它只是从主角变成了零件。</span></p><p><span>以前你坐在 Claude 面前，一句一句催它：查一下、改一下、跑一下、再修一下、再验证一下。现在这些动作被写进了一个可以反复运行的系统里。这个系统知道什么时候启动，知道去哪拿上下文，知道能用哪些工具，知道怎么检查结果，也知道什么时候停。</span></p><p><span>这才叫 loop。</span></p><p><span>不是你写个 </span><code><span>while true</span></code><span>，里面塞一句“继续努力”。</span></p><p><span>那不叫 Loop Engineering，那叫自动烧钱。</span></p><p><span>## 先把 Loop Engineering 说清楚</span></p><p><span>Prompt Engineering 解决的是：这一句话怎么问，模型更容易给出好答案。</span></p><p><span>Loop Engineering 解决的是：这件事怎么反复做，怎么知道做对了，什么时候该停，出了事谁来接手。</span></p><p><span>一个真正能跑的 loop，至少有九个东西。</span></p><p><span>第一，有触发器。什么时候启动？每天早上？CI 挂了？PR 有新评论？还是你手动说“开始”？</span></p><p><span>第二，有目标。不是“帮我看看”，而是“直到 </span><code><span>auth</span></code><span> 相关测试全绿，且没有新的 lint 错误”。</span></p><p><span>第三，有上下文获取。它要读哪些文件、哪些日志、哪些 issue、哪些文档？没有上下文，agent 就是在黑屋里挥刀。</span></p><p><span>第四，有工具权限。它只能读？能改文件？能跑命令？能开 PR？能发 Slack？权限边界不清，loop 越强越危险。</span></p><p><span>第五，有执行者。谁负责推进？一个 coding agent，还是多个 subagents 分工？</span></p><p><span>第六，有检查者。谁判断它做得对不对？测试？独立 reviewer agent？静态分析？浏览器自动化？别让写代码的 agent 自己给自己打满分，人类都不该这么干，AI 更不该。</span></p><p><span>第七，有状态记录。它今天试了什么，失败了什么，明天从哪里继续？没有状态文件的 loop，本质是每天失忆。</span></p><p><span>第八，有停止条件。什么时候算完？什么时候应该停？什么时候预算超了必须退出？</span></p><p><span>第九，有人工接管点。需求不清、权限不足、风险变大、结果互相矛盾，这些时候必须喊人。</span></p><p><span>你看，Loop Engineering 根本不是“更高级的 prompt 技巧”。</span></p><p><span>它更像是给 AI 工人搭一条小型生产线：进料、加工、质检、记录、返工、停机，全都要设计。</span></p><p><span>## 为什么 Boris 会说“我不 prompt Claude 了”？</span></p><p><span>这句话最容易被误读。</span></p><p><span>他说“不 prompt”，不是说自然语言不重要了。恰恰相反，loop 里到处都是 prompt。</span></p><p><span>只不过这些 prompt 不再靠你一轮一轮手动输入，而是被封装进命令、skill、hook、workflow、schedule 里。</span></p><p><span>以前你是人肉调度器。</span></p><p><span>你看 CI 挂了，复制日志，贴给 Claude。Claude 改了，你跑测试。测试又挂，你再贴错误。它又改，你再看 diff。最后你说，行了，提交。</span></p><p><span>这个过程里，Claude 只是在干活。</span></p><p><span>你在当胶水。</span></p><p><span>Loop Engineering 的变化是：把“胶水”写出来。</span></p><p><span>比如一个 PR babysitter loop 可以这样跑：</span></p><p><span>PR 一创建，loop 读取 diff、CI log、review comments 和项目规则。如果 CI 红了，它先定位失败原因，只做最小修复，然后跑相关测试。修完以后，另一个 reviewer agent 从安全、回归、可维护性角度审一遍。CI 绿了、评论清空了、没有新失败，它就停。遇到权限问题、需求争议、改动超过风险阈值，它就喊你。</span></p><p><span>这时候你确实没有每一步都 prompt Claude。</span></p><p><span>但你写了一个会替你 prompt Claude 的系统。</span></p><p><span>说白了，Prompt Engineering 是你会不会说话。Loop Engineering 是你会不会带队。</span></p><p><span>## 这不是玄学，产品已经长出来了</span></p><p><span>如果这只是社区发明的新词，那可以先放一边。</span></p><p><span>但问题是，工具已经在朝这个方向长。</span></p><p><span>Claude Code 官方文档里有 </span><code><span>/loop</span></code><span>。它可以在当前 session 里按间隔重复跑一个 prompt，用来轮询部署、照看 PR、检查长任务。你可以写 </span><code><span>/loop 5m check if the deployment finished</span></code><span>，也可以让 Claude 自己决定下一次什么时候检查。</span></p><p><span>还有 </span><code><span>/goal</span></code><span>。你给它一个完成条件，它会跨 turn 继续工作，直到一个小模型判断这个条件已经满足。注意这个设计很关键：干活的是一个模型，判断是否完成的是另一个模型。写作业的人不自己给自己判卷。</span></p><p><span>还有 hooks。比如 Stop hook 可以在 Claude 准备停下来的时候触发，检查它是不是漏了测试、是不是还有错误、是不是还需要继续。</span></p><p><span>再往上，是 Dynamic Workflows。Claude 可以为一个复杂任务写 workflow script，在隔离 runtime 里调度多个 subagents。中间结果不会全塞回主对话上下文，而是存在脚本变量里。这个东西已经不太像聊天了，更像一个临时工程调度器。</span></p><p><span>OpenAI 也把 Codex 的 agent loop 拆开讲过。agent 的底层循环其实很朴素：模型读 prompt，决定要不要调用工具，工具结果再回到上下文里，模型继续判断，直到它输出最终消息。</span></p><p><span>所以你要分清两层。</span></p><p><span>第一层，是 agent 自己内部的 loop：推理、工具调用、观察、再推理。</span></p><p><span>第二层，是你设计的工作 loop：什么时候让 agent 开始，怎么给它上下文，怎么限制权限，怎么复核，怎么记录状态，怎么停。</span></p><p><span>现在真正值钱的是第二层。</span></p><p><span>## 代码正在变便宜，判断正在变贵</span></p><p><span>为什么这个转向这么重要？</span></p><p><span>因为 AI coding 的瓶颈正在移动。</span></p><p><span>Anthropic 在《When AI builds itself》里提到，2026 年 5 月，Anthropic 合入代码中超过 80% 可归因于 Claude。典型工程师每天合入代码量大约是 2024 年的 8 倍。</span></p><p><span>这个数字你可以怀疑，可以打折，毕竟代码行数不是质量。</span></p><p><span>但方向很清楚：写代码这件事，正在变便宜。</span></p><p><span>真正变贵的是判断。</span></p><p><span>这个需求要不要做？这个错误是不是根因？这个测试绿了能不能代表没问题？这个 PR 看起来能跑，但三个月以后会不会把项目拖进泥坑？这个 agent 说它完成了，你信不信？</span></p><p><span>以前一个开发者的价值，很大一部分体现在“我能把代码写出来”。</span></p><p><span>现在这部分价值被模型疯狂挤压。</span></p><p><span>但另一些价值变得更重要：定义目标、拆任务、给边界、设计反馈、判断风险、验收结果。</span></p><p><span>你以为 AI 抢的是键盘，真相是它在逼你往上挪一层。</span></p><p><span>挪不上去的人，就会变成最尴尬的角色：代码不是你写的，系统你也不理解，出事还得你背锅。</span></p><p><span>这才是最扎心的地方。</span></p><p><span>## 一个好 loop 长什么样？</span></p><p><span>拿一个最普通的场景：每天早上检查项目健康度。</span></p><p><span>低级做法是写个定时 prompt：</span></p><p><span>“每天早上帮我检查项目有没有问题。”</span></p><p><span>听起来不错，实际很容易变成废话生成器。它每天扫一遍，说一些“建议优化测试覆盖率”“建议关注技术债”的正确废话。你看两天就烦了。</span></p><p><span>高级一点的 loop 会这样设计：</span></p><p><span>触发器：每天早上 9 点。</span></p><p><span>上下文：读取昨天的 commits、CI 失败记录、线上 error logs、未解决的 issue、最近合并的 PR。</span></p><p><span>规则：只读，不改文件；每个发现必须绑定证据；没有证据就不输出。</span></p><p><span>执行：把问题分成 bug risk、test gap、dependency risk、cleanup candidate。</span></p><p><span>检查：另一个 agent 反驳每个发现，问三个问题：证据够不够？是不是重复？是不是值得人类今天处理？</span></p><p><span>状态：把确认过的问题写入 </span><code><span>triage.md</span></code><span>，带上第一次发现时间、最近一次复现方式、建议 owner。</span></p><p><span>停止：如果没有高价值发现，只输出一行摘要，不要写小作文。</span></p><p><span>人工接管：凡是涉及架构方向、线上风险、用户数据、不可逆操作，一律只提建议，不执行。</span></p><p><span>这才是 loop。</span></p><p><span>它不是让 AI 更会“说”，而是让 AI 在一个有边界的轨道上持续“做”。</span></p><p><span>## Loop Engineering 的三个坑</span></p><p><span>第一个坑：没有停止条件。</span></p><p><span>很多人一听 loop 就兴奋，恨不得让 agent 一直跑。问题是，模型并不知道你的钱包在哪。它会很认真地跑偏，很认真地重试，很认真地把 token 烧成烟花。</span></p><p><span>一个没有预算上限、没有失败上限、没有停止条件的 loop，不是自动化，是事故预备役。</span></p><p><span>第二个坑：没有独立验证。</span></p><p><span>Claude 说“我已经完成了”，这句话不能当验收。</span></p><p><span>人都会高估自己刚写完的代码，模型更会。尤其是 agent 一路改下来，它的上下文里全是“我为什么这么做”的理由，它天然会替自己的路径辩护。</span></p><p><span>所以 maker 和 checker 必须分开。写的人负责写，查的人负责查。能用测试就用测试，能用浏览器断言就用浏览器断言，能用静态分析就用静态分析。LLM judge 可以用，但别把它当神谕。</span></p><p><span>第三个坑：理解债。</span></p><p><span>这也是最阴的坑。</span></p><p><span>loop 跑得越顺，你越容易不看。PR 自动开了，CI 自动修了，评论自动回了，文档自动改了。你一开始觉得爽，过一个月发现：项目每个地方都变了，但你不知道为什么。</span></p><p><span>这叫 comprehension debt。</span></p><p><span>技术债至少还在代码里，理解债在你脑子外面。它不报错，但它会让你在关键时刻失去判断力。</span></p><p><span>说白了，loop 可以替你干活，但不能替你理解。</span></p><p><span>你要是把理解也外包出去，那不是工程进化，那是认知投降。</span></p><p><span>## 普通开发者现在该怎么做？</span></p><p><span>别上来就搞全自动。</span></p><p><span>真的，别。</span></p><p><span>如果你现在还在学 Claude Code、Codex、Cursor，不要第一天就幻想“我写个 loop，睡一觉醒来产品上线”。</span></p><p><span>先从最无聊、最重复、最可验证的任务开始。</span></p><p><span>比如：</span></p><p><span>- 每天扫描 CI 失败，生成原因和建议，不自动改。</span></p><p><span>- 每次 PR 后检查有没有漏测试，不自动提交。</span></p><p><span>- 每周扫描依赖升级风险，输出清单。</span></p><p><span>- 每次大改前，让 reviewer agent 反驳方案。</span></p><p><span>- 每次内容发布前，跑事实核验和风格检查。</span></p><p><span>第一阶段，只读不改。</span></p><p><span>第二阶段，小范围改。</span></p><p><span>第三阶段，才考虑自动开 PR。</span></p><p><span>这不是保守，这是工程常识。工具越强，越要先画边界。</span></p><p><span>你要练的不是“怎么让 AI 更听话”，而是“怎么让 AI 在你不盯着的时候也不乱来”。</span></p><p><span>## 最后说句扎心的</span></p><p><span>Loop Engineering 听起来很高级，但它不会自动让你变高级。</span></p><p><span>同一个 loop，放在两个人手里，结果可能完全相反。</span></p><p><span>一个人用它把重复劳动抽出去，把验证补上，把状态沉淀下来，让自己有时间思考更重要的问题。</span></p><p><span>另一个人用它逃避思考：需求不想清楚，边界不写明，验证不设计，出了结果也不看。最后他不是被 AI 替代，是先被自己的懒替代。</span></p><p><span>这就是 Boris 那句话真正刺人的地方。</span></p><p><span>“My job is to write loops”不是说工作变简单了。</span></p><p><span>它是在说，杠杆点变了。</span></p><p><span>以前你值钱，是因为你能亲手把代码写出来。</span></p><p><span>以后你值钱，是因为你能设计一个系统，让代码、检查、反馈、修复、记录持续发生，而且你还能判断这个系统什么时候对，什么时候错，什么时候该停。</span></p><p><span>Prompt 不是没用了。</span></p><p><span>只是单次 prompt 的时代正在过去。</span></p><p><span>真正的新工作，是把你的工程判断写进 loop 里。</span></p><p><span>你不会写 loop，就只能继续当人肉按钮。</span></p><p><span>你会写 loop，才开始像一个真正指挥 AI 工程队的人。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lvvbyyWyaZh-AtvmOZ1V58dmYBNp.m4a" length="12144996" type="audio/mp4"/>
+    <itunes:duration>00:12:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnDdAZp6vk_d69kY9rA5ps2-uw-S.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>jina-embeddings-v5-omni 多模态向量模型发布，搜索的地基正在变</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a041db6e1eb34a9394fb42c</link>
+    <guid isPermaLink="false">6a041db6e1eb34a9394fb42c</guid>
+    <pubDate>Wed, 13 May 2026 11:11:00 +0000</pubDate>
+    <description><![CDATA[<p><span>很多人看到 </span><code><span>jina-embeddings-v5-omni</span></code><span>，第一反应是：又一个模型发布，又一堆 benchmark，又一张性能图。</span></p><p><span>但真相是，这事儿最重要的地方，不是 Jina 又发了一个模型。</span></p><p><span>真正重要的是：搜索的地基正在变。</span></p><p><span>过去我们做知识库，默认材料是文字。Markdown、网页、文档、数据库字段，切块，向量化，塞进向量库，然后让大模型去问。看起来挺先进，实际很像只给 AI 装了一只耳朵。</span></p><p><span>它能读字。</span></p><p><span>但它看不见截图，听不懂录音，记不住视频里的画面，也搞不清 PDF 扫描页里那张关键表格。</span></p><p><span>你以为自己在做智能知识库。</span></p><p><span>但真相是，你只是给一堆干净文本做了索引。</span></p><p><span>现实世界哪有那么干净？</span></p><p><span>你的资料库里有截图、白板照片、录屏、会议音频、播客、设计图、PDF 扫描件、视频教程、产品演示、客户发来的图片。真正有价值的信息，经常就藏在这些“不像文档的文档”里。</span></p><p><span>这就是 </span><code><span>jina-embeddings-v5-omni</span></code><span> 值得聊的原因。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lh1PXZNBSIqqJroWp4oaiLYw-7fp.m4a" length="10781216" type="audio/mp4"/>
+    <itunes:duration>00:11:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Frs64YZ2VZ7LRAzrFgXTF2gurYlq.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>找不到未来方向，不是你废了，是你的雷达坏了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a0316b2e1eb34a93941c96e</link>
+    <guid isPermaLink="false">6a0316b2e1eb34a93941c96e</guid>
+    <pubDate>Tue, 12 May 2026 12:09:02 +0000</pubDate>
+    <description><![CDATA[<pre><code class="language-markdown"><span>很多人一到 30 岁左右，就开始问一个很沉重的问题：我未来到底该往哪走？是继续上班，还是做独立产品？是学 AI，还是转管理？是留在原行业，还是换个方向？是该稳定，还是该折腾？说实话，这个问题听起来很高级，但大多数人问错了。你以为未来方向是某一天突然想明白的。但真相是，方向不是靠空想选出来的，而是靠信息过滤、小实验、真实反馈，一点一点筛出来的。很多人不是没有方向。是雷达坏了。每天刷几百条信息，听十几个博主讲趋势，收藏一堆“未来十年最值得做的行业”，最后脑子里只有四个字：更加迷茫。这事儿非常经典。你以为自己在找答案，其实你在给焦虑喂饲料。</span></code></pre><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lvJ4-YHL5QHEVn3MKVgP1W7589LB.m4a" length="9971092" type="audio/mp4"/>
+    <itunes:duration>00:10:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoNRL5Gv4-uqmL7PF2QLW6jo0i6Q.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>痛点挖掘：用 AI 分析社交平台数据，精准定位下一个独立开发痛点</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69ef0a831d989496e79d8c77</link>
+    <guid isPermaLink="false">69ef0a831d989496e79d8c77</guid>
+    <pubDate>Mon, 27 Apr 2026 07:09:50 +0000</pubDate>
+    <description><![CDATA[<p><span>很多独立开发者死在同一个地方：不是不会写代码，不是没有执行力，也不是 UI 不够精致。</span></p><p><span>是从第一天开始，就把一个伪需求当成了人生使命。</span></p><p><span>你看，今天互联网上最廉价的东西是什么？idea。打开 X、Reddit、Product Hunt、各种独立开发社区，每天都有一堆人说“我发现一个机会”“我准备做一个 AI 工具”“我验证了一个需求”。听起来热血沸腾，像一群人在荒野里淘金。</span></p><p><span>但真相是，很多人根本不是在淘金，是在拿着金色油漆刷石头。</span></p><p><span>说白了，独立开发失败最残酷的一点是：你可以非常努力，非常自律，非常会写代码，然后把半年时间砸进一个没人愿意付钱的东西里。最后上线那天，Product Hunt 上 23 个赞，X 上 5 个转发，朋友说“挺好的”，然后就没然后了。</span></p><p><span>这不是执行力问题。这是痛点识别问题。</span></p><p><span>而 AI 分析社交平台数据，真正有价值的地方，不是帮你生成 100 个创业点子。那是最浅的一层。真正值钱的是：</span><strong><span>帮你把 95 个不值得做的东西先杀掉。</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lqtG6dlJaLHpmsNHk1zpKJQ3-_wp.m4a" length="8908632" type="audio/mp4"/>
+    <itunes:duration>00:09:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrDhC1RdRggbIjGJ8W1vERxxKVuY.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Code Mode：在 1000 个令牌内为智能体提供完整 API</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69999303de29766da9136ce9</link>
+    <guid isPermaLink="false">69999303de29766da9136ce9</guid>
+    <pubDate>Sat, 21 Feb 2026 11:14:03 +0000</pubDate>
+    <description><![CDATA[<p><span>Cloudflare 最近开源了一种名为“代码模式”，也就是 Code Mode 的全新 MCP 服务器。它干了一件打破行业思维定势的事：彻底改变 AI 智能体调用外部工具的方式，将原本需要耗费上百万 token 的 API 列表，压缩到了仅仅一千个 token 的固定体积。这就好比把一头大象装进冰箱，不仅成功了，而且无论这头大象未来长得多胖，它永远只占那么大点地方。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lhp76n7e1kcADA2No54fL_7CsyQG.m4a" length="10439080" type="audio/mp4"/>
+    <itunes:duration>00:10:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lu7cW-qjkFybLQni4v_6cB-6X7PJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>OpenClaw 从“周末黑客项目”到自主智能体范式转移的深度剖析</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/698c301f66e2c30377fc66d7</link>
+    <guid isPermaLink="false">698c301f66e2c30377fc66d7</guid>
+    <pubDate>Wed, 11 Feb 2026 10:30:22 +0000</pubDate>
+    <description><![CDATA[<p><span>想象一下，把你电脑的最高权限 —— 也就是 Root 密码，交给一个 AI，然后你去睡觉。第二天醒来，它可能帮你重构了整个代码库，也可能…… 彻底清空了你的硬盘。这就是 OpenClaw。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lkAh2s1CkZexkzMBctW_mBmFqiUp.m4a" length="4808936" type="audio/mp4"/>
+    <itunes:duration>00:04:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjWMtQuAlgy_rkHZUJ7dcyXIZwnJ.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>通才复兴时代，零散兴趣如何变事业</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6964ff6ec2a4d16ea78ad38d</link>
+    <guid isPermaLink="false">6964ff6ec2a4d16ea78ad38d</guid>
+    <pubDate>Mon, 12 Jan 2026 14:13:55 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客探讨了在后工业时代，通才如何通过整合多元兴趣来实现个人成功与主权。作者 Dan Koe 指出，传统的过度专业化已导致个体陷入平庸与依赖，而现代社会更奖励那些具备自我教育和自给自足能力的博学者。通过将个人兴趣转化为社交媒体上的独特内容，个体可以建立起难以被取代的个人品牌，并将知识转化为系统化的商业产品。这种从“机械化生存”向“数字文艺复兴”的转型，让好奇心成为了当今世界最具竞争力的核心优势。作者鼓励读者不再局限于单一领域，而是通过公开学习与跨界融合，在解决自身问题的同时创造商业价值。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lsKSSQeaxLl42-vIwu6EQHeU3Fbf.m4a" length="16777928" type="audio/mp4"/>
+    <itunes:duration>00:17:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft9RQRDEs7eJhQHYr-agSW1MM45l.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI Coding Agent 如何从考场走向实战？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/695ce927c1e012a7aba7cd5e</link>
+    <guid isPermaLink="false">695ce927c1e012a7aba7cd5e</guid>
+    <pubDate>Tue, 06 Jan 2026 11:03:20 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客介绍了 MiniMax-M2.1 模型在编程能力方面的重大突破，重点阐述了该模型如何超越传统的 SWE-Bench 评估标准。开发者通过构建覆盖十余种主流编程语言的大规模多语言训练系统，显著提升了模型在复杂企业级开发中的表现。除了修复漏洞，该模型在自动化测试生成、代码性能优化以及代码评审等多样化任务中也展现出卓越实力。为了确保在不同开发工具下的通用性，模型特别强化了长指令遵循和对各种智能体架构的适应能力。展望未来，研发团队计划通过强化学习规模化和构建编程世界模型，进一步优化开发者的交互体验与问题解决效率。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lv4wT43dcS90ajc-D1mBtYqoX-rW.m4a" length="17195257" type="audio/mp4"/>
+    <itunes:duration>00:17:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoVqQOlOUmnVKt4PPoXRoW5hkCpo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>月入 500 美元个人项目的成功秘诀</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/694ba5a7d996dd7bfdd99637</link>
+    <guid isPermaLink="false">694ba5a7d996dd7bfdd99637</guid>
+    <pubDate>Wed, 24 Dec 2025 08:38:13 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客汇总了 </span><strong><span>Hacker News</span></strong><span> 社区成员在 2025 年分享的各类</span><strong><span>副业项目</span></strong><span>及其盈利情况。文中展示了多元化的商业模式，涵盖了从</span><strong><span>在线传真服务</span></strong><span>和</span><strong><span>数据库客户端</span></strong><span>等实用工具，到</span><strong><span>线下美食俱乐部</span></strong><span>及</span><strong><span>手工定制唱片</span></strong><span>等创意产品。许多开发者分享了他们如何利用 </span><strong><span>AI 技术</span></strong><span>、</span><strong><span>SEO 优化</span></strong><span>或</span><strong><span>开源社区赞助</span></strong><span>来实现每月超过 500 美元的营收目标。除了成功的经验，讨论还涉及了</span><strong><span>获客挑战</span></strong><span>、</span><strong><span>定价策略</span></strong><span>以及平衡全职工作与个人项目之间的个人感悟。这组资料生动勾勒出当代独立开发者如何通过解决细分痛点，将</span><strong><span>技术热情</span></strong><span>转化为可持续的</span><strong><span>商业价值</span></strong><span>。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/616ce832bbbe908cc645b51f/lt5RRG4FtcDw5JBa94RexAGVHR9M.m4a" length="16563700" type="audio/mp4"/>
+    <itunes:duration>00:17:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnCZ4twA7WnhOYa0L1zGdFq9Vz8t.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

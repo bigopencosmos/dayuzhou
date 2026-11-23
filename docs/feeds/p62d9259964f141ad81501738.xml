@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>来去泉州</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/62d9259964f141ad81501738</link>
+  <description><![CDATA[《来去泉州》是小黄鱼播客制作出品的导览节目，采用「异步直播」的形式带领你深入逛泉州。
+
+本节目的最佳收听方式是在每集的开头来到指定地点，点击播放，跟着我们的讲解一边走一边看。如果你暂时没有机会亲临泉州，也可以边听边看我们提供的配套 PDF 文件，希望听过之后能燃起你走一趟泉州的兴趣。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:04:44 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p62d9259964f141ad81501738.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>wanying</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrgwtdwE14MASnAwUM-NzayQqK0J.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrgwtdwE14MASnAwUM-NzayQqK0J.jpg</url>
+    <title>来去泉州</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/62d9259964f141ad81501738</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

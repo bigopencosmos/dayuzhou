@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>JOOO</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64537e1694d78eb3f71091e6</link>
+  <description><![CDATA[Hola~大家好！这里是Jooo，一对发疯姐妹的限定电台！
+
+由Adriana和Willow两位精神状态游离在癫狂边缘的女性主持的胡侃电台，内容主打纯唠嗑无营养，擅长把高端话题聊成地摊文学，试图用垃圾话解构这个更垃圾的世界，在这里或许有你要的混沌快乐~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 08:04:25 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64537e1694d78eb3f71091e6.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Joooder</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82OGMwLWF1ZGlvZnJlZWhpZ2hxcHMvRUEvRDYvR01Db09TRUg1WjVDQUFHN0xRSUNOMlZKLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy82OGMwLWF1ZGlvZnJlZWhpZ2hxcHMvRUEvRDYvR01Db09TRUg1WjVDQUFHN0xRSUNOMlZKLmpwZWc=.jpeg</url>
+    <title>JOOO</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64537e1694d78eb3f71091e6</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

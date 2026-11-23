@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>与人对话</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/60d5f17f98598a52fb14f6be</link>
+  <description><![CDATA[【与人对话】是一档深度谈话栏目，每期深入一个人的生命故事，分享最真实的内在成长经历，探讨最本质的生命议题。
+
+希望在生命成长之路上，时常陪伴你。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 06:52:43 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p60d5f17f98598a52fb14f6be.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>颜晓静Athena</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83NDhkLWF1ZGlvZnJlZWhpZ2hxcHMvNEQvNTcvQ01Db09SOEVxN1BhQUFab1BnQy0zWExPLmpwZWc=.jpeg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy83NDhkLWF1ZGlvZnJlZWhpZ2hxcHMvNEQvNTcvQ01Db09SOEVxN1BhQUFab1BnQy0zWExPLmpwZWc=.jpeg</url>
+    <title>与人对话</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/60d5f17f98598a52fb14f6be</link>
+  </image>
+  <itunes:category text="Education"/>
+</channel>
+</rss>

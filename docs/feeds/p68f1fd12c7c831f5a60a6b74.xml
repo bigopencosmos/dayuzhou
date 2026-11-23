@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>刘擎·夜思</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/68f1fd12c7c831f5a60a6b74</link>
+  <description><![CDATA[刘擎教授全网唯一个人播客，由爱道思人文学社出品。每周四晚八点更新，不定期加更。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:26:35 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p68f1fd12c7c831f5a60a6b74.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>爱道思</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FiF23ifSyjTI8ULgj0OI_Dl9wZTy.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FiF23ifSyjTI8ULgj0OI_Dl9wZTy.png</url>
+    <title>刘擎·夜思</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/68f1fd12c7c831f5a60a6b74</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>

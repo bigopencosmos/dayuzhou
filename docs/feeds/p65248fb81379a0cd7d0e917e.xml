@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>若叔聊数据-数据分析</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65248fb81379a0cd7d0e917e</link>
+  <description><![CDATA[📊 数据手艺人若叔｜全网同名
+🌐 个人站：ruodream.com
+🧠 数据分析 · 商业判断 · AI工作流
+👔 前智库高级研究员｜管理咨询顾问｜大厂数据分析
+🌱 从真实工作现场出发，搭建可持续的个人工作系统]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:47:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65248fb81379a0cd7d0e917e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>若叔聊数据</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fu0YpNjYP7DIcPumy2p5OoGpSsNK.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fu0YpNjYP7DIcPumy2p5OoGpSsNK.jpg</url>
+    <title>若叔聊数据-数据分析</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65248fb81379a0cd7d0e917e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>订单做大了，平台赚到钱了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0148e06f7bbb70cd58c6c8</link>
+    <guid isPermaLink="false">6b0148e06f7bbb70cd58c6c8</guid>
+    <pubDate>Sat, 21 Nov 2026 07:32:38 +0000</pubDate>
+    <description><![CDATA[<p><span>预订额涨了，利润却没怎么动，该找酒店谈佣金吗？我用一笔跨月入住的酒店订单，把预收的房款、平台确认的收入和最后留下的钱分开看，再顺着这批订单查，哪一步才值得动。</span></p><p><span>#经营分析 #数据分析 #在线旅游 #酒店经营 #经营决策</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FlcVaVH7TwYb-4iEP0hHj9nq9yQV.m4a" length="3569427" type="audio/mp4"/>
+    <itunes:duration>00:03:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjK7jJiy7RPggtemBpccvC4ABnhP.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>有些经营方案，不用试就知道行不通</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6afae860fe62f8f52c4c13ed</link>
+    <guid isPermaLink="false">6afae860fe62f8f52c4c13ed</guid>
+    <pubDate>Mon, 16 Nov 2026 11:30:10 +0000</pubDate>
+    <description><![CDATA[<p><span>我用一个民宿降价的假设例子，算算补量需要跨过的门槛。需求可以试，但如果连可售容量都不够，方案就该先改。经营分析应该在讨论方案时就进场。</span></p><p><span>#经营分析 #数据分析 #经营决策 #定价策略 #商业判断</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/lmPxE97Te1R1iyF3iZ71ZPm5VX_A.m4a" length="4506735" type="audio/mp4"/>
+    <itunes:duration>00:04:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpHXrLey6E9YkcbFJeEbmuoHyU2l.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI按结果收费，结果谁说了算？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af4564b3caef3b52f5441d5</link>
+    <guid isPermaLink="false">6af4564b3caef3b52f5441d5</guid>
+    <pubDate>Wed, 11 Nov 2026 11:50:31 +0000</pubDate>
+    <description><![CDATA[<p><span>我用一组假设客服对话，对照 Intercom Fin 的公开计费规则：厂商净计四次，采购方却可能只认可两次。这期聊聊，每次收费对应的工作，和采购方想要的结果差在哪里。</span></p><p><span>#数据分析 #商业分析 #AI客服 #企业采购 #经营决策</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/Fp8gazgaQ4TRXit3yQPsnWZlQRvj.m4a" length="4166115" type="audio/mp4"/>
+    <itunes:duration>00:04:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkzqWeFmCEJ1dS0c93teLjXdUlrW.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>数据分析建议，难在做取舍</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aee8bb3b4a4e20202f603cc</link>
+    <guid isPermaLink="false">6aee8bb3b4a4e20202f603cc</guid>
+    <pubDate>Sat, 07 Nov 2026 02:25:33 +0000</pubDate>
+    <description><![CDATA[<p><span>我结合一份商品行动稿，聊聊分析怎样帮业务做取舍：先改哪些、保留什么，以及产能不够时哪些先不做。</span></p><p><span>#数据分析 #商业分析 #经营决策 #分析报告 #工作方法</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/Fo8o7T6kGwCJK7Dwt9x1I_rwowvE.m4a" length="3269947" type="audio/mp4"/>
+    <itunes:duration>00:03:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhlheYsGYODhqBZvcOAKfyCm1Rzf.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>用数据在变化中寻找经营突破口</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae81ac997726cd4675b5a34</link>
+    <guid isPermaLink="false">6ae81ac997726cd4675b5a34</guid>
+    <pubDate>Mon, 02 Nov 2026 05:23:15 +0000</pubDate>
+    <description><![CDATA[<p><span>我把一段境外住宿分销的定价工作展开讲：从查询多却没有成交，到资源变化后的收益缺口，每一步为什么尝试，反馈又怎样改变下一步。</span></p><p><span>#数据分析 #经营分析 #商业判断 #定价策略 #问题解决</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FuXXWPcVGO6IwCdUQH1Jy-cCEK-O.m4a" length="4045213" type="audio/mp4"/>
+    <itunes:duration>00:04:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkcZajHP8whYKZw1RZtItJD87nqx.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>广告展示少，我和AI怎么一步步查？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ae06e83c96c8942ec1309ac</link>
+    <guid isPermaLink="false">6ae06e83c96c8942ec1309ac</guid>
+    <pubDate>Tue, 27 Oct 2026 09:28:22 +0000</pubDate>
+    <description><![CDATA[<p><span>广告展示少，改配置以后却有好有坏。这期我把和AI一起分析、交给业务侧试验，再根据反馈选择下一步核查方向的经过展开讲。为什么试了几轮后，建议先停下更多调整，回头查同一款产品已有的异常？</span></p><p><span>#数据分析 #AI应用 #业务分析 #试验验证 #人机协同</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FnNnsSgnUxLAo50CBG-qKSAYLbLF.m4a" length="3763946" type="audio/mp4"/>
+    <itunes:duration>00:03:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ftas17meWjn-21vaxrrcdt_YpaB7.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI算营业额，怎么把同一笔钱加了几遍？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad9cd8ac96c8942ec109c0c</link>
+    <guid isPermaLink="false">6ad9cd8ac96c8942ec109c0c</guid>
+    <pubDate>Thu, 22 Oct 2026 08:47:49 +0000</pubDate>
+    <description><![CDATA[<p><span>有一次和AI分析成交额，汇总数比我已知的规模高出好几倍，后面的趋势和解释却已经出来了。回查以后，才弄清总额、渠道拆分和重复展示是怎样被一起加进去的。这期聊聊这次核对，也聊聊算账前为什么要先弄清业务口径。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FocMGlp3iKKmI9OjI9tehzJKzMO-.m4a" length="3184167" type="audio/mp4"/>
+    <itunes:duration>00:03:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FknDjF0ShtLFo_KcP0IVIEqcmp5D.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>让AI省点事，怎么越改越复杂？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ad32cdb641ef406308d000e</link>
+    <guid isPermaLink="false">6ad32cdb641ef406308d000e</guid>
+    <pubDate>Sat, 17 Oct 2026 08:08:39 +0000</pubDate>
+    <description><![CDATA[<p><span>我做经营分析时，只想省掉开机后手工运行命令的动作，后来却和AI一起，不断修另一套连接方案。最后我换回已经验证过的方式，把重复操作做成双击就能运行的小工具。这期聊聊：原本只是想方便一点，目标怎么变了，我又为什么决定停下另一条路。</span></p><p><span>#AI实践 #经营分析 #业务判断 #人机协作 #项目复盘</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/Fo67X8qILkFf_WbhMpJ_lo2OCAYU.m4a" length="3394048" type="audio/mp4"/>
+    <itunes:duration>00:03:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnMy24WmxG1IfU11NTE4qFxUew_G.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>老手十分钟就能做完，还要 AI 干什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6acc9a9de742e36efcc1c0ba</link>
+    <guid isPermaLink="false">6acc9a9de742e36efcc1c0ba</guid>
+    <pubDate>Mon, 12 Oct 2026 08:31:08 +0000</pubDate>
+    <description><![CDATA[<p><span>我和另一位伙伴加 AI，用两天做了一个采配助手。老手十分钟就能判断的事，为什么还值得做成工具？拿真实案例复核后，我们发现了一条已经确认、却会重复计算的规则。这期聊聊 AI 怎样帮助经验被记录和验证，以及现场的人仍要负责哪些判断。</span></p><p><span>#AI实践 #人机协作 #业务判断 #经验传递 #采配助手</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/Fg2Z2cbpk6c-_KPHbj6OHktUnKEy.m4a" length="3260813" type="audio/mp4"/>
+    <itunes:duration>00:03:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmNNmKdewAKLcUI6gjESG3ajAdEl.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI落实了意见，稿子却跑偏了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ac64bba195d838e2aee4763</link>
+    <guid isPermaLink="false">6ac64bba195d838e2aee4763</guid>
+    <pubDate>Wed, 07 Oct 2026 13:41:36 +0000</pubDate>
+    <description><![CDATA[<p><span>我用 AI 辅助做一份故宫观察手册，指出暑期广场人多，它把任务改成了观察人群。反馈落实了，孩子要做的事却偏了。这期我想聊聊，修订稿该怎样回到原来的使用问题，以及什么时候该舍掉一页。</span></p><p><span>#AI协作 #AI写作 #内容创作 #真实实践 #产品设计</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FiJ5b4ATh3wVLbnOTJHGD02sox7P.m4a" length="3335672" type="audio/mp4"/>
+    <itunes:duration>00:03:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fmbd7ldGTB6dDE6gNeBMRJglqKfD.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>企业有AI需求，就值得接吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6abf0b31e742e36efcbda252</link>
+    <guid isPermaLink="false">6abf0b31e742e36efcbda252</guid>
+    <pubDate>Fri, 02 Oct 2026 01:39:41 +0000</pubDate>
+    <description><![CDATA[<p><span>前阵子参加企业 AI 需求交流，数字人、内容工作流和制造业的需求听起来都不小，我却更想继续了解一个整理周报的小需求。这期我想聊聊：AI 能做出来以后，数据、流程、责任和工作量还得怎样谈清楚，双方才有条件合作。</span></p><p><span>#AI应用 #企业AI #AI工作流 #项目交付 #业务判断</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/Fhg1QXCabbZTgflxR3SxFrelm_RO.m4a" length="3351990" type="audio/mp4"/>
+    <itunes:duration>00:03:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqyGvce_aO7Kdp2z_axYou9zL1bF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>一次表格任务，怎么长成 AI 工作流</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab8f21ce742e36efcbbbdf7</link>
+    <guid isPermaLink="false">6ab8f21ce742e36efcbbbdf7</guid>
+    <pubDate>Sun, 27 Sep 2026 10:44:02 +0000</pubDate>
+    <description><![CDATA[<p><span>前段时间，我帮朋友处理一批要正式交付的表格。Codex 按代码填完，我又用 WorkBuddy 独立验收；验出来的问题，修完文件还得写回任务卡和 Skill。后来换了电脑、换了下一批文件，这套规则仍能接着用，也继续被修正。这期我想讲的，是这样一件具体的事，凭什么可以叫 AI 工作流。</span></p><p><span>#AI工作流 #人机协同 #表格处理 #独立验收 #真实工作</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/FoaVMZSNwm5f5yaxPrN2YQFI05Tl.m4a" length="3873210" type="audio/mp4"/>
+    <itunes:duration>00:03:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fvl0M00hZKz24qSYvAjvgyCJtfx9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>卸载WorkBuddy，我重新理解托付感</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ab33c3cf04646b3a955bdff</link>
+    <guid isPermaLink="false">6ab33c3cf04646b3a955bdff</guid>
+    <pubDate>Wed, 23 Sep 2026 02:41:53 +0000</pubDate>
+    <description><![CDATA[<p><span>最近我卸载了 WorkBuddy。不是因为它不会做事，而是两次真实任务让我发现：规则写在那里，不等于执行时真的生效；近 200 项检查全部通过，也不等于最想防住的事故已经被挡住。这期我想聊聊，为什么办公 Agent 真正值得竞争的，不只是功能多少，而是有多少事情我们已经敢完整交给它。</span><br><span>#AI工作流 #办公Agent #人机协同 #产品体验 #托付感</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/lhQe4YpQE6eIgwXH4JidkCfpp9it.m4a" length="4329858" type="audio/mp4"/>
+    <itunes:duration>00:04:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjhNtPLYp9xjwTUk-PUs1tpE-hT9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>数据分析里，什么才叫懂业务</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aacb2f79d326477816af18e</link>
+    <guid isPermaLink="false">6aacb2f79d326477816af18e</guid>
+    <pubDate>Fri, 18 Sep 2026 03:42:32 +0000</pubDate>
+    <description><![CDATA[<p><span>这期我想重新聊聊数据分析里一个很老的问题：什么才叫懂业务。行业知识和流程是起点，但真正落到一个判断上，还要看它服务什么行动、依赖哪些现实条件，以及最后由谁承担结果。</span></p><p><span>#数据分析 #业务判断 #AI应用 #经营分析 #独立顾问</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/liW7YsFA9VYoJcRk7i8a1kHI2RgN.m4a" length="4196544" type="audio/mp4"/>
+    <itunes:duration>00:04:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm2UHUKN5xkzKduIT4zX-hoAZ69g.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>AI来了，数据分析经验还值钱吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6aa51f8a492687f6aad8caa1</link>
+    <guid isPermaLink="false">6aa51f8a492687f6aad8caa1</guid>
+    <pubDate>Sat, 12 Sep 2026 09:47:56 +0000</pubDate>
+    <description><![CDATA[<p><span>这期我从武汉做项目时的一段广告数据分析讲起。AI 能把 SQL、拆指标和第一版解释做得更快，但面对陌生业务，经验真正留下来的，是知道证据够不够、该往前走还是继续查。</span><br><span>#数据分析 #AI数据分析 #业务判断 #职业经验 #人机协同</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65248fb81379a0cd7d0e917e/ludQwBZd8WzXue979Xo9ZGo9nkpB.m4a" length="5952844" type="audio/mp4"/>
+    <itunes:duration>00:06:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvcPiINOmg3sGW6R3FTW4xA_dq9i.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

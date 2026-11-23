@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>你好比特币</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65e0968a19c3a0760c05ba06</link>
+  <description><![CDATA[欢迎来到「你好比特币」，这是一档由两位从 2012 年就开始定投比特币的加密货币OG共同主持的加密货币播客节目。
+
+我们聊币圈的一切：项目分析、行业人物、突发新闻、链上热点……
+
+希望陪你在牛熊之间，看懂加密的真相。
+
+每天北京时间5点30分更新，欢迎订阅！]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 07:55:46 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/e3tu3tdmh6cc.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>呆呆Debbie</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg</url>
+    <title>你好比特币</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65e0968a19c3a0760c05ba06</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>USDT做公链Stable的真正目的是什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68b0210f5faf368659d9c9a7</link>
+    <guid isPermaLink="false">68b0210f5faf368659d9c9a7</guid>
+    <pubDate>Thu, 28 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>Tether 再次出手。</span></p><span></span><p><span>这一次，他们不是在发行一个新的代币，而是要用 Stable 公链 来重塑稳定币的使用方式。</span></p><span></span><p><span>在以太坊、Tron 等公链上，USDT 虽然流行，但高 Gas 费、交易延迟和复杂操作始终是阻碍它进入日常支付的最大障碍。</span></p><span></span><p><span>Stable 公链瞄准的，就是把这些痛点彻底解决——免 Gas 转账、亚秒级结算、无需繁琐操作，让 USDT 体验直逼支付宝、微信支付。</span></p><span></span><p><span>更重要的是，Tether 的野心远不止此。</span></p><span></span><p><span>在本期节目里，我们将深入解读：</span></p><span></span><ul><span>  </span><li><span>为什么 Tether 要在这个时间点推出 Stable 公链？</span></li><span>  </span><li><span>“免 Gas 转账”背后的真正战略意图</span></li><span>  </span><li><span>Tether 的“三步走”路线图，以及可能带来的市场冲击</span></li><span>  </span><li><span>这对稳定币格局和全球金融意味着什么？</span></li><span></span></ul><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lsGRqBADsBNesZ4UmoyShEzoP4J6.m4a" length="8340013" type="audio/mp4"/>
+    <itunes:duration>00:08:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>收益拆分的魔法：Pendle 到底牛在哪里？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68aebbd997178f08eee74ecf</link>
+    <guid isPermaLink="false">68aebbd997178f08eee74ecf</guid>
+    <pubDate>Wed, 27 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在 DeFi 世界里，Pendle 被不少人称为“最佳产品之一”。它能把任何生息资产拆分成“本金”和“收益”，让你既能锁定固定回报，又能押注未来收益，听起来就像金融魔法。</span></p><span></span><p><span>但问题是：</span></p><span></span><p><span>它真的能撑起百亿美元的 TVL 吗？</span></p><span></span><p><span>这种收益拆分机制，究竟是长期的金融创新，还是一时的叙事红利？</span></p><span></span><p><span>Pendle 会不会成为下一个 Curve，甚至是整个 DeFi 基础设施的新支柱？</span></p><span></span><p><span>本期节目，我们就来拆解 Pendle 的核心逻辑、增长秘密，以及潜在风险。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lgJUrSZGtaGQc_vjiTDakYFsinFm.m4a" length="8609632" type="audio/mp4"/>
+    <itunes:duration>00:08:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>比特币安全 + 以太坊兼容，稳定币专用链 Plasma能改变全球支付格局？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68adb808293471fed4969839</link>
+    <guid isPermaLink="false">68adb808293471fed4969839</guid>
+    <pubDate>Tue, 26 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>稳定币的基础设施，正在迎来一场激烈的变革。</span></p><span></span><p><span>Plasma——一条为稳定币量身打造的比特币侧链，号称“零费用、高吞吐量、EVM 兼容”，更得到了 Tether 与顶级风投的重注，XPL 公售甚至在 30 分钟内吸引了 10 亿美元。</span></p><span></span><p><span>它真的是稳定币的终极解决方案，还是资本的又一次狂欢？</span></p><span></span><p><span>Plasma 能否在以太坊、Tron 等巨头林立的市场中突围，成为全球支付与 DeFi 的新底层？</span></p><span></span><p><span>本期，我们将带你拆解这条链的技术架构、融资背景与潜在挑战，探讨它背后的野心与未来走向。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/loexINKnsW9Q7TY7uO8zMScHTFYe.m4a" length="8863866" type="audio/mp4"/>
+    <itunes:duration>00:09:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>如果人民币有了稳定币，全球金融格局会怎样？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68ac2be742cc2798e74f8834</link>
+    <guid isPermaLink="false">68ac2be742cc2798e74f8834</guid>
+    <pubDate>Mon, 25 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>中国或将迎来历史性转折点。</span></p><span></span><p><span>据路透社报道，中国正在考虑允许发行与人民币挂钩的稳定币，并选择香港作为试验场。若这一计划落地，将是自 2021 年大陆全面禁止加密交易以来，态度上的重大转变。</span></p><span></span><p><span>在本期节目中，我们将深入解析：</span></p><span></span><ul><span>  </span><li><span>为什么人民币稳定币可能成为人民币国际化的“加速器”？</span></li><span>  </span><li><span>它与数字人民币（e-CNY）会是竞争关系，还是内外呼应的“双引擎”？</span></li><span>  </span><li><span>对香港、全球投资者，以及美元稳定币的地位，会带来怎样的冲击？</span></li><span>  </span><li><span>更关键的是：人民币稳定币真的能撼动美元主导的格局吗？</span></li><span></span></ul><span></span><p><span>这不仅仅是加密市场的新动向，更可能是全球金融版图的一次重塑。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/ltAJn2zUeJqUrAqofn00FZq-Y99H.m4a" length="8452669" type="audio/mp4"/>
+    <itunes:duration>00:08:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>LetsBonk数据断崖下跌，是竞争加剧还是项目崩盘的前兆？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68ab256e42cc2798e72c1452</link>
+    <guid isPermaLink="false">68ab256e42cc2798e72c1452</guid>
+    <pubDate>Sun, 24 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在Solana链上的迷因币（memecoin）市场，曾一度风头无二的LetsBonk最近却出现了令人瞩目的数据断崖式下滑。是什么导致了这一变化？是竞争压力还是市场环境的变化？</span></p><span></span><p><span>本期节目，我们深入分析了LetsBonk从2025年7月的高峰到8月的急剧下滑背后的原因。以及尽管面临挑战，LetsBonk是否还能重生？</span></p><span></span><p><span>欢迎收听本期节目。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lriV8GYkEZp-3w7vZmIB7yAaGa1o.m4a" length="9506004" type="audio/mp4"/>
+    <itunes:duration>00:09:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>牛市如何逃顶？加密投资者必读</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a9d83742cc2798e70c87e6</link>
+    <guid isPermaLink="false">68a9d83742cc2798e70c87e6</guid>
+    <pubDate>Sat, 23 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>📈 牛市到顶了吗？要不要“逃顶”？这是无数加密投资者最焦虑的问题。</span></p><p><br><span>但顶级投资者的秘诀，往往不是预测顶部，而是长期持有优质资产，并知道什么时候才真正该卖。在本期节目中，我们将带你走出“逃顶焦虑”：</span></p><p><br><span>👉 为什么预测顶部往往让你错过最大涨幅？</span><br><span>👉 哪些才是真正理性的卖出信号？</span><br><span>👉 如何用“卖出清单”替代“逃顶直觉”？</span></p><p><strong><span>📝 本期相关链接：</span></strong></p><ul><li><p><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></p></li><li><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p></li></ul><p><strong><span>🙌🏻 来找我们：</span></strong></p><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lmOlJlIzMTzON2K8f6yl0PnIftBn.m4a" length="9336250" type="audio/mp4"/>
+    <itunes:duration>00:09:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>OKX突然销毁75%的OKB是怎么回事？背后的真相是？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a84a96293471fed4f347f1</link>
+    <guid isPermaLink="false">68a84a96293471fed4f347f1</guid>
+    <pubDate>Fri, 22 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>OKX 在8月突发大动作 —— 一次性销毁了近93%的OKB，将总量从3亿枚锐减到2100万，与比特币看齐。</span></p><span></span><p><span>这背后究竟是极致的通缩叙事，还是一次豪赌？</span></p><span></span><p><span>OKB价格一度飙升三倍，但市场的热潮能否持续？</span></p><span></span><p><strong><span>在本期节目里，我们将拆解这场史无前例的代币销毁行动：</span></strong></p><span></span><p><span>👉 为什么OKX要选择此时重塑经济模型？</span></p><span></span><p><span>👉 OKB会成为下一个“交易所币王”还是昙花一现？</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lpVCLQCmpIEUJ-qFwF7BtoP5l6ac.m4a" length="7779363" type="audio/mp4"/>
+    <itunes:duration>00:08:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Coinbase报告：山寨季即将来临？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a6f19942cc2798e7b64f8f</link>
+    <guid isPermaLink="false">68a6f19942cc2798e7b64f8f</guid>
+    <pubDate>Thu, 21 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>9月，山寨季真要来了？</span><br><span></span><br><span>Coinbase最新报告给出了令人兴奋的预测——但背后隐藏了哪些关键信号？为什么比特币的市场主导地位下降，山寨币市值突然飙升？以太坊又为何成为关键的推动力？</span></p><span></span><p><span>今天节目就来聊一聊。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lg9qh07-24Y1UcF4wjWe6zfoN9MQ.m4a" length="8803771" type="audio/mp4"/>
+    <itunes:duration>00:09:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>特朗普家的$WLFI即将开放交易，会成为下一个川普币吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a5ba8c293471fed49a2e6b</link>
+    <guid isPermaLink="false">68a5ba8c293471fed49a2e6b</guid>
+    <pubDate>Wed, 20 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>由特朗普家族支持的加密货币代币 $WLFI（World Liberty Financial）马上就要开放交易了。</span></p><span></span><p><span>尽管得到了强大的政治背景支持，$WLFI也面临不少风险，近期甚至有报道称，特朗普家族相关公司悄然减持了$WLFI的股份。</span></p><span></span><p><span>该不该买 $WLFI？在本期节目中，我们就来聊一聊。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><a href="https://www.xiaoyuzhoufm.com/episodes/68a4943f293471fed4729c1a" data-url="https://www.xiaoyuzhoufm.com/episodes/68a4943f293471fed4729c1a"><span>《暴涨又暴跌，特朗普家的$WLFI到底行不行？》</span></a></li><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/ljs70IUrmIC8Ne7PnCT4MeHSWIK4.m4a" length="10116994" type="audio/mp4"/>
+    <itunes:duration>00:10:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>暴涨又暴跌，特朗普家的$WLFI到底行不行？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a4943f293471fed4729c1a</link>
+    <guid isPermaLink="false">68a4943f293471fed4729c1a</guid>
+    <pubDate>Tue, 19 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>WLFI（World Liberty Financial）</span></strong><span>，由</span><strong><span>特朗普家族</span></strong><span>支持的加密货币代币。背后不仅有强大的政治资源，更有着一个雄心勃勃的使命：通过DeFi与美元稳定币，推动金融自由和美国优先。</span></p><span></span><p><span>但是，这个代币是否能真正实现它的承诺？从代币价格的剧烈波动，到监管的不确定性，WLFI的未来充满悬念。它能否突破市场和政治争议，实现长足发展？</span></p><span></span><p><span>本期节目，我们就来聊一聊。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lm0bYdfGA3Y-QNGDwIIWZCmh6dk5.m4a" length="9550332" type="audio/mp4"/>
+    <itunes:duration>00:09:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>9万亿美元退休金买比特币，是牛市最大催化剂吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a3099c42cc2798e72c1e08</link>
+    <guid isPermaLink="false">68a3099c42cc2798e72c1e08</guid>
+    <pubDate>Mon, 18 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>将加密货币纳入美国 </span><strong><span>401(k)退休金计划</span></strong><span>，到底意味着什么？</span></p><span></span><p><span>在本期节目里，我们从两个角度来解析：</span><br><span>👉 </span><strong><span>对币圈</span></strong><span>：影响在哪里？会是牛市催化剂吗？</span><br><span>👉 </span><strong><span>对传统投资者</span></strong><span>：这里面有什么机遇？</span></p><span></span><p><span>401(k)与加密结合，会成为行业真正的“范式转变”，还是一场新的风险考验？来听本期节目。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lvhFAcs3cI4FW6FeVkraBoj5phmM.m4a" length="6794384" type="audio/mp4"/>
+    <itunes:duration>00:07:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>波场 TRON 为什么要上市？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a1b81f293471fed40a6f22</link>
+    <guid isPermaLink="false">68a1b81f293471fed40a6f22</guid>
+    <pubDate>Sun, 17 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>波场 TRON 在纳斯达克上市，引发了加密圈和传统金融市场的双重关注。</span></p><span></span><p><span>对整个加密行业而言，上市意味着什么？而对 TRON 自身，又有什么意义？本期节目，我们就来聊聊 TRON 上市背后的逻辑与深远影响。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lqSuaS6_JwF6ktVrUYo6R2yZeMTJ.m4a" length="8388443" type="audio/mp4"/>
+    <itunes:duration>00:08:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Gamefi 赛道到底还有戏吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68a06b9f293471fed4eb94e9</link>
+    <guid isPermaLink="false">68a06b9f293471fed4eb94e9</guid>
+    <pubDate>Sat, 16 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>🎮 GameFi 还能行吗？经历泡沫破裂后，2024 年它重新复苏：活跃钱包突破 740 万，融资额达 6.5 亿美元。NFT 带来真正的资产所有权，Play-to-Earn 吸引了新兴市场玩家，赛道潜力巨大。</span></p><span></span><p><span>但经济模型脆弱、游戏性不足、用户流失快、监管和安全风险也不容忽视。未来 GameFi 能否走得远？ 今天这期节目就来聊一聊。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lrtzpXA9k9QGVm9-Yyrn-cC0oee4.m4a" length="9154506" type="audio/mp4"/>
+    <itunes:duration>00:09:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>一打仗，币就跌？国际冲突是不是利空？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/689a1baf032793b18ae38c9b</link>
+    <guid isPermaLink="false">689a1baf032793b18ae38c9b</guid>
+    <pubDate>Mon, 11 Aug 2025 21:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在本期《你好比特币》节目中，我们讨论了国际冲突对币圈的影响，以及投资者如何应对当前的市场波动。</span></p><span></span><p><span>🎧 </span><strong><span>本期亮点</span></strong></p><span></span><ul><span>  </span><li><span>比特币和以太坊为何在战争爆发后大幅下跌？</span></li><span>  </span><li><span>加密货币能否成为真正的避险资产？</span></li><span>  </span><li><span>如何在市场动荡中做好长期价值投资？</span></li><span>  </span><li><span>投资者应如何应对战争带来的市场波动？</span></li><span></span></ul><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🐼主播：</span></strong></p><span></span><p><span>Allen 最懂环球旅行的前英文教师</span></p><span></span><p><span>Tbag &nbsp;比较懂区块链投资的程序员</span></p><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/liI0njVOmz7YnzqUzPsDXoUITF7p.m4a" length="16796030" type="audio/mp4"/>
+    <itunes:duration>00:17:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>以太坊还能涨多久？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68973960032793b18a893e0e</link>
+    <guid isPermaLink="false">68973960032793b18a893e0e</guid>
+    <pubDate>Sat, 09 Aug 2025 12:07:41 +0000</pubDate>
+    <description><![CDATA[<p><span>2025年8月8日，以太坊涨到4000美元，突破全年新高，随后持续上涨到4194美元。沉寂这么久，以太坊为什么突然爆发？这波上涨已经到头，还是会继续突破？</span></p><span></span><p><span>今天我们来分析一下最近的以太坊。</span></p><span></span><p><strong><span>📝 本期相关链接：</span></strong></p><span></span><ul><span>  </span><li><span>你可能感兴趣：</span><a href="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb" data-url="https://www.xiaoyuzhoufm.com/episode/65e15f536144a933b1d8aedb"><span>《 40分钟轻松听完比特币白皮书》</span></a></li><span>  </span><li><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></li><span></span></ul><span></span><p><strong><span>🙌🏻 来找我们：</span></strong></p><span></span><p><span>X｜Twitter：</span><a href="https://x.com/Web3Englishh" data-url="https://x.com/Web3Englishh"><span>你好比特币</span></a></p><span></span><p><span>听友群：</span><a href="https://t.me/hibitcoinnn" data-url="https://t.me/hibitcoinnn"><span>你好比特币听友群</span></a></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e0968a19c3a0760c05ba06/lop7BNCMZZVbb002I4gNwoZZVMWj.m4a" length="9851111" type="audio/mp4"/>
+    <itunes:duration>00:10:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FouU9xqCtOsq13dOlJTNhnSchmPk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
