@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>日语小剧场</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65f56c6a6764957079ab5694</link>
+  <description><![CDATA[暂时停更]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:34:36 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65f56c6a6764957079ab5694.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>游戏和书</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/lvjhk_MAuEF-egYZUzYjcPrRXI7S.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/lvjhk_MAuEF-egYZUzYjcPrRXI7S.png</url>
+    <title>日语小剧场</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65f56c6a6764957079ab5694</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>白飯</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66193b595dae7932c61c260a</link>
+    <guid isPermaLink="false">66193b595dae7932c61c260a</guid>
+    <pubDate>Fri, 12 Apr 2024 13:47:05 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lk6nvMPQaKwAyyfKYcwsNFlVjn4h.m4a" length="38157148" type="audio/mp4"/>
+    <itunes:duration>00:39:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lvjhk_MAuEF-egYZUzYjcPrRXI7S.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>被老师叫到办公室</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f579256764957079accb4e</link>
+    <guid isPermaLink="false">65f579256764957079accb4e</guid>
+    <pubDate>Sat, 16 Mar 2024 10:49:09 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lsm7EnxlZcwzKxbG7XOQMmuKsYb6.m4a" length="8253281" type="audio/mp4"/>
+    <itunes:duration>00:04:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>关羽和张飞</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f578ee696bd9a87989e2a6</link>
+    <guid isPermaLink="false">65f578ee696bd9a87989e2a6</guid>
+    <pubDate>Sat, 16 Mar 2024 10:48:14 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lndSFQFyziT3MYuk2IHdbx1VHjE7.m4a" length="8793044" type="audio/mp4"/>
+    <itunes:duration>00:04:33</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>赏樱大会的坐席</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f578d0696bd9a87989dfd7</link>
+    <guid isPermaLink="false">65f578d0696bd9a87989dfd7</guid>
+    <pubDate>Sat, 16 Mar 2024 10:47:44 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lsFYUADUBuk6lxKUoQ0D8lHVyOGL.m4a" length="9597722" type="audio/mp4"/>
+    <itunes:duration>00:04:58</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>第一次发送 FAX</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f578b5696bd9a87989de34</link>
+    <guid isPermaLink="false">65f578b5696bd9a87989de34</guid>
+    <pubDate>Sat, 16 Mar 2024 10:47:16 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lpvQByZWL3VdsOAjnYRvVdym9zCD.m4a" length="8274089" type="audio/mp4"/>
+    <itunes:duration>00:04:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>不让回家的夜 1</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f5789c6764957079acba3b</link>
+    <guid isPermaLink="false">65f5789c6764957079acba3b</guid>
+    <pubDate>Sat, 16 Mar 2024 10:46:52 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/loaCsi7klnshiAV0t4HC2GuD7Dj1.m4a" length="7899635" type="audio/mp4"/>
+    <itunes:duration>00:04:05</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>不让回家的夜 3</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f578826764957079acb83f</link>
+    <guid isPermaLink="false">65f578826764957079acb83f</guid>
+    <pubDate>Sat, 16 Mar 2024 10:46:26 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/liFNp9NS4JykCPmYgkB1BvHOJnky.m4a" length="8244512" type="audio/mp4"/>
+    <itunes:duration>00:04:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>会社说明会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f5785f6764957079acb30b</link>
+    <guid isPermaLink="false">65f5785f6764957079acb30b</guid>
+    <pubDate>Sat, 16 Mar 2024 10:45:51 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/loB6uuSbnE8WSAEd3N3ngKDadmx2.m4a" length="9131845" type="audio/mp4"/>
+    <itunes:duration>00:04:43</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>不让回家的夜 2</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65f5714c6764957079abe5f7</link>
+    <guid isPermaLink="false">65f5714c6764957079abe5f7</guid>
+    <pubDate>Sat, 16 Mar 2024 10:15:39 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lq_chdusH-LyNT5qZ9WwFN57V9yX.m4a" length="8249787" type="audio/mp4"/>
+    <itunes:duration>00:04:16</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z0ajlFM29FUXRydlMwTmItREFUb05KSkRTSFkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
