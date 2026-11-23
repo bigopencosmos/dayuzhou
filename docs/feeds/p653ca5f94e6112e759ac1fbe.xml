@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>在原的频道</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/653ca5f94e6112e759ac1fbe</link>
+  <description><![CDATA[南京人文自由行之友，活动群助手：ristenwechat（不分大小写）]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:57:14 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p653ca5f94e6112e759ac1fbe.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>在原旅游研究者</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FjNFERW2CCrY11a1IY-VUur8qkQO.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FjNFERW2CCrY11a1IY-VUur8qkQO.jpg</url>
+    <title>在原的频道</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/653ca5f94e6112e759ac1fbe</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>为什么一定要去南京旅游？（杂谈）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/654e3df0c9e7cfe0257d4ab1</link>
+    <guid isPermaLink="false">654e3df0c9e7cfe0257d4ab1</guid>
+    <pubDate>Fri, 10 Nov 2023 14:27:58 +0000</pubDate>
+    <description><![CDATA[<p><span>简述旅行南京的亮点：山景突出、融入山水、见证明清以来中国大历史</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lodZPvd7x8eDdgsn7vjuN1Tfeea6.m4a" length="5513471" type="audio/mp4"/>
+    <itunes:duration>00:05:40</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWXFBNldLY1QtTXdiUTRmb2MtaS1JT0JqSVkucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>清凉山、乌龙潭，千年来南京秋游必至之所（漫步谈序2）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6543ead32e4c3cf8653c3b58</link>
+    <guid isPermaLink="false">6543ead32e4c3cf8653c3b58</guid>
+    <pubDate>Thu, 02 Nov 2023 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>乌龙潭、清凉山区域不大，但可以说是见证南京城市历史演进的活化石，是南京最重要的“文脉”之一。南京，不仅是古都，更是中国唯一坐落在江南的全国性政权都城，襟江而环山。在高架桥和铁路建设之前，生活在南京，意味着家在水边，面水背山。即使放眼全球各大都会，也很少有哪座城市的山与水，在城市的空间限定、日常生活的时间感知、文化认知方面，起着像南京这样重要的作用。&nbsp;</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljoOwfflTWMlpupWmq3SRQN2TMsK.m4a" length="7306766" type="audio/mp4"/>
+    <itunes:duration>00:07:31</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZybDJWenRzS3oybV9lakxlLXczcmhrYnc2Ml8ucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>一边读李清照、一边游南京城（漫步谈序1）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/653ca7912d3520c14f93dc57</link>
+    <guid isPermaLink="false">653ca7912d3520c14f93dc57</guid>
+    <pubDate>Sat, 28 Oct 2023 06:17:51 +0000</pubDate>
+    <description><![CDATA[<p><span>今日的南京，是一处能走进李清照内心世界的极佳现场。李清照亲笔写下“人老建康城（今江苏南京）”，记录着她南下后经历的人生史上最无常且难忘的一页。在南京城市现场，把李清照与南京城放在一起共同考察，正是一种极好地借助体会李清照亲眼所见之南宋建康、以进入李清照之生活世界的难得机会。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lji1_luwlrb1rgInzmEfbAQY3qrK.m4a" length="13244047" type="audio/mp4"/>
+    <itunes:duration>00:13:38</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoNW9ZaXhzdS1HemdNZzRIQ25xcm5LM1hhT2IucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>新个体时代</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66965f9b8fcadceb90bc8299</link>
+  <description><![CDATA[探索不打工也能挣钱的方式。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:57:14 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66965f9b8fcadceb90bc8299.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>秋白_9WbX</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FgiynEek95PirvP483a6ZA-ixQN1"/>
+  <image>
+    <url>https://image.xyzcdn.net/FgiynEek95PirvP483a6ZA-ixQN1</url>
+    <title>新个体时代</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66965f9b8fcadceb90bc8299</link>
+  </image>
+  <itunes:category text="Business"/>
+  <item>
+    <title>现在AI绘画都发展到哪一步了？普通人还有哪些变现机会？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a67e4a7349f7a55725b77d</link>
+    <guid isPermaLink="false">66a67e4a7349f7a55725b77d</guid>
+    <pubDate>Sun, 28 Jul 2024 17:22:17 +0000</pubDate>
+    <description><![CDATA[<p><span>AI技术每隔一年都会有天翻地覆的革新，从2022年开始的画风抽象，到23年的已经可以精细化操控出图质量，那么截止到24年7月的当下，AI技术在图像领域里有怎么样的新发展？本期内容就来带你聊聊AI图像领域中，现在的发展状况，主流应用名称以及对于普通人来讲，还存在的可以变现赚钱的机会。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ltpskQ7pDRfVsqQSXp98DaEtWqAq.m4a" length="17854277" type="audio/mp4"/>
+    <itunes:duration>00:18:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvSLVNqwOppWmXJAB2nDIFL54PnN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>光靠写作就能挣钱？聊聊那些只需写作就能挣钱的副业！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/669d1fa837236c546eb3e184</link>
+    <guid isPermaLink="false">669d1fa837236c546eb3e184</guid>
+    <pubDate>Sun, 21 Jul 2024 14:48:07 +0000</pubDate>
+    <description><![CDATA[<p><span>很多人都梦想过上只带一个笔记本电脑，就能浪迹天涯，线上写稿赚钱的生活方式。那么，关于写作变现，你真的了解它的变现方式吗？</span></p><span></span><p><span>本期视频就来带你一起探讨，只需在互联网上写作，就能不上班也能挣钱的方式。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrN4DEaJ2ydr3vJ4xZwrVc51gasr.m4a" length="18951149" type="audio/mp4"/>
+    <itunes:duration>00:19:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjZy-WD3we7ibDNlY45o0AOrA09t.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>自媒体是个好生意吗？为什么人人都想做自媒体？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6696613037236c546e8f93cc</link>
+    <guid isPermaLink="false">6696613037236c546e8f93cc</guid>
+    <pubDate>Tue, 16 Jul 2024 12:01:51 +0000</pubDate>
+    <description><![CDATA[<p><span>【复杂事情简单聊】栏目第一期，我们聚焦“自媒体创业是不是一个好生意”这个话题，来谈谈做自媒体的收入模式，自媒体未来的发展趋势以及一些注意事项。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj4-jIXE7wkqT11uViOivGELf4MW.m4a" length="21962951" type="audio/mp4"/>
+    <itunes:duration>00:22:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgNAt_5LFPBkXa0V2DKzHnxjcvwM.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
