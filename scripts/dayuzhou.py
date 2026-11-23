@@ -24,6 +24,7 @@ import argparse
 import concurrent.futures
 import datetime as dt
 import gzip
+import glob
 import json
 import os
 import re
@@ -1137,6 +1138,9 @@ def main():
     ap.add_argument("--rate", type=float, default=12, help="对小宇宙的全局请求速率（次/秒，默认 12）")
     ap.add_argument("--strict", action="store_true", help="Apple 规范有硬性错误时不写文件")
     ap.add_argument("--dry-run", action="store_true", help="不写文件")
+    ap.add_argument("--slice", metavar="I/N", help="只处理第 I 份（共 N 份），如 2/5；用于分批提交")
+    ap.add_argument("--index-only", action="store_true",
+                    help="不抓取，只根据 docs/feeds 下已有的 XML 和配置重建索引页")
     args = ap.parse_args()
     LIMITER.set_rate(args.rate)
 
@@ -1161,12 +1165,48 @@ def main():
     if not podcasts:
         ap.error("没有要处理的播客：检查 config/podcasts.json")
 
+    # --slice I/N：只处理第 I 份，配合工作流分批提交，最坏只丢一个批次
+    if args.slice:
+        m = re.fullmatch(r"(\d+)\s*/\s*(\d+)", args.slice.strip())
+        if not m or not (1 <= int(m.group(1)) <= int(m.group(2))) or int(m.group(2)) < 1:
+            ap.error(f"--slice 格式应为 I/N 且 1<=I<=N，收到 {args.slice!r}")
+        i, n = int(m.group(1)), int(m.group(2))
+        podcasts = podcasts[i - 1::n]
+        log(f"切片 {i}/{n}：本批 {len(podcasts)} 个")
+
     # GitHub Actions 里能直接推出 Pages 地址，省掉手填 base_url
     if not args.base_url:
         repo = os.environ.get("GITHUB_REPOSITORY", "")
         if "/" in repo:
             owner, name = repo.split("/", 1)
             args.base_url = f"https://{owner.lower()}.github.io/{name}"
+
+    # --index-only：扫描已有 feed 重建索引，不访问网络
+    if args.index_only:
+        by_slug = {p["slug"]: p for p in podcasts}
+        results = []
+        for path in sorted(glob.glob(os.path.join(args.out, "feeds", "*.xml"))):
+            slug = os.path.basename(path)[:-4]
+            cfg = by_slug.get(slug)
+            if not cfg:
+                continue
+            try:
+                eps = read_feed(path)
+            except Exception as e:
+                warn(f"! 旧 RSS 损坏，跳过：{slug}（{e}）")
+                continue
+            if not eps:
+                continue
+            results.append({
+                "slug": slug, "pid": cfg["pid"], "title": cfg.get("title") or "",
+                "author": cfg.get("author") or "", "image": eps[0].get("image") or "",
+                "count": len(eps), "added": 0, "skipped": 0,
+                "latest": eps[0].get("pub_date"), "feed": f"feeds/{slug}.xml",
+                "hosting": cfg.get("hosting") or "xyzfm", "apple_ok": True,
+            })
+        write_index(args.out, results, args.base_url)
+        log(f"索引重建完成：{len(results)} 个 feed")
+        return
 
     cred = Credential.load(args)
     log(f"dayuzhou · {len(podcasts)} 个播客 · 回填策略 {args.backfill}"
