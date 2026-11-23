@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>奇奇怪怪</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65d4f9f635dd8780ed0208fa</link>
+  <description><![CDATA[世界奇奇怪怪，你可可爱爱。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:41:09 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65d4f9f635dd8780ed0208fa.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>老李和北瓜</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzM5MTgzOTg1LzM5MTgzOTg1LTE2OTU5MjM3OTU0MzMtM2VlYjQ5OTc0NjA4Mi5qcGc=.jpg"/>
+  <image>
+    <url>https://bts-image.xyzcdn.net/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzM5MTgzOTg1LzM5MTgzOTg1LTE2OTU5MjM3OTU0MzMtM2VlYjQ5OTc0NjA4Mi5qcGc=.jpg</url>
+    <title>奇奇怪怪</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65d4f9f635dd8780ed0208fa</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Vol. 08 你是疯儿我是傻 | 聊聊职场大奇葩</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6ade4423ee6aa6df9805ca78</link>
+    <guid isPermaLink="false">6ade4423ee6aa6df9805ca78</guid>
+    <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>工作多年，谁还没有一些压箱底的奇葩故事捏~</span></p><p><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lmudD9tKJ5lLFezyy8XGydDbNV4M.mp3" length="147032378" type="audio/mpeg"/>
+    <itunes:duration>01:42:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.07 无何有之乡 | 聊聊生死吧</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/687bc09ec596672715c92f65</link>
+    <guid isPermaLink="false">687bc09ec596672715c92f65</guid>
+    <pubDate>Sat, 19 Jul 2025 14:55:58 +0000</pubDate>
+    <description><![CDATA[<li><p><span>让我们坦然聊聊死亡，看看我们终将归去的地方。</span></p><p><br></p><p><span>“方生方死，方死方生” —— 《庄子·齐物论》</span></p></li><li><p><span>“死亡是人生最重要的时刻，是我们在一生中准备的一切的总和。” ——《西藏生死书》</span></p><p><br></p><p><em><span>*本期背景音极其丰富，全部归功于老李的狗——毛栗小姐。</span></em></p></li>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lmO9OkQtj7CLNQAEt0r8Gsqq39fY.mp3" length="58088565" type="audio/mpeg"/>
+    <itunes:duration>00:40:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.06 行万里路如读万卷书 | 书店三楼自有黄金屋</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/681b986de29814cf20f9f2ac</link>
+    <guid isPermaLink="false">681b986de29814cf20f9f2ac</guid>
+    <pubDate>Wed, 07 May 2025 15:39:48 +0000</pubDate>
+    <description><![CDATA[<p><span>行万里路如读万卷书</span></p><p><span>无论什么书，必然开卷有益</span></p><p><span>且听一个矮恩踢勾(INTJ)的日本印象</span></p><p><span>和一个小蝴蝶(INFP)对旅行的爱</span></p><p><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/llR6pY48GiRT2f8uYzosUC_kZKjS.mp3" length="69184779" type="audio/mpeg"/>
+    <itunes:duration>00:48:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.02 万物皆可月饼｜唠唠中秋</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65d4f9f635dd8780ed0208fd</link>
+    <guid isPermaLink="false">65d4f9f635dd8780ed0208fd</guid>
+    <pubDate>Thu, 10 Apr 2025 17:47:15 +0000</pubDate>
+    <description><![CDATA[<p><span>主播虽然在经历地理隔离，也挡不住在月亮的召唤下隔空喊话，毕竟—月饼，是宇宙的。</span></p><p><span>祝大家节日快乐，长长久久。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lizb91_n7jkesFIFbEFFUBgjsO13.mp4" length="36252106" type="audio/mp4"/>
+    <itunes:duration>00:37:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.05 是铁叶也是小梅 | 新年观影感受</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6775ec3a996fe41f79ee8e5f</link>
+    <guid isPermaLink="false">6775ec3a996fe41f79ee8e5f</guid>
+    <pubDate>Thu, 02 Jan 2025 00:12:01 +0000</pubDate>
+    <description><![CDATA[<p><span>看见铁梅也看见小叶，再见爱人也再见2024。</span></p><span></span><p><span>看见成长也看见连接，看见无奈也看见变革。</span></p><span></span><p><span>看见你，看见我。</span></p><span></span><p><span>愿大家在崭新的2025里高能量，低内耗！</span></p><span></span><p><span>PS: 铁叶和小梅是老李的无数次口误，虽然没有剪进节目里，但已经深深地扎根在了每一位嘉宾的心里。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lsFG8POIXYnql_lZ-NdGNhCiJygd.mp3" length="104748472" type="audio/mpeg"/>
+    <itunes:duration>01:12:44</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.04 是白月光也是朱砂痣 | 那些年打过的游戏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66ad4abfc8295bd9026db6ff</link>
+    <guid isPermaLink="false">66ad4abfc8295bd9026db6ff</guid>
+    <pubDate>Fri, 02 Aug 2024 19:47:08 +0000</pubDate>
+    <description><![CDATA[<p><span>小时候的游戏带来快乐，长大了回想除了快乐还有很多不一样的东西。</span></p><span></span><p><span>游戏世界体验虚拟人生，人生亦如大型沉浸式游戏。</span></p><span></span><p><span>愿大家都在这场地球online里，洒脱快乐！</span></p><span></span><p><em><span>PS: 听说现在名儿都是越长越好所以本期名字比较长。</span></em></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/li5c3WG9PR7peWCZ9G7bUuPXbQq6.mp3" length="88526438" type="audio/mpeg"/>
+    <itunes:duration>01:01:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FkdGjX_ad2iTBCmq-E4yS8U-V9a-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.03 工伤也要继续前行 | 再见爱人别再见好吗</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65d51b4b11dfd51b29429483</link>
+    <guid isPermaLink="false">65d51b4b11dfd51b29429483</guid>
+    <pubDate>Tue, 20 Feb 2024 19:52:25 +0000</pubDate>
+    <description><![CDATA[<p><span>好久不见，龙年快乐！大过年的，聊点儿drama。</span></p><span></span><p><span>聊聊过期网红《再见爱人3》：</span></p><span></span><p><span>| 为什么看这工伤节目？</span></p><span></span><p><span>| 三个形容词</span></p><span></span><p><span>| 乳腺结节谁给报销</span></p><span></span><p><span>| 可曾有那么一丝儿感动</span></p><span></span><p><span>| 名场面之：张硕道歉，老刘送沙，老纪暴起，张硕自嗨</span></p><span></span><p><span>| “会而不做” vs. “不会”</span></p><span></span><p><span>| 没头脑 vs. 不高兴</span></p><span></span><p><span>| 玻璃渣里捡糖吃</span></p><span></span><p><span>| 观察室里的匪夷所思</span></p><span></span><p><span>| 如果再见，希望看见谁？</span></p><span></span><p><span>| 如果去孤岛，跟谁同去？</span></p><span></span><p><span>| 冰冻时刻</span></p><span></span><p><span>本期彩蛋：有一声猫叫。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lulgF5xWoyCm8lQ-bLaZwoxHt_hn.mp4a" length="46664801" type="audio/mpeg"/>
+    <itunes:duration>00:48:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/FquB6xPwE3kspJCS3Ynzwu4pFAmW.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.01 算了蒜了涮了？｜多村火锅事件</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65d4f9f635dd8780ed0208fe</link>
+    <guid isPermaLink="false">65d4f9f635dd8780ed0208fe</guid>
+    <pubDate>Thu, 28 Sep 2023 17:56:44 +0000</pubDate>
+    <description><![CDATA[<p><span>“那就涮了吧，再爱也肉尽菜散了。 那就分手吧，毕竟你都没有小米辣。”</span></p><span></span><p><span>- 致某火锅店</span></p><span></span><p><span>话说，加拿大国东部多村的西部有一嘎吱嘎吱的老房子，里面有间奇怪的火锅店，古往今来（的十几年）要么令众生爱得死去活来，要么恨得咬牙切齿。最近就莫名其妙碰了个大钉子，不但硌牙，还跟钉子户叽里呱啦杠上了。钉子长？还是钉子户长？不，火腿长。</span></p><span></span><p><span>主持人：老李+北瓜=叽里（李）呱（瓜）啦</span></p><span></span><p><span>世界奇奇怪怪，也可可爱爱。</span></p><span></span><p><span>音频导出遇到令人头秃的问题，音质还请多包涵。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65d4f9f635dd8780ed0208fa/lnuxu6AiqCE-gUMWzFtdZRL5Mnr2.mp4a" length="34287164" type="audio/mpeg"/>
+    <itunes:duration>00:35:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/65d4f9f635dd8780ed0208fa/Ftr30gzuegdiCHgIGUnmR6QRyhc9.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

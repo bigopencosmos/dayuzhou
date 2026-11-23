@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>BalkTalk棒球</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/67b21074675981bb825a7c57</link>
+  <description><![CDATA[我们是一档聊天类的棒球播客栏目，Brian 和 Harrison 致力于每周更新美职棒大联盟的新鲜事，分享个人观点与交流。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:41:06 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/fdgd3qu7ryct.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Balk_Talk</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg</url>
+    <title>BalkTalk棒球</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/67b21074675981bb825a7c57</link>
+  </image>
+  <itunes:category text="Sports"/>
+  <item>
+    <title>Balk Talk | EP8: MLB 美职棒东京赛 20250324</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67e03b1478103db3bd67a168</link>
+    <guid isPermaLink="false">67e03b1478103db3bd67a168</guid>
+    <pubDate>Sun, 23 Mar 2025 18:54:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 回顾及复盘刚结束的 MLB 东京赛：对阵日职棒热身赛 <a class="timestamp" data-timestamp="50">00:50</a> ，道奇 vs 小熊正赛 <a class="timestamp" data-timestamp="1070">17:50</a></span></p><span></span><p><span>同时也会更新纽约洋基队的伤病情况 <a class="timestamp" data-timestamp="2940">49:00</a> ，以及波士顿红袜队的困局 <a class="timestamp" data-timestamp="3560">59:20</a></span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lh-YER3okmJ88iGau3xUJ973ndcm.m4a" length="64591546" type="audio/mp4"/>
+    <itunes:duration>01:06:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP7：大联盟新赛季个人奖项预测（三）—— 球棒不会说谎 20250315</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67d595aee924d4525ad87c19</link>
+    <guid isPermaLink="false">67d595aee924d4525ad87c19</guid>
+    <pubDate>Sat, 15 Mar 2025 15:50:54 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 将对新赛季 MLB 银棒奖（Silver Slugger）奖项进行预测</span></p><span></span><p><span><a class="timestamp" data-timestamp="54">00:54</a> 指定打击 (大谷翔平)，<a class="timestamp" data-timestamp="283">04:43</a> 捕手，<a class="timestamp" data-timestamp="549">09:09</a> 一垒，<a class="timestamp" data-timestamp="994">16:34</a> 二垒 ，<a class="timestamp" data-timestamp="1160">19:20</a> 三垒，<a class="timestamp" data-timestamp="1289">21:29</a> 游击，<a class="timestamp" data-timestamp="1614">26:54</a> 外野，<a class="timestamp" data-timestamp="1934">32:14</a> 工具人</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lgB_EFfhMhlHUzbFn826arL9-9zP.m4a" length="40022718" type="audio/mp4"/>
+    <itunes:duration>00:41:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP6: 美职棒大联盟新赛季个人奖项预测（二）—— 我的手套是纯金的 20250309</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67cc8c94e924d4525a3b3367</link>
+    <guid isPermaLink="false">67cc8c94e924d4525a3b3367</guid>
+    <pubDate>Sun, 09 Mar 2025 02:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 将对新赛季 MLB 金手套（Gold Glove）奖项进行预测</span></p><span></span><p><span><a class="timestamp" data-timestamp="57">00:57</a> Harrison 科普衡量野手守备的高阶数据（DRS、OAA、FRV）以及科普金手套奖项评选细则</span></p><span></span><p><span><a class="timestamp" data-timestamp="330">05:30</a> 新赛季金手套预测：<a class="timestamp" data-timestamp="333">05:33</a> 投手，<a class="timestamp" data-timestamp="585">09:45</a> 捕手，<a class="timestamp" data-timestamp="858">14:18</a> 一垒手，<a class="timestamp" data-timestamp="1128">18:48</a> 二垒手，<a class="timestamp" data-timestamp="1252">20:52</a> 三垒手，<a class="timestamp" data-timestamp="1449">24:09</a> 游击手，<a class="timestamp" data-timestamp="1715">28:35</a> 左外野手，<a class="timestamp" data-timestamp="1869">31:09</a> 中外野手，<a class="timestamp" data-timestamp="2041">34:01</a> 右外野手，<a class="timestamp" data-timestamp="2280">38:00</a> 工具人</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lpOfR9_FZKp2vdxTg28D4UTKfAhq.m4a" length="39570937" type="audio/mp4"/>
+    <itunes:duration>00:40:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP5：美职棒大联盟新赛季个人奖项预测 (一) —— 你的手肘是否还在隐隐作痛？20250228</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67c0b09a05a90dfd0d5256b2</link>
+    <guid isPermaLink="false">67c0b09a05a90dfd0d5256b2</guid>
+    <pubDate>Fri, 28 Feb 2025 11:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 将对新赛季 MLB 个人奖项进行预测，包括：赛季MVP、赛扬奖、最佳新秀、最佳教练、以及两位主持人认为的东山再起球员。两位主持人将在节目中分享个人的预测及观点。</span></p><span></span><p><span><a class="timestamp" data-timestamp="54">00:00:54</a> Brian 科普美职棒大联盟 MVP 奖的历史</span></p><span></span><p><span><a class="timestamp" data-timestamp="379">00:06:19</a> 国联 MVP 预测：<a class="timestamp" data-timestamp="381">00:06:21</a> 大谷翔平，<a class="timestamp" data-timestamp="656">00:10:56</a> Juan Soto（胡安·索托）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1108">00:18:28</a> 美联 MVP 预测：<a class="timestamp" data-timestamp="1119">00:18:39</a> Mike Trout（麦克·特劳特），<a class="timestamp" data-timestamp="1414">00:23:34</a> Corey Seager（科里·西格）</span></p><span></span><p><span><a class="timestamp" data-timestamp="1680">00:28:00</a> 国联赛扬奖预测：<a class="timestamp" data-timestamp="1682">00:28:02</a> Paul Skenes（保罗·斯金斯），<a class="timestamp" data-timestamp="1991">00:33:11</a> Zack Wheeler（扎克·惠勒）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2253">00:37:33</a> 美联赛扬奖预测：<a class="timestamp" data-timestamp="2255">00:37:35</a> Garrett Crochet（加雷特·克罗歇），<a class="timestamp" data-timestamp="2393">00:39:53</a> Cole Ragans（科尔·雷根斯）</span></p><span></span><p><span><a class="timestamp" data-timestamp="2596">00:43:16</a> 最佳新秀预测：国联：Matt Shaw，Dylan Crews；美联：Jason Dominguez，Jackson Jobe</span></p><span></span><p><span><a class="timestamp" data-timestamp="3123">00:52:03</a> 最佳教练预测：国联：Terry Francona，Craig Counsell；美联：Mark Kotsay，AJ Hinch</span></p><span></span><p><span><a class="timestamp" data-timestamp="3715">01:01:55</a> 东山再起球员 Brian：Mike Trout，Ryan Pressly，Sandy Alcantara</span></p><span></span><p><span><a class="timestamp" data-timestamp="3948">01:05:48</a> 东山再起球员 Harrison：Corey Seager，Cody Bellinger，Sonny Gray</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lnz5LFDV4SKyohHodGvJxv2yLnZ1.m4a" length="69250402" type="audio/mp4"/>
+    <itunes:duration>01:11:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fnc5hPYM93VECqTi6f-QuQwYwpbI.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP4：畅想新赛季美职棒大联盟（美联篇）20250222</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b846a605a90dfd0df33c29</link>
+    <guid isPermaLink="false">67b846a605a90dfd0df33c29</guid>
+    <pubDate>Sun, 23 Feb 2025 09:53:49 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 将对新赛季 MLB 美联球队进行预测，按照分区的顺序依次介绍每个球队的情况以及两位主持人的个人观点。</span></p><span></span><p><span>一、<a class="timestamp" data-timestamp="31">00:31</a> 美联东区： 豪强林立，谁主沉浮；</span></p><span></span><p><span><a class="timestamp" data-timestamp="120">02:00</a> 纽约洋基，<a class="timestamp" data-timestamp="702">11:42</a> 波士顿红袜，<a class="timestamp" data-timestamp="1380">23:00</a> 巴尔的摩金莺，<a class="timestamp" data-timestamp="1808">30:08</a> 多伦多蓝鸟，<a class="timestamp" data-timestamp="2140">35:40</a> 坦帕湾光芒；</span></p><span></span><p><span>二、<a class="timestamp" data-timestamp="2321">38:41</a> 美联中区：小本经营，无谓强权；</span></p><span></span><p><span><a class="timestamp" data-timestamp="2340">39:00</a> 克里夫兰守护者，<a class="timestamp" data-timestamp="2740">45:40</a> 堪萨斯城皇家，<a class="timestamp" data-timestamp="3265">54:25</a> 底特律老虎，<a class="timestamp" data-timestamp="3650">60:50</a> 明尼苏达双城，<a class="timestamp" data-timestamp="3850">64:10</a> 芝加哥白袜；</span></p><span></span><p><span>三、<a class="timestamp" data-timestamp="3978">66:18</a> 美联西区：惊喜球队大猜想；</span></p><span></span><p><span><a class="timestamp" data-timestamp="3990">66:30</a> 德州游骑兵，<a class="timestamp" data-timestamp="4460">74:20</a> 西雅图水手，<a class="timestamp" data-timestamp="4920">82:00</a> 休斯敦太空人，<a class="timestamp" data-timestamp="5140">85:40</a> 洛杉矶天使，<a class="timestamp" data-timestamp="5580">93:00</a> 运动家；</span></p><span></span><p><span>四、<a class="timestamp" data-timestamp="6011">100:11</a> 新赛季季后赛席位预测</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lhMLXCavvtOy01_wa4pR9DgctkLH.m4a" length="99366106" type="audio/mp4"/>
+    <itunes:duration>01:42:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP3：畅想新赛季美职棒大联盟（国联篇）20250215</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b84635606e5c5940eff33f</link>
+    <guid isPermaLink="false">67b84635606e5c5940eff33f</guid>
+    <pubDate>Fri, 21 Feb 2025 11:35:30 +0000</pubDate>
+    <description><![CDATA[<p><span>本集内容 Brian 和 Harrison 将对新赛季 MLB 国联球队进行预测，按照分区的顺序依次介绍每个球队的情况以及两位主持人的个人观点。</span></p><span></span><p><span>一、<a class="timestamp" data-timestamp="29">00:29</a> 国联东区：炮声隆隆，谁能扛到十月？</span></p><span></span><p><span><a class="timestamp" data-timestamp="55">00:55</a> 纽约大都会，<a class="timestamp" data-timestamp="280">04:40</a> 亚特兰大勇士，<a class="timestamp" data-timestamp="562">09:22</a> 费城费城人，<a class="timestamp" data-timestamp="1220">20:20</a> 迈阿密马林鱼，<a class="timestamp" data-timestamp="1280">21:20</a> 华盛顿国民</span></p><span></span><p><span>二、<a class="timestamp" data-timestamp="1323">22:03</a> 国联中区：豪门没落，新星崛起</span></p><span></span><p><span><a class="timestamp" data-timestamp="1430">23:50</a> 辛辛那提红人，<a class="timestamp" data-timestamp="1592">26:32</a> 芝加哥小熊，<a class="timestamp" data-timestamp="1985">33:05</a> 密尔沃基酿酒人，<a class="timestamp" data-timestamp="2300">38:20</a> 匹斯堡海盗，<a class="timestamp" data-timestamp="2445">40:45</a> 圣路易斯红雀</span></p><span></span><p><span>三、<a class="timestamp" data-timestamp="2720">45:20</a> 国联西区：谁能在新邪恶帝国的阴影下脱身？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2790">46:30</a> 亚利桑那响尾蛇，<a class="timestamp" data-timestamp="2960">49:20</a> 洛杉矶道奇，<a class="timestamp" data-timestamp="3467">57:47</a> 圣地亚哥教士，<a class="timestamp" data-timestamp="3655">60:55</a> 旧金山巨人，<a class="timestamp" data-timestamp="3800">63:20</a> 科罗拉多洛基</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lgl6FKwOdvgEmdEzb7Hxtq-Y4biK.m4a" length="64058285" type="audio/mp4"/>
+    <itunes:duration>01:06:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm5P4TX-O9Lc_zoo23mtzJF4-76T.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP2: 从佐佐木到伯恩斯——自由市场的博弈与球队的未来 20250208</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b2137f606e5c5940da22d4</link>
+    <guid isPermaLink="false">67b2137f606e5c5940da22d4</guid>
+    <pubDate>Wed, 19 Feb 2025 04:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期内容主要讨论美职棒大联盟投手球员的签约情况，从佐佐木朗希到 Blake Snell，从 Max Fried 到 Corbin Burnes 来进行探讨自由市场的博弈与球队的未来</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lsv-mhSojjo6iCBjKzxtNlgdiNIi.m4a" length="35202149" type="audio/mp4"/>
+    <itunes:duration>00:36:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg7DGB2UwC35Twg_8e3IQ9k12FIy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Balk Talk | EP1: 北极熊和Bregman将何去何从? 20250202</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67b212e8606e5c5940da14ac</link>
+    <guid isPermaLink="false">67b212e8606e5c5940da14ac</guid>
+    <pubDate>Sun, 16 Feb 2025 22:39:35 +0000</pubDate>
+    <description><![CDATA[<p><span>本期内容专注于美职棒大联盟自由市场明星野手签约情况，聚焦分享 Juan Soto、Pete Alonso、以及 Alex Bregman 的签约情况</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67b21074675981bb825a7c57/lmn9IR-ijox5tUkRHNkJP5T_V1GE.m4a" length="23575653" type="audio/mp4"/>
+    <itunes:duration>00:24:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg7DGB2UwC35Twg_8e3IQ9k12FIy.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
