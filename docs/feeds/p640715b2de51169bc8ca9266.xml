@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>栖息少年</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/640715b2de51169bc8ca9266</link>
+  <description><![CDATA[症状之外是一档从青少年休学现象出发的播客。
+
+我们邀请青少年休学亲历者、家长与相关工作者进行叙述与对谈，试图重新理解“症状”在家庭、教育与社会结构中的意义，并把个体经验重新带回公共讨论之中，而不止停留在标签与诊断之内。
+
+在这里，我们不只讨论“症状”，也尝试看见症状之外的故事、人，以及Ta们所处的关系和世界。
+
+*症状之外由煦禾教育发起。煦禾教育是一家由休学亲历者发起并参与、长期深度投入青少年休学支持的草根实践组织，8年来持续在家庭、学校与个体之间开展支持工作。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:51:48 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p640715b2de51169bc8ca9266.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>陈此时</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FoAxFsnJwV8YAspoxlXg-GQ2WGDB.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FoAxFsnJwV8YAspoxlXg-GQ2WGDB.png</url>
+    <title>栖息少年</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/640715b2de51169bc8ca9266</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>
