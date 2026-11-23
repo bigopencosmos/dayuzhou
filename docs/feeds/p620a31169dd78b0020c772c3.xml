@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>只聊三分</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/620a31169dd78b0020c772c3</link>
+  <description><![CDATA[平时上班工作压力太大了听个三分电台轻松一下！
+三分电台是一档轻松聊天的节目，我们录制更轻松的内容话题，深度只聊三分，轻松愉悦的氛围占七分。
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:04:58 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p620a31169dd78b0020c772c3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>郎祺</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fora83rLZkx1ZpUT9MnCN-kJXyGC.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fora83rLZkx1ZpUT9MnCN-kJXyGC.jpg</url>
+    <title>只聊三分</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/620a31169dd78b0020c772c3</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Vol.06 没有什么事可以卡住我，我的执行力很强说不干就不干</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666c0978b6a8412729bf5ffb</link>
+    <guid isPermaLink="false">666c0978b6a8412729bf5ffb</guid>
+    <pubDate>Fri, 14 Jun 2024 09:12:23 +0000</pubDate>
+    <description><![CDATA[<p><span>本次邀请了三葱耀晖一起来聊聊关于我们生活工作中总会被各种各样的事情卡主，他们到底是什么原因被卡主的？大家一起来听听吧？</span></p><span></span><p><span><a class="timestamp" data-timestamp="18">00:18</a> &nbsp;&nbsp;三葱的专场写到哪里？</span></p><span></span><p><span><a class="timestamp" data-timestamp="659">10:59</a> &nbsp;&nbsp;&nbsp;干一分钟活，休息半小时</span></p><span></span><p><span><a class="timestamp" data-timestamp="912">15:12</a> &nbsp;&nbsp;&nbsp;&nbsp;喜剧永远奔流向前</span></p><span></span><p><span><a class="timestamp" data-timestamp="1170">19:30</a> &nbsp;&nbsp;&nbsp;耀晖：我们要不要去改变</span></p><span></span><p><span><a class="timestamp" data-timestamp="2205">36:45</a> &nbsp;&nbsp;&nbsp;我是一个很内耗的人</span></p><span></span><p><span><a class="timestamp" data-timestamp="2686">44:46</a> &nbsp;&nbsp;&nbsp;三葱耀晖下一步的专场计划</span></p><span></span><p><span><a class="timestamp" data-timestamp="3228">53:48</a> &nbsp;人生还得要留痕</span></p><span></span><p><span><a class="timestamp" data-timestamp="3442">57:22</a> &nbsp;希望这世界上的理想都能满足大家的生活。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/luZsyaLG4ium53x6WSPS_wnTExaI.m4a" length="59916349" type="audio/mp4"/>
+    <itunes:duration>00:59:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlVn0tThkoFQMG9BhuuJOIS_2mEo.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Vol.05请你不要随地大小爹</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/663c7141f3517e63e4a12553</link>
+    <guid isPermaLink="false">663c7141f3517e63e4a12553</guid>
+    <pubDate>Thu, 09 May 2024 06:46:24 +0000</pubDate>
+    <description><![CDATA[<p><span>生活处处都有爹（味）</span></p><span></span><p><span>面对随时随地要“爹”我们的人我们要大声地和他说一声“请你不要随地大小爹”</span></p><span></span><p><span>今天我和雨涵一起来聊聊爹味。你有我们这样的爹味瞬间吗？欢迎和你和我们一起评论区讨论</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lr7LL0sZEYbr-BJIGcv8bTxGGyO-.m4a" length="153572460" type="audio/mp4"/>
+    <itunes:duration>01:19:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FruB0OeA7_lSCDaHoqsE-nr2m30M.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>优势聊天室</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66850cd153526fced0415e59</link>
+  <description><![CDATA[MindfulWander 游心苑：优势发展、心智成长和成人纵向发展、设计工作与人生、团队教练、高管人格测评教练]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:05:06 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66850cd153526fced0415e59.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Errie</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg</url>
+    <title>优势聊天室</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66850cd153526fced0415e59</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>4. 优势有好坏吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668560fa0bc5d7cc7099dd44</link>
+    <guid isPermaLink="false">668560fa0bc5d7cc7099dd44</guid>
+    <pubDate>Wed, 03 Jul 2024 14:32:26 +0000</pubDate>
+    <description><![CDATA[<p><span>“优势发展”的小大之辩</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lqnfte9swqy5mQXvCkdu0vICvF7r.m4a" length="11243368" type="audio/mp4"/>
+    <itunes:duration>00:06:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg"/>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>3. 什么是优势？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66855ae10bc5d7cc7097f5c7</link>
+    <guid isPermaLink="false">66855ae10bc5d7cc7097f5c7</guid>
+    <pubDate>Wed, 03 Jul 2024 14:06:25 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/liCGcBysGP3RQg7RvRrVlNOtmwlX.m4a" length="7636227" type="audio/mp4"/>
+    <itunes:duration>00:04:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2. 为什么“优势发展”很重要？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668556df0bc5d7cc7096df0e</link>
+    <guid isPermaLink="false">668556df0bc5d7cc7096df0e</guid>
+    <pubDate>Wed, 03 Jul 2024 13:49:19 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lhefres748aLQj4QA55NFY4tK_Aj.m4a" length="9170638" type="audio/mp4"/>
+    <itunes:duration>00:05:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>1. 优势发展</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66854f71e387115434d70640</link>
+    <guid isPermaLink="false">66854f71e387115434d70640</guid>
+    <pubDate>Wed, 03 Jul 2024 13:17:37 +0000</pubDate>
+    <description><![CDATA[<p><span>职业成长和优势发展</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FtA2wuE7Jms1XEClcJsHWEyzaGrz.m4a" length="4029143" type="audio/mp4"/>
+    <itunes:duration>00:02:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlbHFbWBo9TJcdsgcaGcM8d_rH97.jpg"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

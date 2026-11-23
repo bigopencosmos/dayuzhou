@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>山民智酷</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6710a902d92d4c40a2602ea3</link>
+  <description><![CDATA[计划通过对山民（以雨林原住民为主）的系列对谈，共同面对当代难题，以多学科视角来关注和探讨，搜集记录即将面临失传的技艺、地方知识和文化，为更进一步的研学课程和创作积累前期调研资料。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:05:03 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6710a902d92d4c40a2602ea3.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>纳加西拉</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FuDOF1tsTK5BXtMMpZO2Vgir1rSk.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FuDOF1tsTK5BXtMMpZO2Vgir1rSk.jpg</url>
+    <title>山民智酷</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6710a902d92d4c40a2602ea3</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>黎族老船长聊山猪药</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6723284233c798676f5ca088</link>
+    <guid isPermaLink="false">6723284233c798676f5ca088</guid>
+    <pubDate>Thu, 31 Oct 2024 06:56:46 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/luSK0-kpQ4pCvw35s_nkTQS7NeQv.m4a" length="62416852" type="audio/mp4"/>
+    <itunes:duration>00:43:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrEABIvYNUBezVPI1K2FMECNFkPS.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>与王进民聊黎族的山林生活和歌谣</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67110b650d2f24f289e01144</link>
+    <guid isPermaLink="false">67110b650d2f24f289e01144</guid>
+    <pubDate>Thu, 17 Oct 2024 13:04:37 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lskgzYue3nr0mBOhNrOOPhSsRm3M.m4a" length="55063816" type="audio/mp4"/>
+    <itunes:duration>01:15:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuDOF1tsTK5BXtMMpZO2Vgir1rSk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>老刘和吉木和西西和小龙聊山里的生活vs城里打工人的生活</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67110b3e0d2f24f289e004c7</link>
+    <guid isPermaLink="false">67110b3e0d2f24f289e004c7</guid>
+    <pubDate>Thu, 17 Oct 2024 13:03:58 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lok0CRCeH3LwNfy7acomfs9w7VHo.m4a" length="40709619" type="audio/mp4"/>
+    <itunes:duration>01:21:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuDOF1tsTK5BXtMMpZO2Vgir1rSk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>老刘和吉木和vita和小龙的山民智酷第一期录音</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67110b19db2cf82757fb5fa8</link>
+    <guid isPermaLink="false">67110b19db2cf82757fb5fa8</guid>
+    <pubDate>Thu, 17 Oct 2024 13:03:21 +0000</pubDate>
+    <description><![CDATA[<p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkHjTul6Nt9VzbZsJ8AUwRBBaU2w.m4a" length="37532396" type="audio/mp4"/>
+    <itunes:duration>01:15:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuDOF1tsTK5BXtMMpZO2Vgir1rSk.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
