@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/64098ebe092eb63cb030d073</link>
   <description><![CDATA[《体坛周报》出品的一档足球圆桌类节目。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:16:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 10:54:06 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/pwyjx9v6bwkj.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>eno_stepback</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/64098ebe092eb63cb030d073</link>
   </image>
   <itunes:category text="Sports"/>
+  <item>
+    <title>曼彻斯特天灰灰，小鹿心碎慕尼黑</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0411f601b0ab432edca0fa</link>
+    <guid isPermaLink="false">6b0411f601b0ab432edca0fa</guid>
+    <pubDate>Mon, 23 Nov 2026 10:26:47 +0000</pubDate>
+    <description><![CDATA[<p><span>主持人：王浩飏</span></p><p><span>嘉宾：骆明 林良锋</span></p><p><span><a class="timestamp" data-timestamp="45">0:45</a> 波帅开门黑曼联9轮不胜，曼彻斯特的天空是灰色的</span></p><p><span><a class="timestamp" data-timestamp="2369">39:29</a> 拜仁前场集体受伤变瑞士人，高层公开谈论穆夏拉是否不妥？</span></p><p><span><a class="timestamp" data-timestamp="4428">1:13:48</a> 巴萨让二追三逆转黄潜，费尔明抗议裁判染红</span></p><p><span><a class="timestamp" data-timestamp="5258">1:27:38</a> 拉齐奥状态火热，意甲大比分频现</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64098ebe092eb63cb030d073/lnPO2vyjcNIXrT-Ks6CHruAsaNmf.m4a" length="89963924" type="audio/mp4"/>
+    <itunes:duration>01:32:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg3jdCQZ5KH97McTXdHOwzLJkgQ7.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>阿根廷10号非帕斯莫属，英格兰德国迎新生之战！</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afd6357fe62f8f52c4d1330</link>
