@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>秘密营地</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64ab7a0e1c2273f82901ac3a</link>
+  <description><![CDATA[三个好基友的闲聊记录]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:43:08 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64ab7a0e1c2273f82901ac3a.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>嵩美设计</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FlQD2C0lmA4OD7Gy7GUDgcXKmyhc.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FlQD2C0lmA4OD7Gy7GUDgcXKmyhc.jpg</url>
+    <title>秘密营地</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64ab7a0e1c2273f82901ac3a</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>028.打开我们的玩具箱</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a65c3a7a3fec224d5a37f23</link>
+    <guid isPermaLink="false">6a65c3a7a3fec224d5a37f23</guid>
+    <pubDate>Sun, 26 Jul 2026 08:33:20 +0000</pubDate>
+    <description><![CDATA[<p><span>玩具对于我们的成长很重要，这期我们要回忆一下我们的这些老朋友</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lh-Y8lXBKcyMIl_Ebrl5sxp5CIta.m4a" length="126325177" type="audio/mp4"/>
+    <itunes:duration>02:10:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsDD25NGMmPMhqXxn-jCUKUPG3H1.jpg"/>
+    <itunes:episode>28</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>027.一个喷嚏干死外星人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a315a2143a22a695584e42f</link>
+    <guid isPermaLink="false">6a315a2143a22a695584e42f</guid>
+    <pubDate>Tue, 16 Jun 2026 14:23:34 +0000</pubDate>
+    <description><![CDATA[<p><span>外星人来了怎么办？裴导：“一个喷嚏干死它”。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lg1BVXxZnOC3LdPobgEaXi1ahVC8.m4a" length="95983735" type="audio/mp4"/>
+    <itunes:duration>01:38:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuSlCr_2vsyrzCMgHTHWkW3zUYRt.jpg"/>
+    <itunes:episode>27</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>026.中登也有梦想</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a12ce248b5c94538ea09bc5</link>
+    <guid isPermaLink="false">6a12ce248b5c94538ea09bc5</guid>
+    <pubDate>Sun, 24 May 2026 10:20:48 +0000</pubDate>
+    <description><![CDATA[<p><span>畅聊最近状态和中登梦想</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lol9GYbIs86pGR4I2NO-GF439Lle.m4a" length="80707023" type="audio/mp4"/>
+    <itunes:duration>01:23:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoyZ2cxRQzN9kuMDu-MfcnuOalyp.jpg"/>
+    <itunes:episode>26</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>025.主播内部竟然有人反水</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a12c35fe59ebca936333f13</link>
+    <guid isPermaLink="false">6a12c35fe59ebca936333f13</guid>
+    <pubDate>Sun, 24 May 2026 10:04:23 +0000</pubDate>
+    <description><![CDATA[<p><span>就没有不跑题的时候，从安全屋聊到AI，聊到哪算哪吧</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lge0rGfIRrjTTMDXRVL4IrFJ-hu-.m4a" length="105527509" type="audio/mp4"/>
+    <itunes:duration>01:48:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FuntGZW2pyiut6KsRr7wIBA2vAtC.jpg"/>
+    <itunes:episode>25</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>024.斩杀线之殇</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69634fa9f8b05f9f75f1d6bf</link>
+    <guid isPermaLink="false">69634fa9f8b05f9f75f1d6bf</guid>
+    <pubDate>Sun, 11 Jan 2026 08:12:46 +0000</pubDate>
+    <description><![CDATA[<p><span>透过异次元裂缝，窥见不可名状，凡人之躯皆为养料</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lvWYbJk2X4ksc4ukKLGAvmByI4ga.m4a" length="60288202" type="audio/mp4"/>
+    <itunes:duration>01:02:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fkre7rmCU2SxviG6LJWWG2lJFIkb.png"/>
+    <itunes:episode>24</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>023.破体异形深空夺命</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/69244abd4c49bc580f61c17e</link>
+    <guid isPermaLink="false">69244abd4c49bc580f61c17e</guid>
+    <pubDate>Mon, 24 Nov 2025 13:14:13 +0000</pubDate>
+    <description><![CDATA[<p><span>聊聊恐怖科幻启蒙《异形》系列</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lrxRT9irnpPURFT1Ksx763KCxa4G.m4a" length="111326550" type="audio/mp4"/>
+    <itunes:duration>01:16:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ftg2DOj5pT_ngal3TdoXpjzWE-fE.png"/>
+    <itunes:episode>23</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>022.新怪谈的“光与异化”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68f59f8f22654730204a173d</link>
+    <guid isPermaLink="false">68f59f8f22654730204a173d</guid>
+    <pubDate>Mon, 20 Oct 2025 02:38:19 +0000</pubDate>
+    <description><![CDATA[<p><span>当熟悉的身体与世界悄悄错位，“我” 不再是 “我”，你敢直面这份藏在日常里的认知崩塌吗</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lvcR-pnOWpy466DvjQEO7Soty2fA.m4a" length="59951004" type="audio/mp4"/>
+    <itunes:duration>00:41:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgE99A-PSqXGTEZDEiZLJ1USWkxk.png"/>
+    <itunes:episode>22</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>021.鸟枪换炮，要认真了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/68e3c8ba8e321a0d6f1aec02</link>
+    <guid isPermaLink="false">68e3c8ba8e321a0d6f1aec02</guid>
+    <pubDate>Mon, 06 Oct 2025 14:08:09 +0000</pubDate>
+    <description><![CDATA[<p><span>主播们使个大劲换了一下录音设备，水了一期，希望以后少水一点</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lhoetG4rZCA3OT3QTrw4GaPIs6qX.m4a" length="111970353" type="audio/mp4"/>
+    <itunes:duration>01:17:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlWrwstyij1ApD2vRXRnaFlpF6OP.png"/>
+    <itunes:episode>21</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>020.爱，死亡和机器人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/682b50dffcbc2e206bb9d921</link>
+    <guid isPermaLink="false">682b50dffcbc2e206bb9d921</guid>
+    <pubDate>Mon, 19 May 2025 15:50:42 +0000</pubDate>
+    <description><![CDATA[<p><span>第四季爱死机好看吗，爱死机这几季里面最喜欢哪一集，我们浅浅聊一下</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lhjnKVJoxKSsHCeTFlDvxoj8NmCf.m4a" length="78929667" type="audio/mp4"/>
+    <itunes:duration>01:21:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhqbV20_n15cUTHZHTQUuW3KeCcQ.png"/>
+    <itunes:episode>20</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>019.从天国拯救到社畜日常</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67eba306f9578163d64e8037</link>
+    <guid isPermaLink="false">67eba306f9578163d64e8037</guid>
+    <pubDate>Tue, 01 Apr 2025 08:32:18 +0000</pubDate>
+    <description><![CDATA[<p><span>中登们的无聊日常以及穿越到15世纪体验波西米亚的风土人情</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lkMoTAgS9ZuKax3bww3DC9B0QVh3.m4a" length="107108134" type="audio/mp4"/>
+    <itunes:duration>01:50:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsJjGqU-z3qklnLHsswsOeTMFOnc.png"/>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>018.吃播之相亲＆游戏＆电影</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67ea68e8f9578163d614c92c</link>
+    <guid isPermaLink="false">67ea68e8f9578163d614c92c</guid>
+    <pubDate>Mon, 31 Mar 2025 10:31:34 +0000</pubDate>
+    <description><![CDATA[<p><span>边吃边唠，一顿猛炫，谨慎收听</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64ab7a0e1c2273f82901ac3a/lstqyYhNcA34pqj_ZMMqglq5zscA.m4a" length="143300127" type="audio/mp4"/>
+    <itunes:duration>02:27:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fnjz8j853ZkCY4PPdglG-O4aerdq.png"/>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>017.与FK聊聊南非的圈子</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673980d5f373fe5d4de41bd9</link>
+    <guid isPermaLink="false">673980d5f373fe5d4de41bd9</guid>
+    <pubDate>Sun, 17 Nov 2024 06:16:15 +0000</pubDate>
+    <description><![CDATA[<p><span>FK再次莅临秘密营地，深入的聊聊关于南非的那些事</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvOEZtkDFEM4jQIy2kl1PJQYcKaF.m4a" length="122741222" type="audio/mp4"/>
+    <itunes:duration>02:06:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrI-_sq48faIyDL6hwuT0qkOOPf1.png"/>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>016.陈的安全屋执念</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6739665643dc3a438735c672</link>
+    <guid isPermaLink="false">6739665643dc3a438735c672</guid>
+    <pubDate>Sun, 17 Nov 2024 05:34:00 +0000</pubDate>
+    <description><![CDATA[<p><span>安全屋中的篝火，你深陷沙发之中拿起武器，这是独属于你的末日堡垒</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnbStG9WOTqSHcafR0CFakaQXGD-.m4a" length="66304362" type="audio/mp4"/>
+    <itunes:duration>01:08:19</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvoHzX7GBs1j7cVyn7V-1qCIHKx9.png"/>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>015.吃播之全程猛炫听感极差</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/673959f3f373fe5d4ddd1159</link>
+    <guid isPermaLink="false">673959f3f373fe5d4ddd1159</guid>
+    <pubDate>Sun, 17 Nov 2024 03:31:25 +0000</pubDate>
+    <description><![CDATA[<p><span>这期是边吃边录且录音设备放到了电磁炉旁边，全程底噪加吧唧嘴，请谨慎收听</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrZMYXQVxUB67KJD_e4PDIaZw3uD.m4a" length="100735209" type="audio/mp4"/>
+    <itunes:duration>01:43:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpPgPws7Ue6-PPlfBwS7YEluR4y-.png"/>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>014.胡侃黑神话</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671ce130eb46cd6655e5cd01</link>
+    <guid isPermaLink="false">671ce130eb46cd6655e5cd01</guid>
+    <pubDate>Sat, 26 Oct 2024 12:31:43 +0000</pubDate>
+    <description><![CDATA[<p><span>黑神话延展一下，聊聊游戏和生活</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkWwKOfqRLgLfCjNHCzGba60qtGk.m4a" length="79969277" type="audio/mp4"/>
+    <itunes:duration>01:22:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiMypDBUtpNkCxCo3N0BmA7zhQ9m.png"/>
+    <itunes:episode>14</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

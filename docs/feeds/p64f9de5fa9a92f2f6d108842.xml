@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Work&amp;Walk</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64f9de5fa9a92f2f6d108842</link>
+  <description><![CDATA[仅对自己，胡言乱语；面向世界，开言扯空。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:43:02 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p64f9de5fa9a92f2f6d108842.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>一曲山水断人肠</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FgjkB2a5pBsjVNScOqMpncMMtf1S.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FgjkB2a5pBsjVNScOqMpncMMtf1S.png</url>
+    <title>Work&amp;Walk</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64f9de5fa9a92f2f6d108842</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>No.3 Work · 约稿 讲讲跨境电商listing优化思路</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668a6be5ae8e21859a1ac747</link>
+    <guid isPermaLink="false">668a6be5ae8e21859a1ac747</guid>
+    <pubDate>Sun, 07 Jul 2024 10:20:20 +0000</pubDate>
+    <description><![CDATA[<p><span>起于约稿文本，不止于约稿文本。</span></p><p><span>为了脱敏，数据纯纯胡诌，听个乐呵就行了，但思路和效果是一致的。</span></p><p><span>基于一个案例讲讲跨境电商优化思路以及要不要做eBay。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lj8vTFFJT0kGoK7x_q5UvnPajgnJ.m4a" length="35410114" type="audio/mp4"/>
+    <itunes:duration>00:31:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhWrW4tIl1grWdw_F0GjcUWdw98O.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.2 Work · 关于几个跨境电商平台</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664f4e8e4efbc0c3dc9c223a</link>
+    <guid isPermaLink="false">664f4e8e4efbc0c3dc9c223a</guid>
+    <pubDate>Thu, 23 May 2024 14:11:24 +0000</pubDate>
+    <description><![CDATA[<p><span>简单介绍一些跨境电商平台，主要提及：Amazon、eBay、Shopify、Shein和Temu</span></p><span></span><p><strong><span>本期纯为介绍向，关于玩法暂且挖个坑（如果以后有机会填坑的话）</span></strong></p><span></span><p><span>关于我：一个跨境电商运营，啥都了解一些，在各平台均有些许成绩。</span></p><span></span><p><span>注意：一刀未剪，想到哪说到哪，</span><strong><span>纯纯脚踩西瓜皮。</span></strong></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpiGaO7IZlgwZ8cmz7w1UGNc6Hez.m4a" length="36956148" type="audio/mp4"/>
+    <itunes:duration>00:32:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fi5xX0LV8f5J7X_iDMvwx5c6uizk.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.1 Walk · 关于过度思考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664b5bc0251bd96e6c9a621a</link>
+    <guid isPermaLink="false">664b5bc0251bd96e6c9a621a</guid>
+    <pubDate>Mon, 20 May 2024 18:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>可能提到的单集：</span><a href="https://note.mowen.cn/note/detail?noteUuid=qhM70AzKa2afWIxhlVSTJ" data-url="https://note.mowen.cn/note/detail?noteUuid=qhM70AzKa2afWIxhlVSTJ"><span>来都来了 | 听了再走：No. 192 - 避免过度思考，高阶能力就是大脑运转自由</span></a></p><span></span><p><span>注意：本台绝大部分内容一刀未剪，均为晚饭过后散步时候的碎碎念，有很多口癖和环境音。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li2sg4Jk4ATLRrM4V35u2EibDdI6.m4a" length="24343084" type="audio/mp4"/>
+    <itunes:duration>00:21:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoqILREsBqFcLBIyXT7S8YTxOerT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.0 Work &amp; Walk · 关于缘起</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/664b5c72251bd96e6c9a996e</link>
+    <guid isPermaLink="false">664b5c72251bd96e6c9a996e</guid>
+    <pubDate>Mon, 20 May 2024 14:21:37 +0000</pubDate>
+    <description><![CDATA[<p><span>关于我为什么要碎碎念。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fi1gbhdKCy_oXCgiRbPpcenueqas.m4a" length="2198665" type="audio/mp4"/>
+    <itunes:duration>00:01:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqXDPpw0BLna0GCzN34ClSXUZbDD.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
