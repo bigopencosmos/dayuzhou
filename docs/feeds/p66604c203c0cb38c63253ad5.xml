@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>正在营业</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66604c203c0cb38c63253ad5</link>
+  <description><![CDATA[这里是@冲啊谷奇奇的秘密基地
+平平无奇的书店打工仔的精神世界
+想做双面咸鱼的避风港
+想为工作和生活美个缝
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:04:27 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66604c203c0cb38c63253ad5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>臧小碗</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fhc9-VfIc1biTp_04Yq-Sj_z775-.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fhc9-VfIc1biTp_04Yq-Sj_z775-.png</url>
+    <title>正在营业</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66604c203c0cb38c63253ad5</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>Vol.01嘘，在思考|人间清醒究竟是怎么个状态？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668d1e36ae8e21859aa34598</link>
+    <guid isPermaLink="false">668d1e36ae8e21859aa34598</guid>
+    <pubDate>Tue, 09 Jul 2024 11:25:40 +0000</pubDate>
+    <description><![CDATA[<p><span>谷奇奇的自救频道【正在营业】中</span></p><span></span><p><span>这里是</span><strong><span>双面咸鱼的避风港</span></strong></p><span></span><p><span>让我们一起给工作和生活美个缝吧</span></p><span></span><p><span>本期营业主题“人间清醒究竟是怎么个状态？”</span></p><span></span><p><span>人间清醒这4个字越来越多出现在我们的视线中</span></p><span></span><p><span>我们为什么要人间清醒呢？</span></p><span></span><p><span>人间清醒该是什么样子呢？</span></p><span></span><p><span>大家有那种能在低谷的时候也能推动你前行的力量吗？</span></p><span></span><p><span>我相信大道至简</span></p><span></span><p><span>想要保持清醒的头脑，一定要掌握世界的本质规律，要了解事物的底层逻辑，去学习第一性原理</span></p><span></span><p><span>这只是一个开始</span></p><span></span><p><span>我会持续在这里和大家讨论那些最简单却最有帮助的道理</span></p><span></span><p><span>【关于节目的4大主题】</span></p><span></span><p><strong><span>嘘，在思考</span></strong></p><span></span><p><strong><span>嘿，来读书</span></strong></p><span></span><p><strong><span>啊，要搞钱</span></strong></p><span></span><p><strong><span>哈，够活力</span></strong></p><span></span><p><span>从多个角度和大家一起人间清醒</span></p><span></span><p><span>【音乐】《orphans》-cero</span></p><span></span><p><span>欢迎关注：</span></p><span></span><p><span>小红书：冲啊谷奇奇</span></p><span></span><p><span>公众号：双面咸鱼避风港</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnmJdP3hCjKaEIgBGz9pt1H5PodV.m4a" length="25624719" type="audio/mp4"/>
+    <itunes:duration>00:30:10</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoonRbEksCF6GDX9gqwaRVVa-g0F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>围围而谈</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/64229d9bfa78924dc08472fe</link>
+  <description><![CDATA[大家好，欢迎来到我们的赛博空间会客厅。
+
+
+这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。
+
+
+与你一起，站在科技和人文的十字路口。
+
+
+不定期更新。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:04:22 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/9tgwwbtcdnf8.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>段少</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg</url>
+    <title>围围而谈</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/64229d9bfa78924dc08472fe</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>围围而谈#4｜比特币站稳十万美元，我们再次认识 Web3</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/675b104984447b1bd0721ba5</link>
+    <guid isPermaLink="false">675b104984447b1bd0721ba5</guid>
+    <pubDate>Thu, 12 Dec 2024 21:51:03 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。</span></p><span></span><p><span>与你一起，站在科技和人文的十字路口。不定期更新。</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>Liam: Crypto 探险家，《从技术到应用：普通人的 Web3 学习手册》主编，推特 @LiamWang88</span></p><span></span><p><span>【主理人】</span></p><span></span><p><span>段少：开源人 &amp; DAO Believer，阿德勒布道者，推特 @BinaryHB</span></p><span></span><p><span>Vivienne：在目文化创始人，推特 @Black_Hat_5</span></p><span></span><p><span>【时间线】</span></p><span></span><p><span><a class="timestamp" data-timestamp="221">03:41</a> 《从技术到应用：普通人的 Web3 学习手册》撰写契机，不同的人对 Web3 的认知分歧差异巨大</span></p><span></span><p><span><a class="timestamp" data-timestamp="975">16:15</a> 本书发布后荣登当周微信读书新书 TOP 50，大部分读者对 Web3 持积极的态度</span></p><span></span><p><span><a class="timestamp" data-timestamp="1527">25:27</a> 人们在 2021 年尝试用区块链这种新型的媒介，重新搭建用户和品牌之间的沟通方式</span></p><span></span><p><span><a class="timestamp" data-timestamp="1933">32:13</a> Web3 里除了资产化，几乎还没有像 AI 领域 ChatGPT 那样能实用的应用</span></p><span></span><p><span><a class="timestamp" data-timestamp="2152">35:52</a> Mass Adoption 是伪命题？当前 Web3 技术到什么程度了，我们可能能做出什么产品？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2714">45:14</a> 当一个周杰伦的“粉头”身份 NFT 化后，甚至可以将来卖给别人</span></p><span></span><p><span><a class="timestamp" data-timestamp="3023">50:23</a> 现阶段，Web3 对 AI 的需求会大一点，而不是 AI 对 Web3 的需求大一点</span></p><span></span><p><span><a class="timestamp" data-timestamp="3505">58:25</a> 往往是这种 Web3 和 AI 不同技术的交叉点，就意味着爆发的地方，也是有大机会的领域</span></p><span></span><p><span><a class="timestamp" data-timestamp="3655">60:55</a> 越是新兴互联网技术的行业，到底怎样的“普通人”才适合加入？如果你是程序员最好</span></p><span></span><p><span><a class="timestamp" data-timestamp="3740">62:20</a> 目前 Crypto 处于青黄不接的状态，探入深水区的过程中</span></p><span></span><p><span><a class="timestamp" data-timestamp="4431">73:51</a> Web2 这些人有什么动机要离开本身的环境，非入 Web3 不可？</span></p><span></span><p><span><a class="timestamp" data-timestamp="4693">78:13</a> Web3 现在这个行业的资产属性太强了，所以才有争议</span></p><span></span><p><span>【扩展阅读】</span></p><span></span><p><span>非同质化代币（英语：Non-Fungible Token，简称：NFT），是一种众筹扶持项目方的方式，也是区块链（数位账本）上的一种数据单位，每个代币可以代表一个独特的数字资料，作为虚拟商品所有权的电子认证或证书。由于其不能互换的特性，非同质化代币可以代表数字资产，如画作、艺术品、声音、影片、游戏中的项目或其他形式的创意作品。虽然作品本身是可以无限复制的，但这些代表它们的代币在其底层区块链上能被完整追踪，故能为买家提供所有权证明。诸如以太币、比特币等加密货币都有自己的代币标准以定义对NFT的使用。</span></p><span></span><p><span>RWA (Real World Assets) 是指将现实世界中的实物资产（如房地产、艺术品、大宗商品等）通过区块链技术转化为数字代币，使其可以在链上进行交易和管理。</span></p><span></span><p><span>【欢迎联系】</span></p><span></span><p><span>节目邮箱: dovaove@163.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lhql7hnywVnfLnduBEStFSzpjHrO.m4a" length="117083500" type="audio/mp4"/>
+    <itunes:duration>01:20:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>围围而谈#3 Part.2｜我们都是 AI，都需要新的训练素材</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662cbf395fb33c1b2be76661</link>
+    <guid isPermaLink="false">662cbf395fb33c1b2be76661</guid>
+    <pubDate>Sat, 27 Apr 2024 09:02:49 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。</span></p><span></span><p><span>与你一起，站在科技和人文的十字路口。不定期更新。</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>Sain：乐观的不可知论者，Web3 Degen，MultiPlayer DAO 共同创始人，推特 @Sainwellx_onair</span></p><span></span><p><span>【主理人】</span></p><span></span><p><span>段少：开源人 &amp; DAO Believer，阿德勒布道者，推特 @BinaryHB</span></p><span></span><p><span>Vivienne：在目文化创始人，推特 @Black_Hat_5</span></p><span></span><p><span>【时间线】</span></p><span></span><p><span><a class="timestamp" data-timestamp="70">01:10</a> &nbsp;Suno 这种跨时代的全新 AI 音乐工具，会给人类社会的创作方式带来什么影响？</span></p><span></span><p><span><a class="timestamp" data-timestamp="838">13:58</a> &nbsp;对于创作这种东西来说，人们到底在乎的是什么？从创作者转递给受众的过程中间发生了什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1155">19:15</a> &nbsp;大家愿意这么相信，就有相应的经济流动价值产生，这就是社区</span></p><span></span><p><span><a class="timestamp" data-timestamp="1454">24:14</a> &nbsp;这些作品给到观众听众（暂无创作能力）的实质是什么？一种链接感，心里的声音被说出来了</span></p><span></span><p><span><a class="timestamp" data-timestamp="2160">36:00</a> &nbsp;AI 的自演化非常非常快，17 年的 AI 和今天的 AI 有着天壤之别</span></p><span></span><p><span><a class="timestamp" data-timestamp="2672">44:32</a> &nbsp;虽然 AI 创作能力将来一定会超越人类，但是和人类依旧是两种不同的存在</span></p><span></span><p><span><a class="timestamp" data-timestamp="3343">55:43</a> &nbsp;以后的 AI 版权仲裁，可能会是一个开源的 AI Agent</span></p><span></span><p><span><a class="timestamp" data-timestamp="3990">66:30</a> &nbsp;新型的创作者，把自己称之为参数艺术家</span></p><span></span><p><span><a class="timestamp" data-timestamp="4160">69:20</a> &nbsp;你去拥抱它去使用它，不用担心会被淘汰</span></p><span></span><p><span><a class="timestamp" data-timestamp="4503">75:03</a> &nbsp;一个 Web3 比较火的国外音乐人，白天就去送外卖，没那么多心理“负担”</span></p><span></span><p><span>【扩展阅读】</span></p><span></span><p><span>投射（英语：projection）：一种心理防御机制，一个人下意识地否认自身不良的思绪、动机、欲望或情感，而将责任推卸给外部世界以及其他人。因此，投射包含想象。这种行为的一个例子是自己失败后反而去指责他人，认为是他人造成自己的失败。</span></p><span></span><p><span>幻兽帕鲁：由日本开发商 Pocket Pair 推出的动作冒险生存游戏。游戏设定为开放世界，居住着外形类似动物的生物“帕鲁”，玩家可与帕鲁进行战斗，并捕捉帕鲁用以建造基地、骑乘及战斗。《幻兽帕鲁》因游玩方式类似《宝可梦》而闻名，其中由于可以使用枪支并为帕鲁装备武器，也被戏称为“带枪版宝可梦”。其他游戏元素还包括将帕鲁做成食物，或将帕鲁放置在矿山和流水线工厂中工作。《幻兽帕鲁》引起广泛关注，并在抢先体验的首 24 小时内售出逾 200 万份。</span></p><span></span><p><span>【欢迎联系】</span></p><span></span><p><span>节目邮箱: dovaove@163.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkGx9vvDLIMt2yoxvwyo69Pqbwi0.m4a" length="115114220" type="audio/mp4"/>
+    <itunes:duration>01:19:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>围围而谈#3 Part.1｜音乐人眼中的美国，Sain 14 天探索之旅</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/662b4b7e6a3c2ef095d70c6e</link>
+    <guid isPermaLink="false">662b4b7e6a3c2ef095d70c6e</guid>
+    <pubDate>Fri, 26 Apr 2024 06:36:46 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。</span></p><span></span><p><span>与你一起，站在科技和人文的十字路口。不定期更新。</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>Sain：乐观的不可知论者，Web3 Degen，MultiPlayer DAO 共同创始人，推特 @Sainwellx_onair</span></p><span></span><p><span>【主理人】</span></p><span></span><p><span>段少：开源人 &amp; DAO Believer，阿德勒布道者，推特 @BinaryHB</span></p><span></span><p><span>Vivienne：在目文化创始人，推特 @Black_Hat_5</span></p><span></span><p><span>【时间线】</span></p><span></span><p><span><a class="timestamp" data-timestamp="164">02:44</a> &nbsp;Sain 的美国初印象，创作者没怎么谈论收入谈论钱，而是如何把想法和内容本身表达出来表达好</span></p><span></span><p><span><a class="timestamp" data-timestamp="291">04:51</a> &nbsp;喜欢地下音乐的初衷，因为这种音乐类型很有创作者的原始想法，制作很粗糙但很有张力</span></p><span></span><p><span><a class="timestamp" data-timestamp="710">11:50</a> &nbsp;丹佛很像 Sain 在飞机上看的电影《老无所依》里的感觉</span></p><span></span><p><span><a class="timestamp" data-timestamp="793">13:13</a> &nbsp;美国卡车和小时候《变形金刚》里演的一样，都是大大大！是国内的三倍大，垃圾桶也是巨大！</span></p><span></span><p><span><a class="timestamp" data-timestamp="1047">17:27</a> &nbsp;令人难忘的丹佛红石露天剧场，每年夏天都会举办音乐盛会</span></p><span></span><p><span><a class="timestamp" data-timestamp="1464">24:24</a> &nbsp;Sain 印象深刻的画面：街上突然一个学生站上阶梯开始演讲，像古希腊活动家</span></p><span></span><p><span><a class="timestamp" data-timestamp="1587">26:27</a> &nbsp;波士顿，大学城，学究气，好玩又安全，而纽约是一个很激动“危险”的地方，如果你住在布鲁克林</span></p><span></span><p><span><a class="timestamp" data-timestamp="1880">31:20</a> &nbsp;纽约曼哈顿感觉像一个加大很多倍版的上海，大家都很 Fancy；地铁里很脏，包容性很广，乘客形形色色</span></p><span></span><p><span><a class="timestamp" data-timestamp="2226">37:06</a> &nbsp;有人扮演老鼠在地铁里爬，来传达在“老鼠洞”的意向，但是被警察制止了，因为影响城市形象</span></p><span></span><p><span><a class="timestamp" data-timestamp="2430">40:30</a> &nbsp;百老汇似乎没落了，时代在变换，年轻人越来越喜欢为热门 IP 买单</span></p><span></span><p><span>【扩展阅读】</span></p><span></span><p><span>三 K 党：美国历史上三个不同时期奉行白人至上主义运动和基督教恐怖主义的民间团体，也是美国种族主义的代表性组织。 三 K 党最早于 1865 年由美国内战中被击败的南方邦联军队的退伍老兵组成。</span></p><span></span><p><span>红石露天剧场：世界上唯一一个利用天然山体而修建的露天剧场，始建于 1908 年，两年以后终于建成。它主体仿制古希腊大剧院的原型，海拔高度有 6000 英尺。</span></p><span></span><p><span>马赛克 (镶嵌艺术)：一种装饰艺术，通常使用许多小石块或有色玻璃碎片拼成图案，在教堂中的玻璃艺品，又称为花窗玻璃。现今该词（马赛克）泛指这类型五彩斑斓的视觉效果。马赛克经常被用作地板和墙壁的装饰，在古罗马世界特别流行。</span></p><span></span><p><span>【欢迎联系】</span></p><span></span><p><span>节目邮箱: dovaove@163.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/li_nG2rsG5KhN8yQ7OzNZv-rbc7A.m4a" length="68866274" type="audio/mp4"/>
+    <itunes:duration>00:47:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>围围而谈#2｜识人、交朋友，你对人际关系觉得困扰吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65b5201acace72dff831e84b</link>
+    <guid isPermaLink="false">65b5201acace72dff831e84b</guid>
+    <pubDate>Sat, 27 Jan 2024 15:24:10 +0000</pubDate>
+    <description><![CDATA[<p><span>大家好，这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。</span></p><span></span><p><span>与你一起，站在科技和人文的十字路口。不定期更新。</span></p><span></span><p><span>【收听小提示】</span></p><span></span><p><span>本集录制时，有小部分电风扇的声音乱入。如果听众朋友使用耳机收听，可能会有不适感，推荐使用外放播放。</span></p><span></span><p><span>谢谢你的收听、讨论和分享！</span></p><span></span><p><span>【本期嘉宾】</span></p><span></span><p><span>Liam: Crypto 探险家，《从技术到应用：普通人的 Web3 学习手册》主编，推特 @LiamWang88</span></p><span></span><p><span>【主理人】</span></p><span></span><p><span>段少，开源人 &amp; DAO Believer，阿德勒布道者，推特 @BinaryHB</span></p><span></span><p><span>Vivienne，在目文化创始人，推特 @Black_Hat_5</span></p><span></span><p><span>【时间线】</span></p><span></span><p><span><a class="timestamp" data-timestamp="348">5:48</a> &nbsp;我们今天聊识人、交朋友这件事的原动力是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="1320">22:00</a> &nbsp;识人、交朋友，对我们每个人来说，都意味着什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1443">24:03</a> &nbsp;段少: 无论对方身上有哪个点你非常反感，我还要继续和 TA 缔结这个关系吗？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1744">29:04</a> &nbsp;Liam: 用一种温和的态度去对待一段关系或者说一件事情</span></p><span></span><p><span><a class="timestamp" data-timestamp="2060">34:20</a> &nbsp;Vivi: 左手拇指写着「闭嘴」右手标记「大胆说话」 ，随着年纪增长越来越多地，握住左手</span></p><span></span><p><span><a class="timestamp" data-timestamp="2164">36:04</a> &nbsp;段少: 我喜欢甚至依赖在聊天输出中思考，是因为这样会导致灵感迸发</span></p><span></span><p><span><a class="timestamp" data-timestamp="2229">37:09</a> &nbsp;衢州土菜馆一顿饭，Liam 和一位合作不顺、觉得他“假”的前同事，双方都释然了</span></p><span></span><p><span><a class="timestamp" data-timestamp="2485">41:25</a> &nbsp;Liam: 很多时候不能打交道的人，只是因为我们之间互相了解的不够</span></p><span></span><p><span><a class="timestamp" data-timestamp="2531">42:11</a> &nbsp;Liam: 在跟一个人结交朋友的当下，我能不能先不要预设立场进去</span></p><span></span><p><span><a class="timestamp" data-timestamp="2752">45:52</a> &nbsp;Vivi: 看完电影「芭比」后感慨，当大家都明白对方的处境后，就不会有那么多的隔阂</span></p><span></span><p><span><a class="timestamp" data-timestamp="2782">46:22</a> &nbsp;Vivi: 诺奖「愤怒的葡萄」作者约翰·斯坦贝克，毕生致力于建立一种理解，让不同阶层不同类型的人，知道双方的处境、体会和情感都是什么</span></p><span></span><p><span><a class="timestamp" data-timestamp="2826">47:06</a> &nbsp;Vivi: 大家如果要建立某种关系，尽量使用「消除信息差」的方式</span></p><span></span><p><span><a class="timestamp" data-timestamp="3033">50:33</a> &nbsp;Liam: 但凡是投的稍微相对成功一点的人，主要特征是说话不是特别“满”</span></p><span></span><p><span><a class="timestamp" data-timestamp="3135">52:15</a> &nbsp;专注而务实的人，是 Liam 想交的朋友</span></p><span></span><p><span><a class="timestamp" data-timestamp="3590">59:50</a> &nbsp;Liam: 约人时，场景很重要，话题很重要，沟通态度也重要</span></p><span></span><p><span><a class="timestamp" data-timestamp="3816">63:36</a> &nbsp;Vivi: 去见对方前，先想象一下会是什么感觉，再来安排怎么约人、怎么着装</span></p><span></span><p><span><a class="timestamp" data-timestamp="4120">68:40</a> &nbsp;Liam: 不要忽略人的感受的能力。大道至简，真诚的人是会受欢迎的。</span></p><span></span><p><span><a class="timestamp" data-timestamp="4181">69:41</a> &nbsp;Liam: 所有关系的起点，是你自己。当你想要成为什么样的人的时候，你就会自然地去构建你和 TA 人的关系</span></p><span></span><p><span><a class="timestamp" data-timestamp="4700">78:20</a> &nbsp;Vivi: 做品牌最重要的，实际上不是你说的能力，而是你听的能力</span></p><span></span><p><span><a class="timestamp" data-timestamp="5000">83:20</a> &nbsp;Vivi: 后来意识到，聪明是知道怎么解决问题，智慧是知道有没有必要解决这个问题，大智慧是知道什么才是“那个“问题</span></p><span></span><p><span><a class="timestamp" data-timestamp="5640">94:00</a> &nbsp;Liam: 处理关系过程当中，有两点很重要: 当被需要时出现，保持边界感</span></p><span></span><p><span><a class="timestamp" data-timestamp="6580">109:40</a> &nbsp;段少: 当你真诚的时候，是把你潜在的可以被对方攻击的东西释放出去了，意味着你已经卸下了防备。</span></p><span></span><p><span><a class="timestamp" data-timestamp="7139">118:59</a> &nbsp;Liam: 关系真的是一个活到老学到老、用到老、想到老的事情</span></p><span></span><p><span><a class="timestamp" data-timestamp="7283">121:23</a> &nbsp;Liam: 我愿意把我的想法告诉你，你也愿意把你的想法告诉我，即便我们不一样</span></p><span></span><p><span><a class="timestamp" data-timestamp="7690">128:10</a> &nbsp;Vivi 社交小秘诀: 陌生人线上见面前先发张个人照片，陌生人线下见面后合影存微信备注</span></p><span></span><p><span>【欢迎联系】</span></p><span></span><p><span>节目邮箱: dovaove@163.com</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lkfFHwRtvrUTtIa2z9lcZ7R_9rrN.m4a" length="130119217" type="audio/mp4"/>
+    <itunes:duration>02:14:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>围围而谈#1｜你是什么样的金钱观？日进斗金才开心？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6479f8046752b5f9deceb857</link>
+    <guid isPermaLink="false">6479f8046752b5f9deceb857</guid>
+    <pubDate>Fri, 02 Jun 2023 14:09:08 +0000</pubDate>
+    <description><![CDATA[<p><span>这是一档由互联网人段少和艺术家 Vivienne 联合推出的谈话类播客。站在科技和人文的十字路口。不定期更新。</span></p><span></span><p><span>主理人：</span></p><span></span><p><span>段少，开源人 &amp; DAO Believer，阿德勒布道者</span></p><span></span><p><span>Vivienne，在目文化创始人</span></p><span></span><p><span>本期嘉宾：</span></p><span></span><p><span>哲叔，AI 技术爱好者，Polykey Capital Founding Partner</span></p><span></span><p><span>时间线：</span></p><span></span><p><span><a class="timestamp" data-timestamp="480">08:00</a> 这个节目希望像锵锵三人行一样，就多聊聊天</span></p><span></span><p><span><a class="timestamp" data-timestamp="802">13:22</a> Vivienne 问道：你的快乐来自于哪里？日进斗金才开心？</span></p><span></span><p><span><a class="timestamp" data-timestamp="1100">18:20</a> 段少在成长中被灌输：金钱是铜臭的</span></p><span></span><p><span><a class="timestamp" data-timestamp="1560">26:00</a> 哲叔：小时候嘴里“别人家的孩子”倒逼自己不断想要进步</span></p><span></span><p><span><a class="timestamp" data-timestamp="2183">36:23</a> 什么时候开始学习和金钱相处，都来得及</span></p><span></span><p><span><a class="timestamp" data-timestamp="2406">40:06</a> 作为“大型成人日托现场”的科技大厂，是不是会麻痹人的抗风险意识？</span></p><span></span><p><span><a class="timestamp" data-timestamp="2823">47:03</a> 哲叔：你只有先养活自己，才可以造福其 TA 人</span></p><span></span><p><span><a class="timestamp" data-timestamp="3000">50:00</a> Vivienne 带你了解拉康的想象界象征界和实在界</span></p><span></span><p><span><a class="timestamp" data-timestamp="3660">61:00</a> 真正的快乐都是免费的吧</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrjv69VQgGCDxxe8J7M0Eg_9Bm7C.m4a" length="86546848" type="audio/mp4"/>
+    <itunes:duration>01:29:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fqre8JqTcCLx2vk7ypMvSwqmWZK8.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
