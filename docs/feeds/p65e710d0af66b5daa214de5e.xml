@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>全世界最牛的三个人</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/65e710d0af66b5daa214de5e</link>
+  <description><![CDATA[不固定的三个人，有时有主题但是会发散，总之就是瞎聊天。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:07:30 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65e710d0af66b5daa214de5e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>黎明风_0aOH</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg</url>
+    <title>全世界最牛的三个人</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/65e710d0af66b5daa214de5e</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>我们的闲聊#5-爱情是什么</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/665e84b363c334a2fb31654c</link>
+    <guid isPermaLink="false">665e84b363c334a2fb31654c</guid>
+    <pubDate>Tue, 04 Jun 2024 03:06:27 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/luXadOOQ1RLhXODFJDs5UbQMrAB3.m4a" length="39361276" type="audio/mp4"/>
+    <itunes:duration>00:43:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我们的闲聊#4-如何解决拖延&amp;家庭和童年</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/661ba8265dae7932c66328c3</link>
+    <guid isPermaLink="false">661ba8265dae7932c66328c3</guid>
+    <pubDate>Sun, 14 Apr 2024 09:55:50 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lofXvRNy1PR0wkep1pPU1k5m2oUY.m4a" length="136506889" type="audio/mp4"/>
+    <itunes:duration>01:10:40</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我们的闲聊#3-自我形象进化史</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65fbe1a02d9eae5d0a27f030</link>
+    <guid isPermaLink="false">65fbe1a02d9eae5d0a27f030</guid>
+    <pubDate>Thu, 21 Mar 2024 07:28:32 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/ljUGpEduHc6JCQ9AHTw7LstPGHH2.m4a" length="92258937" type="audio/mp4"/>
+    <itunes:duration>00:47:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我们的闲聊#2-我们在女生宿舍都聊些什么</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65edbe268e6f71a5b725fdf8</link>
+    <guid isPermaLink="false">65edbe268e6f71a5b725fdf8</guid>
+    <pubDate>Sun, 10 Mar 2024 14:05:26 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lgsGBxmUyzWV7ee8khagn6CNQTNF.m4a" length="117126133" type="audio/mp4"/>
+    <itunes:duration>01:00:38</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我们的闲聊#1-从女性问题到个人成长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65e7237ea4d1fbe7c08171dd</link>
+    <guid isPermaLink="false">65e7237ea4d1fbe7c08171dd</guid>
+    <pubDate>Tue, 05 Mar 2024 13:51:58 +0000</pubDate>
+    <description><![CDATA[<p><span>随便和我们聊聊吧</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llroReZeaw5clh0oD_T5QQHrENiL.m4a" length="49674369" type="audio/mp4"/>
+    <itunes:duration>00:51:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FlnVVMtozPAHduQ4dqKHWVG4AiRj.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
