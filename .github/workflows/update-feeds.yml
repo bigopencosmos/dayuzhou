@@ -36,13 +36,17 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: 配置 git 身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: 生成 RSS（每 100 个播客提交推送一次）
         env:
-          # 可选：只有配了这个 secret 才能做历史回填；不配就是纯「最近 15 集」模式
           XYZ_REFRESH_TOKEN: ${{ secrets.XYZ_REFRESH_TOKEN }}
           BACKFILL: ${{ inputs.backfill || 'auto' }}
         run: |
-          # 全量约 6400 个，按 100 个/批切分；已完成的部分从仓库存档增量续跑
+          set +e   # Actions 默认 bash -e：任何命令失败会中断整个步骤，改为每条命令自行兜底
           BATCHES=64
           for i in $(seq 1 $BATCHES); do
             echo "════ 批次 $i/$BATCHES ════"
@@ -57,8 +61,8 @@ jobs:
             if git diff --cached --quiet; then
               echo "批次 $i 无变化，跳过提交"
             else
-              git commit -m "chore: feeds batch $i/$BATCHES $(date -u +%Y-%m-%dT%H:%MZ)"
-              git pull --rebase origin main
+              git commit -m "chore: feeds batch $i/$BATCHES $(date -u +%Y-%m-%dT%H:%MZ)" || echo "提交失败，继续"
+              git pull --rebase origin main || echo "rebase 失败，继续"
               git push || echo "push 失败，保留到下一批次重试"
             fi
           done
@@ -66,6 +70,7 @@ jobs:
       - name: 重建索引并提交
         if: always()
         run: |
+          set +e
           python scripts/dayuzhou.py \
             --config config/podcasts.json \
             --out docs \
@@ -75,9 +80,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "没有变化，跳过提交"
           else
-            git commit -m "chore: rebuild index $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase origin main
-            git push
+            git commit -m "chore: rebuild index $(date -u +%Y-%m-%dT%H:%MZ)" || echo "提交失败"
+            git pull --rebase origin main || echo "rebase 失败"
+            git push || echo "push 失败"
           fi
 
       - name: 汇总
