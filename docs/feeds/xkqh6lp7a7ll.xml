@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>说个没完</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66182b5b0b37a56aebe7d84a</link>
+  <description><![CDATA[【说个没完】是一个想到哪里说哪里，想聊什么聊什么的播客节目。希望可以在你无聊的时候给你一些陪伴，在你困扰或者想要思考些什么的时候给你一些思路、想法和启发。
+
+
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:33:06 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/xkqh6lp7a7ll.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>71_PrP1</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FsOKifm-thnpnrv4Fa-Kp-JnS32C.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FsOKifm-thnpnrv4Fa-Kp-JnS32C.jpg</url>
+    <title>说个没完</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66182b5b0b37a56aebe7d84a</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>03.“失去感”并不代表真的失去</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6abbe43a195d838e2aebba31</link>
+    <guid isPermaLink="false">6abbe43a195d838e2aebba31</guid>
+    <pubDate>Tue, 29 Sep 2026 19:19:51 +0000</pubDate>
+    <description><![CDATA[<p><span>71的小建议：不要过度解读自己心理上的消极感受，“感”并不代表现实。有可能的话，不妨把它当成一种独属自己的心理体验。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66182b5b0b37a56aebe7d84a/loxBl6eO3yURctT-bPtUWDT-g63L.m4a" length="12592792" type="audio/mp4"/>
+    <itunes:duration>00:12:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsOKifm-thnpnrv4Fa-Kp-JnS32C.jpg"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>02.现代社会发展很快，可你其实是“野人”</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9e709fa0210c197dced384</link>
+    <guid isPermaLink="false">6a9e709fa0210c197dced384</guid>
+    <pubDate>Mon, 07 Sep 2026 08:11:10 +0000</pubDate>
+    <description><![CDATA[<p><span>71的小建议：用野人的方式思考，体验原始的生活节律，听听身体的声音。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66182b5b0b37a56aebe7d84a/lpyBXnlXSttwCXTlUXan37Ys4wY_.m4a" length="11999847" type="audio/mp4"/>
+    <itunes:duration>00:12:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsOKifm-thnpnrv4Fa-Kp-JnS32C.jpg"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>01.重启播客_渴望亲密关系，我还算不算独立和自由？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a9db47ca0210c197dce7ba8</link>
+    <guid isPermaLink="false">6a9db47ca0210c197dce7ba8</guid>
+    <pubDate>Sun, 06 Sep 2026 19:10:49 +0000</pubDate>
+    <description><![CDATA[<p><span>71的小建议：找到你的安全基地，然后更勇敢地探索自我和世界。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/66182b5b0b37a56aebe7d84a/lvc_7cV0LKrgpLO9grCEleSzfrlO.m4a" length="14432505" type="audio/mp4"/>
+    <itunes:duration>00:14:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsOKifm-thnpnrv4Fa-Kp-JnS32C.jpg"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
