@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>让魔镜告诉你</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/6692b5749f88efd852a0c380</link>
+  <description><![CDATA[全面升级中！预计今年六月至七月间重启，希望大家能喜欢~]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:49:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/9fuy9ebkgkga.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>小徐小徐游刃有余</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FijWJexyaHHbymuk__pgQp44OJ0A.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FijWJexyaHHbymuk__pgQp44OJ0A.jpg</url>
+    <title>让魔镜告诉你</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/6692b5749f88efd852a0c380</link>
+  </image>
+  <itunes:category text="Leisure"/>
+  <item>
+    <title>Ep03：上班这件事，我们边吐槽边复盘！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a749265c4079d62c57e715d</link>
+    <guid isPermaLink="false">6a749265c4079d62c57e715d</guid>
+    <pubDate>Thu, 06 Aug 2026 14:21:34 +0000</pubDate>
+    <description><![CDATA[<p><span>本期主播：青镜里、月亮、睡觉、松鼠</span></p><p><span>当我进入到职场的时候，万万是没想到会成为这样的牛马_(:з」∠)_</span></p><p><span>如果想要听现场的话可以关注b站：青镜里Max，每周日晚八点会有固定的播客节目直播，感谢大家的收听！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6692b5749f88efd852a0c380/lj24BZ9bszAXlQVhPBGTkfcz6LgR.m4a" length="100292455" type="audio/mp4"/>
+    <itunes:duration>01:43:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fv3MvoA5BaUidCNkucYleKS_9n74.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep02：电子榨菜和精神食粮我全都要！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a68bb9b56a3f3491ba676b6</link>
+    <guid isPermaLink="false">6a68bb9b56a3f3491ba676b6</guid>
+    <pubDate>Tue, 28 Jul 2026 14:44:54 +0000</pubDate>
+    <description><![CDATA[<p><span>本期主播：青镜里、月亮、千语、睡觉、知时</span></p><p><span>本次和几位嘉宾聊了聊平时会喜欢的电子榨菜！经典的作品就是这样拥有经久不衰的魅力口牙</span></p><p><span>如果想要听现场的话可以关注b站：青镜里Max，每周日会有固定的播客节目直播，感谢大家的收听！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6692b5749f88efd852a0c380/ltNs9ldB2POiyP8Bu2hHHlWeJYqy.m4a" length="103683782" type="audio/mp4"/>
+    <itunes:duration>01:46:51</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fk5WcmIxSygt4AaM23upozusX2K0.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Ep01：焦虑是什么？焦虑是所有人的兵荒马乱！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a5f6fefa3fec224d5a12320</link>
+    <guid isPermaLink="false">6a5f6fefa3fec224d5a12320</guid>
+    <pubDate>Tue, 21 Jul 2026 13:24:38 +0000</pubDate>
+    <description><![CDATA[<p><span>本期主播：青镜里、月亮、菜菜、千语、绿衣、俺也一样</span></p><p><span>欢迎大家回到让魔镜告诉你！本节目真是多灾多难啊……终于又一次地重启了，希望能保持连载_(:з」∠)_</span></p><p><span>这次节目重启将要扩大范围，不会光聊一些网文相关，而是会继续向更多更广阔的话题发展，希望大家能够喜欢~</span></p><p><span>如果想要听现场的话可以关注b站：青镜里Max，每周日会有固定的播客节目直播，感谢大家的收听！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6692b5749f88efd852a0c380/ljrnagnP8YQ0iOSNf-tvPu_SLynS.m4a" length="116335134" type="audio/mp4"/>
+    <itunes:duration>01:59:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fv3MvoA5BaUidCNkucYleKS_9n74.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
