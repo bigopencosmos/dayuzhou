@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>尖叫lady</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/641eaa8ec527f102f33d98d5</link>
+  <description><![CDATA[以指指月
+因指而见月
+
+两位从事影视创作的女性发起的对谈播客。
+@虫 影视编剧 @阿丽 自由创作人/编导]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:08:37 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p641eaa8ec527f102f33d98d5.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FqPJamSTkPOoDb_jfeoNnqOZHu6W.jpeg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FqPJamSTkPOoDb_jfeoNnqOZHu6W.jpeg</url>
+    <title>尖叫lady</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/641eaa8ec527f102f33d98d5</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>E02：首部举起女权旗帜的国产电影，《好东西》到底用女性主义干了什么？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67552d62bdb9877a9726ec86</link>
+    <guid isPermaLink="false">67552d62bdb9877a9726ec86</guid>
+    <pubDate>Sun, 08 Dec 2024 05:45:43 +0000</pubDate>
+    <description><![CDATA[<p><span>在这期节目里，你将听到：</span></p><p><span>《好东西》好在哪里？</span></p><p><span>面对商业市场的女性主义创作，《好东西》有没有制造性别对立？</span></p><p><span>《好东西》是在吃女性主义的票房红利吗？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrTanYCZ3JtpecLLQSnmeYbQrybt.m4a" length="87991838" type="audio/mp4"/>
+    <itunes:duration>01:29:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPJamSTkPOoDb_jfeoNnqOZHu6W.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>E01:《八角笼中》给男导演们指了一条出路，别再打着女性主义的幌子消费女性，求求了！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/64b01c1a585daadfc827efd8</link>
+    <guid isPermaLink="false">64b01c1a585daadfc827efd8</guid>
+    <pubDate>Thu, 13 Jul 2023 15:45:30 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lvAZNm2O_WQiQdKIiucmPX9m23_j.m4a" length="50339894" type="audio/mp4"/>
+    <itunes:duration>00:59:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqPJamSTkPOoDb_jfeoNnqOZHu6W.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

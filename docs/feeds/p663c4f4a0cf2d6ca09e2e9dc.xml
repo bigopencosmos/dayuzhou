@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>小羊不吃菜的个人播客</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/663c4f4a0cf2d6ca09e2e9dc</link>
+  <description><![CDATA[]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:08:47 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p663c4f4a0cf2d6ca09e2e9dc.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>佚名</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FpZcIm4P7DA9Fmad9Gpyns3BNWbl.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FpZcIm4P7DA9Fmad9Gpyns3BNWbl.jpg</url>
+    <title>小羊不吃菜的个人播客</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/663c4f4a0cf2d6ca09e2e9dc</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>低层/多层/高层住区</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6679153ad3fc5dd6279d121e</link>
+    <guid isPermaLink="false">6679153ad3fc5dd6279d121e</guid>
+    <pubDate>Mon, 24 Jun 2024 06:42:02 +0000</pubDate>
+    <description><![CDATA[<p><span>层数和容积率</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fv540IlgEo5khQ6B0tLhc6-KFByi.m4a" length="704556" type="audio/mp4"/>
+    <itunes:duration>00:00:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpZcIm4P7DA9Fmad9Gpyns3BNWbl.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>土地使用兼容性</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667913e3b6a8412729e5b182</link>
+    <guid isPermaLink="false">667913e3b6a8412729e5b182</guid>
+    <pubDate>Mon, 24 Jun 2024 06:36:19 +0000</pubDate>
+    <description><![CDATA[<p><span>控规-规定性控制要素</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FjMAQm0IlvIS_KrpIMWgHb03AT3E.m4a" length="1480768" type="audio/mp4"/>
+    <itunes:duration>00:01:31</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpZcIm4P7DA9Fmad9Gpyns3BNWbl.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>潮汐交通</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66754beab6a84127295e9df8</link>
+    <guid isPermaLink="false">66754beab6a84127295e9df8</guid>
+    <pubDate>Fri, 21 Jun 2024 09:46:18 +0000</pubDate>
+    <description><![CDATA[<p><span>潮汐交通</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/Fq1D78VC_ALFHucMJlo5B3M85EMF.m4a" length="2283616" type="audio/mp4"/>
+    <itunes:duration>00:02:21</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpZcIm4P7DA9Fmad9Gpyns3BNWbl.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
