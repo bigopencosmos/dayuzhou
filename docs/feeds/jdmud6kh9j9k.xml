@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>场边</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66d41592f065479588539dcb</link>
+  <description><![CDATA[我们想以场边的视角，以体育为切口讲述一些鲜活的故事。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:00:59 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/jdmud6kh9j9k.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>场边</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg</url>
+    <title>场边</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66d41592f065479588539dcb</link>
+  </image>
+  <itunes:category text="Sports"/>
+  <item>
+    <title>vol.07 国足比赛日，球迷众生相</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/671de84344ae79002c59ef9a</link>
+    <guid isPermaLink="false">671de84344ae79002c59ef9a</guid>
+    <pubDate>Sun, 27 Oct 2024 07:14:11 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/llQtrgNBGAKdZbmif7QrYZzsThjo.m4a" length="28377522" type="audio/mp4"/>
+    <itunes:duration>00:29:14</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.06 中国网球来到了青春期</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6709dc6a81cdab3a936dbb5d</link>
+    <guid isPermaLink="false">6709dc6a81cdab3a936dbb5d</guid>
+    <pubDate>Sat, 12 Oct 2024 02:18:18 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/luCitTW2RNXA3rW8DyWXDYd9Nm42.m4a" length="57336278" type="audio/mp4"/>
+    <itunes:duration>00:29:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.05 从小村超走向大国际</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66fbc74981cdab3a9351b8cf</link>
+    <guid isPermaLink="false">66fbc74981cdab3a9351b8cf</guid>
+    <pubDate>Thu, 03 Oct 2024 07:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lqw0ThOzf9A2shlEtRjZ8URa1TJ1.m4a" length="18411504" type="audio/mp4"/>
+    <itunes:duration>00:18:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.04 魔鬼主场是怎么养成的</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66f50a232adfe48b83978815</link>
+    <guid isPermaLink="false">66f50a232adfe48b83978815</guid>
+    <pubDate>Thu, 26 Sep 2024 07:15:47 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lkZwlUifDojziAVzPkwlTA-eOJdk.m4a" length="19243343" type="audio/mp4"/>
+    <itunes:duration>00:19:49</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.03 我在日本换驾照</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66eb9c3b5ca6d0ace3e35b32</link>
+    <guid isPermaLink="false">66eb9c3b5ca6d0ace3e35b32</guid>
+    <pubDate>Thu, 19 Sep 2024 03:36:27 +0000</pubDate>
+    <description><![CDATA[<figure><img src="https://image.xyzcdn.net/FrAm3AksOZBPcAtfZJ7z3jEa8ZLn.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnVxWJ-d-_kkG8cs3Xv4ykbfJpPc.m4a" length="39192147" type="audio/mp4"/>
+    <itunes:duration>00:20:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.02 作为中国球迷，我学会了与自己和解</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66e251acee04007d88f20e59</link>
+    <guid isPermaLink="false">66e251acee04007d88f20e59</guid>
+    <pubDate>Thu, 12 Sep 2024 11:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/lkPg0GnGdeUIgS5ebfJBMS20jsdA.m4a" length="19107709" type="audio/mp4"/>
+    <itunes:duration>00:19:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq9dYbGtVHV1zBZQ2_B-eLHBjPbS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>vol.01 奥运期间：巴黎的变与不变</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66d7c1e0a972b6f2ddcf0238</link>
+    <guid isPermaLink="false">66d7c1e0a972b6f2ddcf0238</guid>
+    <pubDate>Wed, 04 Sep 2024 09:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>在现场看大赛的体验，还有所获得的感受反馈，和在电视机前，电脑前还是不太一样的。来到巴黎现场观看奥运会让你对现在的生活平添了一些希望。我在巴黎找到了很多本真快乐的东西。这些让我重拾了对奥运会，对体育的信心...</span></p><span></span><p><span>【主播】柳林，吴鹏利</span></p><span></span><p><span>【平面设计】Zelig（微博:@Nyorke02）</span></p><span></span><p><span>【微信公众号】场边</span></p><span></span><figure><img src="https://image.xyzcdn.net/FuX6ArFy4RV9Qz3XKkBVf0s5W2Wn.jpeg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvLgyyLe7bv12CPZ7ZxDg4xTU1ip.m4a" length="17662925" type="audio/mp4"/>
+    <itunes:duration>00:18:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkPLVKjsFJ7G6hdvTQzUNem1IBD3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>发刊词：从场边看向更大的世界</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66d6de595a91beebb381a3f0</link>
+    <guid isPermaLink="false">66d6de595a91beebb381a3f0</guid>
+    <pubDate>Tue, 03 Sep 2024 10:00:56 +0000</pubDate>
+    <description><![CDATA[<p><span>我们想以场边的视角，以体育为切口讲述一些鲜活的故事。</span></p><span></span><blockquote><span>吴鹏利：我经常能够到体育大赛的场边，看到了电视转播，社交媒体分享当中所不太为人所见的视角的故事，我想跟大家分享这些故事。</span></blockquote><span></span><blockquote><span>柳林：场边是一个非常独特的视角，场边的意义在与我们从体育中来，但又不完全拘泥于体育。它其实是从体育看向更大的世界。</span></blockquote><span></span><p><span>【主播】柳林，吴鹏利</span></p><span></span><p><span>【平面设计】Zelig（微博:@Nyorke02）</span></p><span></span><p><span>【微信公众号】场边</span></p><span></span><figure><img src="https://image.xyzcdn.net/FrAm3AksOZBPcAtfZJ7z3jEa8ZLn.jpg"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/FmRskV4bzWYtORWEXFvpZlbTHP9o.m4a" length="2333571" type="audio/mp4"/>
+    <itunes:duration>00:02:24</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvnXPNrw-L6hg7l-jhLq-mKt3iC9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
