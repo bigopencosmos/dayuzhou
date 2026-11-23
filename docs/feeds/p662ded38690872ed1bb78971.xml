@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>大有必要</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/662ded38690872ed1bb78971</link>
+  <description><![CDATA[游戏人生..]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:35:42 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662ded38690872ed1bb78971.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>520这一天</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fo4xvk1XtpoktwZbWRpEZb_gzDUO.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fo4xvk1XtpoktwZbWRpEZb_gzDUO.png</url>
+    <title>大有必要</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/662ded38690872ed1bb78971</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+</channel>
+</rss>
