@@ -15,7 +15,7 @@
 
 如果你对我们的播客节目有什么意见，欢迎与我们留言互动，也欢迎关注我们的公众号“前哨科技特训营”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:53:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 10:40:09 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61e78326f4a4629b8ef1bfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -28,6 +28,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/61e78326f4a4629b8ef1bfd3</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>科技前哨｜天上的机房已经比星星，太空通信正在变成太空机房？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b03a7006f7bbb70cd5972c2</link>
+    <guid isPermaLink="false">6b03a7006f7bbb70cd5972c2</guid>
+    <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>今晚抬头，你能数出几颗星？多数城镇上空，这个数字已经被卫星超过了。</span></p><p><span>一个普通城镇头顶，任意时刻有700多颗卫星在地平线以上；日落后的第一个小时，300来颗被阳光照亮；一整夜，一万三千颗不同的卫星从同一个镇子头顶经过。而城里人抬头能看见的恒星，往往只有几十颗。</span></p><p><span>这不只是天文爱好者的抱怨。谷歌已经把 TPU 装进卫星，用 Gemma 4 从轨道上发回一首俳句；SpaceX 申请再发一百万颗，用途写着轨道数据中心。夜空正在从公共景观，变成算力基础设施。</span></p><h2><strong><span>科技扫描</span></strong></h2><p><span>- 特朗普威胁对海外数据中心征「巨额税」</span></p><p><span>- 美国劳登县暂停数据中心审批一年</span></p><p><span>- 台积电2027年一季度起晶圆涨价最高两成</span></p><p><span>- 推理已占 AI 工作负载约三分之二</span></p><p><span>- 荷兰法院禁止比亚迪 Ti7 在欧盟销售</span></p><p><span>- 小米首次在海外卖车</span></p><p><span>- 联合国未就「杀手机器人」监管达成一致</span></p><p><span>- GTA6 首日销售额近四十亿美元</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lhLh2sAqYewP3F3falxE-ytpZfch.m4a" length="21876863" type="audio/mp4"/>
+    <itunes:duration>00:22:32</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>科技前哨｜Anthropic 才五岁已经冲上万亿，最快造富神话真的这么神吗？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6affb802a4a79edf137c0d54</link>
