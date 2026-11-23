@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>汪欣蕾Lacey</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/66068ab8c56678d4cae62876</link>
+  <description><![CDATA[《爱上超模》第三季的选手
+采访了非常多和我一样又不一样的人！
+欢迎订阅我的频道
+爱你们]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:12:45 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p66068ab8c56678d4cae62876.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>bbdolllove</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmM23t4WdF7MKicajIxY0Y2B0K6t.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmM23t4WdF7MKicajIxY0Y2B0K6t.jpg</url>
+    <title>汪欣蕾Lacey</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/66068ab8c56678d4cae62876</link>
+  </image>
+  <itunes:category text="Education"/>
+</channel>
+</rss>
