@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>吳李取鬧</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/643d21fbb9d3d988c8bc9a27</link>
+  <description><![CDATA[《吳李取鬧》是一档讨论我们两位95后女性日常小迷思的节目，我们将不定期随着我们心情来更新节目。
+
+我们会讨论一切与人类有关的话题，主打一个胡说八道，随心所欲，希望大家友好交流，杜绝骂街行为。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:46:15 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p643d21fbb9d3d988c8bc9a27.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>LL123</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FmHTg1XzS7mh6SSfyVURqxlzhR4Y.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FmHTg1XzS7mh6SSfyVURqxlzhR4Y.jpg</url>
+    <title>吳李取鬧</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/643d21fbb9d3d988c8bc9a27</link>
+  </image>
+  <itunes:category text="Education"/>
+</channel>
+</rss>

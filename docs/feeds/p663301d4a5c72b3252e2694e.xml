@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>195分贝</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/663301d4a5c72b3252e2694e</link>
+  <description><![CDATA[欢迎收听《195分贝》，这是一档关注生活 感悟生活 分享更好生活方式的节目。
+
+我们关注生活的方方面面 和你一起看透生活的本质 更加热爱生活。
+
+195分贝 声音将以冲击波的形式传递能量，希望接收到能量的你，能加满看透生活本质的勇气，以及更加热爱生活的动力。
+
+如果你对节目有任何建议，或者有推荐的嘉宾，或者想来成为下一期嘉宾，分享你的故事 认知与观点，欢迎与我们邮件联系：ansonchan111@163.com]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:46:29 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p663301d4a5c72b3252e2694e.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>195分贝-Anson</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fn84eZ-V7ZTl2W4U_hdNDJHS4Wg2.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fn84eZ-V7ZTl2W4U_hdNDJHS4Wg2.jpg</url>
+    <title>195分贝</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/663301d4a5c72b3252e2694e</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>No.7：旅行-自驾穿越桂林落脚广西趣谈(上)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66c41a1533591c27be5ee143</link>
+    <guid isPermaLink="false">66c41a1533591c27be5ee143</guid>
+    <pubDate>Tue, 20 Aug 2024 04:22:44 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/ljqrKQsxpFB8-KJub33Px1WBrfYy.m4a" length="21005373" type="audio/mp4"/>
+    <itunes:duration>00:14:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqmjJOX8rQ2RT2r_8Rjz_iDhds0C.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.6:人物-黄仁勋与英伟达帝国(二)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a9f7ea7349f7a557cf154c</link>
+    <guid isPermaLink="false">66a9f7ea7349f7a557cf154c</guid>
+    <pubDate>Wed, 31 Jul 2024 08:38:01 +0000</pubDate>
+    <description><![CDATA[<p><span>显卡公司合伙人算是有了，接下来就是全身心投入的干起来，所以当时的黄仁勋首先要做的事情就是辞职。</span></p><span></span><p><span>他来到LSI CEO科里根的办公室向老板提出辞职并介绍了接下来自己要做的事。显然在科里根看来，这一通操作多少有点“年轻人的鲁莽”。要知道当时还没有一款需要用到显卡去独立处理的电脑游戏，甚至电脑游戏本身都还非常的幼稚。按照老黄他们的思路，把灶台搭建好，自然会有人来做饭给大家吃的。</span></p><span></span><p><span>基于黄仁勋在LSI工作期间的卓越表现，又或者科里根对老黄本人的欣赏，他给老黄保留了当时的职位，也就是停薪留职。并且当着黄仁勋的面给自己的老朋友唐.瓦伦丁打去了电话。如果你对这个人不熟悉，那你一定听过红杉资本，以及上一期我说到的LSI在成立之初就拿到了红杉资本高额的投资。对 唐.瓦伦丁就是红杉资本的创始人。科里根和他是旧相识，两人在仙童半导体时就是同事。一个是当时的仙童半导体的CEO 一个是销售部门负责人。</span></p><span></span><p><span>虽然有科里根的推荐，但初出茅庐的老黄在唐.瓦伦丁这样的投资大佬面前，完全就是小学生，又害怕又紧张。更要命的是他手里那份商业计划书根本就不完成。后来老黄说：“那份商业计划书一直就没有完成过”，现在听起来多少有点凡尔赛的意味。</span></p><span></span><p><span>这是一次实在不怎样的商业会面，唐瓦伦丁说到。但是科里根让我给你钱，那我决定给你，但是如果你让我亏损，我一定宰了你。</span></p><span></span><p><span>当然这样讲多少有点夸张的成分，虽然当时的老黄确实是创业新人，但毕竟在行业里也有着很高的业界声誉，所以加上萨特.希尔的100万美元投资，黄仁勋的开局就拿到了200万美元融资，估值近600万美元。</span></p><span></span><p><span>创新的路上历来都是被质疑声不断的，虽然黄仁勋他们的想法逻辑没有问题，把高成本窄市场的技术应用变成低成本宽市场，人人都能感受到3D画面带来的视觉效果，尤其是在游戏端。但问题在于当时没什么成年人玩电脑游戏，并且黄仁勋他们本身也并不作游戏开发。灶台搭建好，有没有人愿意来做厨子本身就是一个很大的问题，并且还没什么人等着吃酒席，这就更不好办了。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lnr6vRlWqIdeAVK4IpEP435zSOh3.m4a" length="29830041" type="audio/mp4"/>
+    <itunes:duration>00:20:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmuJimgLtGu4_VS8V1AdQ6liaBYI.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.5:人物-黄仁勋与英伟达帝国(一)</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66a086d533ddcbb53cb0330c</link>
+    <guid isPermaLink="false">66a086d533ddcbb53cb0330c</guid>
+    <pubDate>Wed, 24 Jul 2024 04:45:08 +0000</pubDate>
+    <description><![CDATA[<p><span>2024年6月19日英伟达市值达到3.34万亿，赶超微软&amp;苹果两大巨头，登顶世界第一！这一成绩的获得绝对离不开英伟达的创始人兼CEO黄仁勋。下面我们将用两期的时间给大家详细的解读黄仁勋以及英伟达帝国的发展史。</span></p><span></span><p><span>黄仁勋 美籍华人，英伟达首席执行官，身家突破900亿美元，是中国三代首富钟睒睒王健林马云身家的总和。</span></p><span></span><p><span>在如今的中国教育市场里，女看谷爱凌 男看黄仁勋，已经成为了许多有资本可以高端鸡娃的家长的共识。那么今天我们就回到1963年老黄出生的那一年，用一期节目的时间，聊聊老黄这些年都经历了些什么。</span></p><span></span><p><span>1963年2月17日 黄仁勋出生在中国台湾省，父亲黄兴泰是当时开利空调公司的工程师，母亲罗采秀是一位小学教师。在黄仁勋4岁的时候，父亲因为公干培训去到了美国的纽约，而这一趟美国行的所见所闻，让很有远见的父亲暗下决心一定要送孩子到美国去接受教育。</span></p><span></span><p><span>上世界60年代 我相信很多正在听节目的听众朋友可能对这个时间节点的中国没有什么概念。60年代我们中国刚刚经历了三年自然灾害，抗美援朝结束也没有几年，可以说依然是百废待兴的状态。如果大家看过原子弹研制的电影或者纪录片，相信大家对当时中国的艰苦条件就有一定的了解了。而60年代的美国是什么样的呢？我就说几个60年代很火的女明星，像玛丽莲梦露，奥黛丽赫本，以及猫王。相信大家应该能脑补当时的中美差距有多大了吧？</span></p><span></span><p><span>好回到今天的主人公，在黄爸从美国回到台湾不久后，因为工作调动的原因，他们一家人搬到了泰国工作和生活，此时的黄仁勋5岁多。对于一个五岁多孩子来说，正是天性释放的年纪，我想这里大家是不是会觉得接下来就是天才少年各种无死角展示惊人天赋的桥段了，而真实的情况是，小时候的黄仁勋是一个不折不扣的24k纯金问题少年。有一个著名的故事给大家讲讲 你们可以感受一下。在泰国的时候 黄仁勋有一次把打火机用的煤油倒进了游泳池里，然后将其点燃，并且自己跳了进去。在水下观看水面上燃烧的火焰，他在接受采访时说：“我至今仍然记得那个画面，美得难以置信。”这种事情即便发生在现在，估计也免不了一顿混合双打。但当时的黄爸黄妈并没有这样，反而夸赞黄仁勋的勇敢，并且黄妈还带着自豪的说：“beautiful dive”。这得是多么睿智且心大的父母才能做得了的事情。保护了黄仁勋的“野”，这也为日后他的辉煌打下了第一个性格基础。</span></p><span></span><p><span>在黄仁勋9岁的时候父母还是把他和哥哥送到了美国的亲戚家，并选择了当地的一所半私立半公立的学校就读。有媒体曾报道说这所叫“奥奈达QIN信会”的学校是当地一所收录问题学生的学校，但据黄仁勋自己说，那是奥奈达市唯一的一所学校，所有的孩子都在那里就读，因此学校里有“不良”少年，也不乏很多正常的学生。而他和哥哥也是当时这所学校唯一的两位中国人。</span></p><span></span><p><span>而9岁的黄仁勋在这样的学校里除了因为年龄太小又是外国人喜提各种被捉弄欺负，以及比自己大8岁身上带着7处刀伤的古惑仔室友以外，更重要的是学会了如何适应环境如何与人打交道如何生存下来。他回忆说：“我的室友知道我是年龄较小的孩子，同时也是学校成绩最好的学生。当时他17岁还不会阅读，我慢慢教他读书，然后我们成为了朋友，从此以后没人敢再找我的麻烦。”当时还有一个细节，黄仁勋帮古惑仔室友补习，古惑仔室友要求黄仁勋举重练习肌肉，所以直到现在60岁的老黄即便是穿着黑皮夹克依然能感受到腱子肉的存在。当然也是在这里老黄干过厕所清洁工的工作，但对于老黄来说，他认为这里是他实现第一次人生跨越的美好回忆......</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llSF26TqbMYtUG1L7tpeUuzLHSHZ.m4a" length="20817501" type="audio/mp4"/>
+    <itunes:duration>00:14:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fq8cvEEwRXzTdALeZspwUmaKJUC3.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.4:攀峰-攀登者与珠穆朗玛的传奇</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66972f0e8fcadceb90db31ae</link>
+    <guid isPermaLink="false">66972f0e8fcadceb90db31ae</guid>
+    <pubDate>Wed, 17 Jul 2024 02:40:12 +0000</pubDate>
+    <description><![CDATA[<p><span>珠穆朗玛 世界最高山峰 海拔8848.86米，是喜马拉雅山脉的主峰，它的北坡在中国的青藏高原境内，南坡在尼泊尔境内。地球上的绝大多数人只能在照片或者视频中看到它的身影，而另一群人则希望以更虔诚的方式去领略它的美。</span></p><span></span><p><span>本期嘉宾：</span></p><span></span><p><span>石磊</span></p><span></span><p><span>中国第一位户外运动硕士研究生</span></p><span></span><p><span>前国家登山队教练</span></p><span></span><p><span>职业商攀主理人</span></p><span></span><p><span>曾四次率队攀登珠峰，两次成功登顶，具有丰富的户外攀峰经验。</span></p><span></span><p><span>如您也是攀峰爱好者，想更好的体验雪山的美，欢迎评论区留言垂询。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrutRgl2Wj-foiez2w-2keuQeqmB.m4a" length="70223381" type="audio/mp4"/>
+    <itunes:duration>00:48:23</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkIq_OX5nwT69iopxCGfjwSyGP1e.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.3:暑假-你是否觉得如临大敌</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/668deefe8fcadceb903ae5b5</link>
+    <guid isPermaLink="false">668deefe8fcadceb903ae5b5</guid>
+    <pubDate>Wed, 10 Jul 2024 02:16:29 +0000</pubDate>
+    <description><![CDATA[<p><span>又到了一年一关的暑假 相信孩子们已经都拿到了期末成绩，无论是欣喜还是叹息，此时需要头疼的人轮到了家长。今天我们邀请到一位蔚来车主，绘本教育创业者，民宿主理人，目前还就职于一家儿童博物馆，更重要的是，她还是两位小学生的妈妈。让我们一起来听一听她和孩子们暑假发生的故事。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lpGnxONp8d-qiRZpXBQTQSkdTfV4.m4a" length="63064441" type="audio/mp4"/>
+    <itunes:duration>00:43:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiTlCEBGH5F6xrnEfetAjHzRQbPN.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.2:专访-乐道汽车区域负责人Ryan雪毅</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66726a5cb6a8412729ceba1a</link>
+    <guid isPermaLink="false">66726a5cb6a8412729ceba1a</guid>
+    <pubDate>Wed, 19 Jun 2024 05:19:22 +0000</pubDate>
+    <description><![CDATA[<p><span>中国新能源汽车市场发展到今天，真的可以用如火如荼这样的词来形容。从2018年全年销量125万台，到2023年全年销量949万台。仅仅五年时间，近八倍的增量，就像发射的火箭一样势不可挡。来到2024年，随着小米汽车的入局，性价比价格区间的竞争，也正式拉开帷幕。而作为纯电新能源老牌劲旅，蔚来汽车也推出了自己的全新子品牌：乐道汽车。</span></p><span></span><p><span>今天我们很荣幸的邀请到了蔚来汽车乐道品牌川滇藏负责人邓雪毅先生，我们将一起和大家聊聊乐道汽车，聊聊如火如荼的中国新能源汽车市场。</span></p><span></span><p><span>如果你想了解乐道汽车更多咨询以及政策信息，欢迎在本期节目的评论区留言，嘉宾将逐一做回复。</span></p><span></span><p><span>如果你喜欢本期节目，欢迎把它分享给你喜欢的朋友和家人。也欢迎你点击订阅我们的节目，一起用声音传递能量。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvhNzeYZ7T3k9K9RGOaJc2YiLh2z.m4a" length="56642785" type="audio/mp4"/>
+    <itunes:duration>00:39:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqhIF0ywA3kTCv0pQ_55ZjkH3heB.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>No.1:择业-毕业以后的人生大考</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/666914bbc26e396a3627d004</link>
+    <guid isPermaLink="false">666914bbc26e396a3627d004</guid>
+    <pubDate>Wed, 12 Jun 2024 07:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>录制本期节目的当下，正是一年一次的高考在即。一场高考 开启一段别样人生，在感叹十余年寒窗终于要初见云开的同时，有另一群人 正在经历着另一场人生大考。今天很开心邀请到蔚来汽车成都分公司用户关系部的三位成员，他们将分享自己的故事，与大家一起探讨“择业”，这个人生中的重要课题。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lrPCUtKSUH82yRKKLis8UhSpejCZ.m4a" length="50709277" type="audio/mp4"/>
+    <itunes:duration>00:34:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FopY43yJQ3C7NE3-NrQj1M7J9gBP.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
