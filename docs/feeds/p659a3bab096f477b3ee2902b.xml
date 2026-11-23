@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>无限上行TheClimbs</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/659a3bab096f477b3ee2902b</link>
+  <description><![CDATA[人生是一场登顶，每条路线都各自精彩。前阿里巴巴和字节跳动技术专家，现在是品牌创始人，聊聊成长。
+]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:36:00 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p659a3bab096f477b3ee2902b.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>LEON在攀登</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FrTTwTtDJsibRhBwf0FyddACneTF.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FrTTwTtDJsibRhBwf0FyddACneTF.jpg</url>
+    <title>无限上行TheClimbs</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/659a3bab096f477b3ee2902b</link>
+  </image>
+  <itunes:category text="Education"/>
+  <item>
+    <title>EP3：Notion 从入门到放弃？没你想象那么难，跟着我轻松实现一个轻重缓急的待办清单吧</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67543a4317cd5416ad3649ed</link>
+    <guid isPermaLink="false">67543a4317cd5416ad3649ed</guid>
+    <pubDate>Sat, 07 Dec 2024 12:39:24 +0000</pubDate>
+    <description><![CDATA[<p><span>最近在于一些听友和朋友聊天的时候，我发现其中有不少人在尝试使用 Notion 这个工具，帮助他们的工作甚至生活中，去管理时间，待办事项，目的就是为了提高效率，还有的小伙伴想去通过 Notion 沉淀一些工作中的经验和知识，已帮助他们更有效率更快地完成工作。特别对于一些有一定工作资历的朋友，会有一种感觉：随着出来工作的时间越久，接触到的人、事、经历和经验知识越来越多，一些重要的工作经验肯定不舍得就那么“用完即弃”。也因为个人的局限性，当想去回看这些东西的时候，不可能很清楚的记得每一个相关的细节或者更加详细的点，所以呢，就需要使用一些工具去帮助自己去记下来。即使是现在用不到，那么在以后，这些有价值的信息也是可以去反哺到自己工作和生活中的。不知道你们有没有一种同感，“噢！这个东西我以前好像有印象，就是记不起来在哪里看过”，或者“这个问题我以前解决过呀，就是记不起来原来是怎么弄的”，往往就要重新花时间去想怎么解决。这些感觉起码让我感觉非常懊恼。</span></p><span></span><p><span>其实，这些想法是非常有意义的。就像我们会用照片留下美好瞬间一样。通过记笔记写文档的方式，在根本上的目的是一样的：通过把经验和知识总结下来，也是对我们过去脑力付出的印记，我愿称之为人生的“数字遗产 Digital Legacy”，是利用现代工具，去沉淀我们自己一种落地方式。某种程度来说，这些数字遗产塑造了一部分的我们，我们的工作方式，习惯，甚至 maybe 大一点来说，对社会的贡献等等。对于关注长期成长的人来说，就是一步步走向未来那个更加酷的自己的痕迹。</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fh6LFQ6le-2zhM4ZPMdQIGzYFwkG.png"></figure><span></span><p><strong><span>内容里到的自动分类公式：</span></strong></p><span></span><figure><img src="https://image.xyzcdn.net/FoVfvPvv5OVnHYe4aMSIobpQh4WT.png"></figure><span></span><p><span><a class="timestamp" data-timestamp="0">00:00</a> 节目介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="99">01:39</a> 本期内容的灵感</span></p><span></span><p><span><a class="timestamp" data-timestamp="300">05:00</a> Notion 简单介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="541">09:01</a> 新手小白为什么觉得 Notion 难上手</span></p><span></span><p><span><a class="timestamp" data-timestamp="1129">18:49</a> Notion 提供给我的价值的天花板在哪里呢</span></p><span></span><p><span><a class="timestamp" data-timestamp="1470">24:30</a> </span><strong><span>一起打造一个轻重缓急的待办清单吧（小于 10 分钟）</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="2019">33:39</a> P.A.R.A 信息组织方法介绍</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llIFXS6ZmB2A65Jho1RTzq4boIZw.m4a" length="38799961" type="audio/mp4"/>
+    <itunes:duration>00:39:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkyqV9W1D9awYRafOAWaB4z1GP2c.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP2：每次读书都犯困？这些内容形式也能让你高效成长</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/67021e3b6c7f81778606642b</link>
+    <guid isPermaLink="false">67021e3b6c7f81778606642b</guid>
+    <pubDate>Sun, 06 Oct 2024 05:20:58 +0000</pubDate>
+    <description><![CDATA[<p><span>整理了一下这些年来自己获取知识的一些方法和习惯，的确我也读了一些书，甚至有些书还写了读后感。但我也发现，从书本获取信息确实在我所有的渠道里面，占得比重不大，特别在大厂很卷的日子里，要读完一本书，对我来说，或者 maybe 对很多人来说，是非常有难度的。所以，这期节目，我想分享和梳理一下自己除了读书以外，其他一些获取输入的方式。</span></p><span></span><p><span><a class="timestamp" data-timestamp="207">03:27</a> 浅聊一下读书</span></p><span></span><p><span><a class="timestamp" data-timestamp="551">09:11</a> 长视频更有深度</span></p><span></span><p><span><a class="timestamp" data-timestamp="1071">17:51</a> 访谈与播客</span></p><span></span><p><span><a class="timestamp" data-timestamp="1912">31:52</a> 发现故事</span></p><span></span><p><span><a class="timestamp" data-timestamp="2565">42:45</a> 灵感知识库</span></p><span></span><p><span>Free Solo -- Alex Honnold</span></p><span></span><figure><img src="https://image.xyzcdn.net/FonpxbaGZ4i6GX_NirSVsWGq9dQn.png"></figure><span></span><p><span>A Divorce Attorney's Thoughts On Love and Marriage -- James Sexton</span></p><span></span><figure><img src="https://image.xyzcdn.net/FuSwa1I6qEG6hgCRtzcQl0L6ONRw.png"></figure><span></span><p><span>Black Hat Hacker -- Gummo</span></p><span></span><figure><img src="https://image.xyzcdn.net/FovDD14b-K7n5G5dOG3utvPbg-Pl.png"></figure><span></span><p><span>Ex Gang Member interview -- Johnny</span></p><span></span><figure><img src="https://image.xyzcdn.net/FkqsMimm_U5Yob2EjRhpLQj_6DFx.png"></figure><span></span><p><span>综合信息来源</span></p><span></span><ul><span>  </span><li><span>长视频/(海外播客/访谈)：YouTube/Bilibili</span></li><span>  </span><li><span>海外播客平台：Spotify/YouTube/Apple Podcast</span></li><span></span></ul><span></span><p><span>本期内容提到的 Podcasts</span></p><span></span><ul><span>  </span><li><span>Soft White Underbelly</span></li><span>  </span><li><span>Lex Fridman</span></li><span>  </span><li><span>Andrew Huberman</span></li><span>  </span><li><span>Joe Rogan</span></li><span></span></ul><span></span><p><span>信息消费辅助工具</span></p><span></span><ul><span>  </span><li><span>了解工具：Speachify, Trancy</span></li><span>  </span><li><span>网页笔记工具：note anywhere</span></li><span></span></ul><span></span><p><span>知识库</span></p><span></span><ul><span>  </span><li><span>Notion</span></li><span>  </span><li><span>Obsidian</span></li><span></span></ul><span></span><p><span>本期稿件：</span><a href="https://artsylab.notion.site/EP2-10f87fa10f7b8033bd3af018ecbb91d5?pvs=4" data-url="https://artsylab.notion.site/EP2-10f87fa10f7b8033bd3af018ecbb91d5?pvs=4"><span>EP2：每次读书都犯困？这些内容形式也能让你高效成长</span></a></p><span></span><p><span>本期音乐：Street Lights - Kanye West/Ye</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lt_U73536dst07vR8oiA9WPimyAi.m4a" length="45867529" type="audio/mp4"/>
+    <itunes:duration>00:47:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fij_sXXPnSC93Q6K3HTaGMWLcQmm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP1: Kanye West 这个时代最具争议性的全能型天才与疯子（含试听会体验）</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66f02a2887a92427760fabe3</link>
+    <guid isPermaLink="false">66f02a2887a92427760fabe3</guid>
+    <pubDate>Sun, 22 Sep 2024 14:31:04 +0000</pubDate>
+    <description><![CDATA[<p><span>刚刚从 Kanye West 在海口 Vultures Listening Experience Party 回来。就很想去分享一下我对 Kanye 的了解和他对我的一些启发。以下内容我将以 Kanye 来称呼他。</span></p><span></span><p><span>Kanye West，也就是改名后的 Ye，是一个相当具有争议的一号人物。你可能是他的硬核老粉，也可能是刚入坑的，也可能对他误解，也可能完全不知道他。但是相信我，他做过的音乐、设计或者甚至一些爆米花新闻，你一定会略有耳闻。</span></p><span></span><p><span>首先 Kanye 不是一个网红，因为我去做 research 的时候，发觉一些博主以网红这个词去形容他，我觉得是十分不准确的。Kanye 首先是一位美国的音乐人，更具体来说，是兼具制作和说唱能力的音乐人，另外，他还具有多重的身份：时装设计师、企业家、艺术家，不能说是全能，只能说非常全面和多才多艺，在音乐和时尚艺术领域绝对是先锋级且真实改变进程的人，在全球具有巨大的影响力。</span></p><span></span><p><span>这期节目，就让我们来认识一下这个天才与疯子背后的故事！还有我参加试听会的一些经历。</span></p><span></span><p><span><a class="timestamp" data-timestamp="152">02:32</a> 对 Kanye 的初印象</span></p><span></span><p><span><a class="timestamp" data-timestamp="324">05:24</a> 深入了解 Kanye 的两面</span></p><span></span><p><span><a class="timestamp" data-timestamp="704">11:44</a> 音乐成就</span></p><span></span><p><span><a class="timestamp" data-timestamp="1609">26:49</a> 时尚成就</span></p><span></span><p><span><a class="timestamp" data-timestamp="2034">33:54</a> 一切的转折点 — DONDA 离世</span></p><span></span><p><span><a class="timestamp" data-timestamp="2231">37:11</a> “疯批” Kanye</span></p><span></span><p><span><a class="timestamp" data-timestamp="3000">50:00</a> 915 海口 Vultures 试听会体验</span></p><span></span><p><span><a class="timestamp" data-timestamp="3844">64:04</a> 最后</span></p><span></span><figure><img src="https://image.xyzcdn.net/FnRXKKYEr4hXTwgmbgQNRkpaa6m6.JPG"></figure><span></span><p><span>本期稿件：</span><a href="https://artsylab.notion.site/EP1-Kanye-West-ab4c451426cd4a99967803d5f604dc33?pvs=4" data-url="https://artsylab.notion.site/EP1-Kanye-West-ab4c451426cd4a99967803d5f604dc33?pvs=4"><span>EP1：Kanye West 这个时代最具争议性的全能型天才与疯子</span></a></p><span></span><p><span>本期音乐：Runaway - Kanye West/Ye</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lv_XU1Z8jm2BM-XE-OARnudXeOLW.m4a" length="67870293" type="audio/mp4"/>
+    <itunes:duration>01:09:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fk7DY4lQII6cTW_IMe8QOJpwIXrI.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>EP0：《无限上行 THE CLIMBS》这档播客想聊点什么！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/65bceae235dd8780ed6f38e6</link>
+    <guid isPermaLink="false">65bceae235dd8780ed6f38e6</guid>
+    <pubDate>Fri, 02 Feb 2024 13:15:13 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>欢迎大家收听《无限上行 The Climbs》</span></strong></p><span></span><p><span>😝 终于录了第一期节目了 I DO NAIL IT</span></p><span></span><p><span>这是 EP Zero，第 0 期节目，是一个 intro，主要是介绍这个新播客的内容。如果你听完喜欢或者感兴趣，欢迎订阅！节目录制的日志是 2024 年 2 月 1 日，是新一年的开始，节目会在一年给大家不一样的输入，让大家感受到我的能量。节目在农历新年之前发布，同样也希望我的声音能能在回家路上给大家带来一些陪伴。</span></p><span></span><p><strong><span>人生是一场登顶，每条路线在 2024 都各自精彩</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="50">00:50</a> 和播客的渊源</span></p><span></span><p><span><a class="timestamp" data-timestamp="510">08:30</a> 选择播客这种创作形式</span></p><span></span><p><span><a class="timestamp" data-timestamp="885">14:45</a> 为什么叫《无限上行 The Climbs》</span></p><span></span><p><span><a class="timestamp" data-timestamp="1165">19:25</a> 播客会聊的话题</span></p><span></span><p><span>本期涉及音乐：The Climb - Miley Cyrus</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lq3K6sSiJ3Wjr3AZoSaA3nquDOwI.m4a" length="21542906" type="audio/mp4"/>
+    <itunes:duration>00:29:29</itunes:duration>
+    <itunes:image href="https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsLWxBcnFod0gtVzNIZzFRN3ZZT2tIRHZOMGwucG5n.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
