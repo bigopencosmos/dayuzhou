@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>在逃公主</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/666aed6e3dbac0a463714931</link>
+  <description><![CDATA[主播：阿烟
+
+INTP拖延症
+
+巴厘岛旅居 | 越野跑，马拉松爱好者 
+
+聊点I人的躲藏巴厘岛，P人的拖延节奏。
+爱跑步的生活]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:49:26 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p666aed6e3dbac0a463714931.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>YAN_b1B8</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg</url>
+    <title>在逃公主</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/666aed6e3dbac0a463714931</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>30分钟巴厘岛疗愈瑜伽村 | 白噪音 | 助眠 | 解压 | 冥想 | 深度工作</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a4900622e335a35a80dffb5</link>
+    <guid isPermaLink="false">6a4900622e335a35a80dffb5</guid>
+    <pubDate>Sat, 04 Jul 2026 12:46:51 +0000</pubDate>
+    <description><![CDATA[<p><span>录了一段在巴厘岛瑜伽村，餐厅和休息泳池边的白噪音</span></p><p><span>很适合解压，助眠，深度学习工作的疗愈环境音</span></p><p></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/666aed6e3dbac0a463714931/lp8_X7-kss41L6BxirYVZ4o7fRDw.m4a" length="15449055" type="audio/mp4"/>
+    <itunes:duration>00:32:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>003.「巴厘岛旅行」这还能比特种兵更极限的旅程吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667d58dac13b46d76c4ccb57</link>
+    <guid isPermaLink="false">667d58dac13b46d76c4ccb57</guid>
+    <pubDate>Thu, 27 Jun 2024 12:19:38 +0000</pubDate>
+    <description><![CDATA[<p><span>超长待机48小时的一只烟和Stephen，分享我们这两天不睡觉的特种兵火山行程，太累了，垮了....</span></p><p><span>给近期计划来印尼的朋友一点小小建议。</span></p><p><span>只有一个鸡块的印尼饭</span></p><figure><img src="https://image.xyzcdn.net/FvbJ6Yrd_BtxkJdG3P77P4u8Dumt.JPG"></figure><p></p><p><span>[ijen蓝火]几百人围着小火苗狂拍</span></p><figure><img src="https://image.xyzcdn.net/FtnUiG768aYmU6p29aMvLfU_LFQG.JPG"></figure><p><span>[bromo homestay]床上不知道是老鼠屎还是啥</span></p><figure><img src="https://image.xyzcdn.net/Fg7dQPrRHJ4PlmtRpe0VTblw2xT9.JPG"></figure>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lvNyVDx7nMclb_vy_OB55XSt_DEm.m4a" length="34937544" type="audio/mp4"/>
+    <itunes:duration>00:36:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmwkZm3hVDh5M67RNLTnObtg1ONS.png"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>002.「巴厘岛旅行」P人居然教J人整理清单</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667b5599f0be212753496734</link>
+    <guid isPermaLink="false">667b5599f0be212753496734</guid>
+    <pubDate>Tue, 25 Jun 2024 23:41:13 +0000</pubDate>
+    <description><![CDATA[<p><span>我们在去机场的路上，路上来聊聊我们整理行李的抓狂事件和机场故事，松弛感的生活要开始了...</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loZxWaDQG6ECpdiAKa6-7Fea3hN_.m4a" length="41423239" type="audio/mp4"/>
+    <itunes:duration>00:48:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>001.INFP和ENFJ真的是默契旅行同伴吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/667843c5b6a8412729c374a5</link>
+    <guid isPermaLink="false">667843c5b6a8412729c374a5</guid>
+    <pubDate>Sun, 23 Jun 2024 15:48:21 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>本期是INFP和ENFJ去巴厘岛旅行前的问答环节和吐槽大会。</span></strong></p><span></span><p><strong><span>这次一只烟（INFP）来Stephen（ENFJ）家里终于把我们巴厘岛的行程安排好了，对于这次还为开始的旅行，我们似乎已经有了一些小的摩擦点…</span></strong></p><span></span><p><span><a class="timestamp" data-timestamp="20">00:20</a> Stephen（ENFJ）E人的抓马自我介绍</span></p><span></span><p><span><a class="timestamp" data-timestamp="56">00:56</a> Q&amp;A问答环节</span></p><span></span><p><span><a class="timestamp" data-timestamp="66">01:06</a> 对于巴厘岛之旅最期待什么？</span></p><span></span><p><span><a class="timestamp" data-timestamp="240">04:00</a> 两年前我们第一次旅行的回忆</span></p><span></span><p><span><a class="timestamp" data-timestamp="412">06:52</a> J人焦虑P人不做计划哈哈哈哈</span></p><span></span><p><span><a class="timestamp" data-timestamp="486">08:06</a> INFP的freestyle性格不太顾虑其他人感受</span></p><span></span><p><span><a class="timestamp" data-timestamp="560">09:20</a> 旅行中的边界感</span></p><span></span><p><span><a class="timestamp" data-timestamp="720">12:00</a> 吐槽环节</span></p><span></span><p><span><a class="timestamp" data-timestamp="746">12:26</a> Stephen大吐槽我经常失联不回复微信</span></p><span></span><p><span><a class="timestamp" data-timestamp="875">14:35</a> 我被Stephen 24小时想要跟我密切联系而焦虑</span></p><span></span><p><span><a class="timestamp" data-timestamp="900">15:00</a> J人对P人的吐槽旅行计划毫无条理</span></p><span></span><p><span><a class="timestamp" data-timestamp="1036">17:16</a> INFP和ENFJ是很默契的组合</span></p><span></span><p><span><a class="timestamp" data-timestamp="1270">21:10</a> J人喜欢P人看到计划后赞扬的成就感</span></p><span></span><p><span><a class="timestamp" data-timestamp="1540">25:40</a> 为什么选择住青旅</span></p><span></span><p><span>来Stephen家蹭饭，泰式餐的招待，大夸赞Stephen和他男朋友的厨艺</span></p><span></span><figure><img src="https://image.xyzcdn.net/luqs560zy3VygIMaJB8S7YuZ5r17.PNG"></figure><span></span><p><span>2022年我们第一次出去玩</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fuezbu6kwIKaWnxWc93c7XXF13FM.PNG"></figure><span></span><p><span>Stephen规划的大蝙蝠地图</span></p><span></span><figure><img src="https://image.xyzcdn.net/FgfxpUbvKxmaFOMhXU_-nSyTDguf.JPG"></figure><span></span><p><span>认真的J人让P人很崇拜</span></p><span></span><figure><img src="https://image.xyzcdn.net/Fli3es1jMxnkwczf7-PkWyc1PMEl.JPG"></figure><span></span><p><span>欢迎订阅「在逃公主」不定期与你聊聊家常，聊聊我近期发生的开心、讨厌、生气的生活</span></p><span></span><p><span>「主播介绍」</span></p><span></span><p><span>一只烟 INFP</span></p><span></span><p><span>自由职业 | 健身教练 | 小红书博主</span><a href="https://www.xiaohongshu.com/user/profile/54b015ef2e1d9362cda18d7d?xhsshare=CopyLink&amp;appuid=54b015ef2e1d9362cda18d7d&amp;apptime=1719186983" data-url="https://www.xiaohongshu.com/user/profile/54b015ef2e1d9362cda18d7d?xhsshare=CopyLink&amp;appuid=54b015ef2e1d9362cda18d7d&amp;apptime=1719186983"><span>一只烟</span></a></p><span></span><p><span>向往自由，所以不爱坐班工作，选择当个自由职业者</span></p><span></span><p><span>爱户外 徒步/越野跑/骑行</span></p><span></span><p><span>I人习惯独处，独来独往的孤僻家</span></p><span></span><p><span>但喜欢把事情在媒体上分享给所有人看</span></p><span></span><p><span>「本期嘉宾」</span></p><span></span><p><span>Stephen ENFJ</span></p><span></span><p><span>gap year的自由人｜小红书博主</span><a href="https://www.xiaohongshu.com/user/profile/5f966fff0000000001000bf6?xhsshare=CopyLink&amp;appuid=54b015ef2e1d9362cda18d7d&amp;apptime=1719186997" data-url="https://www.xiaohongshu.com/user/profile/5f966fff0000000001000bf6?xhsshare=CopyLink&amp;appuid=54b015ef2e1d9362cda18d7d&amp;apptime=1719186997"><span>Stephen Shao</span></a></p><span></span><p><span>关于「在逃公主」</span></p><span></span><p><span>想把播客当诉说站在播客让大家更了解我，也想想讲述普通人对自由生活的心态想法，通过播客的方式去了解自己的生活和朋友的生活。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lmO3lYCrPdYaTER2P2jC9OznYVWi.m4a" length="48771926" type="audio/mp4"/>
+    <itunes:duration>00:28:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg"/>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>我们都是可以选择自由的普通人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6676d145c26e396a369852f1</link>
+    <guid isPermaLink="false">6676d145c26e396a369852f1</guid>
+    <pubDate>Sat, 22 Jun 2024 13:27:33 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>这一期是「在逃公主」正式开播的第一期 ，来聊聊 普通人的自由生活，我们都有选择自由的权利，简单的介绍了我的个人资料，讲讲我是怎么寻找生活中的“自由”，以及在这个礼拜我觉得自由的事情和即将开始的巴厘岛旅程。</span></strong></p><p><span><a class="timestamp" data-timestamp="0">00:00</a> [在逃公主]这档博客的主题方向</span></p><p><span><a class="timestamp" data-timestamp="78">01:18</a> 自我介绍</span></p><p><span><a class="timestamp" data-timestamp="315">05:15</a>这周感觉最自由的生活「大雷山重装露营」</span></p><p><span><a class="timestamp" data-timestamp="637">10:37</a>城市里的我让我偷感很重，山里却是个放纵野孩子</span></p><p><span><a class="timestamp" data-timestamp="873">14:33</a>属于5个女人的晚餐</span></p><p><span><a class="timestamp" data-timestamp="1155">19:15</a>旷野治好了我的失眠症</span></p><p><span><a class="timestamp" data-timestamp="1447">24:07</a>大雷山不属于这个世界，但存在在我的世界</span></p><p><span><a class="timestamp" data-timestamp="2112">35:12</a>即将开始INFP和ENFJ的巴厘岛旅行</span></p><p><span><a class="timestamp" data-timestamp="2532">42:12</a>P人和J人的旅行态度</span></p><p></p><p><span>欢迎订阅「在逃公主」不定期与你聊聊家常，聊聊我近期发生的开心、讨厌、生气的生活</span></p><p></p><p><span>「主播介绍」</span></p><p><span>一只烟 INFP</span></p><p><span>自由职业 | 健身教练 | 小红书博主</span></p><p><span>向往自由，所以不爱坐班工作，选择当个自由职业者</span></p><p><span>爱徒步/越野跑/骑行</span></p><p><span>i人习惯独处，独来独往的孤僻家</span></p><p><span>但喜欢把事情在媒体上分享给所有人看</span></p><p></p><p><span>关于「在逃公主」</span></p><p><span>想把播客当诉说站在播客让大家更了解我，也想想讲述普通人对自由生活的心态想法，通过播客的方式去了解自己的生活和朋友的生活。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/lukFG-LW62Ctp_USH_lhrL5ju1CM.m4a" length="89744655" type="audio/mp4"/>
+    <itunes:duration>00:52:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkuLYH7oDFu3C5WnoVR8wrGEgXq-.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
