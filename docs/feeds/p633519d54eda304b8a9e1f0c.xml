@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:13:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 10:29:50 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,17 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>PANews 11月23日加密日报</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b040fd84ecad672d41049d3</link>
+    <guid isPermaLink="false">6b040fd84ecad672d41049d3</guid>
+    <pubDate>Mon, 23 Nov 2026 10:13:19 +0000</pubDate>
+    <description><![CDATA[<p><span>今日关注：</span></p><p><span>Ark Invest自Anthropic上市以来买入1.46亿美元股份，同时减持以太坊与Solana质押ETF</span></p><p><span>特朗普TRUMP币晚宴入场门槛大降，518美元即可获邀</span></p><p><span>比特币现货 ETF 上周净流出 17.9 亿美元，创历史第三高</span></p><p><span>分析师：币安比特币未平仓合约规模较此前高点下跌近40%，过去一年减少近45亿美元</span></p><p><span>蚂蚁S19、神马M60和M66等旧款比特币矿机已到达关机币价</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lpIIhWDYaDthzUr4pw1uNjsXcj2D.m4a" length="4343740" type="audio/mp4"/>
+    <itunes:duration>00:04:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg9Tjc7mUGgLcomXfWbwdND21sDc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>PANews 11月20日加密日报</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0050336f7bbb70cd58919d</link>
