@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>S锅锅的飙戏时间</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/667bc022fb2274b590cbf795</link>
+  <description><![CDATA[一个逗比的戏精，喜欢做快乐的搬运工。爱好运动，旅游，英语，小动物，时不时给大家分享一些生活中的小趣味和见闻，或许还可以来点双语播客😄]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 11:10:04 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p667bc022fb2274b590cbf795.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>S锅锅</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/FjGTjpwTUZyfds3haacQ4TENCWeo.png"/>
+  <image>
+    <url>https://image.xyzcdn.net/FjGTjpwTUZyfds3haacQ4TENCWeo.png</url>
+    <title>S锅锅的飙戏时间</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/667bc022fb2274b590cbf795</link>
+  </image>
+  <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>那些让我想要原地爆炸的社死瞬间</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6694ffe937236c546e4b6792</link>
+    <guid isPermaLink="false">6694ffe937236c546e4b6792</guid>
+    <pubDate>Mon, 15 Jul 2024 10:54:32 +0000</pubDate>
+    <description><![CDATA[<p><span>今天和大家聊一聊那些我遇到的社死瞬间：故事都很精彩也有些比较劲爆。。。</span></p><span></span><p><span>story1：酒后忘事闹出的笑话</span></p><span></span><p><span>story2：普吉岛秀场奇葩尬事</span></p><span></span><p><span>story3：自以为英语很溜的阴沟里翻船</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/llkBYeCoj42fx-mZ4dMoQ-xpQ2qV.m4a" length="11142150" type="audio/mp4"/>
+    <itunes:duration>00:11:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fuok07NdeBubJzanEE9XudrcIjGs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>做一个合格的情绪管理者真的很重要</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66933f718fcadceb90242c67</link>
+    <guid isPermaLink="false">66933f718fcadceb90242c67</guid>
+    <pubDate>Sun, 14 Jul 2024 03:01:04 +0000</pubDate>
+    <description><![CDATA[<p><span>在这个纷繁的世界里面，每个灵魂会被苦难磨砺。相互之间多些包容多些理解，学会管控自己的情绪，对我们彼此乃至这个社会都很重要。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/ljmmpjZB8QPfsp1-BdsG_ov0DueN.m4a" length="6927306" type="audio/mp4"/>
+    <itunes:duration>00:07:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fuok07NdeBubJzanEE9XudrcIjGs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>那些小时候父母曾经对我们提出的奇葩要求</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/66890e6eae8e21859aee48ff</link>
+    <guid isPermaLink="false">66890e6eae8e21859aee48ff</guid>
+    <pubDate>Sat, 06 Jul 2024 09:29:17 +0000</pubDate>
+    <description><![CDATA[<p><span>今天的节目是之前和两个朋友录得一期，本来打算做一个三人播客，但是因故中止，先放上我的个人平台给大家分享。这一期的主题是那些小时候父母曾经对我们提出的奇葩要求。</span></p><span></span><p><span>下面是几个比较有趣的小故事：</span></p><span></span><p><span>story1：小时候被爸妈逼着做课外阅读，并且很严格地审查。</span></p><span></span><p><span>story2：被爸妈逼着喝鸡油增胖</span></p><span></span><p><span>story3：聚餐时饭桌上让人的困扰要求</span></p><span></span><p><span>story4：穿衣服方面的要求: 被动穿中年服饰、衣服一物多年穿</span></p><span></span><p><span>story5：零花钱的赚取和利用</span></p><span></span><p><span>还有一些其他有趣的小故事。。。。。。。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/loHiYUV_53ET-pvXJZNKUPzEJYzF.m4a" length="36961513" type="audio/mp4"/>
+    <itunes:duration>00:38:05</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fuok07NdeBubJzanEE9XudrcIjGs.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
