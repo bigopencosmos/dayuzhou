@@ -1,0 +1,84 @@
+name: update-feeds
+
+on:
+  schedule:
+    # 每天 22:17 UTC = 北京时间 06:17，避开整点高峰
+    - cron: "17 22 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "历史回填策略"
+        type: choice
+        default: auto
+        options: [auto, always, never]
+  push:
+    branches: [main]
+    paths:
+      - "config/podcasts.json"
+      - "scripts/**"
+      - ".github/workflows/update-feeds.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 生成 RSS
+        env:
+          # 可选：只有配了这个 secret 才能做历史回填；不配就是纯「最近 15 集」模式
+          XYZ_REFRESH_TOKEN: ${{ secrets.XYZ_REFRESH_TOKEN }}
+          BACKFILL: ${{ inputs.backfill || 'auto' }}
+        run: |
+          python scripts/dayuzhou.py \
+            --config config/podcasts.json \
+            --out docs \
+            --base-url "${{ vars.BASE_URL }}" \
+            --backfill "$BACKFILL" \
+            --podcast-workers 5
+
+      - name: 提交变更
+        # 即使某个播客抓取失败，也要把其他成功的 feed 提交上去
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: refresh feeds $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: 汇总
+        if: always()
+        run: |
+          echo "### dayuzhou" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f docs/feeds.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d = json.load(open("docs/feeds.json"))
+          rows = [f for f in d["feeds"] if not f.get("error")]
+          print(f"\n{len(rows)} 个播客 · {sum(r['count'] for r in rows)} 集 · {d['updated_at']}\n")
+          print("| 播客 | 集数 | 新增 | 规范 |")
+          print("| --- | --- | --- | --- |")
+          for r in rows[:40]:
+              print(f"| {r['title']} | {r['count']} | {r.get('added', 0)} | {'✓' if r.get('apple_ok') else '!'} |")
+          bad = [f for f in d["feeds"] if f.get("error")]
+          if bad:
+              print("\n**失败**：" + "；".join(f"{b.get('title') or b.get('slug')} — {b['error']}" for b in bad))
+          PY
+          fi
