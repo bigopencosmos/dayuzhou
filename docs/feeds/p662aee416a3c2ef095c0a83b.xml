@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>攻心为上</title>
+  <link>https://www.xiaoyuzhoufm.com/podcast/662aee416a3c2ef095c0a83b</link>
+  <description><![CDATA[攻心术不是阴险狡诈，而是一种策略。其成败在于能否审时度势，
+能否对症下药。攻心术不仅要有高超的技能，还要在决策前认真分析、
+实事求是，从本质上考察其形势，选对战术，从而达到百发百中的效
+果。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 23 Nov 2026 10:59:14 +0000</lastBuildDate>
+  <generator>dayuzhou</generator>
+  <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662aee416a3c2ef095c0a83b.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>蛇叔SNAPION</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://image.xyzcdn.net/Fq6qVHcf7rkAMIchqf-Kt80b7K3D.jpg"/>
+  <image>
+    <url>https://image.xyzcdn.net/Fq6qVHcf7rkAMIchqf-Kt80b7K3D.jpg</url>
+    <title>攻心为上</title>
+    <link>https://www.xiaoyuzhoufm.com/podcast/662aee416a3c2ef095c0a83b</link>
+  </image>
+  <itunes:category text="Education"/>
+</channel>
+</rss>
