@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/668096afcdd230b23b1daaf0</link>
   <description><![CDATA[这是一个人的真实物语。作为MCC教练与资深营销人，我不聊宏大叙事，只聊看透本质的私人感悟。从国际风云到个体经营，从AI进化到生命觉察，这里没有说教，只有清醒的唠嗑。带你拆穿算法时代的种种套路，在复杂世界里找回有“人味”的成长底牌。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:06:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:19:52 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/3efcuqghun3a.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>薛铁林</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/668096afcdd230b23b1daaf0</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>英伟达重新迎回黄仁勋，开源、闭源和安全，同一新闻，为什么会被讲成几种不同的故事？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b050ebe01b0ab432edd44d8</link>
+    <guid isPermaLink="false">6b050ebe01b0ab432edd44d8</guid>
+    <pubDate>Tue, 24 Nov 2026 04:19:03 +0000</pubDate>
+    <description><![CDATA[<p><span>此前觉得黄仁勋很难回来，看到回归消息时，薛铁鏻的第一反应却是怀疑自己刷到了假新闻。带着这个反差，本期《铁林物语》回看了黄仁勋离任以来的舆论变化，也聊到美国对华芯片政策、人工智能企业之间的竞争，以及不同立场如何解释同一次人事变动。英伟达于11月23日公告，董事会一致同意恢复黄仁勋的总裁、首席执行官及董事职务。节目中关于个别政治人物、机构和同行企业如何推动事态的说法，属于转述或主播推测，公开公告并未证实这些具体说法。</span></p><p><span>薛铁鏻随后把话题拉回算力生意。在他看来，要理解黄仁勋为什么重要，还得看英伟达卖的是什么、中国市场为什么受到关注，以及芯片供应受限时，客户有没有寻找替代方案的动力。他用「硬通货」形容算力在人工智能基础设施中的地位，节目里提到的订单金额和交期则来自交流转述。最后，主播聊回自己的术后恢复：这次比昨天说话有力了一点，夜里却还是睡不踏实。让他重新开麦的，是这条自己也没料到会来得这么快的消息。</span></p><p><strong><span>【时间线】</span></strong></p><p><span><a class="timestamp" data-timestamp="0">00:00</a>-<a class="timestamp" data-timestamp="57">00:57</a> 感谢听众留言与引出黄仁勋回归</span></p><p><span><a class="timestamp" data-timestamp="57">00:57</a>-<a class="timestamp" data-timestamp="143">02:23</a> 回顾离任后的舆论与主播此前的判断</span></p><p><span><a class="timestamp" data-timestamp="143">02:23</a>-<a class="timestamp" data-timestamp="231">03:51</a> 对华政策分歧与商业竞争视角</span></p><p><span><a class="timestamp" data-timestamp="231">03:51</a>-<a class="timestamp" data-timestamp="342">05:42</a> 主播谈人工智能企业竞争与安全叙事</span></p><p><span><a class="timestamp" data-timestamp="342">05:42</a>-<a class="timestamp" data-timestamp="442">07:22</a> 用影视人物作比喻与回看换帅争论</span></p><p><span><a class="timestamp" data-timestamp="442">07:22</a>-<a class="timestamp" data-timestamp="536">08:56</a> 看到回归消息后从怀疑到继续查找</span></p><p><span><a class="timestamp" data-timestamp="536">08:56</a>-<a class="timestamp" data-timestamp="620">10:20</a> 主播推演政治因素与企业的市场立场</span></p><p><span><a class="timestamp" data-timestamp="620">10:20</a>-<a class="timestamp" data-timestamp="675">11:15</a> 显卡订单见闻与算力硬通货比喻</span></p><p><span><a class="timestamp" data-timestamp="675">11:15</a>-<a class="timestamp" data-timestamp="730">12:10</a> 国产算力替代与决定临时录制本期</span></p><p><span><a class="timestamp" data-timestamp="730">12:10</a>以后 术后睡眠近况与节目收尾</span></p><p><strong><span>【摘要】</span></strong></p><h3><span>黄仁勋回归英伟达，公开文件确认了什么</span></h3><p><span>英伟达的监管申报显示，董事会于11月22日恢复黄仁勋的总裁、首席执行官和董事职务，公司在11月23日对外公告，称董事会一致同意这项决定。公告也说，董事会在决策过程中听取了美国政府高层的意见。公开材料确认了人事结果及部分决策过程，节目里关于特定个人或企业在幕后发挥何种作用的推演仍有待证实。</span></p><h3><span>创始人回归让人重新关注哪些公司治理问题</span></h3><p><span>薛铁鏻把黄仁勋看作理解英伟达发展路径的关键人物。创始人能把产品路线、客户关系和公司对外表达联系起来，这也会带来关键人物风险：管理层一旦变化，外界就要重新判断企业的哪些能力已经沉淀在团队里，哪些仍高度依靠个人。回归公告解决了谁来掌舵的问题，产品交付和客户合作能否稳定持续，则要从后续经营中观察。</span></p><h3><span>芯片出口限制与中国市场的商业取舍</span></h3><p><span>节目把政策制定者与企业经营者放在同一个问题里看。前者关注技术供应的安全边界，后者还要考虑客户需求、市场覆盖与竞争对手的成长。薛铁鏻提出，如果客户长期买不到某种产品，就可能投入更多资源寻找替代方案，并以华为昇腾为例。这是主播对竞争动力的判断。国产算力替代实际推进到哪一步，还要看软硬件适配、迁移成本与部署能力。</span></p><h3><span>为什么主播把英伟达算力比作硬通货</span></h3><p><span>薛铁鏻转述了与行业相关人士的交流，用显卡订单和排期说明自己对算力稀缺性的感受。他提到的具体金额和交期属于节目中的个别转述。把「硬通货」的比喻放回人工智能基础设施，可以看到一个更具体的问题：客户购买的除了硬件，还有能否按期部署、适配现有软件、稳定运行的预期。供货周期和更换平台的成本，都可能影响采购决策。</span></p><h3><span>人工智能安全叙事与开源闭源之争</span></h3><p><span>节目借 Anthropic、OpenAI 等公司，讨论人工智能行业如何谈安全、开放与控制。对用户和开发者而言，开源与闭源之争会落到访问权限、定制空间、服务依赖以及责任由谁承担等具体问题上。节目中把企业竞争与黄仁勋人事事件直接相连的说法属于主播推测，可以和关于行业路线的讨论分别理解。</span></p><h3><span>从深夜刷到消息到第二天开麦</span></h3><p><span>薛铁鏻说，自己最初以为是误传，后来继续看其他消息和视频，才决定赶录一期。对个人播客而言，这个过程体现了新闻评论的两种时间压力：消息越热，越想早点表达；信息越密集，也越容易把不同版本混在一起。回归公告适合回答「发生了什么」，主播有现场感的口述则可以交代「我原来怎么判断，为什么改了主意」。两者合在一起，听众既能跟住事件，也能理解评论从哪里来。</span></p><p><span>————————————</span></p><p><strong><span>主播：薛铁鏻（铁林）</span></strong></p><p><span>ICF MCC认证教练｜Coach8创始人｜企业管理者｜营销与投资实践者</span></p><p><span>薛铁鏻（铁林，Xue Tielin），Coach8（教练吧）创始人，拥有20余年互联网、教育、企业管理与市场营销经验。曾在水晶石数字科技及新高教集团相关企业担任高管，长期参与市场营销、销售管理、企业运营、互联网教育、团队管理与人才培养，并拥有教育项目投资和早期创业项目投资经验。</span></p><p><span>2014年创立Coach8，开始系统开展中文教练教育与在线教练社群实践；2022年获得ICF MCC认证，2024年带领Coach8获得ICF Level 3课程认证。具有国家二级心理咨询师、LUXX Profile Master级分析师及导师、乐高工作法系统引导师等专业背景。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668096afcdd230b23b1daaf0/ln4Fav6swQrVe0cR0UQKbOQRpNJc.m4a" length="11099957" type="audio/mp4"/>
+    <itunes:duration>00:11:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_xmQP1d3ffXTTJdosuoTo09NES.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>断更 20 天我和肿瘤斗争了 20 天，我的肺结节手术之旅～</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b039f7d6f7bbb70cd596daf</link>
