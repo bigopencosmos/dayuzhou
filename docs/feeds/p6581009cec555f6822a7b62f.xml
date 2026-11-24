@@ -9,7 +9,7 @@
 
 一个，聊聊身边事，探寻可能性，没有也行的播客。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:02:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:05:29 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6581009cec555f6822a7b62f.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>孙志斌和伙伴们</itunes:author>
@@ -23,6 +23,17 @@
   </image>
   <itunes:category text="Education"/>
   <item>
+    <title>第184期【夏说】节气漫谈⑰ | 小雪：腌腊肉、打糍粑，冬天的味道从这一天才开始</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b046e5af5a3c747f63aec37</link>
+    <guid isPermaLink="false">6b046e5af5a3c747f63aec37</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>《月令七十二候集解》：“十月中，雨下而为寒气所薄，故凝而为雪。小者，未盛之辞。”</span></p><p><span>《群芳谱》：“小雪气寒而将雪矣，地寒未甚而雪未大也。</span></p><p><span> 小雪三候： “一候虹藏不见，二候天气上升地气下降，三候闭塞而成冬。”</span></p><p><span>小雪习俗：腌菜、腌腊肉、灌香肠、吃糍粑、酿小雪酒</span></p><p><span>《诗经》：“十月获稻，为此春酒，以介眉寿”</span></p><p><span>元稹的《小雪十月中》：莫怪虹无影，如今小雪时。阴阳依上下，寒暑喜分离。</span></p><p><span>配乐：《一半人生》/ 五月天</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6581009cec555f6822a7b62f/lqWJPMTvpQWI5aAKyZB0aC3rxKK6.m4a" length="17618482" type="audio/mp4"/>
+    <itunes:duration>00:18:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhFsMKFrdYDClgTNAC0utzsf9B4w.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>第183期 天台山游学记｜「上半场修仙，下半场干饭」之寺观里的宁静和古刹外的美食</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af9b2b6fe62f8f52c4b8d12</link>
     <guid isPermaLink="false">6af9b2b6fe62f8f52c4b8d12</guid>
@@ -34,7 +45,7 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
-    <title>第182期【夏说】《节气漫谈⑯ | 立冬：北方饺子南方鸡，谁的过冬方式更科学？ 》</title>
+    <title>第182期【夏说】节气漫谈⑯ | 立冬：北方饺子南方鸡，谁的过冬方式更科学？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6aef3929b4a4e20202f64863</link>
     <guid isPermaLink="false">6aef3929b4a4e20202f64863</guid>
     <pubDate>Sat, 07 Nov 2026 14:46:56 +0000</pubDate>
