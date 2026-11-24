@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/5e7c69c9418a84a0467f612b</link>
   <description><![CDATA[我们是你的海盗电台]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:12:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:12:16 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p5e7c69c9418a84a0467f612b.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>九霄电台</itunes:author>
@@ -18,6 +18,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/5e7c69c9418a84a0467f612b</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>【JCM】低音连环杀手与丛林海妖</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b043b3d7db1d2bfcb62d9be</link>
+    <guid isPermaLink="false">6b043b3d7db1d2bfcb62d9be</guid>
+    <pubDate>Mon, 23 Nov 2026 12:55:04 +0000</pubDate>
+    <enclosure url="https://jt.ximalaya.com//GKwRIMAO2fr1AOrhzQUAFELH.m4a?channel=rss&amp;album_id=4346420&amp;track_id=1034952135&amp;uid=28491893&amp;jt=https://aod.cos.tx.xmcdn.com/storages/21da-audiofreehighqps/CD/24/GKwRIMAO2fr1AOrhzQUAFELH.m4a" length="15393229" type="audio/mp4"/>
+    <itunes:duration>00:31:41</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/5e7c69c9418a84a0467f612b/Fu7X1LnLpe_aBus19sXqhbjFPCBL.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【舞曲时代】我们不说美国话</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b01bc8f1a0c5c4465157305</link>
