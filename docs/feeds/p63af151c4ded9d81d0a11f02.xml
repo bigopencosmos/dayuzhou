@@ -6,7 +6,7 @@
   <description><![CDATA[【梵高MoneyTalk】（付费版）是由梵一如&高蕾主导的财经类对谈播客，每月更新四期，每周末上线。
 （出品/制作：番薯剥壳工作室 Yakimo Studio）]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:55:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:10:16 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63af151c4ded9d81d0a11f02.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>番薯梵一如</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/63af151c4ded9d81d0a11f02</link>
   </image>
   <itunes:category text="Business"/>
+  <item>
+    <title>黄仁勋重新出任英伟达CEO：熹妃这么快就回宫了？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b04634af5a3c747f63ae462</link>
+    <guid isPermaLink="false">6b04634af5a3c747f63ae462</guid>
+    <pubDate>Mon, 23 Nov 2026 16:28:46 +0000</pubDate>
+    <description><![CDATA[<p><span>【OP】</span></p><p><span>RayHan（音乐）</span></p><p><span>【ED】</span></p><p><span>罗志祥,胡玮琪 - 狐狸精</span></p><p><span>【剪辑】</span></p><p><span>梵一如</span></p><p><span>【出品/制作】</span></p><p><span>番薯剥壳工作室（Yakimo Studio）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63af151c4ded9d81d0a11f02/lt8VPoKhQry9SYyRVLeh50ahRKLU.m4a" length="33764969" type="audio/mp4"/>
+    <itunes:duration>00:34:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtQhpmsrMqbU5SmcRCGOP_jsCn-K.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>E164.当代女性KPI：要美、要独立、要赚钱，还要会投资？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae1dba9c96c8942ec13b768</link>
