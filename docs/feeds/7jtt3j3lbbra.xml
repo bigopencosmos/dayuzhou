@@ -9,7 +9,7 @@
 
 🖼另外还有图文版，可在小红书搜索并关注【AI速递】]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:21:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:22:49 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7jtt3j3lbbra.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -22,6 +22,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/667d1ecfc13b46d76c3f64b8</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>2026.11.23 | 平衡超连接混合；让世界模型少穿墙</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05001b01b0ab432edd3407</link>
+    <guid isPermaLink="false">6b05001b01b0ab432edd3407</guid>
+    <pubDate>Tue, 24 Nov 2026 03:12:54 +0000</pubDate>
+    <description><![CDATA[<p><span>⏱️ Highlights</span><br><span><a class="timestamp" data-timestamp="27">00:27</a> 🔀 cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction（cmHC：通过几何收缩平衡超连接中的流混合）</span><br><span><a class="timestamp" data-timestamp="63">01:03</a> 🧱 Non-penetrating World Models（不穿透的世界模型）</span><br><span><a class="timestamp" data-timestamp="100">01:40</a> 🍀 Clover-35B-A3B-Preview Technical Report（Clover-35B-A3B-Preview 技术报告）</span><br><span><a class="timestamp" data-timestamp="137">02:17</a> 🔍 Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning（读懂难以辨认的文字：文本感知图像超分辨率需要推理）</span><br><span><a class="timestamp" data-timestamp="173">02:53</a> 🧠 MemOnce: A Scalable Memory Architecture for Large Language Models（MemOnce：面向大语言模型的可扩展记忆架构）</span><br><span><a class="timestamp" data-timestamp="212">03:32</a> 🎙️ Duopra: From Full-Duplex Conversation to Full-Duplex Agency（Duopra：从全双工对话到全双工行动能力）</span><br><span><a class="timestamp" data-timestamp="251">04:11</a> 🚪 Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits（迷失在走廊：评测跨重访的持续空间记忆）</span><br><span><a class="timestamp" data-timestamp="286">04:46</a> 👀 StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning（StereoVLM：用于米制三维空间推理的双目视觉语言模型）</span><br><span><a class="timestamp" data-timestamp="327">05:27</a> 🛍️ PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching（PURE：多粒度多模态身份匹配的诊断基准）</span><br><span><a class="timestamp" data-timestamp="363">06:03</a> 🚁 AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation（AeroRSI：面向空中视觉语言导航的递归自我改进）</span><br><span><a class="timestamp" data-timestamp="403">06:43</a> 🏭 Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark（将通用性从模型移向建模者：部署式基准上的PHM大语言模型智能体）</span><br><span><a class="timestamp" data-timestamp="444">07:24</a> 🤖 AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control（AgentRoboCritic：理解前沿智能体直接控制机器人的能力）</span><br><span><a class="timestamp" data-timestamp="483">08:03</a> ✂️ Prune to Expand: Training Prompt Enhancers with Less to Imitate（以剪促扩：用更少的模仿目标训练提示词增强器）</span><br><span><a class="timestamp" data-timestamp="523">08:43</a> 🛡️ Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence（修复之前已被利用？来自开放、机器可读证据的漏洞时间线）</span><br><span><a class="timestamp" data-timestamp="559">09:19</a> 📜 Intent Contracts: Taking Tools Away from Agents（意图合约：从智能体手中收回工具）</span></p><p></p><img src="https://image.xyzcdn.net/Ftg1T4PeKDaU3qkcRSLw6cm4nXmk.webp" alt="播客论文目录配图"><p><span>【关注我们】</span><br><span>您还可以在以下平台找到我们，获得播客内容以外更多信息</span><br><span>小红书: AI速递</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/667d1ecfc13b46d76c3f64b8/lvT3Dx8AEdoJ4bTlTDHVRRPh3vp7.m4a" length="10102132" type="audio/mp4"/>
+    <itunes:duration>00:10:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoqTpAyCk31T4qhoA-PuH8wDyDNx.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【周末特辑】11月第4周最火AI论文 | 国产算力上的模型工程；一次前向生成图像</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b027fcf6f7bbb70cd59117e</link>
