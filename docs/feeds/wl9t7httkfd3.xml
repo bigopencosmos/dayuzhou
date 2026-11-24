@@ -6,7 +6,7 @@
   <description><![CDATA[来自 @爱可可-爱生活 的第一手AI快报，用最简单易懂的语言，带你直击最前沿的人工智能科研动态。无论你是科技小白，还是行业达人，这里都有你想知道的AI故事和未来趋势。跟着我们，轻松解锁人工智能的无限可能！
 #人工智能 #科技前沿]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:18:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:12:27 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wl9t7httkfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>fly51fly</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6683665e2063a3f1ac0cb50d</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>[人人能懂AI前沿] 从模型雕刻、分子电影到可插拔的AI技能卡</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b04bb0744e24a385c0252e2</link>
+    <guid isPermaLink="false">6b04bb0744e24a385c0252e2</guid>
+    <pubDate>Mon, 23 Nov 2026 22:20:34 +0000</pubDate>
+    <description><![CDATA[<p><span>今天我们要拆解五篇极具颠覆性的最新论文，带你看看AI是如何打破常规、野蛮生长的。从让模型边学边做减法的“自我雕刻”，到帮生命分子拍动态电影，再到不给标准答案、只需理顺“内在几何”就能让AI做对题的奇妙发现。我们还会探讨如何不改模型大脑只插“技能卡”来实现持续进化，以及重新认识大小模型协同的“投机解码”。准备好刷新认知了吗，让我们开始今天的硬核漫游！</span></p><p><span><a class="timestamp" data-timestamp="35">00:00:35</a> 最好的小模型，不是压缩出来的，而是在成长中“雕刻”出来的</span></p><p><span><a class="timestamp" data-timestamp="337">00:05:37</a> 从“拍证件照”到“拍电影”，AI终于看懂了生命分子的呼吸</span></p><p><span><a class="timestamp" data-timestamp="629">00:10:29</a> 不教标准答案，只帮它理顺脑子里的“几何图形”，AI竟然自己把题做对了</span></p><p><span><a class="timestamp" data-timestamp="866">00:14:26</a> 不改“大脑”，只插“技能卡”，AI持续进化的另一种思路</span></p><p><span><a class="timestamp" data-timestamp="1271">00:21:11</a> 既然骰子还没掷出，为什么假装不知道点数？</span></p><p><span>本期介绍的几篇论文：</span></p><p><span>[LG] Model Carving: Training Transformers That Optimize Their Own Topology</span></p><p><span>[Harvard University &amp; New York University]</span></p><p><a href="https://arxiv.org/abs/2611.27962" data-url="https://arxiv.org/abs/2611.27962"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[AI] BioEmu2: Scalable Emulation of Biomolecular Dynamics</span></p><p><span>[Microsoft]</span></p><p><a href="https://arxiv.org/abs/2611.27924" data-url="https://arxiv.org/abs/2611.27924"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[CL] Neural Geometry as a Learning Signal</span></p><p><span>[GOODFIRE]</span></p><p><a href="https://arxiv.org/abs/2611.26832" data-url="https://arxiv.org/abs/2611.26832"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training</span></p><p><span>[University of California, Santa Barbara &amp; CMU]</span></p><p><a href="https://arxiv.org/abs/2611.27376" data-url="https://arxiv.org/abs/2611.27376"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[AI] Speculative Decoding Is Less Speculative Than You Think</span></p><p><span>[CMU]</span></p><p><a href="https://arxiv.org/abs/2611.27891" data-url="https://arxiv.org/abs/2611.27891"><span>arxiv.org</span></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lnor8CF3uNKkzgigZTKS6hahvgYw.m4a" length="23968940" type="audio/mp4"/>
+    <itunes:duration>00:24:42</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>[人人能懂AI前沿] 从抛弃Transformer、冻结大脑贴便签，到打破进化的模糊标尺</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03690c77e5b18a33312be8</link>
