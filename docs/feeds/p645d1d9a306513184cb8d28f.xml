@@ -9,7 +9,7 @@
 
 《上海话讲天气》的内容涵盖华东、全国以及全球天气气候热点，是当今最有趣、最视野开阔和最跨界的方言类天气节目。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:52:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 04:56:48 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p645d1d9a306513184cb8d28f.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -22,6 +22,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/645d1d9a306513184cb8d28f</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>魔都明晨气温触底，未来暖秋反弹强劲</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b056dfc44e24a385c02f7ff</link>
+    <guid isPermaLink="false">6b056dfc44e24a385c02f7ff</guid>
+    <pubDate>Tue, 24 Nov 2026 11:03:38 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/645d1d9a306513184cb8d28f/Frs-swWh8BM7uyCZX3C9ea3UjbnR.m4a" length="1414852" type="audio/mp4"/>
+    <itunes:duration>00:01:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fkk8ZNvLiwH_EFn5Ys2v5BgMxVPY.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>魔都本周天气提醒，后半周迎来小阳春</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03aee56f7bbb70cd59793d</link>
