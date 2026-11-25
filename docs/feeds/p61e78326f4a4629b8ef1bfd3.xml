@@ -15,7 +15,7 @@
 
 如果你对我们的播客节目有什么意见，欢迎与我们留言互动，也欢迎关注我们的公众号“前哨科技特训营”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:40:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:02:47 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61e78326f4a4629b8ef1bfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -28,6 +28,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/61e78326f4a4629b8ef1bfd3</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>科技前哨｜Neuralink蹭上GTA热度，不用手也能玩上电子游戏</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05003f44e24a385c02850a</link>
+    <guid isPermaLink="false">6b05003f44e24a385c02850a</guid>
+    <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><p><span>《GTA 6》发售第二天，Neuralink 发了一段一分五十九秒的视频：一个双手不能动的人，靠想象无名指敲击开车、把水上飞机拉起来。</span></p><p><span>三年时间，脑机接口从“能用意念移动鼠标”走到“能实时玩 3A 动作游戏”。中间跨过的那道坎原来和AI也有关系。</span></p><h2><strong><span>本期扫描</span></strong></h2><p><span>史上第一个“AI Agent购物黑色星期五”开局不顺</span></p><p><span>微软把全球故障的责任指向了自己的“保护措施”</span></p><p><span>AI 找漏洞的速度，超过了补丁的产能</span></p><p><span>朝日集团遭勒索软件攻击后，投8500万美元做 AI 网络安全升级</span></p><p><span>乌克兰用自研抗干扰技术，让五百多架停飞设备上天</span></p><p><span>日本一家印章公司开始给 X 上的视频“盖章”认证</span></p><p><span>黎曼猜想被两条独立路径证明，科研瓶颈移到了“谁来审稿”</span></p><p><span>车越智能，修车越贵，软件和诊断工具抬高成本</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/luIOsfaldLD86zrW7_YJBvtCnvL7.m4a" length="24192359" type="audio/mp4"/>
+    <itunes:duration>00:24:55</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>科技前哨｜天上的机房已经比星星，太空通信正在变成太空机房？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03a7006f7bbb70cd5972c2</link>
