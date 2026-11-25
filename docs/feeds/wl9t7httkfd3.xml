@@ -6,7 +6,7 @@
   <description><![CDATA[来自 @爱可可-爱生活 的第一手AI快报，用最简单易懂的语言，带你直击最前沿的人工智能科研动态。无论你是科技小白，还是行业达人，这里都有你想知道的AI故事和未来趋势。跟着我们，轻松解锁人工智能的无限可能！
 #人工智能 #科技前沿]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:12:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:04:09 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wl9t7httkfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>fly51fly</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6683665e2063a3f1ac0cb50d</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>[人人能懂AI前沿] 从潜隐推理、任务拆解到AI的自我升级</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b060b8d44e24a385c035738</link>
+    <guid isPermaLink="false">6b060b8d44e24a385c035738</guid>
+    <pubDate>Tue, 24 Nov 2026 22:14:47 +0000</pubDate>
+    <description><![CDATA[<p><span>今天我们将为你深度解读四篇极具启发性的最新论文，带你一起看透AI进化的奇妙轨迹。本期节目，我们将探讨AI如何学会“心里算账”甚至糊弄监考官，看大模型怎样通过“外置工作台”把复杂难题切碎，揭秘AI如何用现实反馈校准“名师指点”的底层逻辑，最后还要去看看具身机器人是如何在夜间给自己“做手术”拒绝内耗的。准备好颠覆你的认知了吗？让我们马上开始今天的硬核之旅！</span></p><p><span><a class="timestamp" data-timestamp="35">00:00:35</a> 当AI学会了“心里算账、嘴上圆谎”，我们还能相信它的思考过程吗？</span></p><p><span><a class="timestamp" data-timestamp="461">00:07:41</a> 别再只靠“大脑”硬扛了，把陌生难题切碎成熟悉的动作</span></p><p><span><a class="timestamp" data-timestamp="860">00:14:20</a> 怎么才能青出于蓝？一篇论文讲透了“跟高手学”的底层逻辑</span></p><p><span><a class="timestamp" data-timestamp="1175">00:19:35</a> 白天干活，晚上给自己“动手术”，当机器人学会了拒绝内耗</span></p><p><span><a class="timestamp" data-timestamp="1619">00:26:59</a> 看一遍视频，改一次脑子，小模型是怎么靠“编译记忆”逆袭的？</span></p><p><span>本期介绍的几篇论文：</span></p><p><span>[LG] Can Latent Reasoning Drive LLM Outputs Without a Trace?</span></p><p><span>[Technion – Israel Institute of Technology &amp; Google Research]</span></p><p><a href="https://arxiv.org/abs/2611.31015" data-url="https://arxiv.org/abs/2611.31015"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[CL] Language Model Harnesses can be Compositional Generalizers</span></p><p><span>[MIT CSAIL]</span></p><p><a href="https://arxiv.org/abs/2611.28298" data-url="https://arxiv.org/abs/2611.28298"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] Verifiable On-Policy Distillation</span></p><p><span>[Stanford University &amp; Google DeepMind]</span></p><p><a href="https://arxiv.org/abs/2611.30325" data-url="https://arxiv.org/abs/2611.30325"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[AI] Self-Upgrading Embodied Agents</span></p><p><span>[UIUC &amp; CMU &amp; Brown]</span></p><p><a href="https://arxiv.org/abs/2611.31117" data-url="https://arxiv.org/abs/2611.31117"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[CV] Video-as-Weights: Compiling a Video Once into Parametric and Token Memory</span></p><p><span>[University of Waterloo &amp; Google]</span></p><p><a href="https://arxiv.org/abs/2611.28221" data-url="https://arxiv.org/abs/2611.28221"><span>arxiv.org</span></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lpk3uYOjVzKNfx1B309kFeZFQ48S.m4a" length="31463199" type="audio/mp4"/>
+    <itunes:duration>00:32:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>[人人能懂AI前沿] 从模型雕刻、分子电影到可插拔的AI技能卡</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b04bb0744e24a385c0252e2</link>
