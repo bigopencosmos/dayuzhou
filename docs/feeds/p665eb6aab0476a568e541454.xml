@@ -6,7 +6,7 @@
   <description><![CDATA[狗日子，是一档“音乐探索”和“生活分享”五五开的内容播客。在这个播客里，你能听到一些不错的音乐，反复琢磨过的观点，真诚的牢骚，和对每一个耳机那边的你，绝不掺假的关切。
 希望你也能跟我一起，把每一个“狗日子”，尽量过成一个“遛狗的好日子”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:30:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:22:12 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p665eb6aab0476a568e541454.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>阿毛的养父</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/665eb6aab0476a568e541454</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>vol.698：就像一只，冬天的蚊子！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b04fe6344e24a385c0282b6</link>
+    <guid isPermaLink="false">6b04fe6344e24a385c0282b6</guid>
+    <pubDate>Tue, 24 Nov 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/Ft3gGg8Z9b_vUXaZm4BgvtTU4gGA.png"><p><span>除了心理上要像这种颇具反抗精神的生物学习之外，我们还应该找到自己的“物理能量源”——比如你在我们这一期的封面里看到的——一碗地地道道油汪汪的常德牛肉粉！</span></p><p><strong><span>今日爱听：</span></strong></p><ul><li><p><span>败犬乐队 Underdog - 彷徨人间梦</span></p></li><li><p><span>硬鸡 - 青头硬鸡</span></p></li><li><p><span>Steve Miller Band - The Joker</span></p></li><li><p><span>Steve Miller Band - Take the Money and Run</span></p></li><li><p><span>Steve Miller Band - Rock 'N Me</span></p></li></ul><p><strong><span>开场曲：</span></strong></p><ul><li><p><span>La Femme - Le jardin</span></p></li></ul><p><strong><span>今日爱看：纪录片《小可爱与拳击手》</span></strong></p><img src="https://image.xyzcdn.net/FgqSHK-kalzdyhNIw0K5vlAYu2vr.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/665eb6aab0476a568e541454/lreNHNrjUIWpnplq_NkHobP2Z3yZ.m4a" length="20716852" type="audio/mp4"/>
+    <itunes:duration>00:21:20</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmckYWOxStFl5foxMDu8FgO3p3fk.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>vol.696：伪装成大人的我们，和藏在耳机里的秘密</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03b4aa6f7bbb70cd597e98</link>
