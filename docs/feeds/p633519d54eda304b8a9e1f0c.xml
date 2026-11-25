@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:29:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 04:54:30 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,17 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>PANews 11月24日加密日报</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0566a244e24a385c02f101</link>
+    <guid isPermaLink="false">6b0566a244e24a385c02f101</guid>
+    <pubDate>Tue, 24 Nov 2026 10:30:23 +0000</pubDate>
+    <description><![CDATA[<p><span>今日关注：</span></p><p><span>分析师：山寨币市值自9月峰值蒸发4080亿美元，Meme币份额已降至2%</span></p><p><span>SpaceX和特斯拉据悉委派五名董事负责合并谈判</span></p><p><span>比特币现货 ETF 昨日总净流出 5.70 亿美元，持续 5 日净流出</span></p><p><span>灰度：比特币等主要资产已被超卖，近期走势更多取决于AI相关风险</span></p><p><span>企业AI公司Sierra完成17.5亿美元F轮融资，投后估值达300亿美元</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lsTLJbcOqrQCaLrQm5iqkF1da-Bb.m4a" length="6237116" type="audio/mp4"/>
+    <itunes:duration>00:06:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg9Tjc7mUGgLcomXfWbwdND21sDc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>PANews 11月23日加密日报</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b040fd84ecad672d41049d3</link>
