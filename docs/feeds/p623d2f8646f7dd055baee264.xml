@@ -8,7 +8,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:45:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:07:14 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p623d2f8646f7dd055baee264.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>HiddenSpace</itunes:author>
@@ -21,6 +21,36 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/623d2f8646f7dd055baee264</link>
   </image>
   <itunes:category text="Education"/>
+  <item>
+    <title>自我探索</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05a4a001b0ab432edddc23</link>
+    <guid isPermaLink="false">6b05a4a001b0ab432edddc23</guid>
+    <pubDate>Tue, 24 Nov 2026 14:57:32 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/623d2f8646f7dd055baee264/liMDg_WrL_Mg_zLwtwLohnHRN8gD.m4a" length="24108553" type="audio/mp4"/>
+    <itunes:duration>00:24:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiIJxoBlGoxSlWYHA10g3q846hJ9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>职场</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b059abd44e24a385c03254c</link>
+    <guid isPermaLink="false">6b059abd44e24a385c03254c</guid>
+    <pubDate>Tue, 24 Nov 2026 14:13:57 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/623d2f8646f7dd055baee264/llLgEE0_tMdh3g46tR1cV6f1WD42.m4a" length="18642815" type="audio/mp4"/>
+    <itunes:duration>00:19:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjluLyDQyZUCqlN3pScLpAVT9ZyE.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>十一月新体验：游泳</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b057d0c01b0ab432eddb2d3</link>
+    <guid isPermaLink="false">6b057d0c01b0ab432eddb2d3</guid>
+    <pubDate>Tue, 24 Nov 2026 12:06:17 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/623d2f8646f7dd055baee264/lrrDHioP7ZY4LE_3lvur7YAXbsWC.m4a" length="23048403" type="audio/mp4"/>
+    <itunes:duration>00:23:45</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FiIJxoBlGoxSlWYHA10g3q846hJ9.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>职场 41| 软柿子也不是那么好捏的</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae1693dc96c8942ec136c56</link>
