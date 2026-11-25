@@ -9,7 +9,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:50:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:12:06 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/68fyjknth9hj.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Koji</itunes:author>
@@ -22,6 +22,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>端侧AI正在迎来历史性拐点？｜对话曾晓东：无界方舟创始人/CEO</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05b60544e24a385c034004</link>
+    <guid isPermaLink="false">6b05b60544e24a385c034004</guid>
+    <pubDate>Tue, 24 Nov 2026 16:15:45 +0000</pubDate>
+    <description><![CDATA[<p></p><img src="https://image.xyzcdn.net/Fl43nDAyiSGCYGMsnzPNEdYkg7t8.png"><p><span>➤ 当所有人都在云端卷算力堆参数时，有一家 50 人的创业团队，把千亿大模型塞进了普通笔记本，并跑出了超过 2 亿元的 ARR。</span></p><p><span>长期以来，端侧模型常被行业视作云端模型的“缩水版”、“妥协产物”或“边缘小补丁”。但在无界方舟创始人曾晓东看来，这个认知可能全错了。</span></p><p><span>在这期节目中，你会听到：</span></p><p><span>- “AI 硬件卖得越多，反而可能亏得越多”的残酷商业现实：硬件是一次性销售，而云端的 Token 账单每个月都在持续流血；</span></p><p><span>- 无界方舟近期开源的能在普通消费级电脑（30G 内存）上流畅跑动的千亿级原生端侧模型 Edge0-145B 的技术拆解；</span></p><p><span>- 端侧原生的本质：为什么模型架构与推理引擎必须推倒重来、联合设计？</span></p><p><span>- 50 人 AI Native 的团队如何支撑 200 多种模型部署？把模型公司当成代码流水线来跑的实操经验。</span></p><p><span>如果你是正在为高昂 Token 成本焦虑的 AI 创业者、关注硬件落地与商业化真实壁垒的投资人，或是对前沿端侧原生架构充满好奇的技术探索者，希望曾晓东这期“两手沾泥”的一线实战思考，能给你带来新的认知切口。</span></p><img src="https://image.xyzcdn.net/loC9SAv3pCZ6cqBOhoge8FLU4Ybi.png"><p><span>🎬 我们的视频播客将同步上线于 @Koji杨远骋 的视频号、</span><a href="https://v.douyin.com/aHUIZczZYKs/" data-url="https://v.douyin.com/aHUIZczZYKs/"><span>抖音</span></a><span>、</span><a href="https://www.xiaohongshu.com/user/profile/548251dce779893bcf3f77bc" data-url="https://www.xiaohongshu.com/user/profile/548251dce779893bcf3f77bc"><span>小红书</span></a><span>、</span><a href="https://space.bilibili.com/505301413" data-url="https://space.bilibili.com/505301413"><span>哔哩哔哩</span></a><span>、</span><a href="https://www.youtube.com/@kojiyang" data-url="https://www.youtube.com/@kojiyang"><span>Youtube</span></a><span> 等平台。</span></p><p><span>📒 文字版将发布于 @十字路口Crossing 公众号。</span></p><img src="https://image.xyzcdn.net/FjsHLGnjXBIZoDFg0m8_FsWp1Its.png"><h2><span>欢迎订阅「十字路口」：</span></h2><p><span>🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。</span></p><p><span>🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。</span></p><p><span>👦🏻 &nbsp;主播 Koji：我创办了十字路口，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间，在真格基金担任 Venture Partner 投资合伙人。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。</span><a href="https://okjk.co/0JSUes" data-url="https://okjk.co/0JSUes"><span>Koji 的即刻</span></a><span>，</span><a href="https://kojiyang.me/" data-url="https://kojiyang.me/"><span>Koji 的网站</span></a></p><img src="https://image.xyzcdn.net/FjY0z2wwnWlcgGI2I-xbBRSUgK67.png"><img src="https://image.xyzcdn.net/Ft0hQ3Y8R2c_zjzHBKOxIakpjaoz.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/60502e253c92d4f62c2a9577/lpv1F97EgFvfFn9oQ4R7uFBLcThr.m4a" length="65574501" type="audio/mp4"/>
+    <itunes:duration>01:07:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fgm2aX0lIgKZa6pgewAsSzQc2hVX.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af936ea14d01a26f8a9fd94</link>
