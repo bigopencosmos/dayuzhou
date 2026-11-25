@@ -9,7 +9,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:14:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:05:34 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6860f13d09b4c8a7b539a3f8.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>一双看透真相的双眼</itunes:author>
@@ -22,6 +22,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6860f13d09b4c8a7b539a3f8</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>眼哥股市会 26.11.25</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b065a6101b0ab432ede4760</link>
+    <guid isPermaLink="false">6b065a6101b0ab432ede4760</guid>
+    <pubDate>Wed, 25 Nov 2026 03:54:38 +0000</pubDate>
+    <description><![CDATA[<p><span>听说杭州的天下第一财神庙开门了？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860f13d09b4c8a7b539a3f8/ltZMQKpwnbV7XW9zK942yHkm6_RE.m4a" length="25788991" type="audio/mp4"/>
+    <itunes:duration>00:26:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fjxw_vIpTp435ECqFZiZ3skfhnjW.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>眼哥股市会 26.11.24</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b04c6ba01b0ab432edd03fc</link>
