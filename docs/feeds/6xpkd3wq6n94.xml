@@ -7,7 +7,7 @@
 
 这是一档由第一财经推出的播客节目，专注解读热点商业资讯、财经事件，分析背后逻辑，提供干货，在这里，你可以听点你想听的。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:10:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:01:55 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/6xpkd3wq6n94.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>周忆垚</itunes:author>
@@ -20,6 +20,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/64c75555e8176c3ff81de98c</link>
   </image>
   <itunes:category text="News"/>
+  <item>
+    <title>Vol.650|黄仁勋回归，从辞职到复职仅11天</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b052cfa44e24a385c02b1ed</link>
+    <guid isPermaLink="false">6b052cfa44e24a385c02b1ed</guid>
+    <pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>刚刚你听到的，是黄仁勋回归时，英伟达员工的欢呼。11天前，他递出辞呈；11天后，董事会一致投票，把他请了回来。当地时间11月23日，英伟达宣布，即日起恢复黄仁勋公司总裁兼CEO，以及董事会成员的职务。消息一出，英伟达股价开盘大涨超30%，并带动全球AI概念股集体反弹。而在这阵欢呼背后，一个更大的问题正在被反复追问：黄仁勋回来，真的能扭转这场席卷全球的AI资产抛售潮吗？本期，我们就聊聊这11天的反转，他为什么非回来不可，以及欢呼之后，市场真正担心的到底是什么。</span></p><p><strong><span>你将听到以下内容：</span></strong></p><p><span><a class="timestamp" data-timestamp="67">01:07</a> 11天反转：董事会“别无选择”</span></p><p><span><a class="timestamp" data-timestamp="207">03:27</a> 白宫、硅谷和华尔街：11天“保人”战</span></p><p><span><a class="timestamp" data-timestamp="318">05:18</a> 马斯克：错误已经被纠正</span></p><p><span><a class="timestamp" data-timestamp="387">06:27</a> 为什么必须是他：财务高管解不了的题</span></p><p><span><a class="timestamp" data-timestamp="537">08:57</a> 欢呼之后：泡沫真的消化了吗</span></p><p><span>文字作者：程程 陈玺宇 高雅 葛唯尔</span></p><p><span>播客编辑：阿贵 田成辰 (实习）</span></p><p><span>监制：yoiyo</span></p><p><span>这是一档由第一财经推出的播客节目，专注解读热点商业资讯、财经事件，分析背后逻辑，提供干货，在这里，你可以听点你想听的~</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/64c75555e8176c3ff81de98c/lsavdDcC2Np4qX2v07kckBaJoLpw.m4a" length="11773828" type="audio/mp4"/>
+    <itunes:duration>00:12:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnECGVmxHYv2cQSSexxpwRX50MYI.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Vol.649|当399元羽绒服售罄后，中高端品牌该怎么走？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03eaf46f7bbb70cd59a15e</link>
