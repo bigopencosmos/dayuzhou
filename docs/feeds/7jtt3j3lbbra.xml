@@ -9,7 +9,7 @@
 
 🖼另外还有图文版，可在小红书搜索并关注【AI速递】]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:22:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:14:34 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7jtt3j3lbbra.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -22,6 +22,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/667d1ecfc13b46d76c3f64b8</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>2026.11.24 | 长时动作记忆；机器人接口配方</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b057ca244e24a385c0304e0</link>
+    <guid isPermaLink="false">6b057ca244e24a385c0304e0</guid>
+    <pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>⏱️ Highlights</span><br><span><a class="timestamp" data-timestamp="31">00:31</a> 🤖 Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control（Motion Mamba 2.0：用于长时域人形机器人控制的自回归扩散 Mamba）</span><br><span><a class="timestamp" data-timestamp="70">01:10</a> 🦾 Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness（Embo-Harness：迈向理解以前沿模型作为策略的执行框架）</span><br><span><a class="timestamp" data-timestamp="114">01:54</a> 🛍️ WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce（WeMM-Ecom：推进微信电商的多模态内容理解）</span><br><span><a class="timestamp" data-timestamp="153">02:33</a> 🎬 3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets（3AGameFactory-Motion：面向多样三维资产的智能体绑骨与可靠复杂运动生成）</span><br><span><a class="timestamp" data-timestamp="191">03:11</a> 🛠️ Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood（让修复器决定：利用修复器的似然训练代码定位器）</span><br><span><a class="timestamp" data-timestamp="232">03:52</a> 🌍 WorldLeague: Benchmarking Physical Agency（WorldLeague：物理行动能力基准评测）</span><br><span><a class="timestamp" data-timestamp="271">04:31</a> 🦿 A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation（将视觉语言模型训练为机器人操纵基础模型的初探）</span><br><span><a class="timestamp" data-timestamp="311">05:11</a> 🎞️ ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step（ViDecide：教视频扩散模型逐步推理与规划）</span><br><span><a class="timestamp" data-timestamp="356">05:56</a> 🎮 AutoPILOT: A Visual Agent Harness for Real-Time Gameplay（AutoPILOT：用于实时游戏的视觉智能体执行框架）</span><br><span><a class="timestamp" data-timestamp="395">06:35</a> 🧊 Plan4D: Generative Plannable 4D Worlds（Plan4D：生成式可规划四维世界）</span><br><span><a class="timestamp" data-timestamp="434">07:14</a> 🧠 World Models as Native Latent Action Models（将世界模型用作原生潜在动作模型）</span><br><span><a class="timestamp" data-timestamp="477">07:57</a> 🔧 RUIBench: What Makes a Good Robot-Use Interface?（RUIBench：什么样的机器人使用接口才算好？）</span><br><span><a class="timestamp" data-timestamp="517">08:37</a> 📚 Distilling Visual Agents from Limited Interaction Experience（从有限交互经验中蒸馏视觉智能体）</span><br><span><a class="timestamp" data-timestamp="558">09:18</a> 🔍 DiLE: Discrimination-Aware Latent-Space Learning for Universal Multimodal Embeddings（DiLE：面向通用多模态嵌入的判别感知潜在空间学习）</span><br><span><a class="timestamp" data-timestamp="599">09:59</a> 🎨 Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space（Open Vision Banana：通过 RGB 空间生成实现统一视觉感知的开放框架）</span></p><img src="https://image.xyzcdn.net/FmHNdYQRP5KUigax9Ocaxdw4Ha24.png"><p><span>【关注我们】</span><br><span>您还可以在以下平台找到我们，获得播客内容以外更多信息</span><br><span>小红书: AI速递</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/667d1ecfc13b46d76c3f64b8/lkwcZxdp515MVdWI5fhCUGvJ71PF.m4a" length="10800824" type="audio/mp4"/>
+    <itunes:duration>00:11:09</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoqTpAyCk31T4qhoA-PuH8wDyDNx.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>2026.11.23 | 平衡超连接混合；让世界模型少穿墙</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b05001b01b0ab432edd3407</link>

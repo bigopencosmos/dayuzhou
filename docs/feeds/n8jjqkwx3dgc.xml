@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/675fea4c65cdefa087e2b3b8</link>
   <description><![CDATA[用唠嗑的精神聊科学，这是一档由西湖大学公共事务部出品的科普节目。西湖大学位于浙江杭州，是一所社会力量举办、国家重点支持的新型研究型大学。学校官网www.westlake.edu.cn。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:51:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:14:40 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/n8jjqkwx3dgc.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>小西westlake</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/675fea4c65cdefa087e2b3b8</link>
   </image>
   <itunes:category text="Science"/>
+  <item>
+    <title>世界在鸣唱，而我在说什么鸟语｜一场“自然”语言音乐会</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b064ee401b0ab432ede3942</link>
+    <guid isPermaLink="false">6b064ee401b0ab432ede3942</guid>
+    <pubDate>Wed, 25 Nov 2026 03:04:55 +0000</pubDate>
+    <description><![CDATA[<p><span>人类在日常生活中说的话，叫自然语言，尽管这听起来一点也不自然。那真正的自然界的“语言”又是什么呢？</span><br><br><span>维特根斯坦的那句“语言的边界就是世界的边界”，意指人类认知和体验的世界范围，根本上受限于语言所能表达的逻辑空间。也许正是自然之书，在不断提醒我们，能说清楚的，只是如此微小的一部分。又其实，微小和宏大，部分和整体，也不过是一种人的划分。</span><br><br><span>本期播客，我们聊一聊大自然的另一种语言——</span><strong><span>鸟语</span></strong><span>。尽管维特根斯坦告诫我们，对于不可说的东西，我们必须保持沉默。但我们还是忍不住舌学鹦鹉，像极了那些鸟类朋友。</span><br></p><p><strong><span>—本期嘉宾—</span></strong><br><strong><span>姚璐霞 </span></strong><span>西湖大学杨丹实验室 博士后</span><br><strong><span>曲天抒 </span></strong><span>西湖大学杨唐鸿云实验室 博士生</span><br><em><span>本期主持 沈是</span></em><br><br><strong><span>—特别感谢—</span></strong><br><span>西湖大学团委</span><br><span>西湖大学图书馆</span><br><span>西湖大学博物社</span><br><br><strong><span>—时间轴—</span></strong></p><p><span><a class="timestamp" data-timestamp="0">00:00</a>-<a class="timestamp" data-timestamp="435">07:15</a>： 开场</span><br><span><a class="timestamp" data-timestamp="435">07:15</a>–<a class="timestamp" data-timestamp="1354">22:34</a>：音乐会上半场（白头鹎、杜鹃、红角鸮与三宝鸟、竹鸡、强脚树莺、白胸苦恶鸟、金翅雀、小䴙䴘、红头长尾山雀等）</span><br><span><a class="timestamp" data-timestamp="1354">22:34</a>–<a class="timestamp" data-timestamp="2302">38:22</a>：音乐会下半场（珠颈斑鸠、夜鹭、红耳鹎、喜鹊、灰喜鹊、红嘴蓝鹊、乌鸦与渡鸦、乌鸫等）</span><br><span><a class="timestamp" data-timestamp="2302">38:22</a>–<a class="timestamp" data-timestamp="3000">50:00</a>：鸟鸣的机制与“方言”</span><br><span><a class="timestamp" data-timestamp="3000">50:00</a>–<a class="timestamp" data-timestamp="4018">01:06:58</a>： 鸣叫与生存</span><br><span><a class="timestamp" data-timestamp="4018">01:06:58</a>–<a class="timestamp" data-timestamp="4880">01:21:20</a>鸟类意象</span><br><span><a class="timestamp" data-timestamp="4880">01:21:20</a>–<a class="timestamp" data-timestamp="5292">01:28:12</a>：工具推荐</span><br><br><strong><span>—音乐—</span></strong><br><span>吴金黛：《森林狂想曲》 </span><br><span>Nick Cave / Bruno Coulais：</span><em><span>To Be by Your Side</span></em><br><br><strong><span>—封面—</span></strong><br><span>改自《权力的游戏》交响乐专辑封面</span></p><p><strong><span>—关于我们—</span></strong><br><span>《嗑嗑科学》是一档由西湖大学公共事务部出品的科普播客，欢迎在评论区留下你的想法。如果你喜欢这一期节目，欢迎推荐给更多朋友。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/675fea4c65cdefa087e2b3b8/lnuHO19x1dKT6IZGFSYXT82hddZR.m4a" length="85759133" type="audio/mp4"/>
+    <itunes:duration>01:28:17</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FukLY1Hi-HdRSkPkzysXZ_or2oN0.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>从甲骨文到世界模型｜今年爆火的AI新趋势，他三年前开始试水</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae83e9497726cd4675b74c9</link>
