@@ -6,7 +6,7 @@
   <description><![CDATA[一个懂点传播的地产人。
 咨询服务：Fuckhouses]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:01:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:18:23 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65f7868259b49cf82846c660.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>达菲说楼市</itunes:author>
@@ -19,6 +19,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/65f7868259b49cf82846c660</link>
   </image>
   <itunes:category text="Business"/>
+  <item>
+    <title>土地财政退潮：一天少收134亿，四万亿缺口谁来填？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b064afa44e24a385c038872</link>
+    <guid isPermaLink="false">6b064afa44e24a385c038872</guid>
+    <pubDate>Wed, 25 Nov 2026 02:44:39 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/65f7868259b49cf82846c660/lmGwAINrKAPTRkO9vLLqjJ8sgLLT.m4a" length="13701099" type="audio/mp4"/>
+    <itunes:duration>00:14:07</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp0fv-xhND-ILXCXxpnSId2HSzs4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>身家过亿炒房客爆仓：他赌错时代了</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afffd5ca4a79edf137c3408</link>
