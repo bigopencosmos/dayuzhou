@@ -21,7 +21,7 @@ Rex widens your English.
 一起吱吱歪歪~
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:58:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:07:42 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/crhphbm8qde6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Rex_Chen</itunes:author>
@@ -34,6 +34,17 @@ Rex widens your English.
     <link>https://www.xiaoyuzhoufm.com/podcast/63c438c3ddbac1001141464f</link>
   </image>
   <itunes:category text="News"/>
+  <item>
+    <title>【414】AI开始“造药”了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b061fb944e24a385c035de6</link>
+    <guid isPermaLink="false">6b061fb944e24a385c035de6</guid>
+    <pubDate>Wed, 25 Nov 2026 00:03:46 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FqQ2oeF9Xq_0qw1-V1j3RSgsBvmy.JPEG"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63c438c3ddbac1001141464f/Ft_sONbKNE5-IdAt13QBCaFI0HpG.m4a" length="1458713" type="audio/mp4"/>
+    <itunes:duration>00:01:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg8kOO_SKBr9g5OcsNIroblQRC-K.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【413】软银的AI豪赌</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03173377e5b18a33312512</link>
