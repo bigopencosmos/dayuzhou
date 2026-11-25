@@ -6,7 +6,7 @@
   <description><![CDATA[李思，一个专注牛人牛事的商业主笔
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:58:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 04:58:46 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p662fb006f3ee6d4f8a9cfaf0.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>古爷商业分析</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/662fb006f3ee6d4f8a9cfaf0</link>
   </image>
   <itunes:category text="Business"/>
+  <item>
+    <title>比亚迪在日本只卖 4000 辆车，四家日系车企却都在买它的电池</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05384d01b0ab432edd6cf6</link>
+    <guid isPermaLink="false">6b05384d01b0ab432edd6cf6</guid>
+    <pubDate>Tue, 24 Nov 2026 07:22:50 +0000</pubDate>
+    <description><![CDATA[<p><span>说起来，从2023 年比亚迪正式把车卖进日本到现在已经将近四年，累计交付了多少辆呢？刚突破一万辆。而当中一半还是今年贡献的。今年前 10 个月，比亚迪在日本累计销量 4693 辆，市场份额约 0.1%。看到这个连比亚迪国内零头都撵不上的数字，不同的人心里对这个数字情绪一定是很复杂的。这个数字小到几乎可以忽略。可就在同一个时间，铃木、丰田、本田、日产，四家日本车企，都在采购比亚迪的电池。到了市场上，它们视比亚迪是一个无足轻重的对手；到了产线上，它们谁见了比亚迪怕也得恭敬地称一声，迪子阁下。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/662fb006f3ee6d4f8a9cfaf0/lnOvOEw2k9vmnjh3YGowcNCc6iN5.m4a" length="4751566" type="audio/mp4"/>
+    <itunes:duration>00:04:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkQBCUYw6kfQNUg4_pckbwdnF1wQ.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>孙正义：AI豪赌，根本停不下来</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03dd8d77e5b18a333166db</link>
