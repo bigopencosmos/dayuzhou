@@ -6,7 +6,7 @@
   <description><![CDATA[每晚九点半更新的菠萝碎碎念，
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:19:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:11:48 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/cy4fmemxtp78.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6725d984e54681eb09a174f9</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>重复的生活我实在想不出新的标题了 📅 26.Nov.24</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b05809001b0ab432eddb5b6</link>
+    <guid isPermaLink="false">6b05809001b0ab432eddb5b6</guid>
+    <pubDate>Tue, 24 Nov 2026 12:21:25 +0000</pubDate>
+    <description><![CDATA[<p><span>☀️，7~15℃，状态3星，怕冷的菠萝。</span></p><p><span><a class="timestamp" data-timestamp="10">00:10</a> 这学期的开始和结束都在同一个教室~</span></p><p><span><a class="timestamp" data-timestamp="86">01:26</a> 为什么不准备上第五节课了</span></p><p><span><a class="timestamp" data-timestamp="366">06:06</a> 终于拿出了热水袋，好暖和好舒服</span></p><p><span><a class="timestamp" data-timestamp="501">08:21</a> 骑车听小说，被气人的剧情折磨了二十分钟…</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6725d984e54681eb09a174f9/lis_y2kcPJhRI1fkcXAzuNBzxWze.m4a" length="10167337" type="audio/mp4"/>
+    <itunes:duration>00:10:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkSVqlVEf8qX2aJc0WfbJu9zKjU-.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>下雨天了怎么办我不想上学~📅 26.Nov.23</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b04424901b0ab432edcc9f8</link>
