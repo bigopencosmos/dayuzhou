@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""回填播客全部历史。
-
-状态存 state/backfill.json，每完成一个立刻落盘，中断重跑不重复。
-回填失败不标记完成，累计 3 次才放弃；凭证连续失效时自动停止。
+"""
+xyz
 """
 import argparse
 import datetime as dt
