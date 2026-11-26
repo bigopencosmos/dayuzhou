@@ -6,7 +6,7 @@
   <description><![CDATA[来自 @爱可可-爱生活 的第一手AI快报，用最简单易懂的语言，带你直击最前沿的人工智能科研动态。无论你是科技小白，还是行业达人，这里都有你想知道的AI故事和未来趋势。跟着我们，轻松解锁人工智能的无限可能！
 #人工智能 #科技前沿]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:04:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:19:51 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wl9t7httkfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>fly51fly</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6683665e2063a3f1ac0cb50d</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>[人人能懂AI前沿] 从捡回AI的草稿纸、操控百万机械臂，到给大模型装上原生方向盘</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b075d2ed234c4df10072177</link>
+    <guid isPermaLink="false">6b075d2ed234c4df10072177</guid>
+    <pubDate>Wed, 25 Nov 2026 22:22:09 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们将通过四篇硬核又有趣的最新论文，带你捡回AI丢弃的“草稿纸”来低成本还原强化学习功力，并看看“通用大脑”如何因地制宜地操控一百万种不同的机械臂。我们还要为你算一算大模型训练中到底要不要“请教练”的经济账，最后探讨如何通过条件预训练，从底层给AI装上防越狱的“原生方向盘”。准备好给大脑充值了吗？我们现在开始！</span></p><p><span><a class="timestamp" data-timestamp="32">00:00:32</a> 别急着扔掉AI的草稿纸，那些被随手丢弃的试错记录，藏着它变聪明的秘密</span></p><p><span><a class="timestamp" data-timestamp="1945">00:32:25</a> 为什么真正厉害的“通用大脑”，不是教所有机器人做同一个动作？</span></p><p><span><a class="timestamp" data-timestamp="767">00:12:47</a> 要不要请一个“教练”？人工智能的一场大争论，藏着普通人做决策的账本</span></p><p><span><a class="timestamp" data-timestamp="1191">00:19:51</a> 别等蛋糕烤好了再抹奶油，给AI装上“原生方向盘”的新思路</span></p><p><span><a class="timestamp" data-timestamp="1549">00:25:49</a> 为什么越聪明的大模型，越需要学会“打个盹”？</span></p><p><span>本期介绍的几篇论文：</span></p><p><span>[LG] Reinforcement Learning Can Be Recovered From Its Own Rollouts</span></p><p><span>[CMU &amp; University of Illinois Urbana-Champaign]</span></p><p><a href="https://arxiv.org/abs/2611.33102" data-url="https://arxiv.org/abs/2611.33102"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[RO] OmniAct: One Policy, One Million Embodiments</span></p><p><span>[University of Washington]</span></p><p><a href="https://arxiv.org/abs/2611.33158" data-url="https://arxiv.org/abs/2611.33158"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] To Critic Or Not To Critic</span></p><p><span>[Scale AI]</span></p><p><a href="https://arxiv.org/abs/2611.32013" data-url="https://arxiv.org/abs/2611.32013"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] Steerable by Design: Conditional Pretraining for Robust Control of Language Models</span></p><p><span>[Cambridge-Boston Alignment Initiative &amp; MIT &amp; Harvard University]</span></p><p><a href="https://arxiv.org/abs/2611.32199" data-url="https://arxiv.org/abs/2611.32199"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] Sample-Efficient In-Context Adaptation via Sleep</span></p><p><span>[CMU &amp; Yale University &amp; Microsoft Research]</span></p><p><a href="https://arxiv.org/abs/2611.32802" data-url="https://arxiv.org/abs/2611.32802"><span>arxiv.org</span></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lkdJdB90N12xKzNLd-rcPUHc4sat.m4a" length="30285934" type="audio/mp4"/>
+    <itunes:duration>00:31:12</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>[人人能懂AI前沿] 从潜隐推理、任务拆解到AI的自我升级</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b060b8d44e24a385c035738</link>
