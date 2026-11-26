@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/65abc19da310a0e29e101474</link>
   <description><![CDATA[这是一档以东北风土人情为主题的闲聊播客，一个在外奋斗8年回归东北的主播透过当下热点结合资深感受畅谈东北]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:41:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:15:59 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65abc19da310a0e29e101474.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>石大将军</itunes:author>
@@ -18,6 +18,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/65abc19da310a0e29e101474</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Vol.120 【镜面】一座汽车城的坠落</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06da64d234c4df1006aef1</link>
+    <guid isPermaLink="false">6b06da64d234c4df1006aef1</guid>
+    <pubDate>Wed, 25 Nov 2026 23:30:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/65abc19da310a0e29e101474/lpJCo45wfoDR8FNiQfe0_V2L1KHP.m4a" length="36791662" type="audio/mp4"/>
+    <itunes:duration>00:37:52</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FjAfzOGUdvSpQShn05wE1ZKX-9iO.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Vol.119 【小城良方】不只是一部医疗剧，是一份来自家乡的良方</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af3ea6e14d01a26f8a8258f</link>
