@@ -1,0 +1,90 @@
+name: backfill
+
+on:
+  schedule:
+    - cron: "43 7 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "本次回填几个（留空=随机 10-20）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 配置 git 身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 检查是否已全部回填完成
+        id: check
+        run: |
+          set +e
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          state = {"done": {}}
+          if os.path.exists("state/backfill.json"):
+              state = json.load(open("state/backfill.json"))
+          conf = json.load(open("config/podcasts.json"))
+          done = state.get("done") or {}
+          remaining = [p for p in conf["podcasts"] if p.get("slug") not in done]
+          print(f"remaining={len(remaining)}")
+          print(f"completed={'yes' if not remaining else 'no'}")
+          print(f"done_count={len(done)}")
+          PY
+
+      - name: 随机回填（每日 10-20 个）
+        if: steps.check.outputs.remaining != '0'
+        env:
+          XYZ_REFRESH_TOKEN: ${{ secrets.XYZ_REFRESH_TOKEN }}
+        run: |
+          set +e
+          COUNT="${{ inputs.count }}"
+          if [ -n "$COUNT" ]; then
+            python scripts/backfill_daily.py --count "$COUNT" || echo "回填有失败，保留进度"
+          else
+            python scripts/backfill_daily.py || echo "回填有失败，保留进度"
+          fi
+          # 回填会改变集数，索引跟着更新
+          python scripts/dayuzhou.py \
+            --config config/podcasts.json \
+            --out docs \
+            --base-url "${{ vars.BASE_URL }}" \
+            --index-only || echo "索引重建失败，继续"
+
+      - name: 提交进度
+        if: always()
+        run: |
+          set +e
+          git add docs state
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: backfill progress $(date -u +%Y-%m-%dT%H:%MZ)" || echo "提交失败"
+            git pull --rebase origin main || echo "rebase 失败"
+            git push || echo "push 失败"
+          fi
+
+      - name: 汇总
+        if: always()
+        run: |
+          echo "### backfill" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 已完成 ${{ steps.check.outputs.done_count }} 个，待回填 ${{ steps.check.outputs.remaining }} 个" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 全部完成：${{ steps.check.outputs.completed }}" >> "$GITHUB_STEP_SUMMARY"
