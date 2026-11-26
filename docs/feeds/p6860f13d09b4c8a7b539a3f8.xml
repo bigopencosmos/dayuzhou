@@ -9,7 +9,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:05:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:21:22 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6860f13d09b4c8a7b539a3f8.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>一双看透真相的双眼</itunes:author>
@@ -22,6 +22,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6860f13d09b4c8a7b539a3f8</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>眼哥股市会 26.11.26</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07a01ed234c4df10076c02</link>
+    <guid isPermaLink="false">6b07a01ed234c4df10076c02</guid>
+    <pubDate>Thu, 26 Nov 2026 03:01:35 +0000</pubDate>
+    <description><![CDATA[<p><span>26.11.26</span></p><p><span>算不算一个豹子号？</span></p><p><span>会不会已经见底了？</span></p><p><span>哈哈哈哈哈</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860f13d09b4c8a7b539a3f8/liSF1ZGkNvAw2fquljq6F87qZ20H.m4a" length="21382995" type="audio/mp4"/>
+    <itunes:duration>00:22:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fjxw_vIpTp435ECqFZiZ3skfhnjW.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>眼哥股市会 26.11.25</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b065a6101b0ab432ede4760</link>
