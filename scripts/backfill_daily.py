@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""每日随机回填：用 refresh token 每天挑 10-20 个播客，补齐它们的全部历史单集。
+"""回填播客全部历史。
 
-设计要点：
-- 状态存 state/backfill.json，记录已完成的 slug；支持断点，跑一半被杀也不重复
-- 全部完成后输出 ALL DONE，工作流后续步骤自动跳过（每天只剩十几秒的空跑）
-- 模拟真人节奏：随机启动延迟 / 随机挑选 / 随机顺序 / 低请求速率 / 播客之间随机停顿
-- 复用 dayuzhou.py 的抓取与合并逻辑（上一版 RSS 即存档，逐日累积不丢数据）
+状态存 state/backfill.json，每完成一个立刻落盘，中断重跑不重复。
+回填失败不标记完成，累计 3 次才放弃；凭证连续失效时自动停止。
 """
 import argparse
 import datetime as dt
@@ -22,13 +19,22 @@ sys.path.insert(0, HERE)
 import dayuzhou as dz  # noqa: E402
 
 STATE = os.path.join(ROOT, "state", "backfill.json")
+GIVE_UP_AFTER = 3
+
+AUTH_HINTS = ("401", "403", "token", "session", "凭证", "续期", "失效", "未登录", "被拒绝")
 
 
 def load_state():
     if os.path.exists(STATE):
         with open(STATE, encoding="utf-8") as f:
-            return json.load(f)
-    return {"done": {}, "completed": None}
+            state = json.load(f)
+    else:
+        state = {}
+    state.setdefault("done", {})
+    state.setdefault("skipped", {})
+    state.setdefault("fails", {})
+    state.setdefault("completed", None)
+    return state
 
 
 def save_state(state):
@@ -39,8 +45,8 @@ def save_state(state):
     os.replace(tmp, STATE)
 
 
-def base_url_of(conf):
-    url = (conf.get("base_url") or "").strip()
+def base_url_of(conf, cli_value):
+    url = (cli_value or conf.get("base_url") or "").strip()
     if url:
         return url
     repo = os.environ.get("GITHUB_REPOSITORY", "")
@@ -50,13 +56,42 @@ def base_url_of(conf):
     return ""
 
 
+def pick_credential(cli):
+    """refresh token 优先（长期可用、自动轮换）；access token 只用于临时调试。"""
+    at = (cli.access_token or "").strip() or os.environ.get("XYZ_ACCESS_TOKEN", "").strip()
+    rt = (cli.refresh_token or "").strip() or os.environ.get("XYZ_REFRESH_TOKEN", "").strip()
+    path = cli.token_file or os.path.join(ROOT, "config", "token.txt")
+    if os.path.exists(os.path.expanduser(path)):
+        value = open(os.path.expanduser(path), encoding="utf-8").read().strip()
+        if cli.token_is_access:
+            at = at or value
+        else:
+            rt = rt or value
+    if rt:
+        return dz.Credential(refresh_token=rt, device_id=cli.device_id, token_path=path)
+    if at:
+        return dz.Credential(access_token=at, device_id=cli.device_id, token_path=path)
+    return None
+
+
+def looks_auth_error(message):
+    low = (message or "").lower()
+    return any(h in low for h in AUTH_HINTS)
+
+
 def main():
-    ap = argparse.ArgumentParser(description="每日随机回填 10-20 个播客的全部历史")
+    ap = argparse.ArgumentParser(description="回填播客的全部历史（session 或 refresh token）")
     ap.add_argument("--config", default=os.path.join(ROOT, "config", "podcasts.json"))
     ap.add_argument("--out", default=os.path.join(ROOT, "docs"))
-    ap.add_argument("--min", type=int, default=10, help="每天最少补几个（默认 10）")
-    ap.add_argument("--max", type=int, default=20, help="每天最多补几个（默认 20）")
-    ap.add_argument("--count", type=int, default=0, help="固定数量（覆盖 min/max）")
+    ap.add_argument("--count", type=int, default=0, help="本次补几个；0 = 随机 min~max")
+    ap.add_argument("--min", type=int, default=10, help="随机下限（默认 10）")
+    ap.add_argument("--max", type=int, default=20, help="随机上限（默认 20）")
+    ap.add_argument("--access-token", help="x-jike-access-token（session），也可用环境变量 XYZ_ACCESS_TOKEN")
+    ap.add_argument("--refresh-token", help="x-jike-refresh-token，也可用环境变量 XYZ_REFRESH_TOKEN")
+    ap.add_argument("--token-file", help="从文件读 token（默认按 refresh，加 --token-is-access 按 session）")
+    ap.add_argument("--token-is-access", action="store_true", help="--token-file 里是 access token")
+    ap.add_argument("--device-id", help="x-jike-device-id，缺省时按 token 派生")
+    ap.add_argument("--base-url", default="", help="站点根地址，用于 feed 里的 atom:self")
     ap.add_argument("--rate", type=float, default=2.5, help="请求速率（次/秒），越低越像真人")
     ap.add_argument("--think", default="25-90", help="播客之间的停顿秒数范围，如 25-90")
     ap.add_argument("--start-delay", type=int, default=240, help="启动随机延迟上限（秒）")
@@ -67,76 +102,104 @@ def main():
     with open(cli.config, encoding="utf-8") as f:
         conf = json.load(f)
     podcasts = conf.get("podcasts") or []
-    done = state.setdefault("done", {})
-    remaining = [p for p in podcasts if p.get("slug") and p["slug"] not in done]
+    done, skipped, fails = state["done"], state["skipped"], state["fails"]
+    remaining = [
+        p for p in podcasts
+        if p.get("slug") and p["slug"] not in done and p["slug"] not in skipped
+    ]
     total = len(podcasts)
-    print(f"总进度：{total - len(remaining)}/{total} 已回填，剩 {len(remaining)}")
+    print(f"总进度：{len(done)}/{total} 已回填，{len(skipped)} 个已放弃，剩 {len(remaining)}")
 
     if not remaining:
         print("ALL DONE")
-        state["completed"] = dt.date.today().isoformat()
-        save_state(state)
+        if not state.get("completed"):
+            state["completed"] = dt.date.today().isoformat()
+            save_state(state)
         return 0
 
-    # 真人感 1：不立刻开始
+    cred = pick_credential(cli)
+    if not cred and not cli.dry_run:
+        print("没有凭证：把 refresh token 写进 config/token.txt，或设 XYZ_REFRESH_TOKEN",
+              file=sys.stderr)
+        return 2
+    mode = "未配置" if not cred else (
+        "session" if (cred.access_token and not cred.refresh_token) else "refresh token")
+    print(f"凭证类型：{mode}")
+
     delay = random.randint(0, cli.start_delay)
     print(f"随机延迟 {delay}s 后开始")
     if not cli.dry_run:
         time.sleep(delay)
 
-    # 真人感 2：随机数量 + 随机挑选 + 随机顺序
     k = cli.count or random.randint(cli.min, cli.max)
     k = min(k, len(remaining))
     picks = random.sample(remaining, k)
-    print(f"今日目标 {k} 个：" + "、".join(p.get("title", "")[:14] for p in picks))
+    print(f"本次目标 {k} 个：" + "、".join(p.get("title", "")[:14] for p in picks))
 
     if cli.dry_run:
         print("（dry-run：只展示计划，不抓取）")
         return 0
 
-    nsf = argparse.Namespace(
+    ns = argparse.Namespace(
         out=cli.out, backfill="always", workers=3, limit=0,
-        base_url=base_url_of(conf), dry_run=cli.dry_run, strict=False,
+        base_url=base_url_of(conf, cli.base_url), dry_run=False, strict=False,
     )
-    token = os.environ.get("XYZ_REFRESH_TOKEN", "").strip()
-    cred = dz.Credential(token) if token else None
-    if not cred and not cli.dry_run:
-        print("缺少 XYZ_REFRESH_TOKEN（仓库 Settings → Secrets 里没配）", file=sys.stderr)
-        return 2
+    if not ns.base_url:
+        print("提示：没给 --base-url，feed 里不会写 atom:self（不影响播放，但订阅地址建议用线上完整 URL）")
 
     dz.LIMITER.set_rate(cli.rate)
     site = dz.Site()
     lo, hi = (int(x) for x in cli.think.split("-"))
     ok = failed = 0
+    auth_streak = 0
     t_start = time.time()
 
     for idx, p in enumerate(picks, 1):
-        print(f"\n[{idx}/{k}] {p.get('title', '')}（{p['slug']}）")
+        slug = p["slug"]
+        print(f"\n[{idx}/{k}] {p.get('title', '')}（{slug}）")
         results = []
         try:
-            dz.build(p, site, cred, nsf, results)  # 内部会翻页拉全集并合并进已有 RSS
+            dz.build(p, site, cred, ns, results)
             r = results[0] if results else {}
             if r.get("error"):
                 raise RuntimeError(r["error"])
-            done[p["slug"]] = {
+            if r.get("backfill_error"):
+                raise RuntimeError("回填未完成：" + r["backfill_error"])
+            done[slug] = {
                 "at": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
                 "eps": r.get("count", 0),
             }
-            save_state(state)  # 每完成一个就落盘，中途被杀也不重复
+            fails.pop(slug, None)
+            save_state(state)
             ok += 1
-        except Exception as e:  # 网络/风控/解析失败都跳过，下次再来
-            print(f"  ✗ 失败：{e}", file=sys.stderr)
+            auth_streak = 0
+        except Exception as e:
+            msg = str(e)
+            print(f"  ✗ 失败：{msg}", file=sys.stderr)
             failed += 1
+            fails[slug] = int(fails.get(slug, 0)) + 1
+            if fails[slug] >= GIVE_UP_AFTER:
+                skipped[slug] = {"at": dt.datetime.now().strftime("%Y-%m-%d"), "reason": msg[:200]}
+                print(f"  · 累计失败 {GIVE_UP_AFTER} 次，标记放弃，不再重试")
+            save_state(state)
+            if looks_auth_error(msg):
+                auth_streak += 1
+                if auth_streak >= 3:
+                    print("\n连续 3 个都像凭证/风控问题（401/403/token），提前停止。"
+                          "换个新 session 再跑，已完成的不会重做。", file=sys.stderr)
+                    break
+            else:
+                auth_streak = 0
         if idx < k:
-            # 真人感 3：播客之间像人一样停一会
             pause = random.uniform(lo, hi)
             print(f"  …停顿 {pause:.0f}s")
-            if not cli.dry_run:
-                time.sleep(pause)
+            time.sleep(pause)
 
     cost = time.time() - t_start
-    print(f"\n今日完成 {ok}，失败 {failed}，累计 {len(done)}/{total}，用时 {cost / 60:.1f} 分钟")
-    if len(done) >= total:
+    left = total - len(done) - len(skipped)
+    print(f"\n本次完成 {ok}，失败 {failed}，累计 {len(done)}/{total}，"
+          f"剩 {left}，用时 {cost / 60:.1f} 分钟")
+    if len(done) + len(skipped) >= total:
         state["completed"] = dt.date.today().isoformat()
         save_state(state)
         print("ALL DONE")
