@@ -5,17 +5,10 @@ on:
     # 每天 22:17 UTC = 北京时间 06:17，避开整点高峰
     - cron: "17 22 * * *"
   workflow_dispatch:
-    inputs:
-      backfill:
-        description: "历史回填策略"
-        type: choice
-        default: auto
-        options: [auto, always, never]
   push:
     branches: [main]
     paths:
       - "config/podcasts.json"
-      - "scripts/**"
       - ".github/workflows/update-feeds.yml"
 
 permissions:
@@ -42,11 +35,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: 生成 RSS（每 100 个播客提交推送一次）
-        env:
-          XYZ_REFRESH_TOKEN: ${{ secrets.XYZ_REFRESH_TOKEN }}
-          BACKFILL: ${{ inputs.backfill || 'auto' }}
         run: |
-          set +e   # Actions 默认 bash -e：任何命令失败会中断整个步骤，改为每条命令自行兜底
+          set +e   # Actions 默认 bash -e，任何命令失败会中断整个步骤；改由每条命令自行兜底
+          # 全量约 6400 个，按 100 个/批切分；已完成的部分从仓库存档增量续跑
           BATCHES=64
           for i in $(seq 1 $BATCHES); do
             echo "════ 批次 $i/$BATCHES ════"
@@ -54,9 +45,18 @@ jobs:
               --config config/podcasts.json \
               --out docs \
               --base-url "${{ vars.BASE_URL }}" \
-              --backfill "$BACKFILL" \
+              --backfill never \
+              --no-token \
               --podcast-workers 5 \
               --slice "$i/$BATCHES" || echo "批次 $i 有个别失败，继续"
+            # 每 8 批重建一次索引，页面随进度增长；中途中断也是最新的
+            if [ $((i % 8)) -eq 0 ] || [ "$i" = "$BATCHES" ]; then
+              python scripts/dayuzhou.py \
+                --config config/podcasts.json \
+                --out docs \
+                --base-url "${{ vars.BASE_URL }}" \
+                --index-only || echo "索引重建失败，继续"
+            fi
             git add docs
             if git diff --cached --quiet; then
               echo "批次 $i 无变化，跳过提交"
