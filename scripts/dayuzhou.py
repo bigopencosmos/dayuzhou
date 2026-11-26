@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""从公开页面重建小宇宙播客 RSS（Apple Podcasts 规范）。"""
+"""从公开页面重建xyz播客 RSS（Apple Podcasts 规范）。"""
 
 import argparse
 import concurrent.futures
@@ -25,6 +25,8 @@ API_BASE = "https://api.xiaoyuzhoufm.com"
 WEB_BASE = "https://www.xiaoyuzhoufm.com"
 REFRESH_PATH = "/app_auth_tokens.refresh"
 
+# 小宇宙边缘 WAF（openresty）对 curl 风格/桌面 UA 返回 403，移动端 Safari 可以通过；
+# 机房 IP（GitHub Actions）更容易命中，因此主用 iOS Safari，403 时轮换 Android Chrome。
 UA_WEB = (
     "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
     "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
@@ -42,6 +44,7 @@ ITUNES = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 
 DEFAULT_DEVICE_ID = "81ADBFD6-6921-482B-9AB9-A29E7CC7BB55"
 
+# Apple Podcasts 官方分类（顶层）。配错分类会被审核打回，所以只接受这一份白名单。
 APPLE_CATEGORIES = {
     "Arts", "Business", "Comedy", "Education", "Fiction", "Government",
     "Health & Fitness", "History", "Kids & Family", "Leisure", "Music",
@@ -254,8 +257,8 @@ class Credential:
     def load(cls, args):
         if args.no_token:
             return None
-        rt = (args.refresh_token or "").strip() or os.environ.get("XYZ_REFRESH_TOKEN", "").strip()
-        at = (args.access_token or "").strip() or os.environ.get("XYZ_ACCESS_TOKEN", "").strip()
+        rt = (args.refresh_token or "").strip()
+        at = (args.access_token or "").strip()
         path = args.token_file or os.path.join(
             os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "token.txt"
         )
@@ -278,6 +281,7 @@ class Credential:
             log(f"  refresh token 已轮换，新的存到 {self.token_path}")
         except OSError as e:
             warn(f"  ! 新的 refresh token 存盘失败（本次运行不受影响）：{e}")
+        # Actions 里工作区是临时的，文件活不过这次运行；有 PAT 就直接把 Secret 一起更新
         self._sync_secret(refresh_token)
 
     @staticmethod
