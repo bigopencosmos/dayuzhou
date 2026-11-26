@@ -7,7 +7,7 @@
 投稿：DGJ250310@163.com
 投稿说明：根据节目需要，我们可能会对部分投稿进行适当整理、删减和润色，希望能让大家听到更加精彩的大公鸡播客!]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:28:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:43:54 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/lr33n8g4m8t8.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>大公鸡播客</itunes:author>
@@ -20,6 +20,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/67d2cf40fe90b0cdffc2d88d</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>【鸡鸣怪谈】第27期：兔子洞冰山图系列17</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b04402101b0ab432edcc7f2</link>
+    <guid isPermaLink="false">6b04402101b0ab432edcc7f2</guid>
+    <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+    <description><![CDATA[<p><strong><span>在《鸡鸣怪谈》这个系列里，我们将会为大家讲述你听过或者没听过的国内外的都市怪谈，希望大家能够喜欢！</span></strong></p><p></p><p><span>本期涉及的怪谈：</span></p><p><span><a class="timestamp" data-timestamp="20">00:00:20</a> —— 台湾五妃街裂嘴小女孩事件</span></p><p><span><a class="timestamp" data-timestamp="1050">00:17:30</a> —— 温州六中秋游事件</span></p><p><span><a class="timestamp" data-timestamp="2166">00:36:06</a> —— 彩蛋</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/liGmkCQCnfWbTgrtT8GZmlyUSIcs.m4a" length="35188722" type="audio/mp4"/>
+    <itunes:duration>00:36:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgGDwisXUwkkYW2kRApURurVED7F.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【鸡毛诡话】第71期：被封锁的报告厅</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b03012977e5b18a33311ce4</link>
