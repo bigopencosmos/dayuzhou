@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 04:54:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:10:46 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,17 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>PANews 11月25日加密日报</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06b2b8a9729368a41abd08</link>
+    <guid isPermaLink="false">6b06b2b8a9729368a41abd08</guid>
+    <pubDate>Wed, 25 Nov 2026 10:08:37 +0000</pubDate>
+    <description><![CDATA[<p><span>今日关注：</span></p><p><span>Tether被曝向部分黑客攻击受害者收取最高20%的USDT重新发行费用</span></p><p><span>比特币现货 ETF 昨日总净流出 2.32 亿美元，持续 6 日净流出</span></p><p><span>费城半导体指数日内跌8%，AMD、美光科技跌超10%</span></p><p><span>欧盟拟筹资500亿欧元设立新基金，投资人工智能和量子计算</span></p><p><span>Anthropic开盘即“破发”，跌幅约5%</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/ltS6I47LSME-5dh4Ng4P-SymM3iZ.m4a" length="4997519" type="audio/mp4"/>
+    <itunes:duration>00:05:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg9Tjc7mUGgLcomXfWbwdND21sDc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>PANews 11月24日加密日报</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0566a244e24a385c02f101</link>
