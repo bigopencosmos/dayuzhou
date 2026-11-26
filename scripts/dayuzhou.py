@@ -1,24 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-dayuzhou — 从页面数据重建小宇宙播客 RSS（Apple Podcasts 规范）
-
-只做一件事：把播客页面上的单集，还原成一个合规的播客 RSS。
-
-数据来源（全部是公开页面，日常更新不需要登录）：
-    · 播客页 JSON      → 节目元信息 + 最近 15 集
-    · 单集页 JSON      → shownotes、音频直链、时长、封面
-    · 音频 CDN         → 真实字节数（enclosure 的 length）
-
-历史回填只在第一次做：
-    · 首次：--backfill（或 auto）带 refresh token 翻完列表接口，把历史全集写进 RSS
-    · 之后：每次都只读页面最近 15 集，与已有 RSS 合并 —— 上一版 RSS 就是存档
-
-用法：
-    python3 scripts/dayuzhou.py --config config/podcasts.json                  # 日常增量
-    XYZ_REFRESH_TOKEN=... python3 scripts/dayuzhou.py --config ... --backfill  # 首次全量
-    python3 scripts/dayuzhou.py --pid <链接或pid> --dry-run                     # 试跑
-"""
+"""从公开页面重建小宇宙播客 RSS（Apple Podcasts 规范）。"""
 
 import argparse
 import concurrent.futures
@@ -43,8 +25,6 @@ API_BASE = "https://api.xiaoyuzhoufm.com"
 WEB_BASE = "https://www.xiaoyuzhoufm.com"
 REFRESH_PATH = "/app_auth_tokens.refresh"
 
-# 小宇宙边缘 WAF（openresty）对 curl 风格/桌面 UA 返回 403，移动端 Safari 可以通过；
-# 机房 IP（GitHub Actions）更容易命中，因此主用 iOS Safari，403 时轮换 Android Chrome。
 UA_WEB = (
     "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
     "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
@@ -60,10 +40,8 @@ MAX_PAGES = 200
 SHOWNOTES_CAP = 60000
 ITUNES = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 
-# 小宇宙 App 的固定设备号兜底值；也可用 --device-id / XYZ_DEVICE_ID 覆盖
 DEFAULT_DEVICE_ID = "81ADBFD6-6921-482B-9AB9-A29E7CC7BB55"
 
-# Apple Podcasts 官方分类（顶层）。配错分类会被审核打回，所以只接受这一份白名单。
 APPLE_CATEGORIES = {
     "Arts", "Business", "Comedy", "Education", "Fiction", "Government",
     "Health & Fitness", "History", "Kids & Family", "Leisure", "Music",
@@ -81,8 +59,6 @@ def warn(msg):
 
 
 class RateLimiter:
-    """全局匀速器：播客一多，几十个线程同时打小宇宙容易被限流。"""
-
     def __init__(self, per_second):
         self.gap = 1.0 / per_second if per_second and per_second > 0 else 0.0
         self._lock = threading.Lock()
@@ -103,7 +79,7 @@ class RateLimiter:
             time.sleep(delay)
 
 
-LIMITER = RateLimiter(12)  # 默认 12 次/秒，--rate 可调
+LIMITER = RateLimiter(12)
 _THROTTLED_HOSTS = ("xiaoyuzhoufm.com", "xyzcdn.net")
 
 
@@ -124,12 +100,6 @@ def _decode(raw, content_encoding=""):
 
 
 def device_id_from_token(token):
-    """从 token 派生一个稳定的设备号。
-
-    小宇宙的 x-jike-device-id 只用于识别「同一次安装」，读接口并不强绑定，
-    但带上它更接近真实客户端行为。注意：token 轮换后派生值会变，所以要
-    在进程启动时算一次并固定下来，不能每次请求重算。
-    """
     norm = re.sub(r"[^a-f0-9]", "", (token or "").lower())
     if len(norm) < 32:
         return DEFAULT_DEVICE_ID
@@ -219,7 +189,6 @@ def parse_pid(value):
 
 
 class Site:
-    """小宇宙网页侧接口，全程免登录。"""
 
     def __init__(self):
         self._build_id = None
@@ -265,11 +234,14 @@ class Site:
 # ───────────────────────────── 首次回填 ─────────────────────────────
 
 class Credential:
-    """只在首次回填时用；refresh token 换 access token。"""
+    """只在回填时用；refresh token 换 access token，轮换后的新 refresh 自动回存。"""
 
-    def __init__(self, refresh_token=None, access_token=None, device_id=None):
+    def __init__(self, refresh_token=None, access_token=None, device_id=None, token_path=None):
         self.refresh_token = refresh_token
         self.access_token = access_token
+        self.token_path = token_path or os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "token.txt"
+        )
         # 只算一次：token 轮换后不要重新派生，否则同一轮请求的设备号会漂移
         self.device_id = (
             device_id
@@ -284,22 +256,57 @@ class Credential:
             return None
         rt = (args.refresh_token or "").strip() or os.environ.get("XYZ_REFRESH_TOKEN", "").strip()
         at = (args.access_token or "").strip() or os.environ.get("XYZ_ACCESS_TOKEN", "").strip()
-        if args.token_file and os.path.exists(args.token_file):
-            value = open(args.token_file, encoding="utf-8").read().strip()
+        path = args.token_file or os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "token.txt"
+        )
+        if os.path.exists(path):
+            value = open(path, encoding="utf-8").read().strip()
             if args.token_is_access:
                 at = at or value
             else:
                 rt = rt or value
-        return cls(rt, at, args.device_id) if (rt or at) else None
+        return cls(rt, at, args.device_id, path) if (rt or at) else None
+
+    def _persist(self, refresh_token):
+        try:
+            os.makedirs(os.path.dirname(self.token_path), exist_ok=True)
+            tmp = self.token_path + ".tmp"
+            fd = os.open(tmp, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+            with os.fdopen(fd, "w", encoding="utf-8") as f:
+                f.write(refresh_token + "\n")
+            os.replace(tmp, self.token_path)
+            log(f"  refresh token 已轮换，新的存到 {self.token_path}")
+        except OSError as e:
+            warn(f"  ! 新的 refresh token 存盘失败（本次运行不受影响）：{e}")
+        self._sync_secret(refresh_token)
+
+    @staticmethod
+    def _sync_secret(refresh_token):
+        repo = os.environ.get("GITHUB_REPOSITORY", "")
+        if not repo or not os.environ.get("GH_TOKEN"):
+            return
+        try:
+            import subprocess
+            subprocess.run(
+                ["gh", "secret", "set", "XYZ_REFRESH_TOKEN", "--repo", repo,
+                 "--body", refresh_token],
+                check=True, capture_output=True, timeout=60,
+            )
+            log("  Secret XYZ_REFRESH_TOKEN 已同步，下次运行不用手动换")
+        except Exception as e:
+            warn(f"  ! Secret 同步失败，下次运行前需要手动更新 XYZ_REFRESH_TOKEN：{e}")
 
     def token(self):
+        # 只有 access token（session）时没有续期能力，一直用到它自己过期
+        if self.access_token and not self.refresh_token:
+            return self.access_token
         if self.access_token and time.time() < self._expires:
             return self.access_token
         if self.access_token and not self._expires:
-            self._expires = time.time() + 60
+            self._expires = time.time() + 90 * 60
             return self.access_token
         if not self.refresh_token:
-            raise RuntimeError("没有 refresh token，无法回填历史")
+            raise RuntimeError("没有可用的 refresh token：换一条新的再跑")
         headers = _app_headers(device_id=self.device_id)
         headers["x-jike-refresh-token"] = self.refresh_token
         # 官方客户端这个接口用的是 form 编码，不是 JSON
@@ -313,6 +320,12 @@ class Credential:
                 access = None
         if not access:
             raise RuntimeError("续期失败：refresh token 可能已失效")
+        # 关键：小宇宙续期会轮换 refresh token，旧的立即作废
+        # 不把新的存下来，2 小时后再续期、或者下次运行都会 401
+        new_refresh = resp_headers.get("x-jike-refresh-token") or ""
+        if new_refresh and new_refresh != self.refresh_token:
+            self.refresh_token = new_refresh
+            self._persist(new_refresh)
         self.access_token = access
         self._expires = time.time() + 90 * 60
         return access
@@ -497,10 +510,8 @@ def ep_number(title):
 
 
 def render(meta, episodes, feed_url=""):
-    """按 Apple Podcasts 的 feed 要求输出 RSS 2.0。"""
     now = format_datetime(dt.datetime.now(dt.timezone.utc))
     L = ['<?xml version="1.0" encoding="UTF-8"?>']
-    # 与 Apple 文档给出的声明保持完全一致
     L.append(
         '<rss version="2.0" '
         f'xmlns:itunes="{ITUNES}" '
@@ -569,7 +580,6 @@ def render(meta, episodes, feed_url=""):
 
 
 def check_apple(meta, episodes):
-    """按 Apple Podcasts 的硬性要求自查，返回 (errors, warnings)。"""
     errors, warnings = [], []
     if not meta.get("title"):
         errors.append("channel 缺 title")
@@ -623,11 +633,6 @@ _BUILD_STAMP = re.compile(r"<lastBuildDate>[^<]*</lastBuildDate>\s*")
 
 
 def unchanged(path, new_text, volatile=(), normalize=None):
-    """内容没变就别写盘。
-
-    播客多起来以后，每天重写全部 feed 会让 git 仓库按天膨胀；
-    这里把 lastBuildDate 这类必然变化的字段剔除后再比较。
-    """
     try:
         with open(path, encoding="utf-8") as f:
             old = f.read()
@@ -674,8 +679,8 @@ def build(cfg, site, cred, args, results):
     fresh = [normalize(raw, podcast) for raw in latest if raw.get("eid")]
     fresh = [ep for ep in fresh if ep["title"]]
 
-    # 首次回填：只在「还没有存档」或显式 always 时执行
     need_backfill = args.backfill == "always" or (args.backfill == "auto" and not archive)
+    backfill_error = ""
     if need_backfill:
         if not cred:
             log("  零账号模式：不回填历史，本次从最近 15 集起收录")
@@ -692,12 +697,12 @@ def build(cfg, site, cred, args, results):
                         added += 1
                 log(f"  回填：列表接口 {len(raw_all)} 集，补进 {added} 集")
             except Exception as e:
+                backfill_error = str(e)
                 warn(f"  ! 回填失败，继续用页面增量：{e}")
 
     new_ids = {ep["eid"] for ep in fresh if ep["eid"] not in known}
     log(f"  新增 {len(new_ids)} 集")
 
-    # 只有新增的才去抓详情（shwnotes / 时长 / 封面）
     targets = [ep for ep in fresh if ep["eid"] in new_ids]
 
     def enrich(ep):
@@ -792,6 +797,7 @@ def build(cfg, site, cred, args, results):
         "feed": feed_rel,
         "hosting": cfg.get("hosting") or "xyzfm",
         "apple_ok": not errors,
+        **({"backfill_error": backfill_error} if backfill_error else {}),
     })
 
 
@@ -813,7 +819,6 @@ except OSError:
 
 
 def first_letter(title):
-    """取标题首字母：英文字母直接用；汉字查拼音表；其余归 #。"""
     ch = (title or "").strip()[:1]
     if not ch:
         return "#"
@@ -1049,6 +1054,12 @@ function galaxyFlare() {{
   if (flareTimer) clearTimeout(flareTimer);
   flareTimer = setTimeout(function () {{ g.classList.remove('flare'); }}, 1500);
 }}
+// 订阅地址统一补成绝对路径：复制出来直接能粘进播客 App
+document.querySelectorAll('#list input').forEach(function (el) {{
+  if (el.value && el.value.indexOf('http') !== 0) {{
+    try {{ el.value = new URL(el.value, location.href).href; }} catch (e) {{}}
+  }}
+}});
 document.querySelectorAll('button[data-copy]').forEach(function (b) {{
   b.addEventListener('click', function () {{
     galaxyFlare();
@@ -1071,7 +1082,6 @@ def write_index(out_dir, results, base_url):
     index_path = os.path.join(out_dir, "index.html")
     json_path = os.path.join(out_dir, "feeds.json")
 
-    # 单集没变化时不重写索引，避免每天一个无意义的提交
     try:
         with open(json_path, encoding="utf-8") as f:
             old_feeds = json.load(f).get("feeds")
@@ -1174,14 +1184,12 @@ def main():
         podcasts = podcasts[i - 1::n]
         log(f"切片 {i}/{n}：本批 {len(podcasts)} 个")
 
-    # GitHub Actions 里能直接推出 Pages 地址，省掉手填 base_url
     if not args.base_url:
         repo = os.environ.get("GITHUB_REPOSITORY", "")
         if "/" in repo:
             owner, name = repo.split("/", 1)
             args.base_url = f"https://{owner.lower()}.github.io/{name}"
 
-    # --index-only：扫描已有 feed 重建索引，不访问网络
     if args.index_only:
         by_slug = {p["slug"]: p for p in podcasts}
         results = []
