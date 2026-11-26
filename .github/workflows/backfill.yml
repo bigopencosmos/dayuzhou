@@ -2,11 +2,12 @@ name: backfill
 
 on:
   schedule:
+    # 每天 07:43 UTC = 北京时间 15:43，与主工作流错开
     - cron: "43 7 * * *"
   workflow_dispatch:
     inputs:
       count:
-        description: "本次回填几个（留空=随机 10-20）"
+        description: "本次回填几个（留空=随机 10-20，可填任意数字）"
         required: false
         default: ""
 
@@ -44,7 +45,11 @@ jobs:
               state = json.load(open("state/backfill.json"))
           conf = json.load(open("config/podcasts.json"))
           done = state.get("done") or {}
-          remaining = [p for p in conf["podcasts"] if p.get("slug") not in done]
+          skipped = state.get("skipped") or {}
+          remaining = [
+              p for p in conf["podcasts"]
+              if p.get("slug") not in done and p.get("slug") not in skipped
+          ]
           print(f"remaining={len(remaining)}")
           print(f"completed={'yes' if not remaining else 'no'}")
           print(f"done_count={len(done)}")
@@ -54,6 +59,8 @@ jobs:
         if: steps.check.outputs.remaining != '0'
         env:
           XYZ_REFRESH_TOKEN: ${{ secrets.XYZ_REFRESH_TOKEN }}
+          # 可选：配了 GH_PAT（fine-grained，本仓库 Secrets 读写）就自动同步轮换后的 token
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           set +e
           COUNT="${{ inputs.count }}"
