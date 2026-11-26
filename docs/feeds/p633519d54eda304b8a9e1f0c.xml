@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:10:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:57:49 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,17 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>Ray Dalio 最新访谈：为什么伟大技术往往不是伟大的投资？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07d5aa640854f0e6072aa6</link>
+    <guid isPermaLink="false">6b07d5aa640854f0e6072aa6</guid>
+    <pubDate>Thu, 26 Nov 2026 06:51:05 +0000</pubDate>
+    <description><![CDATA[<p><span>本期我们克隆了桥水基金创始人Ray Dalio近期接受Sourcery的专访。</span></p><p><span>整理 &amp; 编译：深潮 TechFlow</span></p><p><span>在这场深度访谈中，Ray Dalio 毫无保留地推演了驱动历史演进的五大宏观力量、美国深层的贫富撕裂与公立教育危机，并详述了他正在将一生投资原则与因果逻辑算法化打造的 AI 决策系统。他深度拆解了桥水“集点器”机制如何实现极度真实与极度透明，指出人类肉脑在脑海里权衡决策的传统方式已经过时，并阐述了卓越领袖为何必须具备“知道自己不知道什么”的心智谦逊。面对充满未知的历史大周期，他不仅重构了宏观投资逻辑，更分享了关于人生三大篇章、同伴交锋与生命意义的终极思考。</span></p><h4><strong><span>播客时间线</span></strong></h4><ol><li><p><span><a class="timestamp" data-timestamp="0">0:00</a>开场：AI估值狂欢下的财富与金钱之辨</span></p></li><li><p><span><a class="timestamp" data-timestamp="47">0:47</a>五大核心力量：历史周期的底层框架</span></p></li><li><p><span><a class="timestamp" data-timestamp="304">5:04</a>美国政权更迭与温和派跨党派合作可能</span></p></li><li><p><span><a class="timestamp" data-timestamp="507">8:27</a>贫富鸿沟根源：教育失效与生产力匮乏</span></p></li><li><p><span><a class="timestamp" data-timestamp="1249">20:49</a>桥水选拔标准与一次错失的遗憾</span></p></li><li><p><span><a class="timestamp" data-timestamp="1318">21:58</a>选拔核心：谦逊心智与反做题家逻辑</span></p></li><li><p><span><a class="timestamp" data-timestamp="1400">23:20</a>开放问题设计初衷与人生三阶段论</span></p></li><li><p><span><a class="timestamp" data-timestamp="1518">25:18</a>破除年轻人无力感：生存底线极低，自由远超想象</span></p></li><li><p><span><a class="timestamp" data-timestamp="1598">26:38</a>深刻影响人生的两类人：导师与异见同伴</span></p></li></ol><p><span>完整文字版：</span><a href="https://www.panewslab.com/zh/articles/01a21262-b98b-74c1-ba58-544ae909b001" data-url="https://www.panewslab.com/zh/articles/01a21262-b98b-74c1-ba58-544ae909b001"><span>www.panewslab.com</span></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lraooCctFkp_Dce4cPkQIg5P4Q6z.m4a" length="31018233" type="audio/mp4"/>
+    <itunes:duration>00:31:57</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg62oAHctN6eE5WJI4tUvFnqQMOF.jpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>PANews 11月25日加密日报</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b06b2b8a9729368a41abd08</link>
