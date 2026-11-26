@@ -6,7 +6,7 @@
   <description><![CDATA[狗日子，是一档“音乐探索”和“生活分享”五五开的内容播客。在这个播客里，你能听到一些不错的音乐，反复琢磨过的观点，真诚的牢骚，和对每一个耳机那边的你，绝不掺假的关切。
 希望你也能跟我一起，把每一个“狗日子”，尽量过成一个“遛狗的好日子”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:22:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:39:07 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p665eb6aab0476a568e541454.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>阿毛的养父</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/665eb6aab0476a568e541454</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>vol.699：他和他的车，以及他的时刻</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06561501b0ab432ede422d</link>
+    <guid isPermaLink="false">6b06561501b0ab432ede422d</guid>
+    <pubDate>Wed, 25 Nov 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/lgu48FCzABPgXJgfA8Dr5Fq29zB3.png"><p><span>虽说在这一期节目里，说的是驾驶汽车，但其实，在自行车、电动车、摩托车上，当然也是适用的。</span></p><p><span>人类和他的驾驶工具，在路上享受速度，这本身就是一件足够美好的事，而至于他们同时停摆，也存在另一种美感。</span></p><p><strong><span>今日爱听：</span></strong></p><ul><li><p><span>War - Low Rider</span></p></li><li><p><span>Rod Stewart - Young Turks (2008 Remaster)</span></p></li><li><p><span>Leo王; 羊驼小姐 - 灵魂拖拉肚肚上tatoo</span></p></li><li><p><span>Gummy B - BLAME ON ME</span></p></li></ul><p><strong><span>开场曲：</span></strong></p><ul><li><p><span>Big Thief - Velvet Ring</span></p></li></ul><p><strong><span>今日爱看：《大楼里只有谋杀》</span></strong></p><img src="https://image.xyzcdn.net/FtBpRanB3Z09HoofpVyL0GmY1EZq.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/665eb6aab0476a568e541454/lobV6w-P9s0OZawqrgl-NJuRlDtq.m4a" length="19902043" type="audio/mp4"/>
+    <itunes:duration>00:20:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fh6eXY0qP_nQO8oApfJHzzie9hEe.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>vol.698：就像一只，冬天的蚊子！</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b04fe6344e24a385c0282b6</link>
