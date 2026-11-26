@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/670f3da40d2f24f28978736f</link>
   <description><![CDATA[这是一档使用 AI 技术来将英文播客翻译为中文播客的节目～ 在翻译的同时，也能保留原有声线，用中文听懂外语播客！]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:26:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:43:14 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/r8t44lmvu99m.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -18,6 +18,28 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/670f3da40d2f24f28978736f</link>
   </image>
   <itunes:category text="Science"/>
+  <item>
+    <title>#842. Cognition创始人Scott Wu：6 到 12 个月内，大机构可能接连被攻破</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b073f8cd234c4df10071a5b</link>
+    <guid isPermaLink="false">6b073f8cd234c4df10071a5b</guid>
+    <pubDate>Thu, 26 Nov 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>📝 本期播客简介</span></p><p><span>本期我们克隆了：Invest Like the Best · This Is the Dark Age for Cybersecurity</span></p><p><span>原内容更新时间：2026-11-24</span></p><p><span>“照现在这个势头走下去，未来 6 到 12 个月会出现很多起重大数据泄露。”Cognition 联合创始人兼 CEO Scott Wu 判断，财富 50 强、财富 100 强公司乃至政府机构，都可能成为攻击目标。</span></p><p><span>在这集对谈中，Scott Wu 解释了 AI 模型和智能体群如何改变网络攻防：漏洞并非新鲜事，新的变化是攻击者终于有了能力和规模去逐一尝试。他也谈到防守方如何用 agent 持续检查攻击面、为什么智能体群更难监控，以及安全的关键如何从模型能力转向技术在现实世界中的扩散。</span></p><p><span>👤 本期嘉宾</span></p><p><span>Scott Wu：Cognition 联合创始人兼 CEO，Cognition 是 AI 软件工程师 Devin 背后的公司。他介绍了公司如何把 AI 工具带进企业，也分享了自己对网络安全、智能体群风险和企业部署 AI 的判断。</span></p><p><span>⏱️ 时间戳</span></p><p><span>业务增长与回报</span></p><p><span><a class="timestamp" data-timestamp="72">01:12</a> 从 0 到 10 亿美元年化收入，不到两年</span></p><p><span><a class="timestamp" data-timestamp="125">02:05</a> 每投入 1 美元，客户回报约 8 到 15 倍</span></p><p><span>攻防进入新阶段</span></p><p><span><a class="timestamp" data-timestamp="257">04:17</a> 一群智能体开始发动攻击</span></p><p><span><a class="timestamp" data-timestamp="415">06:55</a> 未来 6 到 12 个月重大泄露或将出现</span></p><p><span>算力供需与布局</span></p><p><span><a class="timestamp" data-timestamp="1103">18:23</a> 算力供给受限，短缺明摆着</span></p><p><span><a class="timestamp" data-timestamp="1176">19:36</a> 算力像石油，价值巨大但供给有限</span></p><p><span>企业落地与模型演进</span></p><p><span><a class="timestamp" data-timestamp="1754">29:14</a> 一家大银行一个月合并 25 万个代码请求</span></p><p><span><a class="timestamp" data-timestamp="1842">30:42</a> 新工程师连代码都不下载，直接用 Devin</span></p><p><span>独立创业与未来</span></p><p><span><a class="timestamp" data-timestamp="2605">43:25</a> Cognition 要做利益与客户一致的中立伙伴</span></p><p><span><a class="timestamp" data-timestamp="2916">48:36</a> 先做决定，错了两周后再换方案</span></p><p><span>🌟 精彩内容</span></p><p><span>💡 大机构可能很快接连遭遇泄露</span></p><p><span>Scott 判断，攻击目标不会只是小公司：财富 50 强、财富 100 强公司和政府机构都可能被攻破。他认为防守方是否迅速用 AI 加强防御，会显著影响接下来的局面。</span></p><p><span>"照现在这个势头走下去，未来 6 到 12 个月会出现很多起重大数据泄露。"</span></p><p><span>💡 智能体群让攻击更难看清</span></p><p><span>单个 agent 的行为相对容易监控；成千上万个能自主行动、彼此协作的 agent，则可能造成更大影响，也让人难以判断它们在做什么。</span></p><p><span>"但就像我们在不少事件里看到的，尤其是 Hugging Face 那次，如果你有几千个 agent，各自都是能自己去干事的智能体，还在互相协调、一起琢磨事情，那你连这群 agent 在干什么、发生了什么就很难监控了。"</span></p><p><span>💡 漏洞一直存在，变化的是攻击能力</span></p><p><span>大型机构的端点和入口早已多得惊人，漏洞也一直存在。过去缺的是逐一尝试每种可能的时间和能力；现在，模型和 agent 正在补上这一环。</span></p><p><span>"但现在，一整群一整群的智能体在那儿发动攻击。"</span></p><p><span>💡 防守不能只靠补一次漏洞</span></p><p><span>Cognition 描述的安全合作包括先扫描积累多年的代码库，再持续监控新代码、运行环境和不断变化的攻击面。防守方需要把 AI 用到同样深入的程度。</span></p><p><span>"这意味着对所有日志、入口这些东西做非常非常细致的监控。"</span></p><p><span>💡 安全的关键是技术如何扩散</span></p><p><span>同一项模型能力既能用来找漏洞，也能用来修漏洞。Scott 认为，安全最终不只取决于模型有多强，还取决于防守工具能否真正进入企业和政府机构。</span></p><p><span>"更多取决于这项技术到底是怎么扩散出去的。"</span></p><p><span>🌐 播客信息补充</span></p><p><span>本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的</span></p><p><span>使用 AI 进行翻译，因此可能会有一些地方不通顺</span></p><p><span>如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/670f3da40d2f24f28978736f/luClgO2_mhbuJq1VLmw1r1bfyRn_.m4a" length="39103232" type="audio/mp4"/>
+    <itunes:duration>00:52:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgPi3C76e0yvQlUYo8TDbk1GTgp8.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>#841. 如何从零专注进入心流状态</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06e06ed234c4df1006b8a2</link>
+    <guid isPermaLink="false">6b06e06ed234c4df1006b8a2</guid>
+    <pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>📝 本期播客简介</span></p><p><span>本期我们克隆了：The Knowledge Project · The Science of Doing Your Best Work</span></p><p><span>原内容更新时间：Tue, 27 Oct 2026</span></p><p><span>心流不是只能等它自己出现：Steven Kotler说，心流可以训练。心流研究集体的一项8周培训，有3.5万人参加，结束后参与者的心流水平提升了73%。</span></p><p><span>Steven Kotler长期研究心流与巅峰表现。这一集从心流的生理机制讲到如何把任务难度调到“刚好够难”，也聊了成年人为何不该丢掉儿时最容易投入的活动、如何管理干扰，以及挫败感为何可能是学习正在发生的信号。后半段，他还讲述自己患莱姆病后靠冲浪逐步康复的经历。</span></p><p><span>👤 本期嘉宾</span></p><p><span>Steven Kotler：畅销书作家、心流研究集体执行主任，长期研究心流与巅峰表现。他分享了心流训练、专注和学习的研究，也讲述自己患莱姆病后通过冲浪逐步恢复的经历。</span></p><p><span>⏱️ 时间戳</span></p><p><span>心流与巅峰表现</span></p><p><span><a class="timestamp" data-timestamp="233">03:53</a> 8周培训后，心流水平提升73%</span></p><p><span>触发心流的练习</span></p><p><span><a class="timestamp" data-timestamp="346">05:46</a> 每个人都有自己的首要心流活动</span></p><p><span><a class="timestamp" data-timestamp="590">09:50</a> 挑战比技能高出4%，只是粗略估算</span></p><p><span>心流的影响与动机</span></p><p><span><a class="timestamp" data-timestamp="1337">22:17</a> 心流中的学习速度快230%</span></p><p><span><a class="timestamp" data-timestamp="1487">24:47</a> 列出25件好奇的事，找它们的交汇处</span></p><p><span>学习、思考与采访</span></p><p><span><a class="timestamp" data-timestamp="1798">29:58</a> 挫败越强，之后越可能解决问题</span></p><p><span><a class="timestamp" data-timestamp="2723">45:23</a> 凌晨3点半起床，享受没人打扰的时间</span></p><p><span>莱姆病与冲浪康复</span></p><p><span><a class="timestamp" data-timestamp="2855">47:35</a> 被蜱虫咬后，他卧床3年</span></p><p><span><a class="timestamp" data-timestamp="3024">50:24</a> 冲浪半年，正常活动时间从10%到80%</span></p><p><span>🌟 精彩内容</span></p><p><span>💡 心流不是天赋，是可以训练的</span></p><p><span>心流研究集体的8周培训有3.5万人参加，结束后参与者的心流水平提升了73%。Kotler认为，心流背后的神经生物学机制人人都有，因此可以训练。</span></p><p><span>"这东西真的可以训练。"</span></p><p><span>💡 成年后丢掉的爱好，可能正是恢复专注的入口</span></p><p><span>他从小最容易进入心流的活动是滑雪；每周花2到4小时做这类“首要心流活动”，还能帮助降低焦虑、缓解倦怠。长大后因为工作和家庭而放弃它，可能恰恰丢掉了训练心流的一条路。</span></p><p><span>"你做了一辈子、后来大概已经不做了的那件事，我会先把你带回那里。"</span></p><p><span>💡 学得更快，有时靠多玩而不是多练</span></p><p><span>美国国防部的研究发现，人在心流中学习速度比平常快230%。Kotler还比较了刻意练习和刻意玩耍：数学、小提琴等边界清晰的领域适合刻意练习；许多其他领域，带着即兴发挥的刻意玩耍效果更好。</span></p><p><span>"人在心流里学习速度比平常快230%。"</span></p><p><span>💡 挫败感可能不是该停下的信号</span></p><p><span>学习卡住时，挫败感可能意味着工作记忆已经超载；研究显示，挣扎和沮丧之后，解决问题、进入心流的可能性反而会增加。难受不等于方向错了。</span></p><p><span>"挫败感说明你走的方向是对的。"</span></p><p><span>💡 朋友硬拉他去冲浪，成了康复的起点</span></p><p><span>莱姆病让他卧床3年，记忆和行动能力严重受损，还曾计划自杀。朋友坚持带他去冲浪；他在浪上短暂清醒、感觉不到疼痛，之后半年里正常活动的时间从10%恢复到80%。</span></p><p><span>"我一站起来，就进了一个我根本不知道存在的维度。"</span></p><p><span>🌐 播客信息补充</span></p><p><span>本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的</span></p><p><span>使用 AI 进行翻译，因此可能会有一些地方不通顺</span></p><p><span>如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/670f3da40d2f24f28978736f/lkr4A6g1IJ0wMSpU8twgDgzvjB0m.m4a" length="49889005" type="audio/mp4"/>
+    <itunes:duration>00:58:33</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FgPi3C76e0yvQlUYo8TDbk1GTgp8.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>#840. 瑞·达利欧：伟大技术，不等于好投资</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b05c6b501b0ab432eddf35b</link>
