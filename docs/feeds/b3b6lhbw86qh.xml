@@ -6,7 +6,7 @@
   <description><![CDATA[沉浸式读小说
 抖音【七月狂奔】账号音频更新~]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:12:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:20:22 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/b3b6lhbw86qh.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>七月狂奔</itunes:author>
@@ -19,6 +19,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/66ece431760192bc88b241b3</link>
   </image>
   <itunes:category text="Fiction"/>
+  <item>
+    <title>莫里亚克《爱的荒漠》：看不到爱，只看到有毒的男子气概</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06c171a9729368a41ad2aa</link>
+    <guid isPermaLink="false">6b06c171a9729368a41ad2aa</guid>
+    <pubDate>Wed, 25 Nov 2026 11:12:39 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/66ece431760192bc88b241b3/lvCVQqbDw4Tn45kjpkJonCTpxNAF.m4a" length="47209885" type="audio/mp4"/>
+    <itunes:duration>00:48:39</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FnrPMGkSFWxajsBoKK_AycnLADLp.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>王小波《歌仙》：丑陋，不可饶恕的原罪。</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ad2f4d5641ef406308cead2</link>
