@@ -6,7 +6,7 @@
   <description><![CDATA[从办公桌出发，聊聊对大千世界的新看法。
 这是一档由WPS出品的泛科技与职场文化播客。我们从日常使用的工具、遇到的工作难题和身边人的故事出发，聊AI和职场背后的二三事。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:59:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:34:14 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wfjtucux7trm.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/67c06718b64d16b968827fb3</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>同学，你也有AI焦虑吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b06883b3d00b5097791fd48</link>
+    <guid isPermaLink="false">6b06883b3d00b5097791fd48</guid>
+    <pubDate>Wed, 25 Nov 2026 22:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>很多同学一上来就问：你用什么AI？生怕学晚一点就落后了，但实际上是存在收藏夹里学废了...</span></p><p><span>其实大学生用AI真正拉开差距的是：你让它在学习的哪一步发力。</span></p><p><span>AI是陪练，不是替身。用对方式，事半功倍~</span></p><p><span>这是文档漂流记的新栏目，我们尝试制作了一期视频播客，迈向成功的一小步💪</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67c06718b64d16b968827fb3/FsgvXz3WE2-z8etCc1EX15mtbtey.m4a" length="3686610" type="audio/mp4"/>
+    <itunes:duration>00:03:47</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FvxF-u0AXZDrNgR_4Ho0paOMYl77.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>那些看起来不务正业的爱好，反而带来意想不到的收获？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afeacbea4a79edf137bab6f</link>
