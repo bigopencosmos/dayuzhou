@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/668096afcdd230b23b1daaf0</link>
   <description><![CDATA[这是一个人的真实物语。作为MCC教练与资深营销人，我不聊宏大叙事，只聊看透本质的私人感悟。从国际风云到个体经营，从AI进化到生命觉察，这里没有说教，只有清醒的唠嗑。带你拆穿算法时代的种种套路，在复杂世界里找回有“人味”的成长底牌。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:11:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:28:11 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/3efcuqghun3a.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>薛铁林</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/668096afcdd230b23b1daaf0</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>Google回来了！黑五优惠没薅到，我却用 Antigravity 跑完了好几个发布平台！</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07794ad234c4df10073181</link>
+    <guid isPermaLink="false">6b07794ad234c4df10073181</guid>
+    <pubDate>Thu, 26 Nov 2026 00:14:27 +0000</pubDate>
+    <description><![CDATA[<p><span>答应自己早点睡，薛铁鏻还是为了把节目发布流程跑通，忙到了凌晨两点。这期《铁林物语》，他复盘了自己第一次集中使用 Google Antigravity 的经历。黑五优惠没找到，他却重新装上了之前没用起来的工具，还拿自己最熟悉的活来测试：把在 Codex 和 Grobot 里积累的提示词与素材交过去，先剪片，再做摘要和封面。封面没有重新讲一遍要求，他直接给了过去的作品链接，让工具照着已有样式做。</span></p><p><span>真正让他愿意多试几小时的是发布。过去内容做好后，他还要在官网、音频平台、小宇宙、视频号、公众号和哔哩哔哩等平台逐个上传。这一次，他让工具参考上一期的发布方式，按平台依次执行，最后把步骤记下来，也把备份纳入流程。按他的体验，第一次执行并不快，但只要能少做重复操作，等一会儿也能接受。至于选什么标题、哪段需要调整，他仍要自己判断。这次试用也改变了他的订阅计划：考虑降低 Codex 的支出，保留适合移动工作的 Grobot，再继续试用 Antigravity。节目里的优惠、额度和费用来自主播当时的查询与个人账单估算。</span></p><p><strong><span>【时间线】</span></strong></p><p><span><a class="timestamp" data-timestamp="0">00:00</a>-<a class="timestamp" data-timestamp="120">02:00</a> 从熬夜试用聊到早期的 Gemini 自媒体体验</span><br><span><a class="timestamp" data-timestamp="120">02:00</a>-<a class="timestamp" data-timestamp="224">03:44</a> Codex 和 Grobot 在个人工作流中的位置</span><br><span><a class="timestamp" data-timestamp="224">03:44</a>-<a class="timestamp" data-timestamp="430">07:10</a> 黑五优惠查询与前后两次试用经历</span><br><span><a class="timestamp" data-timestamp="430">07:10</a>-<a class="timestamp" data-timestamp="529">08:49</a> 把熟悉的剪片要求和素材交给 Antigravity</span><br><span><a class="timestamp" data-timestamp="529">08:49</a>-<a class="timestamp" data-timestamp="616">10:16</a> 测试节目摘要与参考旧作品制作封面</span><br><span><a class="timestamp" data-timestamp="616">10:16</a>-<a class="timestamp" data-timestamp="715">11:55</a> 从官网到音频平台逐步试跑发布流程</span><br><span><a class="timestamp" data-timestamp="715">11:55</a>-<a class="timestamp" data-timestamp="840">14:00</a> 扩展到多个内容平台并把备份纳入流程</span><br><span><a class="timestamp" data-timestamp="840">14:00</a>-<a class="timestamp" data-timestamp="1016">16:56</a> 首次试用评价与个人订阅预算取舍</span><br><span><a class="timestamp" data-timestamp="1016">16:56</a>-<a class="timestamp" data-timestamp="1129">18:49</a> 文章课程视频和网站的后续使用计划</span><br><span><a class="timestamp" data-timestamp="1129">18:49</a>-<a class="timestamp" data-timestamp="1268">21:08</a> 短时体验后的产品判断与继续试用计划</span><br><span><a class="timestamp" data-timestamp="1268">21:08</a>-片尾 当天课程与家人聚餐安排</span></p><p><strong><span>【摘要】</span></strong></p><h3><span>为什么主播先用熟悉的剪片任务测试 Antigravity</span></h3><p><span>薛铁鏻没有从自己还不熟悉的任务开始，而是拿出已在 Codex 和 Grobot 里跑过的剪片流程，沿用原有提示词和素材。这样，他知道成片原本该是什么样，也能判断问题出在新工具还是任务本身。对准备更换工具的创作者来说，先用同一份素材比较成片、修改次数和人工操作时间，比只看演示更接近自己的使用需求。</span></p><h3><span>从剪片、摘要到封面，旧作品也能用作参考</span></h3><p><span>测试完视频剪辑后，薛铁鏻把节目摘要和封面也交给 Antigravity。做封面时，他给了自己网站上已经发布的作品链接，希望工具从实际样例里理解风格。这种做法把抽象的「按我的风格做」落到可比对的成品上。已有作品还可以帮助创作者明确验收要求，例如标题需不需要一眼可读、画面要保留哪些元素，以及不同平台是否需要不同尺寸。</span></p><h3><span>多平台发布自动化省掉的是哪些步骤</span></h3><p><span>节目里最费时间的工作落在成品做好之后。一次更新可能要上传音视频、填写节目说明、设置发布时间，并在多个后台重复操作。按薛铁鏻的描述，他让工具先参考上一期，再逐个平台试跑，最后记录流程并纳入备份。评估这类发布自动化时，可以把首次配置耗时和后续每期节省的时间分开，也可以检查发布是否漏填字段、是否把素材和对应平台弄混。</span></p><h3><span>标题和内容取舍为何仍要自己判断</span></h3><p><span>薛铁鏻说到「全权负责」后，马上补充自己仍要选标题、判断内容哪里好、哪些地方需要调整。这一来一回点出了内容工作流里两类不同的任务。上传和备份有固定步骤，标题与内容取舍则涉及听众会期待什么、节目有没有兑现这份期待。把重复操作交给工具后，创作者仍可以把时间留给最后一轮编辑判断。</span></p><h3><span>Antigravity、Codex 和 Grobot 如何分工</span></h3><p><span>根据主播的个人体验，Antigravity 可以尝试承接桌面上的内容制作与发布，Grobot 仍有移动办公价值，Codex 则可能继续用于程序和网站任务。他也提到，自己这个月用 Codex 的次数变少，所以打算调整订阅。节目里值得参考的是这套订阅预算思路：先看每个工具实际承担什么任务、一个月用几次，再决定要保留哪一档。逐字稿中提及的价格、促销和模型额度均属于当时的个人见闻。</span></p><h3><span>凌晨两点跑通的流程，值不值得继续用</span></h3><p><span>节目从熬夜开始，又回到如何让工作少占自己的时间。薛铁鏻愿意接受工具第一次执行得慢一点，前提是自己能减少手动操作。一次成功可以说明流程值得再试，接下来更实际的判断来自下一期：能不能重复使用、出错时能不能及时发现、返工是否比手动发布更累。这几项，才决定一次试用能不能变成稳定的自媒体工作流。</span></p><p><span>————————————</span></p><p><strong><span>主播：薛铁鏻（铁林）</span></strong></p><p><span>ICF MCC认证教练｜Coach8创始人｜企业管理者｜营销与投资实践者</span></p><p><span>薛铁鏻（铁林，Xue Tielin），Coach8（教练吧）创始人，拥有20余年互联网、教育、企业管理与市场营销经验。曾在水晶石数字科技及新高教集团相关企业担任高管，长期参与市场营销、销售管理、企业运营、互联网教育、团队管理与人才培养，并拥有教育项目投资和早期创业项目投资经验。</span></p><p><span>2014年创立Coach8，开始系统开展中文教练教育与在线教练社群实践；2022年获得ICF MCC认证，2024年带领Coach8获得ICF Level 3课程认证。具有国家二级心理咨询师、LUXX Profile Master级分析师及导师、乐高工作法系统引导师等专业背景。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/668096afcdd230b23b1daaf0/lqZVXrP-3Ktt0k062W9MvcsliVto.m4a" length="17755638" type="audio/mp4"/>
+    <itunes:duration>00:18:16</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fu_xmQP1d3ffXTTJdosuoTo09NES.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>APEC热度过后，聊聊深圳最打动我的，是高楼、搞钱效率，还是来自各地的人？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0662c744e24a385c03a2bd</link>
