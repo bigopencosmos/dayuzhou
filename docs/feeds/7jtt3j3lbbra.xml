@@ -9,7 +9,7 @@
 
 🖼另外还有图文版，可在小红书搜索并关注【AI速递】]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:14:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:31:27 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7jtt3j3lbbra.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -22,6 +22,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/667d1ecfc13b46d76c3f64b8</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>2026.11.25 | 支付模型融合三路证据；注意力按词重连电路</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b071e1eafaf1d65b874cfbb</link>
+    <guid isPermaLink="false">6b071e1eafaf1d65b874cfbb</guid>
+    <pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>⏱️ Highlights</span><br><span><a class="timestamp" data-timestamp="28">00:28</a> 💳 Antom 3-in-1 Transformer: A Payment Foundation Model（Antom 三合一 Transformer：支付基础模型）</span><br><span><a class="timestamp" data-timestamp="71">01:11</a> 🧶 Rewirable Circuits in Transformers with Loom Attention（利用 Loom Attention 构建 Transformer 中的可重连电路）</span><br><span><a class="timestamp" data-timestamp="113">01:53</a> 🔎 Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe（懒惰智能体违背自身信念作答：可验证信念强化学习教会它们依信念行动）</span><br><span><a class="timestamp" data-timestamp="153">02:33</a> 👀 Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents（不要休眠，持续守望：计算机操作智能体的主动感知）</span><br><span><a class="timestamp" data-timestamp="192">03:12</a> 🤖 ACAP: Asynchronous Coding Agents for Efficient Robot Control（ACAP：用于高效机器人控制的异步编程智能体）</span><br><span><a class="timestamp" data-timestamp="233">03:53</a> 🧪 Self-Evolving Evaluation Environments for Computer-Use Agents（计算机操作智能体的自演化评测环境）</span><br><span><a class="timestamp" data-timestamp="273">04:33</a> 🧭 S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence（S-Mind：为空间智能内化多视图几何）</span><br><span><a class="timestamp" data-timestamp="313">05:13</a> 🧩 PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement（PartAgent：通过专家整合与闭环细化实现智能体式 3D 部件分割）</span><br><span><a class="timestamp" data-timestamp="354">05:54</a> 🛡️ LingSante MedGuard Technical Report（LingSante MedGuard 技术报告）</span><br><span><a class="timestamp" data-timestamp="395">06:35</a> 🪞 Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies（具身 AI 未通过镜子测试：一面简单镜子如何破坏机器人策略）</span><br><span><a class="timestamp" data-timestamp="434">07:14</a> 🎨 ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks（ThinkMorph-SSL：利用前置任务扩展交错式多模态推理）</span><br><span><a class="timestamp" data-timestamp="476">07:56</a> 🩺 KMed-31B Technical Report（KMed-31B 技术报告）</span><br><span><a class="timestamp" data-timestamp="518">08:38</a> 🖼️ Qwen-Image-HD: Autoregressive Diffusion for High Definition Image Generation（Qwen-Image-HD：用于高清图像生成的自回归扩散）</span><br><span><a class="timestamp" data-timestamp="558">09:18</a> 🌍 ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds（ICLWorld：从数字世界到物理世界评测智能体的上下文学习）</span><br><span><a class="timestamp" data-timestamp="601">10:01</a> 🎬 PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics（PhyCoVE：跨多样材料动力学评测物理反事实视频编辑）</span></p><p></p><img src="https://image.xyzcdn.net/Fh2LjwEM4VBtvueOQBDV-QV5Gdyq.webp" alt="播客论文目录配图"><p><span>【关注我们】</span><br><span>您还可以在以下平台找到我们，获得播客内容以外更多信息</span><br><span>小红书: AI速递</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/667d1ecfc13b46d76c3f64b8/luMaDP8Igg6vEtYcEqtdfH-9MQdf.m4a" length="10722896" type="audio/mp4"/>
+    <itunes:duration>00:11:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoqTpAyCk31T4qhoA-PuH8wDyDNx.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>2026.11.24 | 长时动作记忆；机器人接口配方</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b057ca244e24a385c0304e0</link>
