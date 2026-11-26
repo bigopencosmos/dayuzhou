@@ -6,7 +6,7 @@
   <description><![CDATA[由虾玩社网推出的游戏播客，将一切与游戏相关的快乐和故事分享给你！
 “游戏玩家想要的，就是我们想做的!”，欢迎访问我们的网站 xiawanshe.com]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:39:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 04:18:12 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6650b4238e406a82cf288ac6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>皮得很的疯拾叁</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6650b4238e406a82cf288ac6</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>游戏快报 No.45 本周(11.16-11.22)热门游戏新闻</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0702001381ce1df87f91c1</link>
+    <guid isPermaLink="false">6b0702001381ce1df87f91c1</guid>
+    <pubDate>Wed, 25 Nov 2026 15:50:51 +0000</pubDate>
+    <description><![CDATA[<p><span> 这周的游戏圈信息量拉满：年度顶流《GTA6》发售带火了硬件和线下业态，国产显卡、国产游戏接连迎来突破性进展，国际厂商既有引擎迭代的大动作也有驱动翻车的争议，还有电竞新纪录和多款待发售大作的新动态.</span></p><p><strong><span><a class="timestamp" data-timestamp="0">00:00</a></span></strong><strong><span> GTA6带动硬件与线下游戏热潮</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="311">05:11</a></span></strong><strong><span> 国产GPU冲击高端市场与显卡改装热</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="552">09:12</a></span></strong><strong><span> AI挑战数学与科技护城河</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="688">11:28</a></span></strong><strong><span> TGA2026国产游戏提名引热议，行业利好与粉圈对立并存</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="906">15:06</a></span></strong><strong><span> APEC虚幻引擎6重构计划引发游戏开发行业变革</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="1090">18:10</a></span></strong><strong><span> 英伟达显卡驱动问题</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="1379">22:59</a></span></strong><strong><span> 媒体与玩家对GTA游戏评分分歧及PS5与PC平台讨论</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="1574">26:14</a></span></strong><strong><span> S16全球总决赛：中国赛区夺冠</span></strong><br><br><strong><span><a class="timestamp" data-timestamp="1697">28:17</a></span></strong><strong><span> 怪物猎人旅人回归，PC端与V Game平台的双重策略</span></strong><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6650b4238e406a82cf288ac6/loykavRKhzuToKQHruACosDFxEXO.m4a" length="33072107" type="audio/mp4"/>
+    <itunes:duration>00:34:04</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmBQ0vEmAOXU4YonfzXmMp3W-z5p.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>游戏快报 No.45 本周(10.26-11.02)热门游戏新闻</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af03912b4a4e20202f6887f</link>
