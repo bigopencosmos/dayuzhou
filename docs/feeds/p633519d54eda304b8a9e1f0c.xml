@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 07:57:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:16:55 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,17 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>PANews 11月26日加密日报</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b081c1e640854f0e6079dd8</link>
+    <guid isPermaLink="false">6b081c1e640854f0e6079dd8</guid>
+    <pubDate>Thu, 26 Nov 2026 11:52:06 +0000</pubDate>
+    <description><![CDATA[<p><span>今日关注：</span></p><p><span>乌克兰议会通过加密资产合法化法案，2027年7月起生效</span></p><p><span>名义价值76亿美元的比特币和以太坊期权将于本周五到期交割</span></p><p><span>特斯拉和SpaceX冲刺年底合并，市值规模逼近英国全年GDP</span></p><p><span>比特币现货 ETF 昨日总净流出 4.53 亿美元，持续 7 日净流出</span></p><p><span>CryptoQuant CEO：比特币在6万至10万美元区间的潜在空头清算规模约160亿美元</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lmnc2zxf9GEpItWVyVuPt9C-_LDn.m4a" length="6521772" type="audio/mp4"/>
+    <itunes:duration>00:06:43</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg9Tjc7mUGgLcomXfWbwdND21sDc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Ray Dalio 最新访谈：为什么伟大技术往往不是伟大的投资？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b07d5aa640854f0e6072aa6</link>
