@@ -6,7 +6,7 @@
   <description><![CDATA[影视/科幻/玄学/神话/克苏鲁/人文历史
 双人播客｜很多故事｜一切绝对正常]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:14:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:46:15 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6486f1d099c7dee86c5bc43f.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>九江老渭</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6486f1d099c7dee86c5bc43f</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>银河帝国③ | 人人独居、机器人包办一切，会活得更快乐吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07f34e640854f0e6075fdd</link>
+    <guid isPermaLink="false">6b07f34e640854f0e6075fdd</guid>
+    <pubDate>Thu, 26 Nov 2026 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>《裸阳》：社恐星球索拉利，完美谋杀案背后，人类终极未来正在崩塌。</span></p><p><span><a class="timestamp" data-timestamp="35">00:00:35</a> 索拉利星</span></p><p><span><a class="timestamp" data-timestamp="630">00:10:30</a>&nbsp;没有犯罪的星球，却发生了第一起凶杀案</span></p><p><span><a class="timestamp" data-timestamp="2841">00:47:21</a> 极端孤立主义下的“高等文明”</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6486f1d099c7dee86c5bc43f/ll5QKfk-YrnUmQNl1t0JGY3_7ZAL.m4a" length="56369334" type="audio/mp4"/>
+    <itunes:duration>00:58:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoKffBcagFAhttmasvMrBoDN_9HS.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>造梦师失踪，黑客追凶，却发现AI世界中，奴隶制正在复辟！</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afd650fa4a79edf137b2f44</link>
