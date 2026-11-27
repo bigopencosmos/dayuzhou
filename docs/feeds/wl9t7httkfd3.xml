@@ -6,7 +6,7 @@
   <description><![CDATA[来自 @爱可可-爱生活 的第一手AI快报，用最简单易懂的语言，带你直击最前沿的人工智能科研动态。无论你是科技小白，还是行业达人，这里都有你想知道的AI故事和未来趋势。跟着我们，轻松解锁人工智能的无限可能！
 #人工智能 #科技前沿]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:19:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:24:28 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wl9t7httkfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>fly51fly</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6683665e2063a3f1ac0cb50d</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>[人人能懂AI前沿] 从方差匹配、代码视觉推理到架构先验与理论压缩</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b08aec57ded7f3571355a3d</link>
+    <guid isPermaLink="false">6b08aec57ded7f3571355a3d</guid>
+    <pubDate>Thu, 26 Nov 2026 22:21:56 +0000</pubDate>
+    <description><![CDATA[<p><span>今天我们为你精选了四篇极具启发性的最新论文，带你一起打破关于人工智能的固有常识。我们将探讨为什么最怕犯错的AI反而画不出鲜活的画，并揭秘为何写代码的智能体在视觉推理上能轻松碾压视频模型。此外，我们还会看到没上过学的“傻大模型”如何巧妙地给小模型校准起跑线，以及一条精炼的理论如何胜过大模型的万道题海战术。准备好颠覆认知了吗，我们马上开始！</span></p><p><span><a class="timestamp" data-timestamp="35">00:00:35</a> 为什么最“少犯错”的AI，反而画不出最鲜活的画？</span></p><p><span><a class="timestamp" data-timestamp="383">00:06:23</a> 为什么写代码的AI，比视频模型更会解看图题？</span></p><p><span><a class="timestamp" data-timestamp="855">00:14:15</a> 没上过一天学的“傻老师”，怎么教出了更聪明的学生？</span></p><p><span><a class="timestamp" data-timestamp="1134">00:18:54</a> 刷一万道例题，为什么还是不如懂一条真理论？</span></p><p><span><a class="timestamp" data-timestamp="1491">00:24:51</a> 别被“看起来很真”骗了，AI如何给流动的世界造一副真骨架？</span></p><p><span>本期介绍的几篇论文：</span></p><p><span>[CV] Guidance as Variance Matching</span></p><p><span>[MIT &amp; Toyota Research Institute]</span></p><p><a href="https://arxiv.org/abs/2611.34801" data-url="https://arxiv.org/abs/2611.34801"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[CV] Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models</span></p><p><span>[University College London &amp; Nanyang Technological University &amp; University of Southern California &amp; University of California, San Diego]</span></p><p><a href="https://arxiv.org/abs/2611.34813" data-url="https://arxiv.org/abs/2611.34813"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[LG] Transferring Architecture as an Optimization Prior</span></p><p><span>[MIT CSAIL &amp; UCSF]</span></p><p><a href="https://arxiv.org/abs/2611.34816" data-url="https://arxiv.org/abs/2611.34816"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[AI] What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context</span></p><p><span>[Meta Platforms, Inc]</span></p><p><a href="https://arxiv.org/abs/2611.34751" data-url="https://arxiv.org/abs/2611.34751"><span>arxiv.org</span></a></p><p><span>---</span></p><p><span>[CV] A Mesh for Every Moment</span></p><p><span>[University of Washington &amp; University of Michigan]</span></p><p><a href="https://arxiv.org/abs/2611.34939" data-url="https://arxiv.org/abs/2611.34939"><span>arxiv.org</span></a></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6683665e2063a3f1ac0cb50d/llERSLs5u0cYf9wxCn6cUgQWbzCo.m4a" length="30049802" type="audio/mp4"/>
+    <itunes:duration>00:30:58</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>[人人能懂AI前沿] 从捡回AI的草稿纸、操控百万机械臂，到给大模型装上原生方向盘</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b075d2ed234c4df10072177</link>
