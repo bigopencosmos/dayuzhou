@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/62f9ef87d1e006d5b5b043bb</link>
   <description><![CDATA[一档纯上海话的谈话类播客节目]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:51:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:29:56 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p62f9ef87d1e006d5b5b043bb.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>啧劲FM</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/62f9ef87d1e006d5b5b043bb</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>【啧劲FM】《上海话神聊》Vol.218 安阳 1</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b085bff640854f0e6080612</link>
+    <guid isPermaLink="false">6b085bff640854f0e6080612</guid>
+    <pubDate>Thu, 26 Nov 2026 16:28:46 +0000</pubDate>
+    <description><![CDATA[<p><span>本期关键词：</span></p><p><span>八大古都之安阳，早班飞机的痛苦，海航之美，来自红旗渠的震撼，十年九旱易子而食，敢叫日月换新天，州与阳，悬崖上的总干渠，质量的承诺，集体主义，以山为碑，十万大军斗旱魔……</span></p><p><br></p><p><span>片头BGM：Bailemen Swing - The Shanghai Restoration Project 上海复兴方案</span></p><p><span>片尾BGM：神的传说 - 谭咏麟</span></p><p><br></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62f9ef87d1e006d5b5b043bb/lhpw01Hl1jftMiOoYWSm-JyR5IMn.m4a" length="25841684" type="audio/mp4"/>
+    <itunes:duration>00:26:37</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqULOkYldhMcN-NLjhcwS0Y-uCim.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【啧劲FM】《上海话口述历史》 Vol.217 着衣裳 终</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6affb281a4a79edf137c08ba</link>
