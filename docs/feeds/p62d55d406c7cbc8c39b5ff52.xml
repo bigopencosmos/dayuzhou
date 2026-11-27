@@ -6,7 +6,7 @@
   <description><![CDATA[少喝点Jiu，多说两句儿～
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:38:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:25:08 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p62d55d406c7cbc8c39b5ff52.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>BalabaLab</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/62d55d406c7cbc8c39b5ff52</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>第160期：特斯拉在玩 GTA，我们在折叠方向盘</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0845d6d234c4df10087d59</link>
+    <guid isPermaLink="false">6b0845d6d234c4df10087d59</guid>
+    <pubDate>Thu, 26 Nov 2026 15:02:54 +0000</pubDate>
+    <description><![CDATA[<p><span>从全自动咖啡机、带激光显尘的吸尘器，到堪比《GTA 6》游戏画面的特斯拉 FSD，再到折叠方向盘和苹果折叠屏的产品设计理念，这一期，我们从家居好物聊到了科技创新的本质。为什么有的企业在重新定义产品，有的企业却热衷于制造卖点？究竟是想不到，还是做不到？从第一性原理、组织管理、市场内卷，到科研领域的热点追逐与短期考核，我们试图探讨一个更深层次的问题：当整个社会都在追求短平快、长快树、结快果，我们还有没有耐心去做真正有价值的创新？我们不缺聪明人，也不缺技术，但是否还允许一棵慢树长大？</span></p><p></p><p><span>主持：大雁、佳佳</span></p><p><span>剪辑：大雁</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62d55d406c7cbc8c39b5ff52/lp1JpepK1qh4iZ_ngRs8VHngya8-.m4a" length="35226657" type="audio/mp4"/>
+    <itunes:duration>00:36:18</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmD9Vu7J4dSxLEiu1JvrFARGff42.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第159期：相约深圳，见证奇迹！APEC，我们准备好了！</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afeb8d1fe62f8f52c4d97ca</link>
