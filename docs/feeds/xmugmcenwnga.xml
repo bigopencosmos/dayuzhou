@@ -7,7 +7,7 @@
 我们以隔夜发生的最新事件为线索，深入剖析技术创新如何影响产业格局、政策博弈如何影响日常生活。
 我们的目标是在信息的及时性、准确性与深度解读之间寻求最佳平衡，在信息爆炸的时代带来及时、可信的资讯与解读，在不确定的时代中寻找一些确定性。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:11:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:31:20 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/xmugmcenwnga.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>TomorrowNook</itunes:author>
@@ -20,6 +20,28 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/67bf0d44032ce2f603843140</link>
   </image>
   <itunes:category text="News"/>
+  <item>
+    <title>美政府重启贸易调查推高关税预期，外贸不确定性再次升温？首例触觉回传仿生手走进日常，人机共生离普通患者还有多远？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b08ea767ca7884a50f2e485</link>
+    <guid isPermaLink="false">6b08ea767ca7884a50f2e485</guid>
+    <pubDate>Fri, 27 Nov 2026 02:33:09 +0000</pubDate>
+    <description><![CDATA[<p><span>🎙 隔夜市场 2026-11-27 | Episode 328 </span></p><p><span>本期关键词：双向神经接口、触觉回传仿生手、美国贸易调查关税、SpaceX轨道数据中心、大模型安全失控风险、Neuralink临床试验、Character.ai数据拍卖、神经可塑性、医疗支付困境、微电极阵列、幻肢痛机制</span></p><p><strong><span>本期你将听到：</span></strong></p><ul><li><p><span>外贸与宏观前沿：特朗普政府依据不公平贸易调查重启多国关税行动，数月后或将落地；避险情绪推升中国十年期国债收益率创历史新低，高股息资产持续受青睐。</span></p></li><li><p><span>商业与前沿科技：SpaceX 获准部署百万颗卫星构建太空算力星座；OpenAI 与 Anthropic 内部就前沿模型失控风险引发暂停训练争议；Neuralink 针对渐冻症启动后期临床。</span></p></li><li><p><span>消费安全与隐私治理：Character.ai 破产清算拟出售用户对话数据遭全美多州阻拦；澳大利亚通过法案赋权用户关闭算法推荐；纽约州出台儿童 AI 玩具五年禁令。</span></p></li><li><p><span>深度一刻：首位患者将具备触觉回传的双向神经接口仿生手带入日常生活。细如发丝的微针阵列如何重建失落的感觉通路，让大脑产生认知层面的肢体重塑？从高达数十万美元的制造成本、穿皮感染与材料排异，到试验结束被迫摘除的伦理困局与脆弱的医保报销机制，这项突破要走向大众还需跨越哪些鸿沟？</span></p></li></ul><p><strong><span>你怎么看？</span></strong></p><ul><li><p><span>面对单套数十万美元的高昂成本，你认为公共医保应优先为恢复知觉的高端仿生设备买单，还是先保障传统辅具的全面普及？</span></p></li><li><p><span>当临床试验结束后受试者可能被迫摘除假肢、重回无知觉状态，科研机构该如何平衡医学验证与患者心理戒断的伦理责任？</span></p></li></ul><p><span>欢迎在评论区留言讨论！</span></p><p><strong><span>喜欢今天的内容？</span></strong><span>欢迎订阅和分享《隔夜市场》，第一时间获取科技商业深度解读。别忘了点赞、转发，把本期分享给对商业和科技感兴趣的朋友！</span></p><p><span>下期再见！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67bf0d44032ce2f603843140/lgFRCEdJJFSPkBdAPfC6aslB6fvs.m4a" length="18867799" type="audio/mp4"/>
+    <itunes:duration>00:19:26</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm9fswBrth069voXaxL3bL7OckAg.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>瑞银转向看好境内A股自主科技赛道，外卖分期被打包成百亿债券会否酝酿新次贷危机？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b081c41d234c4df10083381</link>
+    <guid isPermaLink="false">6b081c41d234c4df10083381</guid>
+    <pubDate>Thu, 26 Nov 2026 11:53:39 +0000</pubDate>
+    <description><![CDATA[<p><span>🎙 隔夜市场 2026-11-26 | Episode 327 </span></p><p><span>本期关键词：先买后付、资产证券化、多头叠贷、CFPB、影子银行、瑞银、A股、黄仁勋、华为商业机密案、沃尔玛智能体、Waymo召回、汽车制造业应收账款</span></p><p><strong><span>本期你将听到：</span></strong></p><ul><li><p><span>机构配置转向与科技博弈：瑞银下调MSCI中国评级至中性但看好境内A股自主科技赛道；黄仁勋表态不设立单一接班人，美方推进芯片法案并将质询英伟达高管；纽约联邦法院陪审团裁定华为涉商业机密等指控成立。</span></p></li><li><p><span>商业落地与供应链压力：沃尔玛接入Meta智能体系统推进AI代客购物；Waymo与亚马逊无人机接连遭遇技术避障与安全监管调查；乘联分会披露汽车制造业应收账款逼近三万亿，产业链现金流承压。</span></p></li><li><p><span>深度一刻：从几美元的外卖分期到华尔街数十亿美元的资产证券化，先买后付（BNPL）如何借助零息营销诱发多头叠贷？在监管法规废止、FICO新型评分未对普通银行公开的背景下，脱离征信约束的日常微型负债是否正在撕开监管真空，借由影子银行体系埋下系统性违约的引信？</span></p></li></ul><p><strong><span>你怎么看？</span></strong></p><ul><li><p><span>在平时的外卖或网购结账时，你会选择把几十元钱的日常开销分期支付吗？</span></p></li><li><p><span>面对把外卖账单打包成债券的金融操作，你更倾向于认为它是普惠创新，还是在透支底层信用？</span></p></li></ul><p><span>欢迎在评论区留言讨论！</span></p><p><strong><span>喜欢今天的内容？</span></strong><span>欢迎订阅和分享《隔夜市场》，第一时间获取科技商业深度解读。别忘了点赞、转发，把本期分享给对商业和科技感兴趣的朋友！</span></p><p><span>下期再见！</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/67bf0d44032ce2f603843140/lrvkVp_I_jSMIB6QJG6NsmeCIIi4.m4a" length="18481074" type="audio/mp4"/>
+    <itunes:duration>00:19:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fm9fswBrth069voXaxL3bL7OckAg.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>黄仁勋重返英伟达如何重燃算力信仰？十美元超市精华护肤品凭什么瓦解万亿大牌溢价？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0623cb01b0ab432ede0cb2</link>
