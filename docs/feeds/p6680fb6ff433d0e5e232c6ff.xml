@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/6680fb6ff433d0e5e232c6ff</link>
   <description><![CDATA[微信、视频号：RadioAnson]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 09:13:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:34:37 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6680fb6ff433d0e5e232c6ff.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>RadioAnson</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6680fb6ff433d0e5e232c6ff</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>Perfect Cover 完美翻唱 2604 你好吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b08602c640854f0e6080a39</link>
+    <guid isPermaLink="false">6b08602c640854f0e6080a39</guid>
+    <pubDate>Fri, 27 Nov 2026 02:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/Ft98I9qsFt-EnHb4267TjvjdmTh9.jpg"><p><span>1.张立基 - 你好吗？（1988）</span></p><p><span>2.Five Star - Please Don't Say Goodnight（1986）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6680fb6ff433d0e5e232c6ff/lmg9fZd1pmBU44DRbZ6e7ls0EBO7.m4a" length="9938625" type="audio/mp4"/>
+    <itunes:duration>00:10:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Ft98I9qsFt-EnHb4267TjvjdmTh9.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Perfect Cover 完美翻唱 2603 分手总要在雨天</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af7d8ba3caef3b52f557ea8</link>
