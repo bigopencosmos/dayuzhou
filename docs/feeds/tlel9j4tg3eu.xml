@@ -7,7 +7,7 @@
 
 这是一档有趣又有料的投资陪伴型播客，每期围绕着股市和股民生活随便聊聊。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:49:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:23:26 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/tlel9j4tg3eu.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>李永浩</itunes:author>
@@ -20,6 +20,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/62bd91adf288fd4eae3606ff</link>
   </image>
   <itunes:category text="Business"/>
+  <item>
+    <title>老黄归来，挽狂澜于既倒？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07abda640854f0e606eb92</link>
+    <guid isPermaLink="false">6b07abda640854f0e606eb92</guid>
+    <pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>伴随着片头曲 "Guess Who's Back" 的声音，我们都知道谁归来了，和上世纪 90 年代 Michael Jordan 的回归一样，震动全世界。</span></p><p><span>当下的 AI 叙事确实出现了一些质疑，它的回归是挽狂澜于既倒，还只是这个裂缝的开始？</span></p><p><span>Let's get it started.</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62bd91adf288fd4eae3606ff/liQmy-JBsA4_ybj0kluAHz5juPYb.m4a" length="53240877" type="audio/mp4"/>
+    <itunes:duration>00:54:48</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl3GnuAknSx1vb_EjxLbluSm3OAx.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>S5E17丨管好四个账户，方能穿越周期</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae984aa97726cd4675c0543</link>
