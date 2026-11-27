@@ -6,7 +6,7 @@
   <description><![CDATA[这是一档关于电子游戏相关内容的播客节目，身边的几位好朋友一起探讨电子游戏带来的感受，同时我们也分享我们玩过的游戏，分析游戏设计的精彩之处。
 节目合作以及商务绿泡泡：gametavern86]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:28:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:40:34 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/y3nt4rjnmyu6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>WallE_Nt9O</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/659510f21519ccb1038bfe4a</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>游戏周报261127期 | 围绕GTA6发售后的争议新闻</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b086c40d234c4df1008aa86</link>
+    <guid isPermaLink="false">6b086c40d234c4df1008aa86</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期主播：老白、煤老板</span><br><span>录制时间：2026年11月26日</span><br><span>片头片尾曲：Cafuné - Tek It</span></p><p><span>节目节点：</span><br><span><a class="timestamp" data-timestamp="0">00:00</a> 四大游戏平台新闻</span><br><span><a class="timestamp" data-timestamp="866">14:26</a> GTA6 新闻</span><br><span><a class="timestamp" data-timestamp="2984">49:44</a> 其他新闻</span><br><span><a class="timestamp" data-timestamp="3648">01:00:48</a> 硬件新闻</span></p><ul><li><p><span>CDPR：《巫师4》CDPR 与索尼就《巫师4》达成营销协议，但保证Xbox与PS5、PC同日首发</span></p></li><li><p><span>索尼称《GTA6》为“PlayStation 史上最大首发”，玩家超 3900 万</span></p></li><li><p><span>《侠盗猎车手6》在Metacritic遭差评轰炸，GTA粉丝转而轰炸《时之笛》</span></p></li><li><p><span>分析称《GTA6》在 PS5 上的掉帧多于 Xbox Series X</span></p></li><li><p><span>《侠盗猎车手6》黑客组织Cyberleek声称发布游戏开发版</span></p></li><li><p><span>育碧据报要求开发者为"不使用"生成式AI说明理由</span></p></li></ul><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/659510f21519ccb1038bfe4a/loeWWYSIvhrVispwJWTsbUzdVe4z.m4a" length="66799963" type="audio/mp4"/>
+    <itunes:duration>01:08:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsQJxs56QQNF_UTylBVn9WRV7qfI.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>游戏酒局Vol.43｜雷奥奈达州BRO，那些脏字不停的NPC们</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b04fc8544e24a385c028070</link>
