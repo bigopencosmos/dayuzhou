@@ -9,7 +9,7 @@
 
 🖼另外还有图文版，可在小红书搜索并关注【AI速递】]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:31:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:34:51 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7jtt3j3lbbra.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -22,6 +22,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/667d1ecfc13b46d76c3f64b8</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>2026.11.26 | 仿真评估统一接口；医学多模态渐进训练</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b081fdfd234c4df10083910</link>
+    <guid isPermaLink="false">6b081fdfd234c4df10083910</guid>
+    <pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>⏱️ Highlights</span><br><span><a class="timestamp" data-timestamp="26">00:26</a> 🧪 Real2SimLab: A Unified Platform for Real-to-Simulation Transfer（Real2SimLab：现实到仿真迁移的统一平台）</span><br><span><a class="timestamp" data-timestamp="63">01:03</a> 🩺 Sage-Med: Scaling Medical Multimodal Intelligence（Sage-Med：扩展医学多模态智能）</span><br><span><a class="timestamp" data-timestamp="98">01:38</a> 🎬 VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation（VibeVideoAgent：为代码驱动的视频生成闭合感知回路）</span><br><span><a class="timestamp" data-timestamp="132">02:12</a> 🔁 Mixture-of-Loops Transformer（混合循环 Transformer）</span><br><span><a class="timestamp" data-timestamp="170">02:50</a> 👐 PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents（PyRUA-Dex：借助编码代理学习灵巧双手操作的程序化策略）</span><br><span><a class="timestamp" data-timestamp="206">03:26</a> 🎞️ Improving and Expanding Video Editing Capabilities Without Videos（无需视频即可改进并扩展视频编辑能力）</span><br><span><a class="timestamp" data-timestamp="240">04:00</a> 🧩 DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers（DyLoMo-DiT：动态循环混合专家扩散 Transformer）</span><br><span><a class="timestamp" data-timestamp="277">04:37</a> 📖 DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding（DocSEAM：用于多页文档理解的双向跨页编码）</span><br><span><a class="timestamp" data-timestamp="311">05:11</a> 👁️ HOG-WAM: Improving Visual Robustness through Future Gradient Prediction（HOG-WAM：通过未来梯度预测提升视觉鲁棒性）</span><br><span><a class="timestamp" data-timestamp="346">05:46</a> 🎮 Playfulness as Feedback for Agentic Game Development（以可玩趣味性作为智能体游戏开发的反馈）</span><br><span><a class="timestamp" data-timestamp="383">06:23</a> 🤝 AIRIS: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos（AIRIS：在第一人称流式视频中评测社会具身智能）</span><br><span><a class="timestamp" data-timestamp="421">07:01</a> 🏠 FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images（FoundSurface：从无位姿图像前馈重建基于射线的三维场景表面）</span><br><span><a class="timestamp" data-timestamp="456">07:36</a> 👓 EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts（EgoUseBench：评测动态第一人称情境下的计算机操作智能体）</span><br><span><a class="timestamp" data-timestamp="493">08:13</a> 🧠 Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation（Agentic LongLive：用于长视频生成的异步智能体记忆）</span><br><span><a class="timestamp" data-timestamp="530">08:50</a> 🛠️ Target-Part Preference Optimization for Part-Aware 3D Generation（面向部件感知三维生成的目标部件偏好优化）</span></p><p></p><img src="https://image.xyzcdn.net/FrTLwumO0HjpzDAxNoihMjzKL94O.webp" alt="播客论文目录配图"><p><span>【关注我们】</span><br><span>您还可以在以下平台找到我们，获得播客内容以外更多信息</span><br><span>小红书: AI速递</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/667d1ecfc13b46d76c3f64b8/ltP9LyNsx8Nr0vUqHqm68G9yKCy-.m4a" length="9586612" type="audio/mp4"/>
+    <itunes:duration>00:09:54</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoqTpAyCk31T4qhoA-PuH8wDyDNx.png"/>
+    <itunes:episode>2026</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>2026.11.25 | 支付模型融合三路证据；注意力按词重连电路</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b071e1eafaf1d65b874cfbb</link>
