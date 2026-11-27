@@ -6,7 +6,7 @@
   <description><![CDATA[狗日子，是一档“音乐探索”和“生活分享”五五开的内容播客。在这个播客里，你能听到一些不错的音乐，反复琢磨过的观点，真诚的牢骚，和对每一个耳机那边的你，绝不掺假的关切。
 希望你也能跟我一起，把每一个“狗日子”，尽量过成一个“遛狗的好日子”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:39:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:41:32 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p665eb6aab0476a568e541454.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>阿毛的养父</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/665eb6aab0476a568e541454</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>vol.700：普通的早上，寻常的一天</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07969f640854f0e606c47c</link>
+    <guid isPermaLink="false">6b07969f640854f0e606c47c</guid>
+    <pubDate>Thu, 26 Nov 2026 23:30:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/ltFzDmrUMWH38-uNiJHpYyhBPZ3a.png"><p><span>如果非要说今天有什么不同。</span></p><p><span>那可能是——你常听的那个播客，录到第700期了。</span></p><p><strong><span>今日爱听：</span></strong></p><ul><li><p><span>王菲 - 等等</span></p></li><li><p><span>Zior Park - GHOST</span></p></li><li><p><span>高中正義 - 哀愁の宇宙人</span></p></li><li><p><span>Vangelis - One More Kiss, Dear</span></p></li></ul><p><strong><span>开场曲：</span></strong></p><ul><li><p><span>Luna Li - Bon Voyage</span></p></li></ul><p><strong><span>今日爱看：《You Can See Everything》</span></strong></p><p><span>在这个电影里，我能确定的真正真诚的人，或许只有Amanda和导演Lance，以及Nathan......其他人都让我有点困惑，疑乱。</span></p><img src="https://image.xyzcdn.net/FlXT1C_k8C1h62LC6u-f-aeggKIv.png"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/665eb6aab0476a568e541454/lp88pvltSkz4tcaOwVDUuI6LlsXI.m4a" length="18375845" type="audio/mp4"/>
+    <itunes:duration>00:18:56</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fj7Vo9Ohlj8CC6xgODm5ew-2RxaT.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>vol.699：他和他的车，以及他的时刻</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b06561501b0ab432ede422d</link>
