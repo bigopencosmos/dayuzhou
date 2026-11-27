@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/65e0bad54d84dc07dfac3aa4</link>
   <description><![CDATA[「露西娅」是 Lucia 的单口。三十分钟独白，无配乐无剪辑无文案，和你分享当周的生活、工作、学习、见闻和感想。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:59:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:36:33 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65e0bad54d84dc07dfac3aa4.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>millionlucia</itunes:author>
@@ -18,6 +18,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/65e0bad54d84dc07dfac3aa4</link>
   </image>
   <itunes:category text="Education"/>
+  <item>
+    <title>144</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0830add234c4df100854b9</link>
+    <guid isPermaLink="false">6b0830add234c4df100854b9</guid>
+    <pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/65e0bad54d84dc07dfac3aa4/lvGGLCRJmDtT9EM6Sz5UfVl_Yg7o.m4a" length="24978392" type="audio/mp4"/>
+    <itunes:duration>00:30:00</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FoXtjbew70WWU7JLl98ZETCtvbZo.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>143</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afe9808fe62f8f52c4d812a</link>
