@@ -7,7 +7,7 @@
 如果你也在这个路上探索，欢迎加入「游局」社群
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:22:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:42:35 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/pumaxmtgmagd.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>筱宁Lori</itunes:author>
@@ -20,6 +20,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/682b082a7a18085b07730038</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>Ep.64 对话Kimi和凉屋游戏：“许愿式开发”真的要来了吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07e768d234c4df1007def4</link>
+    <guid isPermaLink="false">6b07e768d234c4df1007def4</guid>
+    <pubDate>Thu, 26 Nov 2026 13:00:00 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客，邀请</span><strong><span>前谷歌工程师 Kimi 开发者关系负责人唐飞虎（小岛）</span></strong><span>，以及</span><strong><span>凉屋游戏 CEO&amp;联合创始人李泽阳</span></strong><span>，聊聊当 AI 让游戏开发越来越简单，游戏引擎、开发者的专业性，甚至玩家与游戏的关系，会发生什么变化？</span></p><p><strong><span>【405游局播客简介】</span></strong></p><p><span>《405游局》是一档长期关注互动娱乐与技术变迁的播客。我们讨论游戏，但不只讨论游戏本身；我们关注AI，但不止于模型参数。我们更关心的是——当技术发生跃迁，娱乐如何被重写？创作者如何改变？产业的结构会如何被重构？</span></p><p><span>我们希望长期记录互动娱乐的变化，与真正身处其中的人展开深入对话，持续输出更系统、更有密度的内容——试着留下对这个阶段真正有价值的观察与思考。</span></p><h3><strong><span>【本期简介】</span></strong></h3><p><span>11 月初，Kimi 发布了「游戏开发与创意工作解决方案」，AI 不仅能编写代码，还能直接操作 Unity、Unreal Engine、Blender 等专业工具，制作可玩的游戏原型，甚至修改已有的游戏工程。</span></p><p><span>从最初的“一句话生成贪吃蛇”，到如今通过 Vibe Coding 完成越来越复杂的游戏开发，短短一年，AI 正在逐渐进入游戏生产的各个环节。</span></p><p><span>但当制作游戏越来越容易，新的问题也出现了：AI 能降低开发门槛，却也让游戏供给迅速增加，玩家的注意力更加稀缺；当模型越来越聪明，我们还需要传统游戏引擎吗？如果有一天 AI 甚至能够理解玩家的品味，游戏开发者又该如何找到自己的价值？</span></p><p><span>本期 405游局，我们邀请到</span><strong><span>前谷歌工程师 Kimi 开发者关系负责人唐飞虎（小岛）</span></strong><span>，以及</span><strong><span>凉屋游戏 CEO&amp;联合创始人李泽阳</span></strong><span>，从模型厂商与游戏开发团队两个视角，聊聊 AI 游戏开发的真实进展、开发者正在面对的新挑战，以及未来游戏行业可能发生的变化。</span></p><p><strong><span>本期嘉宾</span></strong></p><p><strong><span>唐飞虎（小岛）｜前谷歌工程师 Kimi 开发者关系负责人</span></strong></p><p><strong><span>李泽阳｜凉屋游戏 CEO&amp;联合创始人</span></strong></p><h3><strong><span>【时间轴】</span></strong></h3><p><strong><span><a class="timestamp" data-timestamp="68">01:08</a></span></strong><strong><span> </span></strong><span>为什么是现在？Kimi 开始入场游戏开发</span></p><p><span><a class="timestamp" data-timestamp="321">05:21</a> 从 Vibe Coding 到“许愿式编程”</span></p><p><span><a class="timestamp" data-timestamp="951">15:51</a> 模型厂商能为游戏团队提供什么？</span></p><p><span><a class="timestamp" data-timestamp="1196">19:56</a> AI 让人人都能做游戏，游戏却更难卖了？</span></p><p><span><a class="timestamp" data-timestamp="1591">26:31</a> 模型迭代太快，开发者应该追新吗？</span></p><p><span><a class="timestamp" data-timestamp="2177">36:17</a> AI 能够判断一个游戏是否“好玩”吗？</span></p><p><span><a class="timestamp" data-timestamp="2474">41:14</a> AI 时代，我们还需要传统游戏引擎吗？</span></p><p><span><a class="timestamp" data-timestamp="2958">49:18</a> 团队和立项会如何变化？</span></p><p><span><a class="timestamp" data-timestamp="3537">58:57</a> 当 AI 能完成越来越多工作，人的价值在哪里？</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/682b082a7a18085b07730038/lg7Gyb9ANIV_YGRQqTu4x95_-uhU.m4a" length="75537146" type="audio/mp4"/>
+    <itunes:duration>01:17:46</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fl8HuPBonHFbMDlzmiPGQ5eh_jvD.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Ep.63 聊聊那些折磨、却让人欲罢不能的老派游戏设计</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6afe7b42fe62f8f52c4d7333</link>
