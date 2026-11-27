@@ -9,7 +9,7 @@
 
 在这场“听觉复兴”的浪潮中，澎湃新闻国际新闻中心焕新推出播客节目“907编辑部”，不止于编辑部的故事，我们希望通过声音传递出国际热点新闻事件背后，更多有趣的观察与鲜活的故事，共同探索这个真实而多元的世界。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:15:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:20:27 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7jq6enatu8qg.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>zww_uhBX</itunes:author>
@@ -22,6 +22,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/63ff4e9d99964f909c20a92b</link>
   </image>
   <itunes:category text="News"/>
+  <item>
+    <title>微解读｜美国批准SpaceX发射100万颗卫星，太空数据中心进展到哪一步了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b080c69d234c4df10081f58</link>
+    <guid isPermaLink="false">6b080c69d234c4df10081f58</guid>
+    <pubDate>Thu, 26 Nov 2026 10:47:04 +0000</pubDate>
+    <description><![CDATA[<p><span>当地时间2026年11月25日，美国联邦通信委员会（FCC）公布第DA 26-1273号命令，正式批准太空探索科技公司（SpaceX）发射并运营最多100万颗卫星，用于建设名为“Starmind”的太空数据中心星座。</span></p><p><span>这是美国历史上首次向太空数据中心星座发放发射与运营许可，部署期限至2040年11月25日。此前，马斯克于今年8月承诺在2027年第四季度首次发射太空数据中心、2028年扩大部署规模，并与英伟达达成协议，采用专为太空环境优化的新一代Vera Rubin处理器。</span></p><p><span>目前全球在轨卫星总数不到2万颗，美国监管部门为何一次性批出100万颗的上限？本期播客从FCC批文条款、公司财务、美国地面算力瓶颈、工程与环保争议，以及全球太空算力竞争与国际规则五个层面，梳理这一事件的全貌。</span></p><p><strong><span>-主播-</span></strong></p><p><span>张无为</span></p><p><strong><span>-时间轴-</span></strong></p><p><span><a class="timestamp" data-timestamp="85">01:25</a> 一纸批文的细节：FCC到底批了什么，又限制了什么</span></p><p><span><a class="timestamp" data-timestamp="325">05:25</a> 卫星怎么造？</span></p><p><span><a class="timestamp" data-timestamp="715">11:55</a> 为什么非要去太空？</span></p><p><span><a class="timestamp" data-timestamp="925">15:25</a> 物理难题、发射数字和四面八方的反对声</span></p><p><span><a class="timestamp" data-timestamp="1105">18:25</a> 不止是马斯克</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63ff4e9d99964f909c20a92b/lmYrnfw-VmxoNil_89k_laZDgymh.m4a" length="24121766" type="audio/mp4"/>
+    <itunes:duration>00:24:50</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FmgTTGmBaCK7hfHatNLJ5UUcYnFP.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Vol.129 还是有人在关心世界的死活</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b06ccc6d234c4df10069838</link>
