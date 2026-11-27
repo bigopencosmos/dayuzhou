@@ -21,7 +21,7 @@ Rex widens your English.
 一起吱吱歪歪~
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:07:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:27:53 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/crhphbm8qde6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Rex_Chen</itunes:author>
@@ -34,6 +34,17 @@ Rex widens your English.
     <link>https://www.xiaoyuzhoufm.com/podcast/63c438c3ddbac1001141464f</link>
   </image>
   <itunes:category text="News"/>
+  <item>
+    <title>【415】AI能给蛇毒“解毒”吗？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0837a8640854f0e607cc0d</link>
+    <guid isPermaLink="false">6b0837a8640854f0e607cc0d</guid>
+    <pubDate>Thu, 26 Nov 2026 22:30:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FknG_FrraDdhTHA52n8qJhay-nfh.JPEG"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63c438c3ddbac1001141464f/FiQZsHdEJIvex-WjBimjZn8zZr4Q.m4a" length="1416808" type="audio/mp4"/>
+    <itunes:duration>00:01:27</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FroPT0QdCnRhhhZCkkV6wG8g0wrF.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>【414】AI开始“造药”了</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b061fb944e24a385c035de6</link>
