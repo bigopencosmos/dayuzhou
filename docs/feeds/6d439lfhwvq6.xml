@@ -13,7 +13,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 09:10:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:21:43 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/6d439lfhwvq6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>辛辰</itunes:author>
@@ -26,6 +26,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/62dbca7371696e4ed716d814</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>故事的影响｜限时感受</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b07ca5e640854f0e6071503</link>
+    <guid isPermaLink="false">6b07ca5e640854f0e6071503</guid>
+    <pubDate>Thu, 26 Nov 2026 06:15:25 +0000</pubDate>
+    <description><![CDATA[<p><span>编者按：</span></p><p><span>到了35岁之后，感觉很多事情都提不起兴趣了，但碰到令我意想不到的故事，还是特别让人兴奋，故事的魅力很大，有时候看书，看到一个故事特别好，我甚至能兴奋的跳起来，在屋子里来回踱步，有时候看了一个特别好的故事，就迫不及待的想要找人分享，那种感觉是青春年少的时期才会有的，一直能持续到现在可见故事的魅力</span></p><p><span>故事还是一种信仰，运动、医学、教育，各种行业里都存在着某些“奇迹”，人们把这些“奇迹”写成故事，再由大众去阅读，去欣赏，或欢欣鼓舞，或忧郁悲伤，故事真迷人，阅读真迷人，漫画真迷人啊</span></p><p><span>没有时间轴，我讨厌时间轴，相信你也一样吧，生活已经足够紧张了，听我的节目，就放松点吧，没有必须要吸收的知识，有的只是辛辰的限时感受</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62dbca7371696e4ed716d814/lmRik_l-vB6bsp4yPQWe_GZfgP42.m4a" length="21858793" type="audio/mp4"/>
+    <itunes:duration>00:22:30</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/lmtQFgS6RtSyUNuRQv1LB4qUZRl8.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>失业阵线联盟吸取精神食粮｜看点什么</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae2b459c96c8942ec13fca7</link>
