@@ -9,7 +9,7 @@
 
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:25:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:05:34 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p6860f13d09b4c8a7b539a3f8.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>一双看透真相的双眼</itunes:author>
@@ -22,6 +22,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6860f13d09b4c8a7b539a3f8</link>
   </image>
   <itunes:category text="Society &amp; Culture"/>
+  <item>
+    <title>关于今天的一点加更</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0943ce8006ecbdc5f9e293</link>
+    <guid isPermaLink="false">6b0943ce8006ecbdc5f9e293</guid>
+    <pubDate>Fri, 27 Nov 2026 08:51:10 +0000</pubDate>
+    <description><![CDATA[<p><span>今天是个好日子</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6860f13d09b4c8a7b539a3f8/lrc1ahM6hZEmKegTVvkMoPVjhmfv.m4a" length="8727572" type="audio/mp4"/>
+    <itunes:duration>00:08:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fjxw_vIpTp435ECqFZiZ3skfhnjW.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>眼哥股市会 26.11.27</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b08e1967ded7f35713585cb</link>
