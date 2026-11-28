@@ -12,7 +12,7 @@ telegram: https://t.me/ChannelPANews
 discord: https://discord.gg/P7GkqkwW
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:16:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 03:54:58 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p633519d54eda304b8a9e1f0c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>PANews</itunes:author>
@@ -25,6 +25,28 @@ discord: https://discord.gg/P7GkqkwW
     <link>https://www.xiaoyuzhoufm.com/podcast/633519d54eda304b8a9e1f0c</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>PANews 11月27日加密日报</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0957c98006ecbdc5fa0402</link>
+    <guid isPermaLink="false">6b0957c98006ecbdc5fa0402</guid>
+    <pubDate>Fri, 27 Nov 2026 10:14:48 +0000</pubDate>
+    <description><![CDATA[<p><span>今日关注：</span></p><p><span>创业板指、科创50、北证50均涨逾11%，此前国常会指出加力发挥“国家队”稳市作用</span></p><p><span>DWF创始人：加密做市商利润空间收窄，中等规模公司或面临淘汰</span></p><p><span>以太坊开发者确认Glamsterdam升级将于12月16日凌晨在Hoodi测试网激活</span></p><p><span>知情人士：加密交易与做市商公司Auros正逐步停止运营</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lhtJbKWojPInsdkYvRGH6zCOgIYh.m4a" length="5418105" type="audio/mp4"/>
+    <itunes:duration>00:05:35</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fg9Tjc7mUGgLcomXfWbwdND21sDc.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>对话 Robinhood CEO：AI 时代，普通人如何抢回被掠夺的财富红利？</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0902b38006ecbdc5f97ac6</link>
+    <guid isPermaLink="false">6b0902b38006ecbdc5f97ac6</guid>
+    <pubDate>Fri, 27 Nov 2026 04:12:35 +0000</pubDate>
+    <description><![CDATA[<p><span>本期播客，我们克隆了Robinhood 联合创始人兼 CEO Vlad Tenev 在《Silicon Valley Girl》的深度专访。</span></p><p><span>当整个科技界沉浸在大语言模型（LLM）狂飙突进的叙事中时，普通投资者却正面临着一场前所未有的资产分化危机。在过去的牛市周期中，散户尚能在二级市场陪伴亚马逊或微软从数十亿美元成长至万亿美元；而在当下的 AI 巨浪中，绝大多数独角兽早在私有化阶段便将千百倍的超额估值瓜分殆尽，推迟上市甚至掠夺了公众分享技术红利的可能。Vlad在专访中，全景拆解了个人在 AI 时代的财富破局路径。从 Robinhood 如何通过技术架构为 AI Agent 提供合规的代客自动化交易管道，到为什么「帮我赚钱」是最危险的开放式指令；从企业管理者如何将员工重塑为管理数十个 24 小时运转的「Agent 经理人」，到为何仅凭统计学代码生成无法通向 AGI、唯有结合形式化数学证明（Formal Verification）才能夯实可靠地基。Vlad 以硬核理工底色与顶尖金融科技掌舵者的双重视角，提供了一份极具实操深度的财富与认知框架。</span></p><h4><strong><span>播客时间线</span></strong></h4><ol><li><p><span><a class="timestamp" data-timestamp="0">0:00</a>开场：AI时代普通投资者的财富分化困局</span></p></li><li><p><span><a class="timestamp" data-timestamp="33">0:33</a>AI独角兽未上市导致散户财富脱节</span></p></li><li><p><span><a class="timestamp" data-timestamp="203">3:23</a>新手应从单只股票入手建立认知沉浸感</span></p></li><li><p><span><a class="timestamp" data-timestamp="326">5:26</a>AI接入主账户存在严重安全风险</span></p></li><li><p><span><a class="timestamp" data-timestamp="459">7:39</a>灾难性Prompt与合格金融指令对比</span></p></li><li><p><span><a class="timestamp" data-timestamp="581">9:41</a>软件未死：护城河转向数据与业务理解</span></p></li><li><p><span><a class="timestamp" data-timestamp="706">11:46</a>Harmonic：用形式化验证筑牢AI逻辑地基</span></p></li><li><p><span><a class="timestamp" data-timestamp="841">14:01</a>Robinhood的AI协作范式：工程师变Agent经理</span></p></li><li><p><span><a class="timestamp" data-timestamp="966">16:06</a>创始人需定期开除过去的自己</span></p></li></ol><p><span>完整文字版：</span><a href="https://www.panewslab.com/zh/articles/01a21830-b44a-7163-9439-5e1e859fcc8e" data-url="https://www.panewslab.com/zh/articles/01a21830-b44a-7163-9439-5e1e859fcc8e"><span>www.panewslab.com</span></a></p><p><span>整理 &amp; 编译：深潮 TechFlow</span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/633519d54eda304b8a9e1f0c/lrdWpLP0_jfbvVtawjJZiXlY4aSw.m4a" length="17935053" type="audio/mp4"/>
+    <itunes:duration>00:18:28</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FpMf18bBvFzzDrYQZtMxM83Fw33s.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>PANews 11月26日加密日报</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b081c1e640854f0e6079dd8</link>
