@@ -6,7 +6,7 @@
   <description><![CDATA[一个懂点传播的地产人。
 咨询服务：Fuckhouses]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:18:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:17:55 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p65f7868259b49cf82846c660.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>达菲说楼市</itunes:author>
@@ -19,6 +19,26 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/65f7868259b49cf82846c660</link>
   </image>
   <itunes:category text="Business"/>
+  <item>
+    <title>收房344亿、收地8685亿：不是地方懒，是这本账算不平</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b095ae67ca7884a50f3a014</link>
+    <guid isPermaLink="false">6b095ae67ca7884a50f3a014</guid>
+    <pubDate>Fri, 27 Nov 2026 10:37:41 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/65f7868259b49cf82846c660/lprkA8_WLBvzA5Y2yUI6rCLj0Yxs.m4a" length="14971068" type="audio/mp4"/>
+    <itunes:duration>00:15:25</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp0fv-xhND-ILXCXxpnSId2HSzs4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>楼市需求还有十年？那4亿平米去哪了</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b092f478006ecbdc5f9be83</link>
+    <guid isPermaLink="false">6b092f478006ecbdc5f9be83</guid>
+    <pubDate>Fri, 27 Nov 2026 07:26:12 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/65f7868259b49cf82846c660/ljix5oEW2okAl0HCtjbD-CM4pZXN.m4a" length="15744957" type="audio/mp4"/>
+    <itunes:duration>00:16:13</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fp0fv-xhND-ILXCXxpnSId2HSzs4.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>土地财政退潮：一天少收134亿，四万亿缺口谁来填？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b064afa44e24a385c038872</link>
