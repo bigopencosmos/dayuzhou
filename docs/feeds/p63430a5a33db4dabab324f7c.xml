@@ -15,7 +15,7 @@
 
 📮:fymtmusic@163.com]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:17:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:21:40 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p63430a5a33db4dabab324f7c.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>听完睡一觉</itunes:author>
@@ -28,6 +28,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/63430a5a33db4dabab324f7c</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>音乐晚班机261127</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b092c988006ecbdc5f9b99d</link>
+    <guid isPermaLink="false">6b092c988006ecbdc5f9b99d</guid>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FoZBXG1RmNxn1GWCrBwwp8LGizs-.jpg"><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/63430a5a33db4dabab324f7c/lqukt2aoZqnEms76qbJjFmycR2Ww.m4a" length="53851067" type="audio/mp4"/>
+    <itunes:duration>00:55:29</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fr8kc31eB_dw19z_XoAgUae9gBAi.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>林俊杰的创作歌曲</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0394ed77e5b18a3331359b</link>
