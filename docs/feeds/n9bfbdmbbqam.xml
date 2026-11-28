@@ -6,7 +6,7 @@
   <description><![CDATA[非专业人员不正规团体与你分享三流游戏生活。
 【进听友群+v Recallmikey】]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:12:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:26:05 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/n9bfbdmbbqam.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>陈宜文</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/62de92508c5971a066098311</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>Vol.088 《时之笛：重制版》丨祖师爷整完容下山发现江湖原地踏步</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0959b67ca7884a50f39e8c</link>
+    <guid isPermaLink="false">6b0959b67ca7884a50f39e8c</guid>
+    <pubDate>Fri, 27 Nov 2026 10:58:38 +0000</pubDate>
+    <description><![CDATA[<p><span>【进听友群+v Recallmikey】</span></p><p><span>主播｜Even  冷场王 麦壳</span></p><p><span>嘉宾｜Yak</span></p><p><span>始于游戏，归于生活。</span></p><p><span>欢迎收听《游戏开始｜GameStart》第八十八期节目。</span></p><p><span>《塞尔达传说：时之笛》一直以来都被称之为人类历史上最经典的游戏之一，它首创了锁定攻击、3D视角控制这些沿用至今的核心机制，确立了3D游戏的交互范式，直接影响后续无数游戏的设计思路。它也是最早拿下满分评价的游戏之一，常年稳居游戏榜单顶端，重新定义了“开放探索+地牢解谜+叙事”的游戏结构。</span></p><p><span>遗憾的是，由于《塞尔达传说：时之笛》的首发平台为1998年的N64，许多玩家至今也未能体验到这款旷世神作，其中就包括游戏开始的三位主播。</span></p><p><span>但值得庆幸的是，2026年11月5日，《塞尔达传说：时之笛》重制版登陆NS2平台，三位主播也是第一时间通关了游戏，并且再次请来了塞尔达专家Yak老师一起畅聊关于时之笛原版与新版之间的差异，我们不光讨论了画面、操作、细节改动带来的不同游玩感受。我们还一同重温海拉鲁的宿命故事，拆解剧情里容易被忽略的细节，也分享各自印象最深的BOSS战，当年卡关的记忆、如今游玩的感受一并谈起。</span></p><p><span>一边是属于N64时代原汁原味的复古质感，一边是优化之后更友好的现代体验。经典是否依旧动人？新旧版本各有什么样的魅力，欢迎和我们一起，再次吹响时光之笛，踏入这段跨越二十八年的冒险。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/62de92508c5971a066098311/ljDrUBdHViM_JvluL3W5uUa0Y3Zb.m4a" length="207837031" type="audio/mp4"/>
+    <itunes:duration>03:34:11</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fgsz78ncyuMncuAXKjAvOL-IW9wv.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Vol.087 《影之刃零》丨仗剑天涯泯恩仇，村里又出大学生</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af4050914d01a26f8a8332c</link>
