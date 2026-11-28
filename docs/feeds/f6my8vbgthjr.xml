@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/60cdf955afc14743da17f815</link>
   <description><![CDATA[走出泥潭，继续向前]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:05:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 03:55:22 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/f6my8vbgthjr.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>李好帅</itunes:author>
@@ -18,6 +18,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/60cdf955afc14743da17f815</link>
   </image>
   <itunes:category text="Fiction"/>
+  <item>
+    <title>人类理解AI的最后窗口：思维链的诞生、蒸馏、欺骗与退场</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0952078006ecbdc5f9fb41</link>
+    <guid isPermaLink="false">6b0952078006ecbdc5f9fb41</guid>
+    <pubDate>Fri, 27 Nov 2026 10:02:05 +0000</pubDate>
+    <description><![CDATA[<p><span><a class="timestamp" data-timestamp="0">00:00</a> 导言：稍纵即逝的窗口</span></p><p><span>（一）起源：三思而后行</span></p><p><span><a class="timestamp" data-timestamp="164">02:44</a> 1.1 思维链雏形：让我们一步一步想</span></p><p><span><a class="timestamp" data-timestamp="445">07:25</a> 1.2 OpenAI o1 &amp; 理解AI的窗口</span></p><p><span><a class="timestamp" data-timestamp="643">10:43</a> 1.3 DeepSeek R1 &amp; 过程监督vs结果监督</span></p><p><span><a class="timestamp" data-timestamp="1004">16:44</a> 1.4 提纯vs扩展</span></p><p><span>（二）蒸馏：他山之石</span></p><p><span><a class="timestamp" data-timestamp="1333">22:13</a> 2.1 思维链蒸馏：越级挑战</span></p><p><span><a class="timestamp" data-timestamp="1575">26:15</a> 2.2 攻防战升级：三十六计</span></p><p><span>（三）忠实度：知人知面不知心</span></p><p><span><a class="timestamp" data-timestamp="2111">35:11</a> 3.1 冰山一角</span></p><p><span><a class="timestamp" data-timestamp="2256">37:36</a> 3.2 解释与内部算法不一致</span></p><p><span><a class="timestamp" data-timestamp="2609">43:29</a> 3.3 隐藏、伪装、测试意识</span></p><p><span>（四）窗口关闭：得意忘言</span></p><p><span><a class="timestamp" data-timestamp="3205">53:25</a> 4.1 语言漂移</span></p><p><span><a class="timestamp" data-timestamp="3659">1:00:59</a> 4.2 循环深度</span></p><p><span><a class="timestamp" data-timestamp="4261">01:11:01</a> 尾声：智能规律会走多远</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/60cdf955afc14743da17f815/lmnBSIv15lEnJL8R_AH9ADx47MDD.m4a" length="70937297" type="audio/mp4"/>
+    <itunes:duration>01:13:02</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FrUa_PUi-RZCfX4gZ_5BIUkMumbm.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>5部科幻，AI替代工作后5种社会走向，哪种最有可能？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ab9f3abe742e36efcbc0ecd</link>
