@@ -14,7 +14,7 @@
 人重要回忆需要标签
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:36:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 03:59:51 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/7unj9tbmrnpm.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -27,6 +27,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/65e99dd12d96b6aa805e594e</link>
   </image>
   <itunes:category text="Comedy"/>
+  <item>
+    <title>Vo1.72慢慢来，总会好的</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b084b51640854f0e607f1fd</link>
+    <guid isPermaLink="false">6b084b51640854f0e607f1fd</guid>
+    <pubDate>Fri, 27 Nov 2026 12:30:00 +0000</pubDate>
+    <description><![CDATA[<p><span>主播：标签</span></p><p><span>本期的节目：讲述自己看的电影，“阿嫲的情书”与最近生活的所听所闻，</span></p><p><span>有些事，不说就不知道会不会好，说了就好了。感谢收听，节目的最后献丑了。</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/65e99dd12d96b6aa805e594e/lh2P4JyFYRjKZ0SvjkwXpzo9cGGb.m4a" length="36492324" type="audio/mp4"/>
+    <itunes:duration>00:37:34</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/Fo8iQPQJVAPp0KhB69-p34qS82yF.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Vo1.71暂停申请</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af5dc493caef3b52f54e18b</link>
