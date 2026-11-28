@@ -15,7 +15,7 @@
 
 如果你对我们的播客节目有什么意见，欢迎与我们留言互动，也欢迎关注我们的公众号“前哨科技特训营”。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:23:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:02:51 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p61e78326f4a4629b8ef1bfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -28,6 +28,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/61e78326f4a4629b8ef1bfd3</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>科技前哨｜24小时收到2000份简历，简历变成AI攻防战的前沿</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b09002b7ca7884a50f30e0e</link>
+    <guid isPermaLink="false">6b09002b7ca7884a50f30e0e</guid>
+    <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<h2><strong><span>前哨大会详情</span></strong></h2><img src="https://image.xyzcdn.net/loDbmxnhKzASopZnXl098PMX528E.png"><h2><strong><span>本期摘要</span></strong></h2><p><span>一个远程工程师岗位，二十四小时收到两千份申请。</span></p><p><span>招聘官没有加派人手，而是在职位描述里用白底白字写了一句话，专门给AI看。</span></p><p><span>当写一份申请的成本降到零，简历就不再是信号。这一期，我们把招聘市场的信噪比怎么崩的算清楚，也说说它对你意味着什么。</span></p><h2><strong><span>本期扫描</span></strong></h2><p><span>手机卖不动了，手机厂却赚得更多</span></p><p><span>佳能把二十四年前停产的光刻机重新造了出来</span></p><p><span>FCC 批准 SpaceX 部署最多一百万颗数据中心卫星</span></p><p><span>债市给 AI 记账，AI 扩张的约束正从芯片转向融资成本</span></p><p><span>Anthropic 上市之后，市场变化有新动态</span></p><p><span>长江存储的堆叠技术被三星、SK 海力士采用</span></p><p><span>纽约州禁止 AI 玩具，AI硬件的新动态</span></p><p><span>小鹏 IRON 定档2027年1月量产</span></p><h2><strong><span>资源与后续</span></strong></h2><p><span>公众号/视频号：创新地图</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/61e78326f4a4629b8ef1bfd3/lpm-WOGrNpIUfq89R2sL6HCanwfk.m4a" length="28128935" type="audio/mp4"/>
+    <itunes:duration>00:28:59</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FtaryrmYedirAG-Zrx6coiqgL8XF.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>科技前哨｜印度iPhone工厂宿舍管理公司破产，跨国供应链转移背后的真实情景</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b08056d640854f0e60780db</link>
