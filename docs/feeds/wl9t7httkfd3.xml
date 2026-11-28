@@ -6,7 +6,7 @@
   <description><![CDATA[来自 @爱可可-爱生活 的第一手AI快报，用最简单易懂的语言，带你直击最前沿的人工智能科研动态。无论你是科技小白，还是行业达人，这里都有你想知道的AI故事和未来趋势。跟着我们，轻松解锁人工智能的无限可能！
 #人工智能 #科技前沿]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:24:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:04:13 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/wl9t7httkfd3.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>fly51fly</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6683665e2063a3f1ac0cb50d</link>
   </image>
   <itunes:category text="Technology"/>
+  <item>
+    <title>[人人能懂AI前沿] 从等预算阶梯、U型循环架构到跨层注意力反馈</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b09ffcc8006ecbdc5fa8bba</link>
+    <guid isPermaLink="false">6b09ffcc8006ecbdc5fa8bba</guid>
+    <pubDate>Fri, 27 Nov 2026 22:21:43 +0000</pubDate>
+    <description><![CDATA[<p><span>今天我们要硬核拆解三篇反直觉的最新论文，看看AI是如何在协作与思考机制上打破常规的。首先，我们将给热衷于“开会”的多智能体团队算一笔“等预算”的冷水账，探究如何打破无效沟通的幻觉；接着，我们会去拆解让AI“边想边记”的U型循环架构，揭秘记忆与表达分离的高效法则；最后，我们将打通大模型内部森严的楼层壁垒，看看为什么对AI和人类来说，最好的老师往往只比你高两层楼。</span></p><p><span><a class="timestamp" data-timestamp="35">00:00:35</a> 开会为什么常常越开越蠢？给AI团队“算总账”后，我们看清了群体智慧的真相</span></p><p><span><a class="timestamp" data-timestamp="516">00:08:36</a> 反复琢磨却不拖慢脚步，AI是怎么学会“边想边记”的？</span></p><p><span><a class="timestamp" data-timestamp="828">00:13:48</a> 最好的老师，往往只比你高两层楼</span></p><p><span>本期介绍的几篇论文：</span></p><p><span>[AI] Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems</span></p><p><span>[Stanford University &amp; UC Berkeley]</span></p><p><a href="https://arxiv.org/abs/2611.32606" data-url="https://arxiv.org/abs/2611.32606"><span>arxiv.org</span></a><span> </span></p><p><span>---</span></p><p><span>[LG] Mixture-of-Loops Transformer</span></p><p><span>[ByteDance Seed &amp; Huazhong University of Science &amp; Technology]</span></p><p><a href="https://arxiv.org/abs/2611.34923" data-url="https://arxiv.org/abs/2611.34923"><span>arxiv.org</span></a><span> </span></p><p><span>---</span></p><p><span>[LG] Attention Latent Feedback</span></p><p><span>[The University of Hong Kong &amp; Yale University]</span></p><p><a href="https://arxiv.org/abs/2611.31154" data-url="https://arxiv.org/abs/2611.31154"><span>arxiv.org</span></a><span> </span></p><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lhqyKtQZymGDvN8hlkrMxW6Y47IM.m4a" length="19515596" type="audio/mp4"/>
+    <itunes:duration>00:20:06</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>[人人能懂AI前沿] 从方差匹配、代码视觉推理到架构先验与理论压缩</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b08aec57ded7f3571355a3d</link>
