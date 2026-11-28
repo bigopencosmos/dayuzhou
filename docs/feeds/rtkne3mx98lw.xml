@@ -10,7 +10,7 @@
 · Apple Podcast：耳朵出口
 · bilibili：耳朵出口FM]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:59:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:11:43 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/rtkne3mx98lw.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>也关上耳朵</itunes:author>
@@ -23,6 +23,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/650c4eba020aaeac8407c788</link>
   </image>
   <itunes:category text="Music"/>
+  <item>
+    <title>96. Share耳机/ 10首最近在听</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0954ad8006ecbdc5f9ffb5</link>
+    <guid isPermaLink="false">6b0954ad8006ecbdc5f9ffb5</guid>
+    <pubDate>Fri, 27 Nov 2026 10:07:56 +0000</pubDate>
+    <description><![CDATA[<img src="https://image.xyzcdn.net/FrZkvD5QAh6k_t_lNFvWOZipDM3c.jpg"><img src="https://image.xyzcdn.net/FpOxxpgr9xVv4rlAbK_5LPe_hMcP.JPG"><ul><li><p><span>节目中所有音乐作品版权均为原版权方所有，本节目无任何商业用途，仅作歌单分享使用，如有侵权烦请联系删除。谢谢</span></p></li></ul><p></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/650c4eba020aaeac8407c788/lmGaGI6dMYqR1DBZOvV1I2Yjllk-.m4a" length="28383047" type="audio/mp4"/>
+    <itunes:duration>00:29:22</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FkV5z_cMnFVEAOr7Uo-4M1_xysw2.jpg"/>
+    <itunes:episode>96</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>95. 华语女歌/苹果不去想柠檬的问题</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ae9b5fcc96c8942ec16b6ab</link>

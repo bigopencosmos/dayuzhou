@@ -6,7 +6,7 @@
   <description><![CDATA[每晚九点半更新的菠萝碎碎念，
 ]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:31:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:11:44 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/cy4fmemxtp78.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>佚名</itunes:author>
@@ -19,6 +19,17 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/6725d984e54681eb09a174f9</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>等了两个月的DV机到手，记录最后的校园生活 📅 26.Nov.27</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0993ba7ca7884a50f3e672</link>
+    <guid isPermaLink="false">6b0993ba7ca7884a50f3e672</guid>
+    <pubDate>Fri, 27 Nov 2026 14:32:34 +0000</pubDate>
+    <description><![CDATA[<p><span>☀️，状态4星，忙碌的菠萝。</span></p><p><span><a class="timestamp" data-timestamp="43">00:43</a> 同时开三个窑，在教学楼里上蹿下跳地赶工</span></p><p><span><a class="timestamp" data-timestamp="192">03:12</a> 终于烧出了两件没裂的玻璃作品</span></p><p><span><a class="timestamp" data-timestamp="271">04:31</a> 等了两个月的色粉笔和DV机终于到了</span></p><p><span><a class="timestamp" data-timestamp="464">07:44</a> 不想为了凑单，再买一些完全可以不买的东西</span></p><p><span><a class="timestamp" data-timestamp="580">09:40</a> 趁还没结课，用新DV多记录一下学校和朋友们</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/6725d984e54681eb09a174f9/lkVBKWfgoGcUal24L0PeyLaVCYVa.m4a" length="11781774" type="audio/mp4"/>
+    <itunes:duration>00:12:08</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FsuOA8ZlQqzjB-FZXYVJFIE0iNK7.JPG"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>又斗志满满了，我一定要攻克玻璃铸造！📅 26.Nov.26</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6b0847d4d234c4df100880f9</link>
