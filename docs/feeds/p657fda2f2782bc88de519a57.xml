@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/657fda2f2782bc88de519a57</link>
   <description><![CDATA[这是一档轻松随性的聊天播客，我们拆解热点新闻、分享生活观察、洞察社会的参差、理解世界的荒诞。欢迎订阅收听。]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:29:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 03:58:14 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/p657fda2f2782bc88de519a57.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>OnePlus_FAk1</itunes:author>
@@ -18,6 +18,18 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/657fda2f2782bc88de519a57</link>
   </image>
   <itunes:category text="Education"/>
+  <item>
+    <title>32. 硅谷不养闲人</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6b0974797ca7884a50f3bc28</link>
+    <guid isPermaLink="false">6b0974797ca7884a50f3bc28</guid>
+    <pubDate>Fri, 27 Nov 2026 12:21:55 +0000</pubDate>
+    <description><![CDATA[<p><span>* The inventor: Out of Blood in Silicon Valley 《滴血成金：硅谷血检大骗局》 (2019)</span></p><p><span>* You can see everything 《一切如你所见》 (2026)</span></p><p><span>* Theranos &amp; Elizabeth Holmes (Liz)</span></p><p><span>* 创业成王败寇</span></p><p><span>* Sunny or Billy 谁才是控制狂？</span></p><p><span>* 时间管理大师Liz</span></p><p><span>（很显然，我们的时间没有管理好，本期戛然而止。如果收听和订阅量大，我们可以做续集详细展开说说。）</span></p>]]></description>
+    <enclosure url="https://media.xyzcdn.net/657fda2f2782bc88de519a57/lqk4PPF_pBg9bczTKaW9haVcBTvF.m4a" length="36902136" type="audio/mp4"/>
+    <itunes:duration>00:38:01</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FusqR3Xt76kkESdWbWpUFcfivw0L.jpg"/>
+    <itunes:episode>32</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>31.当日不落帝国开始日落，我们还需要学英语吗？</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6ac70769e742e36efcbf93ce</link>
