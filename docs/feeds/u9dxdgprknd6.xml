@@ -5,7 +5,7 @@
   <link>https://www.xiaoyuzhoufm.com/podcast/661f3879ea52e164b4408c61</link>
   <description><![CDATA[随便瞎说八道]]></description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:33:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:12:53 +0000</lastBuildDate>
   <generator>dayuzhou</generator>
   <atom:link href="https://bigopencosmos.github.io/dayuzhou/feeds/u9dxdgprknd6.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>爱无价爱无敌</itunes:author>
@@ -18,6 +18,16 @@
     <link>https://www.xiaoyuzhoufm.com/podcast/661f3879ea52e164b4408c61</link>
   </image>
   <itunes:category text="Leisure"/>
+  <item>
+    <title>28 百家姓 纪</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6af7a44f3caef3b52f556eb7</link>
+    <guid isPermaLink="false">6af7a44f3caef3b52f556eb7</guid>
+    <pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://media.xyzcdn.net/661f3879ea52e164b4408c61/FqOsB3Ubib4Noe9GhFv-m_6vNuvl.m4a" length="3719535" type="audio/mp4"/>
+    <itunes:duration>00:03:53</itunes:duration>
+    <itunes:image href="https://image.xyzcdn.net/FhrND3fmMEJHOLmA5jg1i6vlRqWg.png"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>27 百家姓 宋</title>
     <link>https://www.xiaoyuzhoufm.com/episode/6af7a43a3caef3b52f556eb4</link>
